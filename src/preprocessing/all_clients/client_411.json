@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "In\u00e8s",
+        "middle_name": "\u00c9milie",
+        "last_name": "Lema\u00eetre",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2001-06-15",
+        "passport_number": "HX7459884",
+        "passport_mrz": [
+            "P<FRALEMA\u00ceTRE<<IN\u00c8S<\u00c9MILIE<<<<<<<<<<<<<<<<<<<",
+            "HX7459884FRA010615<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-06-01",
+        "passport_expiry_date": "2027-05-31"
+    },
+    "client_profile": {
+        "name": "In\u00e8s \u00c9milie Lema\u00eetre",
+        "address": {
+            "city": "Toulouse",
+            "street name": "Rue de la Sant\u00e9",
+            "street number": 96,
+            "postal code": "41532"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2001-06-15",
+        "nationality": "French",
+        "passport_number": "HX7459884",
+        "passport_issue_date": "2017-06-01",
+        "passport_expiry_date": "2027-05-31",
+        "gender": "F",
+        "phone_number": "03 97 02 21 17",
+        "email_address": "ines.lemaitre@wanadoo.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Chaptal",
+            "graduation_year": 2021
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Nationale d'Administration (ENA)",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1050000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "In\u00e8s \u00c9milie Lema\u00eetre",
+        "first_name": "In\u00e8s",
+        "middle_name": "\u00c9milie",
+        "last_name": "Lema\u00eetre",
+        "passport_number": "HX7459884",
+        "currency": "EUR",
+        "address": {
+            "city": "Toulouse",
+            "street name": "Rue de la Sant\u00e9",
+            "street number": 96,
+            "postal code": "41532"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "03 97 02 21 17",
+        "email_address": "ines.lemaitre@wanadoo.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met In\u00e8s \u00c9milie Lema\u00eetre at a luxury car show in Paris. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nIn\u00e8s \u00c9milie Lema\u00eetre is a 23 year old and comes from France.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "In\u00e8s \u00c9milie Lema\u00eetre is currently single. She does not have any children.",
+        "Education Background": "In\u00e8s earned her secondary school diploma from Lyc\u00e9e Chaptal in 2021.\nAfter that, she went on to study at \u00c9cole Nationale d'Administration (ENA) until 2024.\n",
+        "Occupation History": "In\u00e8s \u00c9milie Lema\u00eetre is a 23 year old and comes from France.\nIn\u00e8s \u00c9milie Lema\u00eetre did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 1050000 EUR from her late grandmother, a renowned Hedge Fund Manager, in 2017.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

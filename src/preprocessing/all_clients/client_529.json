@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Jansen",
+        "middle_name": "Stevens",
+        "last_name": "Meijer",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1980-02-02",
+        "passport_number": "XH6237583",
+        "passport_mrz": [
+            "P<NLDMEIJER<<JANSEN<STEVENS<<<<<<<<<<<<<<<<<<",
+            "XH6237583NLD800202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-07-26",
+        "passport_expiry_date": "2026-07-25"
+    },
+    "client_profile": {
+        "name": "Jansen Stevens Meijer",
+        "address": {
+            "city": "Arnhem",
+            "street name": "Zuidas",
+            "street number": 23,
+            "postal code": "7774 85"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1980-02-02",
+        "nationality": "Dutch",
+        "passport_number": "XH6237583",
+        "passport_issue_date": "2016-07-26",
+        "passport_expiry_date": "2026-07-25",
+        "gender": "M",
+        "phone_number": "+31 06 62595611",
+        "email_address": "jansen.meijer@home.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Scholengroep Carmel Maastricht",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "Amsterdam University College",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2007,
+                "company": "Victor & Rolf B.V.",
+                "position": "Assistant Designer",
+                "salary": 42000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2014,
+                "company": "G-Star Raw C.V.",
+                "position": "Senior Designer",
+                "salary": 84000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "Victor & Rolf B.V.",
+                "position": "Creative Director",
+                "salary": 160000
+            }
+        ],
+        "aum": {
+            "savings": 230000,
+            "inheritance": 4430000,
+            "real_estate_value": 1210000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2012,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1210000,
+                "property location": "Arnhem"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Jansen Stevens Meijer",
+        "first_name": "Jansen",
+        "middle_name": "Stevens",
+        "last_name": "Meijer",
+        "passport_number": "XH6237583",
+        "currency": "EUR",
+        "address": {
+            "city": "Arnhem",
+            "street name": "Zuidas",
+            "street number": 23,
+            "postal code": "7774 85"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 62595611",
+        "email_address": "jansen.meijer@home.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Jansen Stevens Meijer's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nJansen Stevens Meijer is a seasoned professional with over 21 years of experience.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Jansen Stevens Meijer has been happily married to Astrid since 2013. Jansen and Astrid have 2 children, named Janssen and Brinkman.",
+        "Education Background": "In 1997, Jansen finished his secondary school education at Scholengroep Carmel Maastricht.\nJansen received his degree from Amsterdam University College in 2003.\n",
+        "Occupation History": "Having worked for over 21 years, Jansen Stevens Meijer brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJansen Stevens Meijer launched his career as a Assistant Designer at Victor & Rolf B.V., where he gained valuable experience from 2004 to 2007.\nHe then transitioned to G-Star Raw C.V. as a Senior Designer, leveraging his expertise to drive results from 2009 to 2014.\nIn 2016, he joined Victor & Rolf B.V. as a Creative Director, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "Throughout his career, he saved 230000 EUR, investing in various assets to grow his wealth.\nHe owns condo in Arnhem, where he resides. It is worth 1210000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 4430000 EUR from his late father, a renowned Hedge Fund Manager, in 2012.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "passport": {
+        "first_name": "Laura",
+        "middle_name": "Idun",
+        "last_name": "N\u00f8rregaard",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1963-09-03",
+        "passport_number": "UB2276859",
+        "passport_mrz": [
+            "P<DNKN\u00d8RREGAARD<<LAURA<IDUN<<<<<<<<<<<<<<<<<<",
+            "UB2276859DNK630903<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-03-24",
+        "passport_expiry_date": "2028-03-23"
+    },
+    "client_profile": {
+        "name": "Laura Idun N\u00f8rregaard",
+        "address": {
+            "city": "Roskilde",
+            "street name": "R\u00e5dhuspladsen",
+            "street number": 11,
+            "postal code": "6344"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1963-09-03",
+        "nationality": "Danish",
+        "passport_number": "UB2276859",
+        "passport_issue_date": "2018-03-24",
+        "passport_expiry_date": "2028-03-23",
+        "gender": "F",
+        "phone_number": "58 69 62 35",
+        "email_address": "laura.nrregaard@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kolding Gymnasium",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "University College Absalon",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1993,
+                "company": "Bestseller A/S",
+                "position": "Assistant Designer",
+                "salary": 369000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1999,
+                "company": "Ganni A/S",
+                "position": "Senior Designer",
+                "salary": 382000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2005,
+                "company": "Ganni A/S",
+                "position": "Creative Director",
+                "salary": 541000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2024,
+                "company": "Won Hundred A/S",
+                "position": "Founder/Designer",
+                "salary": 4189000
+            }
+        ],
+        "aum": {
+            "savings": 7940000,
+            "inheritance": 0,
+            "real_estate_value": 5000000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1890000,
+                "property location": "Roskilde"
+            },
+            {
+                "property type": "flat",
+                "property value": 1020000,
+                "property location": "Roskilde"
+            },
+            {
+                "property type": "villa",
+                "property value": 2090000,
+                "property location": "Greve"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Laura Idun N\u00f8rregaard",
+        "first_name": "Laura",
+        "middle_name": "Idun",
+        "last_name": "N\u00f8rregaard",
+        "passport_number": "UB2276859",
+        "currency": "DKK",
+        "address": {
+            "city": "Roskilde",
+            "street name": "R\u00e5dhuspladsen",
+            "street number": 11,
+            "postal code": "6344"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "58 69 62 35",
+        "email_address": "laura.nrregaard@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Laura Idun N\u00f8rregaard and the RM crossed paths at a mutual friend's dinner party in Copenhagen. They discovered they had many common acquaintances and decided to explore business opportunities together.\nLaura Idun N\u00f8rregaard is a 61 year old retired Founder/Designer from Denmark. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Laura Idun N\u00f8rregaard and Oddershede tied the knot in 1990. Their child is  named Jespersen.",
+        "Education Background": "Laura graduated from Kolding Gymnasium in 1981.\nLaura completed her university education at University College Absalon in 1986.\n",
+        "Occupation History": "Having worked for over 37 years, Laura Idun N\u00f8rregaard brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIn 1988, Laura Idun N\u00f8rregaard started working as a Assistant Designer at Bestseller A/S, marking the beginning of her successful career.\nHer subsequent role was as a Senior Designer at Ganni A/S, where she continued to grow professionally from 1995 to 1999.\nFrom 2001 to 2005, she served as a Creative Director at Ganni A/S, solidifying her position as a leader in the industry.\nShe appointment as a Founder/Designer at Won Hundred A/S in 2005 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "She managed to save approximately 7940000 DKK from her earnings at all companies.\nShe has house located in Roskilde, worth 1890000 DKK.\n\nIn addition to her primary residence, she owns flat in Roskilde worth 1020000 DKK.\n\nMoreover, she has invested in additional property in Greve, giving possiblity for generating additional income. The villa is valued at 2090000 DKK.\n\nShe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Laura as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

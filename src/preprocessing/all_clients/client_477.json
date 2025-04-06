@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Paananen",
+        "middle_name": "Rissanen",
+        "last_name": "Sepp\u00e4l\u00e4",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1958-05-29",
+        "passport_number": "WU7724971",
+        "passport_mrz": [
+            "P<FINSEPP\u00c4L\u00c4<<PAANANEN<RISSANEN<<<<<<<<<<<<<<",
+            "WU7724971FIN580529<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-11-14",
+        "passport_expiry_date": "2031-11-13"
+    },
+    "client_profile": {
+        "name": "Paananen Rissanen Sepp\u00e4l\u00e4",
+        "address": {
+            "city": "Fredericia",
+            "street name": "Nytorv",
+            "street number": 92,
+            "postal code": "5193"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1958-05-29",
+        "nationality": "Finnish",
+        "passport_number": "WU7724971",
+        "passport_issue_date": "2021-11-14",
+        "passport_expiry_date": "2031-11-13",
+        "gender": "M",
+        "phone_number": "+45 88 53 05 83",
+        "email_address": "paananen.seppala@yousee.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Sysm\u00e4n lukio",
+            "graduation_year": 1977
+        },
+        "higher_education": [
+            {
+                "university": "University of Helsinki",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1983,
+                "company": "JP/Politikens Hus A/S",
+                "position": "Journalist",
+                "salary": 36000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1986,
+                "company": "TV 2 Danmark A/S",
+                "position": "Editor",
+                "salary": 59000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 1989,
+                "company": "DR (Danish Broadcasting Corporation)",
+                "position": "Publisher",
+                "salary": 78000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1994,
+                "company": "TV 2 Danmark A/S",
+                "position": "TV/Radio Host",
+                "salary": 118000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2019,
+                "company": "DR (Danish Broadcasting Corporation)",
+                "position": "Media Conglomerate Owner",
+                "salary": 1509000
+            }
+        ],
+        "aum": {
+            "savings": 2730000,
+            "inheritance": 0,
+            "real_estate_value": 3216000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1436000,
+                "property location": "Fredericia"
+            },
+            {
+                "property type": "condo",
+                "property value": 950000,
+                "property location": "Joensuu"
+            },
+            {
+                "property type": "condo",
+                "property value": 830000,
+                "property location": "Turku"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Paananen Rissanen Sepp\u00e4l\u00e4",
+        "first_name": "Paananen",
+        "middle_name": "Rissanen",
+        "last_name": "Sepp\u00e4l\u00e4",
+        "passport_number": "WU7724971",
+        "currency": "DKK",
+        "address": {
+            "city": "Fredericia",
+            "street name": "Nytorv",
+            "street number": 92,
+            "postal code": "5193"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 88 53 05 83",
+        "email_address": "paananen.seppala@yousee.dk"
+    },
+    "client_description": {
+        "Summary Note": "Paananen Rissanen Sepp\u00e4l\u00e4 and the RM crossed paths at a mutual friend's dinner party in Copenhagen. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHaving worked for over 43 years, Paananen Rissanen Sepp\u00e4l\u00e4 brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Paananen Rissanen Sepp\u00e4l\u00e4 and Venla have been married since 1987. Paananen and Venla have 3 children, named Piirainen, Tolvanen and Katriina.",
+        "Education Background": "Paananen received his secondary school diploma from Sysm\u00e4n lukio in 1977.\nAfter that, he went on to study at University of Helsinki until 1983.\n",
+        "Occupation History": "Having worked for over 43 years, Paananen Rissanen Sepp\u00e4l\u00e4 brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nPaananen Rissanen Sepp\u00e4l\u00e4 launched his career as a Journalist at JP/Politikens Hus A/S, where he gained valuable experience from 1982 to 1983.\nIn 1984, he moved to TV 2 Danmark A/S to work as a Editor, applying his knowledge to achieve outstanding performance.\nFrom 1986 to 1989, he served as a Publisher at DR (Danish Broadcasting Corporation), solidifying his position as a leader in the industry.\nHis next role was as a TV/Radio Host at TV 2 Danmark A/S, where he applied his extensive experience to drive innovation from 1990 to 1994.\nPaananen Rissanen Sepp\u00e4l\u00e4 concluded his career as a Media Conglomerate Owner at DR (Danish Broadcasting Corporation), where he worked from 1996 until retirement.",
+        "Wealth Summary": "While working, he saved 2730000 DKK, which he used to build a diversified investment portfolio.\nHe owns condo in Fredericia, where he resides. It is worth 1436000 DKK.\n\nIn addition to his primary residence, he owns condo in Joensuu worth 950000 DKK.\n\nMoreover, he has invested in additional property in Turku, giving possiblity for generating additional income. The condo is valued at 830000 DKK.\n\nHe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

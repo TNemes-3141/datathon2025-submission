@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Lena",
+        "middle_name": "Lea",
+        "last_name": "Huber",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1962-12-29",
+        "passport_number": "HU7085254",
+        "passport_mrz": [
+            "P<AUTHUBER<<LENA<LEA<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "HU7085254AUT621229<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-05-27",
+        "passport_expiry_date": "2027-05-26"
+    },
+    "client_profile": {
+        "name": "Lena Lea Huber",
+        "address": {
+            "city": "Stockerau",
+            "street name": "Naschmarkt",
+            "street number": 60,
+            "postal code": "2480"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1962-12-29",
+        "nationality": "Austrian",
+        "passport_number": "HU7085254",
+        "passport_issue_date": "2017-05-27",
+        "passport_expiry_date": "2027-05-26",
+        "gender": "F",
+        "phone_number": "+43 989 598 3861",
+        "email_address": "lena.huber@magenta.at",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Stiftsgymnasium Melk",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "University of Klagenfurt",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1990,
+                "company": "Raiffeisen Ware Austria",
+                "position": "Junior Trader",
+                "salary": 32000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Gunvor Group",
+                "position": "Senior Trader",
+                "salary": 48000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1994,
+                "company": "OMV AG",
+                "position": "Trading Desk Manager",
+                "salary": 67000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2023,
+                "company": "Voestalpine AG",
+                "position": "Head of Commodities",
+                "salary": 964000
+            }
+        ],
+        "aum": {
+            "savings": 1670000,
+            "inheritance": 0,
+            "real_estate_value": 1950000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1040000,
+                "property location": "Stockerau"
+            },
+            {
+                "property type": "condo",
+                "property value": 910000,
+                "property location": "Tulln an der Donau"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lena Lea Huber",
+        "first_name": "Lena",
+        "middle_name": "Lea",
+        "last_name": "Huber",
+        "passport_number": "HU7085254",
+        "currency": "EUR",
+        "address": {
+            "city": "Stockerau",
+            "street name": "Naschmarkt",
+            "street number": 60,
+            "postal code": "2480"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 989 598 3861",
+        "email_address": "lena.huber@magenta.at"
+    },
+    "client_description": {
+        "Summary Note": "Lena Lea Huber and the RM were introduced at an art auction in Vienna. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nLena Lea Huber is a 62 year old and comes from Austria.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Lena Lea Huber is married to Brandstetter. They are proud parents of 3 children: Luisa, Steiner and Lang.",
+        "Education Background": "Lena completed her secondary education at Stiftsgymnasium Melk in 1981.\nLena earned her degree from University of Klagenfurt in 1985.\n",
+        "Occupation History": "Lena Lea Huber is a 62 year old and comes from Austria.\nLena Lea Huber began her professional journey as a Junior Trader at Raiffeisen Ware Austria in 1986, laying the foundation for future success.\nShe then transitioned to Gunvor Group as a Senior Trader, leveraging her expertise to drive results from 1990 to 1991.\nHer tenure as a Trading Desk Manager at OMV AG from 1991 to 1994 was marked by significant achievements and a deepening understanding of the field.\nIn 1995, she transitioned to Voestalpine AG to take on the position of Head of Commodities, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1670000 EUR.\nShe owns townhouse in Stockerau, where she resides. It is worth 1040000 EUR.\n\nShe purchased condo in Tulln an der Donau, where she spends her holidays. It is valued at 910000 EUR.\nShe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Lena as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

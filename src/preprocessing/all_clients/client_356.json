@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "\u00c9lise",
+        "middle_name": "",
+        "last_name": "Joris",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1997-10-27",
+        "passport_number": "AD9537314",
+        "passport_mrz": [
+            "P<BELJORIS<<\u00c9LISE<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "AD9537314BEL971027<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-04-18",
+        "passport_expiry_date": "2025-04-17"
+    },
+    "client_profile": {
+        "name": "\u00c9lise Joris",
+        "address": {
+            "city": "Poperinge",
+            "street name": "Rue des Chartreux",
+            "street number": 59,
+            "postal code": "3960"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1997-10-27",
+        "nationality": "Belgian",
+        "passport_number": "AD9537314",
+        "passport_issue_date": "2018-04-18",
+        "passport_expiry_date": "2025-04-17",
+        "gender": "F",
+        "phone_number": "+32 0449 165 279",
+        "email_address": "elise.joris@skynet.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "College Patroklia",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "Brussels School of International Studies",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "RTL Belgium SA",
+                "position": "Journalist",
+                "salary": 38000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 2950000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "\u00c9lise Joris",
+        "first_name": "\u00c9lise",
+        "middle_name": "",
+        "last_name": "Joris",
+        "passport_number": "AD9537314",
+        "currency": "EUR",
+        "address": {
+            "city": "Poperinge",
+            "street name": "Rue des Chartreux",
+            "street number": 59,
+            "postal code": "3960"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0449 165 279",
+        "email_address": "elise.joris@skynet.be"
+    },
+    "client_description": {
+        "Summary Note": "\u00c9lise Joris and the RM crossed paths at a tech conference in Brussels. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\n\u00c9lise Joris is a 27 year old and comes from Belgium.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "\u00c9lise Joris has been happily married to Simons since 2022. They do not have any children.",
+        "Education Background": "\u00c9lise completed her secondary education at College Patroklia in 2017.\n\u00c9lise finished her studies at Brussels School of International Studies in 2020.\n",
+        "Occupation History": "\u00c9lise Joris is a 27 year old and comes from Belgium.\nAt RTL Belgium SA, \u00c9lise Joris held the position of Journalist from 2022 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "She managed to save approximately 20000 EUR from her earnings at all companies.\nClient does not have any properties.She inherited a significant sum of 2950000 EUR from her grandmother, a respected Private Equity Manager, in 2015, which she has wisely invested.\n",
+        "Client Summary": "In summary, \u00c9lise has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

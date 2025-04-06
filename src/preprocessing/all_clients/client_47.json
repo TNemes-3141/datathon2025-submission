@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Florence",
+        "middle_name": "Louna",
+        "last_name": "Segers",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1975-12-02",
+        "passport_number": "IS5049303",
+        "passport_mrz": [
+            "P<BELSEGERS<<FLORENCE<LOUNA<<<<<<<<<<<<<<<<<<",
+            "IS5049303BEL751202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-10",
+        "passport_expiry_date": "2027-10-09"
+    },
+    "client_profile": {
+        "name": "Florence Louna Segers",
+        "address": {
+            "city": "Mol",
+            "street name": "Rue des Bouchers",
+            "street number": 19,
+            "postal code": "7122"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1957-12-02",
+        "nationality": "Belgian",
+        "passport_number": "IS5049303",
+        "passport_issue_date": "2020-10-10",
+        "passport_expiry_date": "2027-10-09",
+        "gender": "F",
+        "phone_number": "+32 0475 605 428",
+        "email_address": "florence.segers@skynet.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Moli\u00e8re",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "ICHEC Brussels Management School",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2004,
+                "company": "ING Private Banking Belgium",
+                "position": "Financial Advisor",
+                "salary": 40000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2009,
+                "company": "BNP Paribas Wealth Management Belgium",
+                "position": "Portfolio Manager",
+                "salary": 54000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Petercam SA",
+                "position": "Wealth Manager",
+                "salary": 277000
+            }
+        ],
+        "aum": {
+            "savings": 420000,
+            "inheritance": 2630000,
+            "real_estate_value": 1360000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1360000,
+                "property location": "Mol"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Florence Louna Segers",
+        "first_name": "Florence",
+        "middle_name": "Louna",
+        "last_name": "Segers",
+        "passport_number": "IS5049303",
+        "currency": "EUR",
+        "address": {
+            "city": "Mol",
+            "street name": "Rue des Bouchers",
+            "street number": 19,
+            "postal code": "7122"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0475 605 428",
+        "email_address": "florence.segers@skynet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Florence Louna Segers on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 26 years, Florence Louna Segers brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Florence Louna Segers is currently single. She does not have any children.",
+        "Education Background": "Florence received her secondary school diploma from Lyc\u00e9e Moli\u00e8re in 1995.\nFlorence finished her studies at ICHEC Brussels Management School in 1998.\n",
+        "Occupation History": "Florence Louna Segers is a 49 year old and comes from Belgium.\nFlorence Louna Segers's first role was as a Financial Advisor at ING Private Banking Belgium, where she worked diligently from 1999 to 2004 to establish a strong reputation.\nHer subsequent role was as a Portfolio Manager at BNP Paribas Wealth Management Belgium, where she continued to grow professionally from 2006 to 2009.\nHer tenure as a Wealth Manager at Petercam SA from 2011 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "Throughout her career, she saved 420000 EUR, investing in various assets to grow her wealth.\nShe owns house in Mol, where she resides. It is worth 1360000 EUR.\n\nShe inherited a significant sum of 2630000 EUR from her grandmother, a respected Stock Trader, in 2007, which she has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

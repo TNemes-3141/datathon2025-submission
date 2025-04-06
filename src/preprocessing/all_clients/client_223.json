@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Rizzo",
+        "middle_name": "",
+        "last_name": "Landi",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1985-04-23",
+        "passport_number": "JL2474960",
+        "passport_mrz": [
+            "P<ITALANDI<<RIZZO<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "JL2474960ITA850423<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-04-14",
+        "passport_expiry_date": "2032-04-13"
+    },
+    "client_profile": {
+        "name": "Rizzo Landi",
+        "address": {
+            "city": "Palermo",
+            "street name": "Corso Garibaldi",
+            "street number": 88,
+            "postal code": "67724"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1985-04-23",
+        "nationality": "Italian",
+        "passport_number": "JL2474960",
+        "passport_issue_date": "2022-04-14",
+        "passport_expiry_date": "2032-04-13",
+        "gender": "M",
+        "phone_number": "+39 358 8424630",
+        "email_address": "rizzo.landi@fastweb.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Liceo Musicale Arrigo Boito Parma",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "European University of Rome",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2014,
+                "company": "Roche S.p.A.",
+                "position": "Research Scientist",
+                "salary": 29000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2018,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 43000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Novartis Farma S.p.A.",
+                "position": "CEO",
+                "salary": 122000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 1680000,
+            "real_estate_value": 620000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 620000,
+                "property location": "Palermo"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Rizzo Landi",
+        "first_name": "Rizzo",
+        "middle_name": "",
+        "last_name": "Landi",
+        "passport_number": "JL2474960",
+        "currency": "EUR",
+        "address": {
+            "city": "Palermo",
+            "street name": "Corso Garibaldi",
+            "street number": 88,
+            "postal code": "67724"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 358 8424630",
+        "email_address": "rizzo.landi@fastweb.it"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Rizzo Landi at a charity gala in Rome. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nRizzo Landi is a 39 year old and comes from Italy.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Rizzo Landi and Federica tied the knot in 2018. They are proud parents of 2 children: Ricci and Gaia.",
+        "Education Background": "Rizzo completed his secondary education at Liceo Musicale Arrigo Boito Parma in 2004.\nIn 2009, Rizzo graduated from European University of Rome with a degree.\n",
+        "Occupation History": "Rizzo Landi is a seasoned professional with over 16 years of experience.\nRizzo Landi began his professional journey as a Research Scientist at Roche S.p.A. in 2009, laying the foundation for future success.\nHis subsequent role was as a Biotech Startup Founder at Novartis Farma S.p.A., where he continued to grow professionally from 2014 to 2018.\nFrom 2020 till now, he served as a CEO at Novartis Farma S.p.A., solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "He managed to save approximately 140000 EUR from his earnings at all companies.\nHe has flat located in Palermo, worth 620000 EUR.\n\nHe inherited 1680000 EUR from his grandfather, a well-known Neurosurgeon, in 2018, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Ilaria",
+        "middle_name": "Giovanna",
+        "last_name": "Landi",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1984-10-09",
+        "passport_number": "AE2251450",
+        "passport_mrz": [
+            "P<ITALANDI<<ILARIA<GIOVANNA<<<<<<<<<<<<<<<<<<",
+            "AE2251450ITA841009<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-01-11",
+        "passport_expiry_date": "2028-01-10"
+    },
+    "client_profile": {
+        "name": "Ilaria Giovanna Landi",
+        "address": {
+            "city": "Reggio Calabria",
+            "street name": "Piazza della Repubblica",
+            "street number": 6,
+            "postal code": "26819"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1984-10-09",
+        "nationality": "Italian",
+        "passport_number": "AE2251450",
+        "passport_issue_date": "2018-01-11",
+        "passport_expiry_date": "2028-01-10",
+        "gender": "F",
+        "phone_number": "+39 315 5282746",
+        "email_address": "ilaria.landi@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Industriale Alessandro Volta Torino",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "Normal Superior School of Pisa",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2010,
+                "company": "Intesa Sanpaolo Private Banking",
+                "position": "Financial Advisor",
+                "salary": 24000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2013,
+                "company": "Allianz Bank Financial Advisors S.p.A.",
+                "position": "Portfolio Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Allianz Bank Financial Advisors S.p.A.",
+                "position": "Wealth Manager",
+                "salary": 112000
+            }
+        ],
+        "aum": {
+            "savings": 160000,
+            "inheritance": 1080000,
+            "real_estate_value": 2667000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1317000,
+                "property location": "Reggio Calabria"
+            },
+            {
+                "property type": "house",
+                "property value": 1350000,
+                "property location": "Udine"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ilaria Giovanna Landi",
+        "first_name": "Ilaria",
+        "middle_name": "Giovanna",
+        "last_name": "Landi",
+        "passport_number": "AE2251450",
+        "currency": "EUR",
+        "address": {
+            "city": "Reggio Calabria",
+            "street name": "Piazza della Repubblica",
+            "street number": 6,
+            "postal code": "26819"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 315 5282746",
+        "email_address": "ilaria.landi@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Ilaria Giovanna Landi and the RM met at a networking event in Rome. They quickly realized they had complementary skills and decided to collaborate on several projects.\nIlaria Giovanna Landi is a 40 year old and comes from Italy.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Ilaria Giovanna Landi has been happily married to Donati since 2011. They are proud parents of 2 children: Ferrari and Francesca.",
+        "Education Background": "Ilaria received her secondary school diploma from Istituto Tecnico Industriale Alessandro Volta Torino in 2002.\nIlaria completed her university studies at Normal Superior School of Pisa in 2009.\n",
+        "Occupation History": "Ilaria Giovanna Landi is a seasoned professional with over 17 years of experience.\nIlaria Giovanna Landi's first role was as a Financial Advisor at Intesa Sanpaolo Private Banking, where she worked diligently from 2008 to 2010 to establish a strong reputation.\nHer subsequent role was as a Portfolio Manager at Allianz Bank Financial Advisors S.p.A., where she continued to grow professionally from 2011 to 2013.\nFrom 2015 till now, she served as a Wealth Manager at Allianz Bank Financial Advisors S.p.A., solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 160000 EUR.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Reggio Calabria and Udine, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2015, she received an inheritance of 1080000 EUR from her late grandmother, who was a prominent Venture Capitalist, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

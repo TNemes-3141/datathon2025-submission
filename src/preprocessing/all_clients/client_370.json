@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Pierre",
+        "middle_name": "",
+        "last_name": "Robert",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2000-03-06",
+        "passport_number": "BF0971069",
+        "passport_mrz": [
+            "P<FRAROBERT<<PIERRE<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "BF0971069FRA000306<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-08-17",
+        "passport_expiry_date": "2026-08-16"
+    },
+    "client_profile": {
+        "name": "Pierre Robert",
+        "address": {
+            "city": "Reims",
+            "street name": "Boulevard Richard Lenoir",
+            "street number": 11,
+            "postal code": "79599"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2000-03-06",
+        "nationality": "French",
+        "passport_number": "BF0971069",
+        "passport_issue_date": "2016-08-17",
+        "passport_expiry_date": "2026-08-16",
+        "gender": "M",
+        "phone_number": "+33 07 96 43 93 56",
+        "email_address": "pierre.robert@free.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Victor Hugo",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "ESSEC Business School",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Louis Dreyfus Armateurs",
+                "position": "Ship Broker",
+                "salary": 29000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1000000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Pierre Robert",
+        "first_name": "Pierre",
+        "middle_name": "",
+        "last_name": "Robert",
+        "passport_number": "BF0971069",
+        "currency": "EUR",
+        "address": {
+            "city": "Reims",
+            "street name": "Boulevard Richard Lenoir",
+            "street number": 11,
+            "postal code": "79599"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 07 96 43 93 56",
+        "email_address": "pierre.robert@free.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Pierre Robert at a golf tournament in Paris. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nPierre Robert is a 25 year old Ship Broker from France.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Pierre Robert and Flore tied the knot in 2024. They do not have any children.",
+        "Education Background": "Pierre finished secondary school at Lyc\u00e9e Victor Hugo in 2019.\nHe then attended ESSEC Business School, which he graduated in 2023.\n",
+        "Occupation History": "Pierre Robert is a 25 year old and comes from France.\nAt Louis Dreyfus Armateurs, Pierre Robert held the position of Ship Broker from 2023 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "Throughout his career, he saved 10000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1000000 EUR from his late grandfather, a renowned Investment Banker, in 2017.\n",
+        "Client Summary": "The RM is very happy to have Pierre as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

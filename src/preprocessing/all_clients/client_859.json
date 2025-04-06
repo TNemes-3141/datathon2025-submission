@@ -1,0 +1,117 @@
+{
+    "passport": {
+        "first_name": "Brinkman",
+        "middle_name": "Van Dijk",
+        "last_name": "Willems",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1990-04-13",
+        "passport_number": "NL9728349",
+        "passport_mrz": [
+            "P<NLDWILLEMS<<BRINKMAN<VAN DIJK<<<<<<<<<<<<<<",
+            "NL9728349NLD900413<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-06-19",
+        "passport_expiry_date": "2027-06-18"
+    },
+    "client_profile": {
+        "name": "Brinkman Van Dijk Willems",
+        "address": {
+            "city": "Eindhoven",
+            "street name": "Overtoom",
+            "street number": 22,
+            "postal code": "5107 90"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1990-04-13",
+        "nationality": "Dutch",
+        "passport_number": "NL9728349",
+        "passport_issue_date": "2017-06-19",
+        "passport_expiry_date": "2027-06-18",
+        "gender": "M",
+        "phone_number": "06 81263250",
+        "email_address": "brinkman.willems@planet.nl",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Zwijsen College Veghel",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "Wittenborg University of Applied Sciences",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Fokker Technologies B.V.",
+                "position": "Aerospace Engineer",
+                "salary": 52000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 1310000,
+            "real_estate_value": 4404000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1651000,
+                "property location": "Eindhoven"
+            },
+            {
+                "property type": "house",
+                "property value": 1263000,
+                "property location": "Utrecht"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1490000,
+                "property location": "Nijmegen"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Brinkman Van Dijk Willems",
+        "first_name": "Brinkman",
+        "middle_name": "Van Dijk",
+        "last_name": "Willems",
+        "passport_number": "NL9728349",
+        "currency": "EUR",
+        "address": {
+            "city": "Eindhoven",
+            "street name": "Overtoom",
+            "street number": 22,
+            "postal code": "5107 90"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 81263250",
+        "email_address": "brinkman.willems@planet.nl"
+    },
+    "client_description": {
+        "Summary Note": "Brinkman Van Dijk Willems and the RM were introduced at an art auction in Amsterdam. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nBrinkman Van Dijk Willems is a 34 year old and comes from Netherlands.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Brinkman Van Dijk Willems is currently divorced. His child is named Carlijn.",
+        "Education Background": "Brinkman earned his secondary school diploma from Zwijsen College Veghel in 2010.\nBrinkman attended Wittenborg University of Applied Sciences and graduated in 2014.\n",
+        "Occupation History": "Brinkman Van Dijk Willems is a 34 year old and comes from Netherlands.\nBrinkman Van Dijk Willems's first role was as a Aerospace Engineer at Fokker Technologies B.V., where he worked diligently from 2015 till now to establish a strong reputation.\n",
+        "Wealth Summary": "While working, he saved 60000 EUR, which he used to build a diversified investment portfolio.\nHe has townhouse located in Eindhoven, worth 1651000 EUR.\n\nHe purchased house in Utrecht, where he spends his holidays. It is valued at 1263000 EUR.\nOn top of that he inherited a beautiful townhouse in Nijmegen, which could be used as a weekend getaway. It is valued at 1490000 EUR.\nIn 2020, he received an inheritance of 1310000 EUR from his late grandmother, who was a prominent Private Equity Manager, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Brinkman has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

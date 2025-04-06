@@ -1,0 +1,107 @@
+{
+    "passport": {
+        "first_name": "Schipper",
+        "middle_name": "Meijer",
+        "last_name": "Maassen",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1993-02-07",
+        "passport_number": "SG1492797",
+        "passport_mrz": [
+            "P<NLDMAASSEN<<SCHIPPER<MEIJER<<<<<<<<<<<<<<<<",
+            "SG1492797NLD930207<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-10-03",
+        "passport_expiry_date": "2027-10-02"
+    },
+    "client_profile": {
+        "name": "Schipper Meijer Maassen",
+        "address": {
+            "city": "Utrecht",
+            "street name": "Leidseplein",
+            "street number": 79,
+            "postal code": "6759 93"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1993-02-07",
+        "nationality": "Dutch",
+        "passport_number": "SG1492797",
+        "passport_issue_date": "2017-10-03",
+        "passport_expiry_date": "2027-10-02",
+        "gender": "M",
+        "phone_number": "+31 06 74769173",
+        "email_address": "schipper.maassen@tele2.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Maurick College Vught",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "Wittenborg University of Applied Sciences",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "PGGM Real Estate",
+                "position": "Property Manager",
+                "salary": 42000
+            }
+        ],
+        "aum": {
+            "savings": 50000,
+            "inheritance": 4680000,
+            "real_estate_value": 940000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 940000,
+                "property location": "Utrecht"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schipper Meijer Maassen",
+        "first_name": "Schipper",
+        "middle_name": "Meijer",
+        "last_name": "Maassen",
+        "passport_number": "SG1492797",
+        "currency": "EUR",
+        "address": {
+            "city": "Utrecht",
+            "street name": "Leidseplein",
+            "street number": 79,
+            "postal code": "6759 93"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 74769173",
+        "email_address": "schipper.maassen@tele2.nl"
+    },
+    "client_description": {
+        "Summary Note": "Schipper Meijer Maassen and the RM crossed paths at a mutual friend's dinner party in Amsterdam. They discovered they had many common acquaintances and decided to explore business opportunities together.\nSchipper Meijer Maassen is a 32 year old Property Manager from Netherlands.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Schipper Meijer Maassen and Tess have been married since 2018. They do not have any children.",
+        "Education Background": "He then attended Wittenborg University of Applied Sciences, which he graduated in 2015.\n",
+        "Occupation History": "Schipper Meijer Maassen is a 32 year old Property Manager from Netherlands.\nAt PGGM Real Estate, Schipper Meijer Maassen held the position of Property Manager from 2017 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 50000 EUR.\nHe has flat located in Utrecht, worth 940000 EUR.\n\n\nFollowing the passing of his grandmother, a successful Tech Entrepreneur, he received an inheritance of 4680000 EUR in 2016, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

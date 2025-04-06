@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Schultz",
+        "middle_name": "Herrmann",
+        "last_name": "Zimmermann",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1982-06-27",
+        "passport_number": "DR6018855",
+        "passport_mrz": [
+            "P<DEUZIMMERMANN<<SCHULTZ<HERRMANN<<<<<<<<<<<<",
+            "DR6018855DEU820627<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-07-22",
+        "passport_expiry_date": "2028-07-21"
+    },
+    "client_profile": {
+        "name": "Schultz Herrmann Zimmermann",
+        "address": {
+            "city": "Essen",
+            "street name": "Holstenwall",
+            "street number": 4,
+            "postal code": "01129"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1982-06-27",
+        "nationality": "German",
+        "passport_number": "DR6018855",
+        "passport_issue_date": "2018-07-22",
+        "passport_expiry_date": "2028-07-21",
+        "gender": "M",
+        "phone_number": "+49 2684 814976",
+        "email_address": "schultz.zimmermann@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Otto-Hahn-Gymnasium Karlsruhe",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "Freiburg University of Education",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2010,
+                "company": "Software AG",
+                "position": "Software Developer",
+                "salary": 45000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2013,
+                "company": "SAP SE",
+                "position": "Startup Founder",
+                "salary": 62000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2025,
+                "company": "Bosch Software Innovations GmbH",
+                "position": "CEO",
+                "salary": 158000
+            }
+        ],
+        "aum": {
+            "savings": 210000,
+            "inheritance": 7430000,
+            "real_estate_value": 5130000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2011,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2950000,
+                "property location": "Essen"
+            },
+            {
+                "property type": "villa",
+                "property value": 2180000,
+                "property location": "Erlangen"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schultz Herrmann Zimmermann",
+        "first_name": "Schultz",
+        "middle_name": "Herrmann",
+        "last_name": "Zimmermann",
+        "passport_number": "DR6018855",
+        "currency": "EUR",
+        "address": {
+            "city": "Essen",
+            "street name": "Holstenwall",
+            "street number": 4,
+            "postal code": "01129"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 2684 814976",
+        "email_address": "schultz.zimmermann@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Schultz Herrmann Zimmermann's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nWith a career spanning nearly 19 years, Schultz Herrmann Zimmermann has established himself as a key player in the industry.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Schultz Herrmann Zimmermann has been happily married to Emilia since 2013. Together they have 1 kid called Henriette.",
+        "Education Background": "Schultz finished secondary school at Otto-Hahn-Gymnasium Karlsruhe in 2002.\nSchultz earned his degree from Freiburg University of Education in 2007.\n",
+        "Occupation History": "Schultz Herrmann Zimmermann is a 42 year old CEO from Germany. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2006, Schultz Herrmann Zimmermann started working as a Software Developer at Software AG, marking the beginning of his successful career.\nHis subsequent role was as a Startup Founder at SAP SE, where he continued to grow professionally from 2011 to 2013.\nAt Bosch Software Innovations GmbH, he worked as a CEO from 2015 to 2025, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "He managed to save approximately 210000 EUR from his earnings at all companies.\nHe owns villa in Essen, where he resides. It is worth 2950000 EUR.\n\nHe purchased villa in Erlangen, where he spends his holidays. It is valued at 2180000 EUR.\nIn 2011, he received an inheritance of 7430000 EUR from his late father, who was a prominent Stock Trader, and has since invested it in various assets.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "passport": {
+        "first_name": "Beatrix",
+        "middle_name": "Gertrud",
+        "last_name": "Lechner",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1995-04-09",
+        "passport_number": "MY7900092",
+        "passport_mrz": [
+            "P<AUTLECHNER<<BEATRIX<GERTRUD<<<<<<<<<<<<<<<<",
+            "MY7900092AUT950409<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-10-13",
+        "passport_expiry_date": "2029-10-12"
+    },
+    "client_profile": {
+        "name": "Beatrix Gertrud Lechner",
+        "address": {
+            "city": "Eisenstadt",
+            "street name": "Untere Donaustra\u00dfe",
+            "street number": 98,
+            "postal code": "1894"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1995-04-09",
+        "nationality": "Austrian",
+        "passport_number": "MY7900092",
+        "passport_issue_date": "2019-10-13",
+        "passport_expiry_date": "2029-10-12",
+        "gender": "F",
+        "phone_number": "+43 213 298 4538",
+        "email_address": "beatrix.lechner@web.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Walser Gymnasium",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "University of Vienna",
+                "graduation_year": 2019
+            },
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": 2022,
+                "company": "Conwert Immobilien Invest AG",
+                "position": "Stockbroker",
+                "salary": 35000
+            },
+            {
+                "start_year": 2023,
+                "end_year": 2025,
+                "company": "Immofinanz AG",
+                "position": "Portfolio Manager",
+                "salary": 45000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 1780000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Beatrix Gertrud Lechner",
+        "first_name": "Beatrix",
+        "middle_name": "Gertrud",
+        "last_name": "Lechner",
+        "passport_number": "MY7900092",
+        "currency": "EUR",
+        "address": {
+            "city": "Eisenstadt",
+            "street name": "Untere Donaustra\u00dfe",
+            "street number": 98,
+            "postal code": "1894"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 213 298 4538",
+        "email_address": "beatrix.lechner@web.at"
+    },
+    "client_description": {
+        "Summary Note": "Beatrix Gertrud Lechner and the RM crossed paths at a mutual friend's dinner party in Vienna. They discovered they had many common acquaintances and decided to explore business opportunities together.\nBeatrix Gertrud Lechner is a 29 year old and comes from Austria.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Beatrix Gertrud Lechner is currently single. She does not have any children.",
+        "Education Background": "In 2015, Beatrix finished her secondary school education at Walser Gymnasium.\nShe then attended University of Vienna, which she graduated in 2019.\nIn 2023, she received extra education and graduated from Graz University of Technology with an additional degree.\n",
+        "Occupation History": "Beatrix Gertrud Lechner is a 29 year old Portfolio Manager from Austria.\nIn 2020, Beatrix Gertrud Lechner started working as a Stockbroker at Conwert Immobilien Invest AG, marking the beginning of her successful career.\nShe then transitioned to Immofinanz AG as a Portfolio Manager, leveraging her expertise to drive results from 2023 to 2025.\n",
+        "Wealth Summary": "While working, she saved 20000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 1780000 EUR from her late grandmother, a renowned Hedge Fund Manager, in 2019.\n",
+        "Client Summary": "In summary, Beatrix has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

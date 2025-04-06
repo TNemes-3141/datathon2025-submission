@@ -1,0 +1,133 @@
+{
+    "passport": {
+        "first_name": "Smeets",
+        "middle_name": "Janssen",
+        "last_name": "Terpstra",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1971-05-12",
+        "passport_number": "OA6935253",
+        "passport_mrz": [
+            "P<NLDTERPSTRA<<SMEETS<JANSSEN<<<<<<<<<<<<<<<<",
+            "OA6935253NLD710512<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-10-18",
+        "passport_expiry_date": "2027-10-17"
+    },
+    "client_profile": {
+        "name": "Smeets Janssen Terpstra",
+        "address": {
+            "city": "Enschede",
+            "street name": "Zuidas",
+            "street number": 59,
+            "postal code": "5709 29"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1971-05-12",
+        "nationality": "Dutch",
+        "passport_number": "OA6935253",
+        "passport_issue_date": "2017-10-18",
+        "passport_expiry_date": "2027-10-17",
+        "gender": "M",
+        "phone_number": "+31 06 31371434",
+        "email_address": "smeets.terpstra@planet.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "CSG Willem van Oranje Apeldoorn",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "Rotterdam University of Applied Sciences",
+                "graduation_year": 1996
+            },
+            {
+                "university": "Wittenborg University of Applied Sciences",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "Unilever N.V.",
+                "position": "Plant Manager",
+                "salary": 43000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "Unilever N.V.",
+                "position": "Operations Director",
+                "salary": 60000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2005,
+                "company": "Unilever N.V.",
+                "position": "CEO",
+                "salary": 179000
+            },
+            {
+                "start_year": 2005,
+                "end_year": null,
+                "company": "Heineken N.V.",
+                "position": "Chairman",
+                "salary": 767000
+            }
+        ],
+        "aum": {
+            "savings": 1220000,
+            "inheritance": 5010000,
+            "real_estate_value": 2210000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2011,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2210000,
+                "property location": "Enschede"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Smeets Janssen Terpstra",
+        "first_name": "Smeets",
+        "middle_name": "Janssen",
+        "last_name": "Terpstra",
+        "passport_number": "OA6935253",
+        "currency": "EUR",
+        "address": {
+            "city": "Enschede",
+            "street name": "Zuidas",
+            "street number": 59,
+            "postal code": "5709 29"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 31371434",
+        "email_address": "smeets.terpstra@planet.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Smeets Janssen Terpstra during a business conference in Amsterdam. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nSmeets Janssen Terpstra is a seasoned professional with over 30 years of experience.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Smeets Janssen Terpstra and Carlijn tied the knot in 2004. They do not have any children.",
+        "Education Background": "Smeets obtained his secondary school diploma from CSG Willem van Oranje Apeldoorn in 1989.\nSmeets attended Rotterdam University of Applied Sciences and graduated in 1996.\nSmeets earned his additionally degree from Wittenborg University of Applied Sciences in 1999.\n",
+        "Occupation History": "Smeets Janssen Terpstra is a 53 year old and comes from Netherlands.\nSmeets Janssen Terpstra launched his career as a Plant Manager at Unilever N.V., where he gained valuable experience from 1995 to 1996.\nHis subsequent role was as a Operations Director at Unilever N.V., where he continued to grow professionally from 1998 to 2000.\nIn 2000, he joined Unilever N.V. as a CEO, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nAfter 10 years of dedication, he assumed the role of Chairman at Heineken N.V. in 2005, spearheading high-profile projects and mentoring junior colleagues.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1220000 EUR.\nHe has villa located in Enschede, worth 2210000 EUR.\n\nHe inherited a significant sum of 5010000 EUR from his father, a respected Venture Capitalist, in 2011, which he has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

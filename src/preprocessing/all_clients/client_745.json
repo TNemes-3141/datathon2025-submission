@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Uhlig",
+        "middle_name": "Schneider",
+        "last_name": "Meier",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1991-11-16",
+        "passport_number": "ES7252548",
+        "passport_mrz": [
+            "P<DEUMEIER<<UHLIG<SCHNEIDER<<<<<<<<<<<<<<<<<<",
+            "ES7252548DEU911116<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-09-24",
+        "passport_expiry_date": "2031-09-23"
+    },
+    "client_profile": {
+        "name": "Uhlig Schneider Meier",
+        "address": {
+            "city": "Munich",
+            "street name": "Kudamm-Karree",
+            "street number": 91,
+            "postal code": "70619"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1991-11-16",
+        "nationality": "German",
+        "passport_number": "ES7252548",
+        "passport_issue_date": "2021-09-24",
+        "passport_expiry_date": "2031-09-23",
+        "gender": "M",
+        "phone_number": "+49 7498 117373",
+        "email_address": "uhlig.meier@freenet.de",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Erasmus-Grasser-Gymnasium M\u00fcnchen",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "Dresden University of Technology",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": 2018,
+                "company": "Siemens AG",
+                "position": "Plant Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Bayer AG",
+                "position": "Operations Director",
+                "salary": 81000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 1670000,
+            "real_estate_value": 1210000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1210000,
+                "property location": "Munich"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Uhlig Schneider Meier",
+        "first_name": "Uhlig",
+        "middle_name": "Schneider",
+        "last_name": "Meier",
+        "passport_number": "ES7252548",
+        "currency": "EUR",
+        "address": {
+            "city": "Munich",
+            "street name": "Kudamm-Karree",
+            "street number": 91,
+            "postal code": "70619"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 7498 117373",
+        "email_address": "uhlig.meier@freenet.de"
+    },
+    "client_description": {
+        "Summary Note": "Uhlig Schneider Meier and the RM met at a networking event in Berlin. They quickly realized they had complementary skills and decided to collaborate on several projects.\nUhlig Schneider Meier is a 33 year old and comes from Germany.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Uhlig Schneider Meier is married to Elisabeth. Uhlig and Elisabeth have 1 child, named Elisabeth.",
+        "Education Background": "Uhlig received his secondary school diploma from Erasmus-Grasser-Gymnasium M\u00fcnchen in 2009.\nUhlig graduated from Dresden University of Technology in 2015, completing his higher education.\n",
+        "Occupation History": "Uhlig Schneider Meier is a 33 year old Operations Director from Germany.\nUhlig Schneider Meier began his professional journey as a Plant Manager at Siemens AG in 2016, laying the foundation for future success.\nIn 2019, he moved to Bayer AG to work as a Operations Director, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "He managed to save approximately 70000 EUR from his earnings at all companies.\nHe has condo located in Munich, worth 1210000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1670000 EUR from his late grandfather, a renowned Venture Capitalist, in 2019.\n",
+        "Client Summary": "The RM is very happy to have Uhlig as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Lechner",
+        "middle_name": "Rieder",
+        "last_name": "Mayr",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1978-11-30",
+        "passport_number": "CE5440888",
+        "passport_mrz": [
+            "P<AUTMAYR<<LECHNER<RIEDER<<<<<<<<<<<<<<<<<<<<",
+            "CE5440888AUT781130<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-15",
+        "passport_expiry_date": "2033-08-14"
+    },
+    "client_profile": {
+        "name": "Lechner Rieder Mayr",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Simmeringer Hauptstra\u00dfe",
+            "street number": 62,
+            "postal code": "7817"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1978-11-30",
+        "nationality": "Austrian",
+        "passport_number": "CE5440888",
+        "passport_issue_date": "2023-08-15",
+        "passport_expiry_date": "2033-08-14",
+        "gender": "M",
+        "phone_number": "439 714 0903",
+        "email_address": "lechner.mayr@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "BORG Wiener Neustadt",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "New Design University St. P\u00f6lten",
+                "graduation_year": 2002
+            },
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "Sandoz International GmbH",
+                "position": "Research Scientist",
+                "salary": 40000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2011,
+                "company": "Baxter BioScience",
+                "position": "Clinical Trials Manager",
+                "salary": 45000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Baxter BioScience",
+                "position": "Regulatory Affairs Director",
+                "salary": 269000
+            }
+        ],
+        "aum": {
+            "savings": 410000,
+            "inheritance": 3730000,
+            "real_estate_value": 4574000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2012,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1384000,
+                "property location": "Krems an der Donau"
+            },
+            {
+                "property type": "flat",
+                "property value": 840000,
+                "property location": "Bruck an der Mur"
+            },
+            {
+                "property type": "villa",
+                "property value": 2350000,
+                "property location": "Hallein"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "7 weeks",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lechner Rieder Mayr",
+        "first_name": "Lechner",
+        "middle_name": "Rieder",
+        "last_name": "Mayr",
+        "passport_number": "CE5440888",
+        "currency": "EUR",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Simmeringer Hauptstra\u00dfe",
+            "street number": 62,
+            "postal code": "7817"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "439 714 0903",
+        "email_address": "lechner.mayr@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Lechner Rieder Mayr and the RM met at a financial seminar in Vienna. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nLechner Rieder Mayr is a seasoned professional with over 23 years of experience.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Lechner Rieder Mayr and Tanja tied the knot in 2007. Lechner and Tanja have 1 child, named Anna.",
+        "Education Background": "Lechner earned his secondary school diploma from BORG Wiener Neustadt in 1997.\nLechner earned his degree from New Design University St. P\u00f6lten in 2002.\nHe also pursued further higher education at Graz University of Technology, graduating in 2006.\n",
+        "Occupation History": "With a career spanning nearly 23 years, Lechner Rieder Mayr has established himself as a key player in the industry.\nIn 2002, Lechner Rieder Mayr started working as a Research Scientist at Sandoz International GmbH, marking the beginning of his successful career.\nHe then transitioned to Baxter BioScience as a Clinical Trials Manager, leveraging his expertise to drive results from 2008 to 2011.\nAt Baxter BioScience, he worked as a Regulatory Affairs Director from 2011 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "He managed to save approximately 410000 EUR from his earnings at all companies.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Krems an der Donau, Hallein and Bruck an der Mur, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of his grandfather, a successful Tech Entrepreneur, he received an inheritance of 3730000 EUR in 2012, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In summary, Lechner has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

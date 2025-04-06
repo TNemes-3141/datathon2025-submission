@@ -1,0 +1,117 @@
+{
+    "passport": {
+        "first_name": "Castro",
+        "middle_name": "Ramos",
+        "last_name": "Hern\u00e1ndez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1991-04-27",
+        "passport_number": "IL0149700",
+        "passport_mrz": [
+            "P<ESPHERN\u00c1NDEZ<<RAMOS<CASTRO<<<<<<<<<<<<<<<<<",
+            "IL0149700ESP910427<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-28",
+        "passport_expiry_date": "2029-05-27"
+    },
+    "client_profile": {
+        "name": "Castro Ramos Hern\u00e1ndez",
+        "address": {
+            "city": "M\u00e1laga",
+            "street name": "Passeig Mar\u00edtim",
+            "street number": 71,
+            "postal code": "82676"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1991-04-27",
+        "nationality": "Spanish",
+        "passport_number": "IL0149700",
+        "passport_issue_date": "2019-05-28",
+        "passport_expiry_date": "2029-05-27",
+        "gender": "M",
+        "phone_number": "612 540 353",
+        "email_address": "castro.hernandez@vodafone.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Instituto de Educaci\u00f3n Secundaria IES Pablo Neruda Las Palmas de Gran Canaria",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "University of Barcelona",
+                "graduation_year": 2014
+            },
+            {
+                "university": "Complutense University of Madrid",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Tuenti Technologies S.L.",
+                "position": "Software Developer",
+                "salary": 31000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 720000,
+            "real_estate_value": 1968000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1048000,
+                "property location": "M\u00e1laga"
+            },
+            {
+                "property type": "condo",
+                "property value": 920000,
+                "property location": "Santa Cruz de Tenerife"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Switzerland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Castro Ramos Hern\u00e1ndez",
+        "first_name": "Castro",
+        "middle_name": "Ramos",
+        "last_name": "Hern\u00e1ndez",
+        "passport_number": "IL0149700",
+        "currency": "EUR",
+        "address": {
+            "city": "M\u00e1laga",
+            "street name": "Passeig Mar\u00edtim",
+            "street number": 71,
+            "postal code": "82676"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "612 540 353",
+        "email_address": "castro.hernandez@vodafone.es"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Castro Ramos Hern\u00e1ndez at a charity gala in Madrid. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nCastro Ramos Hern\u00e1ndez is a 33 year old Software Developer from Spain.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Castro Ramos Hern\u00e1ndez is married to Valeria. They do not have any children.",
+        "Education Background": "Castro earned his secondary school diploma from Instituto de Educaci\u00f3n Secundaria IES Pablo Neruda Las Palmas de Gran Canaria in 2010.\nCastro completed his university studies at University of Barcelona in 2014.\nHe pursued addtionally further eduaction by attending Complutense University of Madrid and graduating in 2020.\n",
+        "Occupation History": "Castro Ramos Hern\u00e1ndez is a 33 year old Software Developer from Spain.\nIn 2016, Castro Ramos Hern\u00e1ndez started working as a Software Developer at Tuenti Technologies S.L., marking the beginning of his successful career.\n",
+        "Wealth Summary": "While working, he saved 30000 EUR, which he used to build a diversified investment portfolio.\nHe has condo located in M\u00e1laga, worth 1048000 EUR.\n\nHe purchased condo in Santa Cruz de Tenerife, where he spends his holidays. It is valued at 920000 EUR.\nHe inherited 720000 EUR from his grandmother, a well-known Real Estate Developer, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

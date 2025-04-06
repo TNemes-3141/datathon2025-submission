@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Lehmann",
+        "middle_name": "Roth",
+        "last_name": "K\u00e4gi",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1982-02-08",
+        "passport_number": "CE1411186",
+        "passport_mrz": [
+            "P<CHEK\u00c4GI<<LEHMANN<ROTH<<<<<<<<<<<<<<<<<<<<<<",
+            "CE1411186CHE820208<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-07-22",
+        "passport_expiry_date": "2032-07-21"
+    },
+    "client_profile": {
+        "name": "Lehmann Roth K\u00e4gi",
+        "address": {
+            "city": "Frauenfeld",
+            "street name": "Limmatquai",
+            "street number": 75,
+            "postal code": "4904"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1982-02-08",
+        "nationality": "Swiss",
+        "passport_number": "CE1411186",
+        "passport_issue_date": "2022-07-22",
+        "passport_expiry_date": "2032-07-21",
+        "gender": "M",
+        "phone_number": "+41 062 647 78 40",
+        "email_address": "lehmann.kagi@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Wirtschaftsgymnasium Olten Solothurn",
+            "graduation_year": 1999
+        },
+        "higher_education": [
+            {
+                "university": "Hotel Institute Montreux",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2009,
+                "company": "Maersk Line (Switzerland) A/S",
+                "position": "Ship Broker",
+                "salary": 57000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Maersk Line (Switzerland) A/S",
+                "position": "Shipping Company Owner",
+                "salary": 230000
+            }
+        ],
+        "aum": {
+            "savings": 310000,
+            "inheritance": 2210000,
+            "real_estate_value": 8500000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2013,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 5390000,
+                "property location": "Frauenfeld"
+            },
+            {
+                "property type": "house",
+                "property value": 3110000,
+                "property location": "Wil"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "France"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Lehmann Roth K\u00e4gi",
+        "first_name": "Lehmann",
+        "middle_name": "Roth",
+        "last_name": "K\u00e4gi",
+        "passport_number": "CE1411186",
+        "currency": "CHF",
+        "address": {
+            "city": "Frauenfeld",
+            "street name": "Limmatquai",
+            "street number": 75,
+            "postal code": "4904"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 062 647 78 40",
+        "email_address": "lehmann.kagi@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Lehmann Roth K\u00e4gi at a corporate retreat in Z\u00fcrich. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nLehmann Roth K\u00e4gi is a 43 year old Shipping Company Owner from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Lehmann Roth K\u00e4gi is currently single. He does not have any children.",
+        "Education Background": "Lehmann obtained his secondary school diploma from Wirtschaftsgymnasium Olten Solothurn in 1999.\nLehmann pursued higher education at Hotel Institute Montreux, graduating in 2005.\n",
+        "Occupation History": "Lehmann Roth K\u00e4gi is a 43 year old Shipping Company Owner from Switzerland.\nLehmann Roth K\u00e4gi's first role was as a Ship Broker at Maersk Line (Switzerland) A/S, where he worked diligently from 2006 to 2009 to establish a strong reputation.\nAt Maersk Line (Switzerland) A/S, he held the position of Shipping Company Owner from 2011 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 310000 CHF, investing in various assets to grow his wealth.\nHe owns villa in Frauenfeld, where he resides. It is worth 5390000 CHF.\n\nIn addition to his primary residence, he owns house in Wil worth 3110000 CHF.\n\nHe inherited a significant sum of 2210000 CHF from his grandmother, a respected Hedge Fund Manager, in 2013, which he has wisely invested.\n",
+        "Client Summary": "In summary, Lehmann has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

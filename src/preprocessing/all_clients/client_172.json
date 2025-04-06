@@ -1,0 +1,112 @@
+{
+    "passport": {
+        "first_name": "Schmidt",
+        "middle_name": "Sch\u00e4fer",
+        "last_name": "Richter",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1994-07-07",
+        "passport_number": "VG6200699",
+        "passport_mrz": [
+            "P<DEURICHTER<<SCHMIDT<SCH\u00c4FER<<<<<<<<<<<<<<<<",
+            "VG6200699DEU940707<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-29",
+        "passport_expiry_date": "2029-08-28"
+    },
+    "client_profile": {
+        "name": "Schmidt Sch\u00e4fer Richter",
+        "address": {
+            "city": "Cologne",
+            "street name": "Johannisstra\u00dfe",
+            "street number": 3,
+            "postal code": "85411"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1994-07-07",
+        "nationality": "German",
+        "passport_number": "VG6200699",
+        "passport_issue_date": "2019-08-29",
+        "passport_expiry_date": "2029-12-08",
+        "gender": "M",
+        "phone_number": "8946 321920",
+        "email_address": "schmidt.richter@o2online.de",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Caspar-Olevian-Gymnasium Trier",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "Hamburg University of Applied Sciences",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Liebherr-Aerospace GmbH",
+                "position": "Aerospace Engineer",
+                "salary": 52000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 2810000,
+            "real_estate_value": 2006000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1146000,
+                "property location": "Cologne"
+            },
+            {
+                "property type": "flat",
+                "property value": 860000,
+                "property location": "Bonn"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schmidt Sch\u00e4fer Richter",
+        "first_name": "Schmidt",
+        "middle_name": "Sch\u00e4fer",
+        "last_name": "Richter",
+        "passport_number": "VG6200699",
+        "currency": "EUR",
+        "address": {
+            "city": "Cologne",
+            "street name": "Johannisstra\u00dfe",
+            "street number": 3,
+            "postal code": "85411"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "8946 321920",
+        "email_address": "schmidt.richter@o2online.de"
+    },
+    "client_description": {
+        "Summary Note": "Schmidt Sch\u00e4fer Richter and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nSchmidt Sch\u00e4fer Richter is a 30 year old Aerospace Engineer from Germany.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Schmidt Sch\u00e4fer Richter is currently single. He does not have any children.",
+        "Education Background": "In 2013, Schmidt finished his secondary school education at Caspar-Olevian-Gymnasium Trier.\nSchmidt attended Hamburg University of Applied Sciences and graduated in 2017.\n",
+        "Occupation History": "Schmidt Sch\u00e4fer Richter is a 30 year old Aerospace Engineer from Germany.\nSchmidt Sch\u00e4fer Richter launched his career as a Aerospace Engineer at Liebherr-Aerospace GmbH, where he gained valuable experience from 2019 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 40000 EUR, investing in various assets to grow his wealth.\nHe has townhouse located in Cologne, worth 1146000 EUR.\n\nIn addition to his primary residence, he owns flat in Bonn worth 860000 EUR.\n\nIn 2015, he received an inheritance of 2810000 EUR from his late grandfather, who was a prominent Corporate Lawyer, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Schmidt has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Jensen",
+        "middle_name": "Jespersen",
+        "last_name": "Laursen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1997-09-26",
+        "passport_number": "TI0008703",
+        "passport_mrz": [
+            "P<DNKLAURSEN<<JENSEN<JESPERSEN<<<<<<<<<<<<<<<",
+            "TI0008703DNK970926<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-24",
+        "passport_expiry_date": "2030-10-23"
+    },
+    "client_profile": {
+        "name": "Jensen Jespersen Laursen",
+        "address": {
+            "city": "Horsens",
+            "street name": "Linnemannsgade",
+            "street number": 90,
+            "postal code": "1366"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1997-09-26",
+        "nationality": "Danish",
+        "passport_number": "TI0008703",
+        "passport_issue_date": "2020-10-24",
+        "passport_expiry_date": "2030-10-23",
+        "gender": "M",
+        "phone_number": "+45 29 70 80 70",
+        "email_address": "jensen.laursen@telia.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "T\u00f8nder Gymnasium",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "ALK-Abello A/S",
+                "position": "Research Scientist",
+                "salary": 294000
+            }
+        ],
+        "aum": {
+            "savings": 190000,
+            "inheritance": 12760000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Jensen Jespersen Laursen",
+        "first_name": "Jensen",
+        "middle_name": "Jespersen",
+        "last_name": "Laursen",
+        "passport_number": "TI0008703",
+        "currency": "DKK",
+        "address": {
+            "city": "Horsens",
+            "street name": "Linnemannsgade",
+            "street number": 90,
+            "postal code": "1366"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 29 70 80 70",
+        "email_address": "jensen.laursen@telia.dk"
+    },
+    "client_description": {
+        "Summary Note": "Jensen Jespersen Laursen and the RM met at a networking event in Copenhagen. They quickly realized they had complementary skills and decided to collaborate on several projects.\nJensen Jespersen Laursen is a 27 year old Research Scientist from Denmark.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Jensen Jespersen Laursen and Karen tied the knot in 2022. They do not have any children.",
+        "Education Background": "Jensen received his secondary school diploma from T\u00f8nder Gymnasium in 2015.\nJensen completed his university education at Aarhus University in 2022.\n",
+        "Occupation History": "Jensen Jespersen Laursen is a 27 year old Research Scientist from Denmark.\nIn 2021, Jensen Jespersen Laursen started working as a Research Scientist at ALK-Abello A/S, marking the beginning of his successful career.\n",
+        "Wealth Summary": "Throughout his career, he saved 190000 DKK, investing in various assets to grow his wealth.\nClient does not have any properties.He inherited 12760000 DKK from his grandmother, a well-known Venture Capitalist, in 2018, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

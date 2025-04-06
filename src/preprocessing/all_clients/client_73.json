@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Gitte",
+        "middle_name": "Amanda",
+        "last_name": "\u00d8stergaard",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DN",
+        "nationality": "Danish",
+        "birth_date": "1957-05-25",
+        "passport_number": "GZ7603695",
+        "passport_mrz": [
+            "P<DNK\u00d8STERGAARD<<GITTE<AMANDA<<<<<<<<<<<<<<<<",
+            "GZ7603695DNK570525<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-04-09",
+        "passport_expiry_date": "2034-04-08"
+    },
+    "client_profile": {
+        "name": "Gitte Amanda \u00d8stergaard",
+        "address": {
+            "city": "Randers",
+            "street name": "Linnemannsgade",
+            "street number": 67,
+            "postal code": "1891"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1957-05-25",
+        "nationality": "Danish",
+        "passport_number": "GZ7603695",
+        "passport_issue_date": "2024-04-09",
+        "passport_expiry_date": "2034-04-08",
+        "gender": "F",
+        "phone_number": "+45 05 58 03 41",
+        "email_address": "gitte.stergaard@telia.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Skive Gymnasium",
+            "graduation_year": 1976
+        },
+        "higher_education": [
+            {
+                "university": "The National Film School of Denmark",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1983,
+                "company": "Won Hundred A/S",
+                "position": "Assistant Designer",
+                "salary": 265000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "Bestseller A/S",
+                "position": "Senior Designer",
+                "salary": 394000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 2018,
+                "company": "Ganni A/S",
+                "position": "Creative Director",
+                "salary": 3761000
+            }
+        ],
+        "aum": {
+            "savings": 7540000,
+            "inheritance": 0,
+            "real_estate_value": 4192000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1060000,
+                "property location": "Randers"
+            },
+            {
+                "property type": "condo",
+                "property value": 1052000,
+                "property location": "Fredericia"
+            },
+            {
+                "property type": "villa",
+                "property value": 2080000,
+                "property location": "Slagelse"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Gitte Amanda \u00d8stergaard",
+        "first_name": "Gitte",
+        "middle_name": "Amanda",
+        "last_name": "\u00d8stergaard",
+        "passport_number": "GZ7603695",
+        "currency": "DKK",
+        "address": {
+            "city": "Randers",
+            "street name": "Linnemannsgade",
+            "street number": 67,
+            "postal code": "1891"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 05 58 03 41",
+        "email_address": "gitte.stergaard@telia.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Gitte Amanda \u00d8stergaard at a wine tasting event in Copenhagen. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nGitte Amanda \u00d8stergaard is a 67 year old and comes from Denmark.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Gitte Amanda \u00d8stergaard is currently divorced. Her children are named Knudsen and Andrea.",
+        "Education Background": "Gitte earned her secondary school diploma from Skive Gymnasium in 1966.\nIn 1980, Gitte graduated from The National Film School of Denmark with a degree.\n",
+        "Occupation History": "With a career spanning nearly 44 years, Gitte Amanda \u00d8stergaard has established herself as a key player in the industry.\nAt Won Hundred A/S, Gitte Amanda \u00d8stergaard held the position of Assistant Designer from 1981 to 1983, developing essential skills in the field.\nAfter gaining experience, she took on the role of Senior Designer at Bestseller A/S in 1985, further expanding her skill set.\nHer tenure as a Creative Director at Ganni A/S from 1990 till retirement was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "Throughout her career, she saved 7540000 DKK, investing in various assets to grow her wealth.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 4192000 DKK.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

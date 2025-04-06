@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Belli",
+        "middle_name": "Lombardi",
+        "last_name": "Ricci",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1982-05-24",
+        "passport_number": "WX8192756",
+        "passport_mrz": [
+            "P<ITARICCI<<BELLI<LOMBARDI<<<<<<<<<<<<<<<<<<<",
+            "WX8192756ITA820524<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-08-18",
+        "passport_expiry_date": "2026-08-17"
+    },
+    "client_profile": {
+        "name": "Belli Lombardi Ricci",
+        "address": {
+            "city": "Catania",
+            "street name": "Corso Vittorio Emanuele II",
+            "street number": 62,
+            "postal code": "99259"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1982-05-24",
+        "nationality": "Italian",
+        "passport_number": "WX8192756",
+        "passport_issue_date": "2016-08-18",
+        "passport_expiry_date": "2026-08-17",
+        "gender": "M",
+        "phone_number": "+39 384 4042878",
+        "email_address": "belli.ricci@virgilio.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Scuola Media Statale Giancarlo Siani Napoli",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "Italian Institute of Industrial Automation (IAS)",
+                "graduation_year": 2006
+            },
+            {
+                "university": "Italian Aerospace Research Centre (CIRA)",
+                "graduation_year": 2010
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2009,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "Research Scientist",
+                "salary": 24000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2012,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "Biotech Startup Founder",
+                "salary": 37000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2025,
+                "company": "Roche S.p.A.",
+                "position": "CEO",
+                "salary": 238000
+            }
+        ],
+        "aum": {
+            "savings": 290000,
+            "inheritance": 2100000,
+            "real_estate_value": 1430000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1430000,
+                "property location": "Catania"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Belli Lombardi Ricci",
+        "first_name": "Belli",
+        "middle_name": "Lombardi",
+        "last_name": "Ricci",
+        "passport_number": "WX8192756",
+        "currency": "EUR",
+        "address": {
+            "city": "Catania",
+            "street name": "Corso Vittorio Emanuele II",
+            "street number": 62,
+            "postal code": "99259"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 384 4042878",
+        "email_address": "belli.ricci@virgilio.it"
+    },
+    "client_description": {
+        "Summary Note": "Belli Lombardi Ricci and the RM met at a financial seminar in Rome. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nBelli Lombardi Ricci is a seasoned professional with over 19 years of experience.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Belli Lombardi Ricci has been happily married to Elisabetta since 2008. They are proud parents of 2 children: Beatrice and Ilaria.",
+        "Education Background": "In 2000, Belli finished his secondary school education at Scuola Media Statale Giancarlo Siani Napoli.\nBelli completed his university studies at Italian Institute of Industrial Automation (IAS) in 2006.\nIn 2010, he received extra education and graduated from Italian Aerospace Research Centre (CIRA) with an additional degree.\n",
+        "Occupation History": "Having worked for over 19 years, Belli Lombardi Ricci brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nBelli Lombardi Ricci began his professional journey as a Research Scientist at Menarini Industrie Farmaceutiche Riunite S.r.l. in 2006, laying the foundation for future success.\nHis subsequent role was as a Biotech Startup Founder at Menarini Industrie Farmaceutiche Riunite S.r.l., where he continued to grow professionally from 2011 to 2012.\nHe spent 13 years working as a CEO at Roche S.p.A., refining his expertise and building a strong network.\n",
+        "Wealth Summary": "He managed to save approximately 290000 EUR from his earnings at all companies.\nHe has townhouse located in Catania, worth 1430000 EUR.\n\n\nFollowing the passing of his grandfather, a successful Neurosurgeon, he received an inheritance of 2100000 EUR in 2015, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Belli as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

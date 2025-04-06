@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Amanda",
+        "middle_name": "Emilie",
+        "last_name": "Larsen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "2002-03-31",
+        "passport_number": "EA4669848",
+        "passport_mrz": [
+            "P<DNKLARSEN<<AMANDA<EMILIE<<<<<<<<<<<<<<<<<<<",
+            "EA4669848DNK020331<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-12-18",
+        "passport_expiry_date": "2028-12-17"
+    },
+    "client_profile": {
+        "name": "Amanda Emilie Larsen",
+        "address": {
+            "city": "Aarhus",
+            "street name": "S\u00f8lvgade",
+            "street number": 86,
+            "postal code": "7570"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "2002-03-31",
+        "nationality": "Danish",
+        "passport_number": "EA4669848",
+        "passport_issue_date": "2018-12-18",
+        "passport_expiry_date": "2028-12-17",
+        "gender": "F",
+        "phone_number": "+45 19 73 01 69",
+        "email_address": "amanda.larsen@dk-hostmaster.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Rysensteen Gymnasium",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "The National Film School of Denmark",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 18850000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Amanda Emilie Larsen",
+        "first_name": "Amanda",
+        "middle_name": "Emilie",
+        "last_name": "Larsen",
+        "passport_number": "EA4669848",
+        "currency": "DKK",
+        "address": {
+            "city": "Aarhus",
+            "street name": "S\u00f8lvgade",
+            "street number": 86,
+            "postal code": "7570"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 19 73 01 69",
+        "email_address": "amanda.larsen@dk-hostmaster.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Amanda Emilie Larsen's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nAmanda Emilie Larsen is a 23 year old and comes from Denmark.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Amanda Emilie Larsen is currently single. She does not have any children.",
+        "Education Background": "Amanda obtained her secondary school diploma from Rysensteen Gymnasium in 2019.\nAmanda completed her university education at The National Film School of Denmark in 2024.\n",
+        "Occupation History": "Amanda Emilie Larsen is a 23 year old and comes from Denmark.\nAmanda Emilie Larsen did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.In 2017, she received an inheritance of 18850000 DKK from her late grandfather, who was a prominent Tech Entrepreneur, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is excited to help Amanda navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

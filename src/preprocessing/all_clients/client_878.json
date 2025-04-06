@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "L\u00e9a",
+        "middle_name": "Oph\u00e9lie",
+        "last_name": "Marchand",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1989-03-06",
+        "passport_number": "QI6196753",
+        "passport_mrz": [
+            "P<FRAMARCHAND<<L\u00c9A<OPH\u00c9LIE<<<<<<<<<<<<<<<<<<<",
+            "QI6196753FRA890306<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-02-15",
+        "passport_expiry_date": "2030-02-14"
+    },
+    "client_profile": {
+        "name": "L\u00e9a Oph\u00e9lie Marchand",
+        "address": {
+            "city": "Rouen",
+            "street name": "Rue de Belleville",
+            "street number": 80,
+            "postal code": "80405"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1989-03-06",
+        "nationality": "French",
+        "passport_number": "QI6196753",
+        "passport_issue_date": "2020-02-15",
+        "passport_expiry_date": "2030-02-14",
+        "gender": "F",
+        "phone_number": "+33 09 93 69 81 37",
+        "email_address": "lea.marchand@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Fustel de Coulanges",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "IUT de Rennes",
+                "graduation_year": 2011
+            },
+            {
+                "university": "ESSEC Business School",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2012,
+                "end_year": 2016,
+                "company": "Louis Dreyfus Armateurs",
+                "position": "Ship Broker",
+                "salary": 30000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Neptune Lines France",
+                "position": "Shipping Company Owner",
+                "salary": 60000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 480000,
+            "real_estate_value": 2360000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1280000,
+                "property location": "Rouen"
+            },
+            {
+                "property type": "condo",
+                "property value": 1080000,
+                "property location": "Clermont-Ferrand"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "L\u00e9a Oph\u00e9lie Marchand",
+        "first_name": "L\u00e9a",
+        "middle_name": "Oph\u00e9lie",
+        "last_name": "Marchand",
+        "passport_number": "QI6196753",
+        "currency": "EUR",
+        "address": {
+            "city": "Rouen",
+            "street name": "Rue de Belleville",
+            "street number": 80,
+            "postal code": "80405"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 09 93 69 81 37",
+        "email_address": "lea.marchand@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "L\u00e9a Oph\u00e9lie Marchand and the RM are cousins, having grown up together in Paris. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nL\u00e9a Oph\u00e9lie Marchand is a 36 year old Shipping Company Owner from France. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "L\u00e9a Oph\u00e9lie Marchand is currently divorced. She has 1 kid called Fournier.",
+        "Education Background": "L\u00e9a completed her secondary education at Lyc\u00e9e Fustel de Coulanges in 2008.\nL\u00e9a completed her university studies at IUT de Rennes in 2011.\nAdditionally, she went on to study at ESSEC Business School until 2015.\n",
+        "Occupation History": "L\u00e9a Oph\u00e9lie Marchand is a 36 year old Shipping Company Owner from France.\nL\u00e9a Oph\u00e9lie Marchand began her professional journey as a Ship Broker at Louis Dreyfus Armateurs in 2012, laying the foundation for future success.\nAfter gaining experience, she took on the role of Shipping Company Owner at Neptune Lines France in 2018, further expanding her skill set.\n",
+        "Wealth Summary": "Throughout her career, she saved 70000 EUR, investing in various assets to grow her wealth.\nShe has flat located in Rouen, worth 1280000 EUR.\n\nIn addition to her primary residence, she owns condo in Clermont-Ferrand worth 1080000 EUR.\n\n\nFollowing the passing of her grandfather, a successful Real Estate Developer, she received an inheritance of 480000 EUR in 2017, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

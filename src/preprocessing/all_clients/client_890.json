@@ -1,0 +1,137 @@
+{
+    "passport": {
+        "first_name": "Ilaria",
+        "middle_name": "Chiara",
+        "last_name": "Donati",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1960-05-11",
+        "passport_number": "HF9142997",
+        "passport_mrz": [
+            "P<ITADONATI<<ILARIA<CHIARA<<<<<<<<<<<<<<<<<<<",
+            "HF9142997ITA600511<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-11-26",
+        "passport_expiry_date": "2029-11-25"
+    },
+    "client_profile": {
+        "name": "Ilaria Chiara Donati",
+        "address": {
+            "city": "Modena",
+            "street name": "Via Po",
+            "street number": 14,
+            "postal code": "42785"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1960-05-11",
+        "nationality": "Italian",
+        "passport_number": "HF9142997",
+        "passport_issue_date": "2019-11-26",
+        "passport_expiry_date": "2029-11-25",
+        "gender": "F",
+        "phone_number": "352 4379247",
+        "email_address": "ilaria.donati@tin.it",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Istituto Magistrale Statale Maria Gaetana Agnesi Genova",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "Luiss Guido Carli",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1984,
+                "end_year": 1989,
+                "company": "ENI S.p.A.",
+                "position": "Drilling Engineer",
+                "salary": 31000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1995,
+                "company": "ERGA S.p.A.",
+                "position": "Reservoir Engineer",
+                "salary": 36000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "ERGA S.p.A.",
+                "position": "Operations Manager",
+                "salary": 65000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1998,
+                "company": "Edison S.p.A.",
+                "position": "VP of Exploration",
+                "salary": 93000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2021,
+                "company": "SNAM S.p.A.",
+                "position": "CEO",
+                "salary": 895000
+            }
+        ],
+        "aum": {
+            "savings": 1490000,
+            "inheritance": 0,
+            "real_estate_value": 1830000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 626000,
+                "property location": "Modena"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1204000,
+                "property location": "Parma"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ilaria Chiara Donati",
+        "first_name": "Ilaria",
+        "middle_name": "Chiara",
+        "last_name": "Donati",
+        "passport_number": "HF9142997",
+        "currency": "EUR",
+        "address": {
+            "city": "Modena",
+            "street name": "Via Po",
+            "street number": 14,
+            "postal code": "42785"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "352 4379247",
+        "email_address": "ilaria.donati@tin.it"
+    },
+    "client_description": {
+        "Summary Note": "Ilaria Chiara Donati and the RM were introduced at an art auction in Rome. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nIlaria Chiara Donati is a 64 year old retired CEO from Italy. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Ilaria Chiara Donati is currently divorced. She does not have any children.",
+        "Education Background": "Ilaria completed her secondary education at Istituto Magistrale Statale Maria Gaetana Agnesi Genova in 1978.\nIlaria finished her studies at Luiss Guido Carli in 1983.\n",
+        "Occupation History": "Ilaria Chiara Donati is a 64 year old retired CEO from Italy.\nIlaria Chiara Donati began her professional journey as a Drilling Engineer at ENI S.p.A. in 1984, laying the foundation for future success.\nAt ERGA S.p.A., she held the position of Reservoir Engineer from 1991 to 1995, making significant contributions to the organization.\nAt ERGA S.p.A., she worked as a Operations Manager from 1995 to 1996, focusing on strategic initiatives and team collaboration.\nIn 1996, she transitioned to Edison S.p.A. to take on the position of VP of Exploration, capitalizing on her expertise to propel business growth.\nIlaria Chiara Donati concluded her career as a CEO at SNAM S.p.A., where she worked from 1999 until retirement.",
+        "Wealth Summary": "She managed to save approximately 1490000 EUR from her earnings at all companies.\nShe owns flat in Modena, where she resides. It is worth 626000 EUR.\n\nShe purchased townhouse in Parma, where she spends her holidays. It is valued at 1204000 EUR.\nShe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

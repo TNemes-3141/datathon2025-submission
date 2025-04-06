@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Moens",
+        "middle_name": "Vandenberghe",
+        "last_name": "Hermans",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1988-07-01",
+        "passport_number": "MG1741214",
+        "passport_mrz": [
+            "P<BELHERMANS<<MOENS<VANDENBERGHE<<<<<<<<<<<<<",
+            "MG1741214BEL880701<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-12-27",
+        "passport_expiry_date": "2030-12-26"
+    },
+    "client_profile": {
+        "name": "Moens Vandenberghe Hermans",
+        "address": {
+            "city": "Geel",
+            "street name": "Rue Royale",
+            "street number": 57,
+            "postal code": "7584"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1988-07-01",
+        "nationality": "Belgian",
+        "passport_number": "MG1741214",
+        "passport_issue_date": "2023-12-27",
+        "passport_expiry_date": "2030-12-26",
+        "gender": "M",
+        "phone_number": "0435 349 894",
+        "email_address": "moens.hermans@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": 2018,
+                "company": "Dries Van Noten NV",
+                "position": "Assistant Designer",
+                "salary": 47000
+            },
+            {
+                "start_year": 2020,
+                "end_year": 2025,
+                "company": "Walter Van Beirendonck BVBA",
+                "position": "Senior Designer",
+                "salary": 67000
+            }
+        ],
+        "aum": {
+            "savings": 90000,
+            "inheritance": 140000,
+            "real_estate_value": 2780000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1280000,
+                "property location": "Geel"
+            },
+            {
+                "property type": "house",
+                "property value": 1500000,
+                "property location": "Binche"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Moens Vandenberghe Hermans",
+        "first_name": "Moens",
+        "middle_name": "Vandenberghe",
+        "last_name": "Hermans",
+        "passport_number": "MG1741214",
+        "currency": "EUR",
+        "address": {
+            "city": "Geel",
+            "street name": "Rue Royale",
+            "street number": 57,
+            "postal code": "7584"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0435 349 894",
+        "email_address": "moens.hermans@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Moens Vandenberghe Hermans at a charity gala in Brussels. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nMoens Vandenberghe Hermans is a seasoned professional with over 12 years of experience.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Moens Vandenberghe Hermans is married to Justine. Moens and Justine have 2 children, named Ana\u00efs and Smets.",
+        "Education Background": "Moens obtained his secondary school diploma from Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur in 2006.\nMoens graduated from Vesalius College in 2013, completing his higher education.\n",
+        "Occupation History": "Moens Vandenberghe Hermans is a 36 year old and comes from Belgium.\nMoens Vandenberghe Hermans began his professional journey as a Assistant Designer at Dries Van Noten NV in 2013, laying the foundation for future success.\nHe then transitioned to Walter Van Beirendonck BVBA as a Senior Designer, leveraging his expertise to drive results from 2020 to 2025.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 90000 EUR.\nHe owns house in Geel, where he resides. It is worth 1280000 EUR.\n\nIn addition to his primary residence, he owns house in Binche worth 1500000 EUR.\n\nIn 2016, he received an inheritance of 140000 EUR from his late grandfather, who was a prominent Tech Entrepreneur, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

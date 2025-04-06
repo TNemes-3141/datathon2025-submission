@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Lea",
+        "middle_name": "Emma",
+        "last_name": "Huber",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1954-12-26",
+        "passport_number": "RR8228217",
+        "passport_mrz": [
+            "P<CHEHUBER<<LEA<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "RR8228217CHE541226<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-23",
+        "passport_expiry_date": "2029-05-22"
+    },
+    "client_profile": {
+        "name": "Lea Emma Huber",
+        "address": {
+            "city": "Neuchatel",
+            "street name": "Dufourstrasse",
+            "street number": 35,
+            "postal code": "1436"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1954-12-26",
+        "nationality": "Swiss",
+        "passport_number": "RR8228217",
+        "passport_issue_date": "2019-05-23",
+        "passport_expiry_date": "2029-05-22",
+        "gender": "F",
+        "phone_number": "+41 031 200 72 96",
+        "email_address": "lea.huber@bluewin.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "\u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel",
+            "graduation_year": 1972
+        },
+        "higher_education": [
+            {
+                "university": "University of Lausanne",
+                "graduation_year": 1979
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1980,
+                "company": "Akris AG",
+                "position": "Assistant Designer",
+                "salary": 66000
+            },
+            {
+                "start_year": 1982,
+                "end_year": 1985,
+                "company": "Richemont International SA",
+                "position": "Senior Designer",
+                "salary": 97000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 1990,
+                "company": "Akris AG",
+                "position": "Creative Director",
+                "salary": 138000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 2015,
+                "company": "Swatch Group AG",
+                "position": "Founder/Designer",
+                "salary": 1382000
+            }
+        ],
+        "aum": {
+            "savings": 2510000,
+            "inheritance": 0,
+            "real_estate_value": 2850000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2850000,
+                "property location": "Neuchatel"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Finland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Lea Emma Huber",
+        "first_name": "Lea",
+        "middle_name": "Emma",
+        "last_name": "Huber",
+        "passport_number": "RR8228217",
+        "currency": "CHF",
+        "address": {
+            "city": "Neuchatel",
+            "street name": "Dufourstrasse",
+            "street number": 35,
+            "postal code": "1436"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 031 200 72 96",
+        "email_address": "lea.huber@bluewin.ch"
+    },
+    "client_description": {
+        "Summary Note": "Lea Emma Huber and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nLea Emma Huber is a seasoned professional with over 46 years of experience.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Lea Emma Huber is married to Lehmann. They do not have any children.",
+        "Education Background": "Lea completed her secondary education at \u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel in 1972.\nLea finished her studies at University of Lausanne in 1979.\n",
+        "Occupation History": "Lea Emma Huber is a seasoned professional with over 46 years of experience.\nLea Emma Huber launched her career as a Assistant Designer at Akris AG, where she gained valuable experience from 1979 to 1980.\nAfter gaining experience, she took on the role of Senior Designer at Richemont International SA in 1982, further expanding her skill set.\nHer tenure as a Creative Director at Akris AG from 1987 to 1990 was marked by significant achievements and a deepening understanding of the field.\nShe worked as a Founder/Designer at Swatch Group AG from 1991 till retirement, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "Throughout her career, she saved 2510000 CHF, investing in various assets to grow her wealth.\nShe is not pushed back by high-risk investments and is willing to explore them.\nShe has townhouse located in Neuchatel, worth 2850000 CHF.\n\nShe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Lea as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

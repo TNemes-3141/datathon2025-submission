@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "J\u00e4rvinen",
+        "middle_name": "Sepp\u00e4l\u00e4",
+        "last_name": "Tolvanen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1995-08-02",
+        "passport_number": "ZU2671253",
+        "passport_mrz": [
+            "P<FINTOLVANEN<<J\u00c4RVINEN<SEPP\u00c4L\u00c4<<<<<<<<<<<<<<",
+            "ZU2671253FIN950802<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-07-28",
+        "passport_expiry_date": "2029-07-27"
+    },
+    "client_profile": {
+        "name": "J\u00e4rvinen Sepp\u00e4l\u00e4 Tolvanen",
+        "address": {
+            "city": "Pori",
+            "street name": "Salmisaarenranta",
+            "street number": 57,
+            "postal code": "37645"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1995-08-02",
+        "nationality": "Finnish",
+        "passport_number": "ZU2671253",
+        "passport_issue_date": "2019-07-28",
+        "passport_expiry_date": "2029-07-27",
+        "gender": "M",
+        "phone_number": "+358 041 468 49 81",
+        "email_address": "jarvinen.tolvanen@luukku.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lappeenranta Lyceum",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "University of Turku",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": 2025,
+                "company": "Danske Bank A/S",
+                "position": "Investment Banker",
+                "salary": 53000
+            },
+            {
+                "start_year": 2025,
+                "end_year": null,
+                "company": "OP Financial Group",
+                "position": "Private Equity Investor",
+                "salary": 56000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 2300000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "J\u00e4rvinen Sepp\u00e4l\u00e4 Tolvanen",
+        "first_name": "J\u00e4rvinen",
+        "middle_name": "Sepp\u00e4l\u00e4",
+        "last_name": "Tolvanen",
+        "passport_number": "ZU2671253",
+        "currency": "EUR",
+        "address": {
+            "city": "Pori",
+            "street name": "Salmisaarenranta",
+            "street number": 57,
+            "postal code": "37645"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 041 468 49 81",
+        "email_address": "jarvinen.tolvanen@luukku.com"
+    },
+    "client_description": {
+        "Summary Note": "J\u00e4rvinen Sepp\u00e4l\u00e4 Tolvanen and the RM were introduced at a gourmet food festival in Helsinki. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nJ\u00e4rvinen Sepp\u00e4l\u00e4 Tolvanen is a 29 year old and comes from Finland.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "J\u00e4rvinen Sepp\u00e4l\u00e4 Tolvanen is currently single. He does not have any children.",
+        "Education Background": "J\u00e4rvinen graduated from Lappeenranta Lyceum in 2014.\nHe then attended University of Turku, which he graduated in 2018.\n",
+        "Occupation History": "J\u00e4rvinen Sepp\u00e4l\u00e4 Tolvanen is a 29 year old and comes from Finland.\nAt Danske Bank A/S, J\u00e4rvinen Sepp\u00e4l\u00e4 Tolvanen held the position of Investment Banker from 2020 to 2025, developing essential skills in the field.\nHe then transitioned to OP Financial Group as a Private Equity Investor, leveraging his expertise to drive results from 2025 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 40000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 2300000 EUR from his late grandmother, a renowned Investment Banker, in 2017.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

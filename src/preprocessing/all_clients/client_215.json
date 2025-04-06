@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Jost",
+        "middle_name": "Egli",
+        "last_name": "K\u00e4gi",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1971-07-16",
+        "passport_number": "MR8887646",
+        "passport_mrz": [
+            "P<CHEK\u00c4GI<<JOST<EGLI<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "MR8887646CHE710716<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1965-03-13",
+        "passport_expiry_date": "1975-03-12"
+    },
+    "client_profile": {
+        "name": "Jost Egli K\u00e4gi",
+        "address": {
+            "city": "Locarno",
+            "street name": "Rue de l'Ath\u00e9n\u00e9e",
+            "street number": 31,
+            "postal code": "9371"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1971-07-16",
+        "nationality": "Swiss",
+        "passport_number": "MR8887646",
+        "passport_issue_date": "2019-03-13",
+        "passport_expiry_date": "2029-03-12",
+        "gender": "M",
+        "phone_number": "",
+        "email_address": "jost.kagi@upc.ch",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gymnasium Hofwil Bern",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "University of Fribourg",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 1999,
+                "company": "Invision Private Equity AG",
+                "position": "Analyst",
+                "salary": 65000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2003,
+                "company": "Equity4u AG",
+                "position": "Associate",
+                "salary": 98000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2008,
+                "company": "Invision Private Equity AG",
+                "position": "Investment Director",
+                "salary": 131000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2013,
+                "company": "Partners Group Holding AG",
+                "position": "Partner",
+                "salary": 243000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Invision Private Equity AG",
+                "position": "Fund Manager",
+                "salary": 1060000
+            }
+        ],
+        "aum": {
+            "savings": 1400000,
+            "inheritance": 6520000,
+            "real_estate_value": 2480000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2008,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2480000,
+                "property location": "Locarno"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Austria"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Jost Egli K\u00e4gi",
+        "first_name": "Jost",
+        "middle_name": "Egli",
+        "last_name": "K\u00e4gi",
+        "passport_number": "MR8887646",
+        "currency": "CHF",
+        "address": {
+            "city": "Locarno",
+            "street name": "Rue de l'Ath\u00e9n\u00e9e",
+            "street number": 31,
+            "postal code": "9371"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 094 579 70 59",
+        "email_address": "jost.kagi@upc.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Jost Egli K\u00e4gi since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nWith a career spanning nearly 29 years, Jost Egli K\u00e4gi has established himself as a key player in the industry.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Jost Egli K\u00e4gi is married to Annina. Together they have 1 kid called Lea.",
+        "Education Background": "Jost obtained his secondary school diploma from Gymnasium Hofwil Bern in 1989.\nIn 1994, Jost graduated from University of Fribourg with a degree.\n",
+        "Occupation History": "Jost Egli K\u00e4gi is a 53 year old and comes from Switzerland.\nJost Egli K\u00e4gi began his professional journey as a Analyst at Invision Private Equity AG in 1996, laying the foundation for future success.\nHe then transitioned to Equity4u AG as a Associate, leveraging his expertise to drive results from 2000 to 2003.\nIn 2005, he joined Invision Private Equity AG as a Investment Director, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHe worked as a Partner at Partners Group Holding AG from 2010 to 2013, playing a pivotal role in shaping the company's vision and strategy.\nSince joining Invision Private Equity AG as a Fund Manager in 2013, he has established himself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "Throughout his career, he saved 1400000 CHF, investing in various assets to grow his wealth.\nHe owns townhouse in Locarno, where he resides. It is worth 2480000 CHF.\n\nHe inherited a significant sum of 6520000 CHF from his grandmother, a respected Venture Capitalist, in 2008, which he has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

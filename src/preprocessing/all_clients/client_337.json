@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Lang",
+        "middle_name": "Schmid",
+        "last_name": "Schnell",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1955-08-08",
+        "passport_number": "WD8695026",
+        "passport_mrz": [
+            "P<AUTSCHNELL<<LANG<SCHMID<<<<<<<<<<<<<<<<<<<<",
+            "WD8695026AUT550808<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-12-29",
+        "passport_expiry_date": "2029-12-28"
+    },
+    "client_profile": {
+        "name": "Lang Schmid Schnell",
+        "address": {
+            "city": "Zwettl",
+            "street name": "Kohlmarkt",
+            "street number": 8,
+            "postal code": "5666"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1955-08-08",
+        "nationality": "Austrian",
+        "passport_number": "WD8695026",
+        "passport_issue_date": "2019-12-29",
+        "passport_expiry_date": "2029-12-28",
+        "gender": "M",
+        "phone_number": "+43 693 116 8028",
+        "email_address": "lang.schnell@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Fran\u00e7ais de Vienne",
+            "graduation_year": 1975
+        },
+        "higher_education": [
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1983,
+                "company": "Leopold Museum",
+                "position": "Art Dealer",
+                "salary": 35000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1987,
+                "company": "Belvedere Museum",
+                "position": "Gallery Owner",
+                "salary": 45000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 2016,
+                "company": "Leopold Museum",
+                "position": "Art Advisor",
+                "salary": 617000
+            }
+        ],
+        "aum": {
+            "savings": 1280000,
+            "inheritance": 0,
+            "real_estate_value": 4000000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1090000,
+                "property location": "Zwettl"
+            },
+            {
+                "property type": "condo",
+                "property value": 790000,
+                "property location": "Gmunden"
+            },
+            {
+                "property type": "villa",
+                "property value": 2120000,
+                "property location": "Spittal an der Drau"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lang Schmid Schnell",
+        "first_name": "Lang",
+        "middle_name": "Schmid",
+        "last_name": "Schnell",
+        "passport_number": "WD8695026",
+        "currency": "EUR",
+        "address": {
+            "city": "Zwettl",
+            "street name": "Kohlmarkt",
+            "street number": 8,
+            "postal code": "5666"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 693 116 8028",
+        "email_address": "lang.schnell@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Lang Schmid Schnell since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nHaving worked for over 46 years, Lang Schmid Schnell brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Lang Schmid Schnell is married to Lena. They do not have any children.",
+        "Education Background": "Lang completed his secondary education at Lyc\u00e9e Fran\u00e7ais de Vienne in 1975.\nIn 1980, Lang graduated from Graz University of Technology with a degree.\n",
+        "Occupation History": "With a career spanning nearly 46 years, Lang Schmid Schnell has established himself as a key player in the industry.\nAt Leopold Museum, Lang Schmid Schnell held the position of Art Dealer from 1979 to 1983, developing essential skills in the field.\nIn 1984, he moved to Belvedere Museum to work as a Gallery Owner, applying his knowledge to achieve outstanding performance.\nHe spent 29 years working as a Art Advisor at Leopold Museum, refining his expertise and building a strong network.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1280000 EUR.\nHe has townhouse located in Zwettl, worth 1090000 EUR.\n\nIn addition to his primary residence, he owns condo in Gmunden worth 790000 EUR.\n\nOn top of that he inherited a beautiful villa in Spittal an der Drau, which could be used as a weekend getaway. It is valued at 2120000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

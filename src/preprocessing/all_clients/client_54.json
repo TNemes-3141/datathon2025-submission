@@ -1,0 +1,123 @@
+{
+    "passport": {
+        "first_name": "Alba",
+        "middle_name": "Araceli",
+        "last_name": "D\u00edaz",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1990-05-29",
+        "passport_number": "KZ1976111",
+        "passport_mrz": [
+            "P<ESPD\u00cdAZ<<ALBA<ARACELI<<<<<<<<<<<<<<<<<<<<<<",
+            "KZ1976111ESP900529<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-29",
+        "passport_expiry_date": "2027-08-28"
+    },
+    "client_profile": {
+        "name": "Alba Araceli D\u00edaz",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Diagonal",
+            "street number": 28,
+            "postal code": "85206"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1990-05-29",
+        "nationality": "Spanish",
+        "passport_number": "KZ1976111",
+        "passport_issue_date": "2017-08-29",
+        "passport_expiry_date": "2027-08-28",
+        "gender": "F",
+        "phone_number": "+34 654 706 057",
+        "email_address": "alba.diaz@wanadoo.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Gin\u00e9s Mart\u00ednez de Aranda Albacete",
+            "graduation_year": 2008
+        },
+        "higher_education": [
+            {
+                "university": "University of Valencia",
+                "graduation_year": 2013
+            },
+            {
+                "university": "University of Granada",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": 2015,
+                "company": "Apax Partners Espa\u00f1a S.A.",
+                "position": "Analyst",
+                "salary": 26000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Groupe Carlyle S.A.R.L.",
+                "position": "Associate",
+                "salary": 43000
+            }
+        ],
+        "aum": {
+            "savings": 50000,
+            "inheritance": 2420000,
+            "real_estate_value": 2094000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 834000,
+                "property location": "Bilbao"
+            },
+            {
+                "property type": "house",
+                "property value": 1260000,
+                "property location": "Salamanca"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Alba Araceli D\u00edaz",
+        "first_name": "Alba",
+        "middle_name": "Araceli",
+        "last_name": "D\u00edaz",
+        "passport_number": "KZ1976111",
+        "currency": "EUR",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Diagonal",
+            "street number": 28,
+            "postal code": "85206"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 654 706 057",
+        "email_address": "alba.diaz@wanadoo.es"
+    },
+    "client_description": {
+        "Summary Note": "Alba Araceli D\u00edaz and the RM are cousins, having grown up together in Madrid. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nAlba Araceli D\u00edaz is a seasoned professional with over 11 years of experience.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Alba Araceli D\u00edaz is married to S\u00e1nchez. They do not have any children.",
+        "Education Background": "Alba graduated from IES Gin\u00e9s Mart\u00ednez de Aranda Albacete in 2008.\nAfter that, she went on to study at University of Valencia until 2013.\nOn top of that she then attended University of Granada, where she graduated in 2018.\n",
+        "Occupation History": "Alba Araceli D\u00edaz is a 34 year old and comes from Spain.\nAlba Araceli D\u00edaz launched her career as a Analyst at Apax Partners Espa\u00f1a S.A., where she gained valuable experience from 2014 to 2015.\nShe then transitioned to Groupe Carlyle S.A.R.L. as a Associate, leveraging her expertise to drive results from 2016 till now.\n",
+        "Wealth Summary": "She managed to save approximately 50000 EUR from her earnings at all companies.\nShe owns 2 exceptional properties: flat located in Bilbao, valued at approximately 834,000.00 EUR, house located in Salamanca, valued at approximately 1,260,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Bilbao and Salamanca.\nIn 2018, she received an inheritance of 2420000 EUR from her late grandmother, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

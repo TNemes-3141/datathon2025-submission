@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Essi",
+        "middle_name": "Aada",
+        "last_name": "Heikkinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1981-11-27",
+        "passport_number": "OG8881394",
+        "passport_mrz": [
+            "P<FINHEIKKINEN<<ESSI<AADA<<<<<<<<<<<<<<<<<<<<",
+            "OG8881394FIN811127<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-05-13",
+        "passport_expiry_date": "2032-05-12"
+    },
+    "client_profile": {
+        "name": "Essi Aada Heikkinen",
+        "address": {
+            "city": "Turku",
+            "street name": "Karjalankatu",
+            "street number": 47,
+            "postal code": "88076"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1981-11-27",
+        "nationality": "Finnish",
+        "passport_number": "OG8881394",
+        "passport_issue_date": "2032-05-12",
+        "passport_expiry_date": "2022-05-13",
+        "gender": "F",
+        "phone_number": "+358 041 148 42 10",
+        "email_address": "essi.heikkinen@luukku.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Helsingin Ranskalainen Koulu",
+            "graduation_year": 2001
+        },
+        "higher_education": [
+            {
+                "university": "Diaconia University of Applied Sciences",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Pharmia Sinensis Oy",
+                "position": "Research Scientist",
+                "salary": 38000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2009,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "Clinical Trials Manager",
+                "salary": 56000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Orion Corporation",
+                "position": "Regulatory Affairs Director",
+                "salary": 255000
+            }
+        ],
+        "aum": {
+            "savings": 410000,
+            "inheritance": 470000,
+            "real_estate_value": 1591000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 681000,
+                "property location": "Turku"
+            },
+            {
+                "property type": "condo",
+                "property value": 910000,
+                "property location": "Kotka"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Essi Aada Heikkinen",
+        "first_name": "Essi",
+        "middle_name": "Aada",
+        "last_name": "Heikkinen",
+        "passport_number": "OG8881394",
+        "currency": "EUR",
+        "address": {
+            "city": "Turku",
+            "street name": "Karjalankatu",
+            "street number": 47,
+            "postal code": "88076"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 041 148 42 10",
+        "email_address": "essi.heikkinen@luukku.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Essi Aada Heikkinen during a business conference in Helsinki. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nHaving worked for over 20 years, Essi Aada Heikkinen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Essi Aada Heikkinen has been happily married to Ahonen since 2014. Their children are named Voutilainen, M\u00e4kinen and Hiltunen.",
+        "Education Background": "Essi received her secondary school diploma from Helsingin Ranskalainen Koulu in 2001.\nIn 2004, Essi graduated from Diaconia University of Applied Sciences with a degree.\n",
+        "Occupation History": "Essi Aada Heikkinen is a 43 year old Regulatory Affairs Director from Finland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2005, Essi Aada Heikkinen started working as a Research Scientist at Pharmia Sinensis Oy, marking the beginning of her successful career.\nAfter gaining experience, she took on the role of Clinical Trials Manager at Finnish Red Cross Blood Service in 2006, further expanding her skill set.\nShe spent 14 years working as a Regulatory Affairs Director at Orion Corporation, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "While working, she saved 410000 EUR, which she used to build a diversified investment portfolio.\nShe owns 2 exceptional properties: condo located in Turku, valued at approximately 681,000.00 EUR, condo located in Kotka, valued at approximately 910,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Turku and Kotka.\n\nIn addition to her career success, she also received an inheritance of 470000 EUR from her late grandmother, a renowned Real Estate Developer, in 2015.\n",
+        "Client Summary": "In summary, Essi has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

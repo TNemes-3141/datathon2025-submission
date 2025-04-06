@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Neumann",
+        "middle_name": "",
+        "last_name": "Schultz",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1996-06-25",
+        "passport_number": "XG4643645",
+        "passport_mrz": [
+            "P<DEUSCHULTZ<<NEUMANN<<<<<<<<<<<<<<<<<<<<<<<<",
+            "XG4643645DEU960625<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-10-26",
+        "passport_expiry_date": "2029-10-25"
+    },
+    "client_profile": {
+        "name": "Neumann Schultz",
+        "address": {
+            "city": "Menen",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 4,
+            "postal code": "0510"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1996-06-25",
+        "nationality": "German",
+        "passport_number": "XG4643645",
+        "passport_issue_date": "2019-10-26",
+        "passport_expiry_date": "2029-10-25",
+        "gender": "M",
+        "phone_number": "0457 382 294",
+        "email_address": "neumann.schultz@edpnet.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Caspar-Olevian-Gymnasium Trier",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "University of Heidelberg",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "ExxonMobil Belgium NV",
+                "position": "Drilling Engineer",
+                "salary": 54000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 1620000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Neumann Schultz",
+        "first_name": "Neumann",
+        "middle_name": "",
+        "last_name": "Schultz",
+        "passport_number": "XG4643645",
+        "currency": "EUR",
+        "address": {
+            "city": "Menen",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 4,
+            "postal code": "0510"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0457 382 294",
+        "email_address": "neumann.schultz@edpnet.be"
+    },
+    "client_description": {
+        "Summary Note": "Neumann Schultz and the RM were introduced at an art auction in Brussels. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nNeumann Schultz is a 28 year old Drilling Engineer from Belgium.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Neumann Schultz and Benita tied the knot in 2024. They do not have any children.",
+        "Education Background": "In 2016, Neumann graduated from Caspar-Olevian-Gymnasium Trier with a secondary school diploma.\nHe then attended University of Heidelberg, which he graduated in 2020.\n",
+        "Occupation History": "Neumann Schultz is a 28 year old Drilling Engineer from Belgium.\nNeumann Schultz began his professional journey as a Drilling Engineer at ExxonMobil Belgium NV in 2020, laying the foundation for future success.\n",
+        "Wealth Summary": "He managed to save approximately 40000 EUR from his earnings at all companies.\nClient does not have any properties.\nFollowing the passing of his grandmother, a successful Neurosurgeon, he received an inheritance of 1620000 EUR in 2020, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": " Jos\u00e9phine",
+        "middle_name": "Camille",
+        "last_name": "Moreau",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1981-12-28",
+        "passport_number": "HY9695153",
+        "passport_mrz": [
+            "P<FRAMOREAU<< JOS\u00c9PHINE<CAMILLE<<<<<<<<<<<<<<",
+            "HY9695153FRA811228<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-06-06",
+        "passport_expiry_date": "2032-06-05"
+    },
+    "client_profile": {
+        "name": " Jos\u00e9phine Camille Moreau",
+        "address": {
+            "city": "Clermont-Ferrand",
+            "street name": "Rue de la Convention",
+            "street number": 93,
+            "postal code": "61746"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1981-12-28",
+        "nationality": "French",
+        "passport_number": "HY9695153",
+        "passport_issue_date": "2022-06-06",
+        "passport_expiry_date": "2032-06-05",
+        "gender": "F",
+        "phone_number": "+33 00 72 16 33 95",
+        "email_address": "josephine.moreau@bbox.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Victor Hugo",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "IUT de Lyon",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2007,
+                "company": "Thales S.A.",
+                "position": "Software Developer",
+                "salary": 29000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2014,
+                "company": "STMicroelectronics S.A.",
+                "position": "Startup Founder",
+                "salary": 43000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "STMicroelectronics S.A.",
+                "position": "CEO",
+                "salary": 259000
+            }
+        ],
+        "aum": {
+            "savings": 330000,
+            "inheritance": 4190000,
+            "real_estate_value": 3450000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2013,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1580000,
+                "property location": "Clermont-Ferrand"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1870000,
+                "property location": "Reims"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": " Jos\u00e9phine Camille Moreau",
+        "first_name": " Jos\u00e9phine",
+        "middle_name": "Camille",
+        "last_name": "Moreau",
+        "passport_number": "HY9695153",
+        "currency": "EUR",
+        "address": {
+            "city": "Clermont-Ferrand",
+            "street name": "Rue de la Convention",
+            "street number": 93,
+            "postal code": "61746"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 00 72 16 33 95",
+        "email_address": "josephine.moreau@bbox.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM met  Jos\u00e9phine Camille Moreau at a yacht party in Paris. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\n Jos\u00e9phine Camille Moreau is a 43 year old and comes from France.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Jos\u00e9phine Camille Moreau has been happily married to Boucher since 2007. Their children are named Lema\u00eetre, Marchand and Fournier.",
+        "Education Background": " Jos\u00e9phine completed her secondary education at Lyc\u00e9e Victor Hugo in 2001.\n Jos\u00e9phine finished her studies at IUT de Lyon in 2004.\n",
+        "Occupation History": " Jos\u00e9phine Camille Moreau is a 43 year old CEO from France.\nAt Thales S.A.,  Jos\u00e9phine Camille Moreau held the position of Software Developer from 2005 to 2007, developing essential skills in the field.\nAfter gaining experience, she took on the role of Startup Founder at STMicroelectronics S.A. in 2009, further expanding her skill set.\nAt STMicroelectronics S.A., she worked as a CEO from 2014 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "She managed to save approximately 330000 EUR from her earnings at all companies.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 3450000 EUR.\n\nShe inherited a significant sum of 4190000 EUR from her grandfather, a respected Neurosurgeon, in 2013, which she has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have  Jos\u00e9phine as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

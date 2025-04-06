@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Hortense",
+        "middle_name": "Flore",
+        "last_name": "Lefebvre",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1980-01-14",
+        "passport_number": "HB3923059",
+        "passport_mrz": [
+            "P<FRALEFEBVRE<<HORTENSE<FLORE<<<<<<<<<<<<<<<<",
+            "HB3923059FRA800114<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-09-07",
+        "passport_expiry_date": "2031-09-06"
+    },
+    "client_profile": {
+        "name": "Hortense Flore Lefebvre",
+        "address": {
+            "city": "Metz",
+            "street name": "Rue Soufflot",
+            "street number": 35,
+            "postal code": "25188"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1980-01-14",
+        "nationality": "French",
+        "passport_number": "HB3923059",
+        "passport_issue_date": "2021-09-07",
+        "passport_expiry_date": "2031-09-06",
+        "gender": "F",
+        "phone_number": "05 67 75 74 06",
+        "email_address": "hortense.lefebvre@numericable.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Fr\u00e9d\u00e9ric Chopin",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole nationale sup\u00e9rieure des arts d\u00e9coratifs",
+                "graduation_year": 2003
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2007,
+                "company": "TF1 Group",
+                "position": "Journalist",
+                "salary": 30000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2012,
+                "company": "Canal+ Group",
+                "position": "Editor",
+                "salary": 43000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "TF1 Group",
+                "position": "Publisher",
+                "salary": 241000
+            }
+        ],
+        "aum": {
+            "savings": 370000,
+            "inheritance": 260000,
+            "real_estate_value": 2140000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2140000,
+                "property location": "Metz"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hortense Flore Lefebvre",
+        "first_name": "Hortense",
+        "middle_name": "Flore",
+        "last_name": "Lefebvre",
+        "passport_number": "HB3923059",
+        "currency": "EUR",
+        "address": {
+            "city": "Metz",
+            "street name": "Rue Soufflot",
+            "street number": 35,
+            "postal code": "25188"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "05 67 75 74 06",
+        "email_address": "hortense.lefebvre@numericable.fr"
+    },
+    "client_description": {
+        "Summary Note": "Hortense Flore Lefebvre and the RM crossed paths at a mutual friend's dinner party in Paris. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHortense Flore Lefebvre is a 45 year old Publisher from France.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Hortense Flore Lefebvre is currently single. She does not have any children.",
+        "Education Background": "Hortense earned her secondary school diploma from Lyc\u00e9e Fr\u00e9d\u00e9ric Chopin in 1997.\nHortense completed her university studies at \u00c9cole nationale sup\u00e9rieure des arts d\u00e9coratifs in 2003.\n",
+        "Occupation History": "Hortense Flore Lefebvre is a 45 year old Publisher from France. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt TF1 Group, Hortense Flore Lefebvre held the position of Journalist from 2004 to 2007, developing essential skills in the field.\nIn 2009, she moved to Canal+ Group to work as a Editor, applying her knowledge to achieve outstanding performance.\nAt TF1 Group, she worked as a Publisher from 2012 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, she saved 370000 EUR, which she used to build a diversified investment portfolio.\nShe owns townhouse in Metz, where she resides. It is worth 2140000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 260000 EUR from her late grandfather, a renowned Oil and Gas Executive, in 2009.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

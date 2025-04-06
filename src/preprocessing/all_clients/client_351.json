@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Madsen",
+        "middle_name": "H\u00f8jgaard",
+        "last_name": "Rasmussen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1961-12-31",
+        "passport_number": "DO5050506",
+        "passport_mrz": [
+            "P<DNKNIELSEN<<MADSEN<H\u00d8JGAARD<<<<<<<<<<<<<<<<",
+            "DO5050506DNK611231<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-07-13",
+        "passport_expiry_date": "2034-07-12"
+    },
+    "client_profile": {
+        "name": "Madsen H\u00f8jgaard Nielsen",
+        "address": {
+            "city": "Helsing\u00f8r",
+            "street name": "Sortedams Dossering",
+            "street number": 100,
+            "postal code": "7936"
+        },
+        "country_of_domicile": "Denmark,Switzerland",
+        "birth_date": "1961-12-31",
+        "nationality": "Danish",
+        "passport_number": "DO5050506",
+        "passport_issue_date": "2024-07-13",
+        "passport_expiry_date": "2034-07-12",
+        "gender": "M",
+        "phone_number": "34 77 87 88",
+        "email_address": "madsen.nielsen@gmail.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Birker\u00f8d Gymnasium",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "Kromann Reumert",
+                "position": "Associate Attorney",
+                "salary": 294000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 2022,
+                "company": "Kromann Reumert",
+                "position": "Senior Associate",
+                "salary": 2107000
+            }
+        ],
+        "aum": {
+            "savings": 4010000,
+            "inheritance": 0,
+            "real_estate_value": 4172000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1202000,
+                "property location": "Helsing\u00f8r"
+            },
+            {
+                "property type": "flat",
+                "property value": 1190000,
+                "property location": "Copenhagen"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1780000,
+                "property location": "Silkeborg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "France"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Madsen H\u00f8jgaard Nielsen",
+        "first_name": "Madsen",
+        "middle_name": "H\u00f8jgaard",
+        "last_name": "Nielsen",
+        "passport_number": "DO5050506",
+        "currency": "DKK",
+        "address": {
+            "city": "Helsing\u00f8r",
+            "street name": "Sortedams Dossering",
+            "street number": 100,
+            "postal code": "7936"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "34 77 87 88",
+        "email_address": "madsen.nielsen@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Madsen H\u00f8jgaard Nielsen on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 40 years, Madsen H\u00f8jgaard Nielsen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Madsen H\u00f8jgaard Nielsen is currently single. He does not have any children.",
+        "Education Background": "Madsen obtained his secondary school diploma from Birker\u00f8d Gymnasium in 1979.\nAfter that, he went on to study at Copenhagen Business School until 1984.\n",
+        "Occupation History": "Madsen H\u00f8jgaard Nielsen is a 63 year old retired Senior Associate from Denmark.\nAt Kromann Reumert, Madsen H\u00f8jgaard Nielsen held the position of Associate Attorney from 1985 to 1987, developing essential skills in the field.\nHe then transitioned to Kromann Reumert as a Senior Associate, leveraging his expertise to drive results from 1989 till retirement.\n",
+        "Wealth Summary": "While working, he saved 4010000 DKK, which he used to build a diversified investment portfolio.\nHe owns townhouse in Helsing\u00f8r, where he resides. It is worth 1202000 DKK.\n\nIn addition to his primary residence, he owns flat in Copenhagen worth 1190000 DKK.\n\nMoreover, he has invested in additional property in Silkeborg, giving possiblity for generating additional income. The townhouse is valued at 1780000 DKK.\n\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

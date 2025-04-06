@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Sof\u00eda",
+        "middle_name": "Cristina",
+        "last_name": "\u00c1lvarez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "2001-12-28",
+        "passport_number": "TL6751690",
+        "passport_mrz": [
+            "P<ESP\u00c1LVAREZ<<SOF\u00cdA<CRISTINA<<<<<<<<<<<<<<<<<",
+            "TL6751690ESP011228<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-04-10",
+        "passport_expiry_date": "2021-04-09"
+    },
+    "client_profile": {
+        "name": "Sof\u00eda Cristina \u00c1lvarez",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Rambla",
+            "street number": 30,
+            "postal code": "93468"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "2001-12-28",
+        "nationality": "Spanish",
+        "passport_number": "TL6751690",
+        "passport_issue_date": "2016-04-10",
+        "passport_expiry_date": "2021-04-09",
+        "gender": "F",
+        "phone_number": "+34 685 281 472",
+        "email_address": "sofia.alvarez@ya.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Antonio Machado Logro\u00f1o",
+            "graduation_year": 2020
+        },
+        "higher_education": [
+            {
+                "university": "Polytechnic University of Catalonia",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2180000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Denmark"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sof\u00eda Cristina \u00c1lvarez",
+        "first_name": "Sof\u00eda",
+        "middle_name": "Cristina",
+        "last_name": "\u00c1lvarez",
+        "passport_number": "TL6751690",
+        "currency": "EUR",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Rambla",
+            "street number": 30,
+            "postal code": "93468"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 685 281 472",
+        "email_address": "sofia.alvarez@ya.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Sof\u00eda Cristina \u00c1lvarez during a business conference in Madrid. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nSof\u00eda Cristina \u00c1lvarez is a 23 year old and comes from Spain.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Sof\u00eda Cristina \u00c1lvarez is currently single. She does not have any children.",
+        "Education Background": "Sof\u00eda finished secondary school at IES Antonio Machado Logro\u00f1o in 2020.\nSof\u00eda pursued higher education at Polytechnic University of Catalonia, graduating in 2025.\n",
+        "Occupation History": "Sof\u00eda Cristina \u00c1lvarez is a 23 year old and comes from Spain.\nSof\u00eda Cristina \u00c1lvarez did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 2180000 EUR from her late grandmother, a renowned Stock Trader, in 2016.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

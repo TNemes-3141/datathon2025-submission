@@ -1,0 +1,139 @@
+{
+    "passport": {
+        "first_name": "Rasmussen",
+        "middle_name": "S\u00f8rensen",
+        "last_name": "Knudsen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1969-11-24",
+        "passport_number": "RM5816936",
+        "passport_mrz": [
+            "P<DNKKNUDSEN<<RASMUSSEN<S\u00d8RENSEN<<<<<<<<<<<<<",
+            "RM5816936DNK691124<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-05-09",
+        "passport_expiry_date": "2032-05-08"
+    },
+    "client_profile": {
+        "name": "Rasmussen S\u00f8rensen Knudsen",
+        "address": {
+            "city": "Gladsaxe",
+            "street name": "Kongens Nytorv",
+            "street number": 7,
+            "postal code": "4044"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1969-11-24",
+        "nationality": "Danish",
+        "passport_number": "RM5816936",
+        "passport_issue_date": "2022-05-09",
+        "passport_expiry_date": "2032-05-08",
+        "gender": "M",
+        "phone_number": "80 00 84 25",
+        "email_address": "rasmussen.knudsen@gmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Slagelse Gymnasium",
+            "graduation_year": 1987
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1995,
+                "company": "Danske Bank A/S",
+                "position": "Investment Banker",
+                "salary": 289000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1998,
+                "company": "Jyske Bank A/S",
+                "position": "Private Equity Investor",
+                "salary": 402000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2004,
+                "company": "Jyske Bank A/S",
+                "position": "Hedge Fund Manager",
+                "salary": 963000
+            },
+            {
+                "start_year": 2005,
+                "end_year": null,
+                "company": "Jyske Bank A/S",
+                "position": "Venture Capitalist",
+                "salary": 4549000
+            }
+        ],
+        "aum": {
+            "savings": 7230000,
+            "inheritance": 18740000,
+            "real_estate_value": 3686000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2008,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1096000,
+                "property location": "Gladsaxe"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1340000,
+                "property location": "Frederiksberg"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1250000,
+                "property location": "Roskilde"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Rasmussen S\u00f8rensen Knudsen",
+        "first_name": "Rasmussen",
+        "middle_name": "S\u00f8rensen",
+        "last_name": "Knudsen",
+        "passport_number": "RM5816936",
+        "currency": "DKK",
+        "address": {
+            "city": "Gladsaxe",
+            "street name": "Kongens Nytorv",
+            "street number": 7,
+            "postal code": "4044"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "80 00 84 25",
+        "email_address": "rasmussen.knudsen@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Rasmussen S\u00f8rensen Knudsen and the RM crossed paths at a mutual friend's dinner party in Copenhagen. They discovered they had many common acquaintances and decided to explore business opportunities together.\nRasmussen S\u00f8rensen Knudsen is a 55 year old Venture Capitalist from Denmark. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Rasmussen S\u00f8rensen Knudsen is currently divorced. He has 1 kid called Agnes.",
+        "Education Background": "Rasmussen obtained his secondary school diploma from Slagelse Gymnasium in 1987.\nRasmussen received his degree from Aarhus University in 1994.\n",
+        "Occupation History": "Rasmussen S\u00f8rensen Knudsen is a 55 year old and comes from Denmark.\nAt Danske Bank A/S, Rasmussen S\u00f8rensen Knudsen held the position of Investment Banker from 1993 to 1995, developing essential skills in the field.\nAt Jyske Bank A/S, he held the position of Private Equity Investor from 1996 to 1998, making significant contributions to the organization.\nFrom 1999 to 2004, he served as a Hedge Fund Manager at Jyske Bank A/S, solidifying his position as a leader in the industry.\nHe appointment as a Venture Capitalist at Jyske Bank A/S in 2005 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "He managed to save approximately 7230000 DKK from his earnings at all companies.\nHe has townhouse located in Gladsaxe, worth 1096000 DKK.\n\nHe purchased townhouse in Frederiksberg, where he spends his holidays. It is valued at 1340000 DKK.\nMoreover, he has invested in additional property in Roskilde, giving possiblity for generating additional income. The townhouse is valued at 1250000 DKK.\n\nIn 2008, he received an inheritance of 18740000 DKK from his late grandmother, who was a prominent Corporate Lawyer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

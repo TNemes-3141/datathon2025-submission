@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Giovanna",
+        "middle_name": "Eleonora",
+        "last_name": "Galli",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1999-08-07",
+        "passport_number": "KO1513989",
+        "passport_mrz": [
+            "P<ITAGALLI<<GIOVANNA<ELEONORA<<<<<<<<<<<<<<<<",
+            "KO1513989ITA990807<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-09-06",
+        "passport_expiry_date": "2034-09-05"
+    },
+    "client_profile": {
+        "name": "Giovanna Eleonora Galli",
+        "address": {
+            "city": "Bari",
+            "street name": "Via Dora Riparia",
+            "street number": 42,
+            "postal code": "36618"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1999-08-07",
+        "nationality": "Italian",
+        "passport_number": "KO1513989",
+        "passport_issue_date": "2024-09-06",
+        "passport_expiry_date": "2034-09-05",
+        "gender": "F",
+        "phone_number": "+39 337 0500871",
+        "email_address": "giovanna.galli@yahoo.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Liceo Linguistico Internazionale Galileo Galilei Firenze",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Luiss Guido Carli",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": 2025,
+                "company": " Marriott International Italia S.r.l.",
+                "position": "Hotel Manager",
+                "salary": 27000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1150000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Giovanna Eleonora Galli",
+        "first_name": "Giovanna",
+        "middle_name": "Eleonora",
+        "last_name": "Galli",
+        "passport_number": "KO1513989",
+        "currency": "EUR",
+        "address": {
+            "city": "Bari",
+            "street name": "Via Dora Riparia",
+            "street number": 42,
+            "postal code": "36618"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 337 0500871",
+        "email_address": "giovanna.galli@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Giovanna Eleonora Galli and the RM met at a financial seminar in Rome. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nGiovanna Eleonora Galli is a 25 year old Hotel Manager from Italy.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Giovanna Eleonora Galli is currently divorced. She does not have any children.",
+        "Education Background": "Giovanna finished secondary school at Liceo Linguistico Internazionale Galileo Galilei Firenze in 2019.\nGiovanna completed her university education at Luiss Guido Carli in 2023.\n",
+        "Occupation History": "Giovanna Eleonora Galli is a 25 year old and comes from Italy.\nGiovanna Eleonora Galli began her professional journey as a Hotel Manager at  Marriott International Italia S.r.l. in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 10000 EUR.\nClient does not have any properties.She inherited 1150000 EUR from her grandfather, a well-known Hedge Fund Manager, in 2020, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

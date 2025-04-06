@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Schmitt",
+        "middle_name": "Lorenz",
+        "last_name": "Richter",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1967-11-25",
+        "passport_number": "TI3484648",
+        "passport_mrz": [
+            "P<DEURICHTER<<SCHMITT<LORENZ<<<<<<<<<<<<<<<<<",
+            "TI3484648DEU671125<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1963-03-17",
+        "passport_expiry_date": "1973-03-16"
+    },
+    "client_profile": {
+        "name": "Schmitt Lorenz Richter",
+        "address": {
+            "city": "Logro\u00f1o",
+            "street name": "Calle de San Andr\u00e9s",
+            "street number": 94,
+            "postal code": "64514"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1967-11-25",
+        "nationality": "German",
+        "passport_number": "TI3484648",
+        "passport_issue_date": "2023-03-17",
+        "passport_expiry_date": "2033-03-16",
+        "gender": "M",
+        "phone_number": "+34 683 279 166",
+        "email_address": "schmitt.richter@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium am Stadtgarten K\u00f6ln",
+            "graduation_year": 1985
+        },
+        "higher_education": [
+            {
+                "university": "ISM Dortmund",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1991,
+                "end_year": 1994,
+                "company": "Reina Sofia Museum",
+                "position": "Art Dealer",
+                "salary": 42000
+            },
+            {
+                "start_year": 1995,
+                "end_year": null,
+                "company": "CaixaForum",
+                "position": "Gallery Owner",
+                "salary": 349000
+            }
+        ],
+        "aum": {
+            "savings": 650000,
+            "inheritance": 840000,
+            "real_estate_value": 740000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2014,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 740000,
+                "property location": "Logro\u00f1o"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schmitt Lorenz Richter",
+        "first_name": "Schmitt",
+        "middle_name": "Lorenz",
+        "last_name": "Richter",
+        "passport_number": "TI3484648",
+        "currency": "EUR",
+        "address": {
+            "city": "Logro\u00f1o",
+            "street name": "Calle de San Andr\u00e9s",
+            "street number": 94,
+            "postal code": "64514"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 683 279 166",
+        "email_address": "schmitt.richter@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Schmitt Lorenz Richter and the RM were introduced at a gourmet food festival in Madrid. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nWith a career spanning nearly 34 years, Schmitt Lorenz Richter has established himself as a key player in the industry.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Schmitt Lorenz Richter is married to Gwendolyn. Together they have 1 kid called Carolin.",
+        "Education Background": "Schmitt finished secondary school at Gymnasium am Stadtgarten K\u00f6ln in 1985.\nAfter that, he went on to study at ISM Dortmund until 1991.\n",
+        "Occupation History": "With a career spanning nearly 34 years, Schmitt Lorenz Richter has established himself as a key player in the industry.\nAt Reina Sofia Museum, Schmitt Lorenz Richter held the position of Art Dealer from 1991 to 1994, developing essential skills in the field.\nHe then transitioned to CaixaForum as a Gallery Owner, leveraging his expertise to drive results from 1995 till now.\n",
+        "Wealth Summary": "While working, he saved 650000 EUR, which he used to build a diversified investment portfolio.\nHe owns flat in Logro\u00f1o, where he resides. It is worth 740000 EUR.\n\n\nFollowing the passing of his grandfather, a successful Venture Capitalist, he received an inheritance of 840000 EUR in 2014, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In summary, Schmitt has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

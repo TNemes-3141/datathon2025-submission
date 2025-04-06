@@ -1,0 +1,113 @@
+{
+    "passport": {
+        "first_name": "Dekkers",
+        "middle_name": "Brinkman",
+        "last_name": "Van der Meer",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1992-09-19",
+        "passport_number": "NQ7280657",
+        "passport_mrz": [
+            "P<NLDVAN DER MEER<<DEKKERS<BRINKMAN<<<<<<<<<<",
+            "NQ7280657NLD920919<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-04-24",
+        "passport_expiry_date": "2033-04-23"
+    },
+    "client_profile": {
+        "name": "Dekkers Brinkman Van der Meer",
+        "address": {
+            "city": "The Hague",
+            "street name": "Waldeck Pyrmontkade",
+            "street number": 10,
+            "postal code": "4424 85"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1992-09-19",
+        "nationality": "Dutch",
+        "passport_number": "NQ7280657",
+        "passport_issue_date": "2023-04-24",
+        "passport_expiry_date": "2033-04-23",
+        "gender": "M",
+        "phone_number": "+31 06 37533968",
+        "email_address": "dekkers.vandermeer@chello.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Wesselink College Amersfoort",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "Webster University Leiden",
+                "graduation_year": 2016
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "PGGM Investments",
+                "position": "Stockbroker",
+                "salary": 50000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 860000,
+            "real_estate_value": 3050000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1590000,
+                "property location": "The Hague"
+            },
+            {
+                "property type": "house",
+                "property value": 1460000,
+                "property location": "Groningen"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Dekkers Brinkman Van der Meer",
+        "first_name": "Dekkers",
+        "middle_name": "Brinkman",
+        "last_name": "Van der Meer",
+        "passport_number": "NQ7280657",
+        "currency": "EUR",
+        "address": {
+            "city": "The Hague",
+            "street name": "Waldeck Pyrmontkade",
+            "street number": 10,
+            "postal code": "4424 85"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 37533968",
+        "email_address": "dekkers.vandermeer@chello.nl"
+    },
+    "client_description": {
+        "Summary Note": "Dekkers Brinkman Van der Meer and the RM met at a networking event in Amsterdam. They quickly realized they had complementary skills and decided to collaborate on several projects.\nDekkers Brinkman Van der Meer is a 32 year old and comes from Netherlands.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Dekkers Brinkman Van der Meer has been happily married to Charlotte since 2022. Dekkers and Charlotte have 2 children, named Evelien and Charlotte.",
+        "Education Background": "In 2010, Dekkers graduated from Wesselink College Amersfoort with a secondary school diploma.\nDekkers completed his university education at Webster University Leiden in 2016.\n",
+        "Occupation History": "Dekkers Brinkman Van der Meer is a 32 year old and comes from Netherlands.\nDekkers Brinkman Van der Meer launched his career as a Stockbroker at PGGM Investments, where he gained valuable experience from 2016 till now.\n",
+        "Wealth Summary": "He managed to save approximately 60000 EUR from his earnings at all companies.\nHe owns house in The Hague, where he resides. It is worth 1590000 EUR.\n\nHe purchased house in Groningen, where he spends his holidays. It is valued at 1460000 EUR.\n\nFollowing the passing of his grandfather, a successful Hedge Fund Manager, he received an inheritance of 860000 EUR in 2015, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

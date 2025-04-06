@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Laetitia",
+        "middle_name": "Laur\u00e8ne",
+        "last_name": "Renault",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FR",
+        "nationality": "French",
+        "birth_date": "1998-03-30",
+        "passport_number": "TB6673253",
+        "passport_mrz": [
+            "P<FRRENAULT<<LAETITIA<<<<<<<<<<<<<<<<<<<<<<<<",
+            "TB6673253FR980330<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-01-14",
+        "passport_expiry_date": "2032-01-13"
+    },
+    "client_profile": {
+        "name": "Laetitia Laur\u00e8ne Renault",
+        "address": {
+            "city": "Angers",
+            "street name": "Rue de la Paix",
+            "street number": 44,
+            "postal code": "47189"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1998-03-30",
+        "nationality": "French",
+        "passport_number": "TB6673253",
+        "passport_issue_date": "2022-01-14",
+        "passport_expiry_date": "2032-01-13",
+        "gender": "F",
+        "phone_number": "+33 01 67 69 05 25",
+        "email_address": "laetitia.renault@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e du Parc",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "University of Bordeaux",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Apax Partners SAS",
+                "position": "Analyst",
+                "salary": 31000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2210000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Laetitia Laur\u00e8ne Renault",
+        "first_name": "Laetitia",
+        "middle_name": "Laur\u00e8ne",
+        "last_name": "Renault",
+        "passport_number": "TB6673253",
+        "currency": "EUR",
+        "address": {
+            "city": "Angers",
+            "street name": "Rue de la Paix",
+            "street number": 44,
+            "postal code": "47189"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 01 67 69 05 25",
+        "email_address": "laetitia.renault@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Laetitia Laur\u00e8ne Renault and the RM met at a networking event in Paris. They quickly realized they had complementary skills and decided to collaborate on several projects.\nLaetitia Laur\u00e8ne Renault is a 27 year old and comes from France.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Laetitia Laur\u00e8ne Renault is married to Louis. They do not have any children.",
+        "Education Background": "Laetitia completed her secondary education at Lyc\u00e9e du Parc in 2015.\nLaetitia finished her studies at University of Bordeaux in 2022.\n",
+        "Occupation History": "Laetitia Laur\u00e8ne Renault is a 27 year old and comes from France.\nIn 2022, Laetitia Laur\u00e8ne Renault started working as a Analyst at Apax Partners SAS, marking the beginning of her successful career.\n",
+        "Wealth Summary": "She managed to save approximately 10000 EUR from her earnings at all companies.\nClient does not have any properties.She inherited 2210000 EUR from her grandfather, a well-known Oil and Gas Executive, in 2015, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

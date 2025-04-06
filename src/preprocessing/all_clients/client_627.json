@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "M\u00f8ller",
+        "middle_name": "Jespersen",
+        "last_name": "H\u00f8jgaard",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1981-01-15",
+        "passport_number": "XO8869564",
+        "passport_mrz": [
+            "P<DNKH\u00d8JGAARD<<M\u00d8LLER<JESPERSEN<<<<<<<<<<<<<<",
+            "XO8869564DNK810115<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-09-27",
+        "passport_expiry_date": "2030-09-26"
+    },
+    "client_profile": {
+        "name": "M\u00f8ller Jespersen H\u00f8jgaard",
+        "address": {
+            "city": "Taastrup",
+            "street name": "Krystalgade",
+            "street number": 25,
+            "postal code": "7752"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1918-01-15",
+        "nationality": "Danish",
+        "passport_number": "XO8869564",
+        "passport_issue_date": "2020-09-27",
+        "passport_expiry_date": "2030-09-26",
+        "gender": "M",
+        "phone_number": "+45 57 30 54 44",
+        "email_address": "mller.hjgaard@dk-hostmaster.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Skive Gymnasium",
+            "graduation_year": 1999
+        },
+        "higher_education": [
+            {
+                "university": "University College Capital",
+                "graduation_year": 2003
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Skanska Danmark A/S",
+                "position": "Property Manager",
+                "salary": 267000
+            },
+            {
+                "start_year": 2006,
+                "end_year": null,
+                "company": "NCC Danmark A/S",
+                "position": "Developer",
+                "salary": 1473000
+            }
+        ],
+        "aum": {
+            "savings": 2060000,
+            "inheritance": 50650000,
+            "real_estate_value": 5264000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2010,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1634000,
+                "property location": "Taastrup"
+            },
+            {
+                "property type": "flat",
+                "property value": 870000,
+                "property location": "Vejle"
+            },
+            {
+                "property type": "villa",
+                "property value": 2760000,
+                "property location": "Aalborg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Austria"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "M\u00f8ller Jespersen H\u00f8jgaard",
+        "first_name": "M\u00f8ller",
+        "middle_name": "Jespersen",
+        "last_name": "H\u00f8jgaard",
+        "passport_number": "XO8869564",
+        "currency": "DKK",
+        "address": {
+            "city": "Taastrup",
+            "street name": "Krystalgade",
+            "street number": 25,
+            "postal code": "7752"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 57 30 54 44",
+        "email_address": "mller.hjgaard@dk-hostmaster.dk"
+    },
+    "client_description": {
+        "Summary Note": "M\u00f8ller Jespersen H\u00f8jgaard and the RM are cousins, having grown up together in Copenhagen. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nWith a career spanning nearly 20 years, M\u00f8ller Jespersen H\u00f8jgaard has established himself as a key player in the industry.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "M\u00f8ller Jespersen H\u00f8jgaard and Gitte have been married since 2005. They are proud parents of 3 children: Agnes, Jensen and Jespersen.",
+        "Education Background": "M\u00f8ller finished secondary school at Skive Gymnasium in 1999.\nM\u00f8ller completed his university studies at University College Capital in 2003.\n",
+        "Occupation History": "With a career spanning nearly 20 years, M\u00f8ller Jespersen H\u00f8jgaard has established himself as a key player in the industry.\nIn 2005, M\u00f8ller Jespersen H\u00f8jgaard started working as a Property Manager at Skanska Danmark A/S, marking the beginning of his successful career.\nIn 2006, he moved to NCC Danmark A/S to work as a Developer, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 2060000 DKK.\nHe owns house in Taastrup, where he resides. It is worth 1634000 DKK.\n\nIn addition to his primary residence, he owns flat in Vejle worth 870000 DKK.\n\nOn top of that he inherited a beautiful villa in Aalborg, which could be used as a weekend getaway. It is valued at 2760000 DKK.\nIn 2010, he received an inheritance of 50650000 DKK from his late grandmother, who was a prominent Private Equity Manager, and has since invested it in various assets.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

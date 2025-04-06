@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Vilma",
+        "middle_name": "Helmi",
+        "last_name": "Sepp\u00e4l\u00e4",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1961-06-01",
+        "passport_number": "VL5331103",
+        "passport_mrz": [
+            "P<FINSEPP\u00c4L\u00c4<<VILMA<HELMI<<<<<<<<<<<<<<<<<<<<",
+            "VL5331103FIN610106<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-04-04",
+        "passport_expiry_date": "2033-04-03"
+    },
+    "client_profile": {
+        "name": "Vilma Helmi Sepp\u00e4l\u00e4",
+        "address": {
+            "city": "Toledo",
+            "street name": "Turia Gardens",
+            "street number": 91,
+            "postal code": "63689"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1961-01-06",
+        "nationality": "Finnish",
+        "passport_number": "VL5331103",
+        "passport_issue_date": "2023-04-04",
+        "passport_expiry_date": "2033-04-03",
+        "gender": "F",
+        "phone_number": "+34 661 167 704",
+        "email_address": "vilma.seppala@ya.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Kirkkonummen lukio",
+            "graduation_year": 1980
+        },
+        "higher_education": [
+            {
+                "university": "University of Jyv\u00e4skyl\u00e4",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "Iberostar Hotels & Resorts S.A.",
+                "position": "Hotel Manager",
+                "salary": 40000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1991,
+                "company": "Barcel\u00f3 Hotels & Resorts S.A.",
+                "position": "General Manager",
+                "salary": 57000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1996,
+                "company": "Barcel\u00f3 Hotels & Resorts S.A.",
+                "position": "Regional Vice President",
+                "salary": 150000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2000,
+                "company": "Iberostar Hotels & Resorts S.A.",
+                "position": "CEO",
+                "salary": 173000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2021,
+                "company": "Iberostar Hotels & Resorts S.A.",
+                "position": "Hospitality Industry Leader",
+                "salary": 959000
+            }
+        ],
+        "aum": {
+            "savings": 1720000,
+            "inheritance": 0,
+            "real_estate_value": 3032000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1080000,
+                "property location": "Toledo"
+            },
+            {
+                "property type": "house",
+                "property value": 1092000,
+                "property location": "Siilinj\u00e4rvi"
+            },
+            {
+                "property type": "flat",
+                "property value": 860000,
+                "property location": "Jyv\u00e4skyl\u00e4"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Vilma Helmi Sepp\u00e4l\u00e4",
+        "first_name": "Vilma",
+        "middle_name": "Helmi",
+        "last_name": "Sepp\u00e4l\u00e4",
+        "passport_number": "VL5331103",
+        "currency": "EUR",
+        "address": {
+            "city": "Toledo",
+            "street name": "Turia Gardens",
+            "street number": 91,
+            "postal code": "63689"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 661 167 704",
+        "email_address": "vilma.seppala@ya.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Vilma Helmi Sepp\u00e4l\u00e4 at a corporate retreat in Madrid. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nHaving worked for over 40 years, Vilma Helmi Sepp\u00e4l\u00e4 brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Vilma Helmi Sepp\u00e4l\u00e4 is currently divorced. She has 3 kids called Mattila, Salo and Eevi.",
+        "Education Background": "In 1980, Vilma graduated from Kirkkonummen lukio with a secondary school diploma.\nVilma completed her university education at University of Jyv\u00e4skyl\u00e4 in 1985.\n",
+        "Occupation History": "Vilma Helmi Sepp\u00e4l\u00e4 is a 64 year old retired Hospitality Industry Leader from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 1985, Vilma Helmi Sepp\u00e4l\u00e4 started working as a Hotel Manager at Iberostar Hotels & Resorts S.A., marking the beginning of her successful career.\nAt Barcel\u00f3 Hotels & Resorts S.A., she held the position of General Manager from 1989 to 1991, making significant contributions to the organization.\nHer tenure as a Regional Vice President at Barcel\u00f3 Hotels & Resorts S.A. from 1991 to 1996 was marked by significant achievements and a deepening understanding of the field.\nShe appointment as a CEO at Iberostar Hotels & Resorts S.A. in 1997 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\nVilma Helmi Sepp\u00e4l\u00e4 retired after holding the position of Hospitality Industry Leader at Iberostar Hotels & Resorts S.A. from 2000 to 2021.",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1720000 EUR.\nShe owns condo in Toledo, where she resides. It is worth 1080000 EUR.\n\nIn addition to her primary residence, she owns house in Siilinj\u00e4rvi worth 1092000 EUR.\n\nMoreover, she has invested in additional property in Jyv\u00e4skyl\u00e4, giving possiblity for generating additional income. The flat is valued at 860000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In summary, Vilma has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

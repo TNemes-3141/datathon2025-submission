@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Alexandra",
+        "middle_name": "Cl\u00e9mence",
+        "last_name": "Michiels",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1998-04-08",
+        "passport_number": "TQ3999645",
+        "passport_mrz": [
+            "P<BELMICHIELS<<ALEXANDRA<CL\u00c9MENCE<<<<<<<<<<<<",
+            "TQ3999645BEL980408<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-11-15",
+        "passport_expiry_date": "2026-11-14"
+    },
+    "client_profile": {
+        "name": "Alexandra Cl\u00e9mence Michiels",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": 100,
+            "postal code": "2994"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1998-04-08",
+        "nationality": "Belgian",
+        "passport_number": "TQ3999645",
+        "passport_issue_date": "2019-11-15",
+        "passport_expiry_date": "2026-11-14",
+        "gender": "F",
+        "phone_number": "0410 834 795",
+        "email_address": "alexandra.michiels@edpnet.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Sint-Lodewijkscollege",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "Conservatoire Royal de Li\u00e8ge",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Ablynx NV",
+                "position": "Research Scientist",
+                "salary": 37000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2130000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Alexandra Cl\u00e9mence Michiels",
+        "first_name": "Alexandra",
+        "middle_name": "Cl\u00e9mence",
+        "last_name": "Michiels",
+        "passport_number": "TQ3999645",
+        "currency": "EUR",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": 100,
+            "postal code": "2994"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0410 834 795",
+        "email_address": "alexandra.michiels@edpnet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Alexandra Cl\u00e9mence Michiels on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nAlexandra Cl\u00e9mence Michiels is a 26 year old and comes from Belgium.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Alexandra Cl\u00e9mence Michiels is currently single. She does not have any children.",
+        "Education Background": "Alexandra graduated from Sint-Lodewijkscollege in 2017.\nAlexandra finished her studies at Group T \u2013 International University College Leuven in 2021.\n",
+        "Occupation History": "Alexandra Cl\u00e9mence Michiels is a 26 year old and comes from Belgium.\nAlexandra Cl\u00e9mence Michiels began her professional journey as a Research Scientist at Ablynx NV in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "While working, she saved 10000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.\nFollowing the passing of her , a successful , she received an inheritance of 2130000 EUR in 2015, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

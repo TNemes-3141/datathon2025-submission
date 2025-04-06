@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Ingrid",
+        "middle_name": "Colombe",
+        "last_name": "Bernard",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1966-12-12",
+        "passport_number": "MV0497176",
+        "passport_mrz": [
+            "P<FRABERNARD<<INGRID<COLOMBE<<<<<<<<<<<<<<<<<",
+            "MV0497176FRA661212<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-07-04",
+        "passport_expiry_date": "2027-07-03"
+    },
+    "client_profile": {
+        "name": "Ingrid Colombe Bernard",
+        "address": {
+            "city": "Besan\u00e7on",
+            "street name": "Boulevard Raspail",
+            "street number": 2,
+            "postal code": "72153"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1966-12-12",
+        "nationality": "French",
+        "passport_number": "MV0497176",
+        "passport_issue_date": "2017-07-04",
+        "passport_expiry_date": "2027-07-03",
+        "gender": "F",
+        "phone_number": "+33 00 39 37 11 25",
+        "email_address": "ingrid.bernard@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e La Martini\u00e8re Monplaisir",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "University of Toulouse",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1991,
+                "end_year": 1993,
+                "company": "BC Partners",
+                "position": "Analyst",
+                "salary": 29000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1997,
+                "company": "Apax Partners SAS",
+                "position": "Associate",
+                "salary": 45000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": " Eurazeo SE",
+                "position": "Investment Director",
+                "salary": 61000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "PAI Partners",
+                "position": "Partner",
+                "salary": 251000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": " Eurazeo SE",
+                "position": "Fund Manager",
+                "salary": 882000
+            }
+        ],
+        "aum": {
+            "savings": 1460000,
+            "inheritance": 1580000,
+            "real_estate_value": 2750000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2007,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1460000,
+                "property location": "Besan\u00e7on"
+            },
+            {
+                "property type": "condo",
+                "property value": 1290000,
+                "property location": "Le Mans"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ingrid Colombe Bernard",
+        "first_name": "Ingrid",
+        "middle_name": "Colombe",
+        "last_name": "Bernard",
+        "passport_number": "MV0497176",
+        "currency": "EUR",
+        "address": {
+            "city": "Besan\u00e7on",
+            "street name": "Boulevard Raspail",
+            "street number": 2,
+            "postal code": "72153"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 00 39 37 11 25",
+        "email_address": "ingrid.bernard@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Ingrid Colombe Bernard on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nIngrid Colombe Bernard is a 58 year old and comes from France.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Ingrid Colombe Bernard and Lambert tied the knot in 1993. Their child is  named Marchand.",
+        "Education Background": "In 1984, Ingrid finished her secondary school education at Lyc\u00e9e La Martini\u00e8re Monplaisir.\nIngrid earned her degree from University of Toulouse in 1991.\n",
+        "Occupation History": "Ingrid Colombe Bernard is a 58 year old Fund Manager from France.\nIn 1991, Ingrid Colombe Bernard started working as a Analyst at BC Partners, marking the beginning of her successful career.\nAt Apax Partners SAS, she held the position of Associate from 1995 to 1997, making significant contributions to the organization.\nHer tenure as a Investment Director at  Eurazeo SE from 1998 to 2000 was marked by significant achievements and a deepening understanding of the field.\nShe appointment as a Partner at PAI Partners in 2002 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\nSince joining  Eurazeo SE as a Fund Manager in 2007, she has established herself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "While working, she saved 1460000 EUR, which she used to build a diversified investment portfolio.\nShe owns house in Besan\u00e7on, where she resides. It is worth 1460000 EUR.\n\nIn addition to her primary residence, she owns condo in Le Mans worth 1290000 EUR.\n\nShe inherited 1580000 EUR from her father, a well-known Real Estate Developer, in 2007, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

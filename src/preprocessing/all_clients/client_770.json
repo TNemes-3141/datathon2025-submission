@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Sophia",
+        "middle_name": "Fabienne",
+        "last_name": "Schneider",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1988-03-15",
+        "passport_number": "CQ2305242",
+        "passport_mrz": [
+            "P<CHESCHNEIDER<<SOPHIA<FABIENNE<<<<<<<<<<<<<<",
+            "CQ2305242CHE880315<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-06-02",
+        "passport_expiry_date": "2026-06-01"
+    },
+    "client_profile": {
+        "name": "Sophia Fabienne Schneider",
+        "address": {
+            "city": "Brugg",
+            "street name": "Rathausgasse",
+            "street number": 69,
+            "postal code": "3136"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1988-03-15",
+        "nationality": "Swiss",
+        "passport_number": "CQ2305242",
+        "passport_issue_date": "2016-06-02",
+        "passport_expiry_date": "2026-06-01",
+        "gender": "F",
+        "phone_number": "075 788 94 89",
+        "email_address": "sophia.schneider@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "\u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "Lausanne Hospitality School",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2014,
+                "company": "Equity4u AG",
+                "position": "Analyst",
+                "salary": 60000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2019,
+                "company": "Invision Private Equity AG",
+                "position": "Associate",
+                "salary": 85000
+            },
+            {
+                "start_year": 2020,
+                "end_year": 2025,
+                "company": "Capvis Equity Partners AG",
+                "position": "Investment Director",
+                "salary": 187000
+            }
+        ],
+        "aum": {
+            "savings": 210000,
+            "inheritance": 1340000,
+            "real_estate_value": 5230000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 5230000,
+                "property location": "Brugg"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Spain"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Sophia Fabienne Schneider",
+        "first_name": "Sophia",
+        "middle_name": "Fabienne",
+        "last_name": "Schneider",
+        "passport_number": "CQ2305242",
+        "currency": "CHF",
+        "address": {
+            "city": "Brugg",
+            "street name": "Rathausgasse",
+            "street number": 69,
+            "postal code": "3136"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "075 788 94 89",
+        "email_address": "sophia.schneider@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Sophia Fabienne Schneider during a business conference in Z\u00fcrich. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nSophia Fabienne Schneider is a 37 year old Investment Director from Switzerland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Sophia Fabienne Schneider is married to Riedo. Their child is  named Huber.",
+        "Education Background": "In 2006, Sophia finished her secondary school education at \u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel.\nSophia completed her university studies at Lausanne Hospitality School in 2011.\n",
+        "Occupation History": "With a career spanning nearly 14 years, Sophia Fabienne Schneider has established herself as a key player in the industry.\nIn 2011, Sophia Fabienne Schneider started working as a Analyst at Equity4u AG, marking the beginning of her successful career.\nHer subsequent role was as a Associate at Invision Private Equity AG, where she continued to grow professionally from 2015 to 2019.\nIn 2020, she joined Capvis Equity Partners AG as a Investment Director, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "While working, she saved 210000 CHF, which she used to build a diversified investment portfolio.\nShe has villa located in Brugg, worth 5230000 CHF.\n\n\nFollowing the passing of her grandmother, a successful Corporate Lawyer, she received an inheritance of 1340000 CHF in 2016, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Sophia as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

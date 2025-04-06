@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Garcia",
+        "middle_name": "Martin",
+        "last_name": "Moreau",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2001-08-07",
+        "passport_number": "LV6000042",
+        "passport_mrz": [
+            "P<FRAMOREAU<<GARCIA<MARTIN<<<<<<<<<<<<<<<<<<<",
+            "LV6000042FRA010807<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-02-03",
+        "passport_expiry_date": "2027-02-02"
+    },
+    "client_profile": {
+        "name": "Garcia Martin Moreau",
+        "address": {
+            "city": "Le Havre",
+            "street name": "Boulevard Auguste Blanqui",
+            "street number": 65,
+            "postal code": "11738"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2001-08-07",
+        "nationality": "French",
+        "passport_number": "LV6000042",
+        "passport_issue_date": "2017-02-03",
+        "passport_expiry_date": "2027-02-02",
+        "gender": "M",
+        "phone_number": "+33 05 26 44 02 20",
+        "email_address": "garcia.moreau@sfr.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Victor Hugo",
+            "graduation_year": 2021
+        },
+        "higher_education": [
+            {
+                "university": "EMIC de Nice",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1150000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Garcia Martin Moreau",
+        "first_name": "Garcia",
+        "middle_name": "Martin",
+        "last_name": "Moreau",
+        "passport_number": "LV6000042",
+        "currency": "EUR",
+        "address": {
+            "city": "Le Havre",
+            "street name": "Boulevard Auguste Blanqui",
+            "street number": 65,
+            "postal code": "11738"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 05 26 44 02 20",
+        "email_address": "garcia.moreau@sfr.fr"
+    },
+    "client_description": {
+        "Summary Note": "Garcia Martin Moreau and the RM crossed paths at a tech conference in Paris. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nGarcia Martin Moreau is a 23 year old and comes from France.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Garcia Martin Moreau is currently single. He does not have any children.",
+        "Education Background": "Garcia completed his secondary education at Lyc\u00e9e Victor Hugo in 2021.\nGarcia pursued higher education at EMIC de Nice, graduating in 2024.\n",
+        "Occupation History": "Garcia Martin Moreau is a 23 year old and comes from France.\nGarcia Martin Moreau did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.He inherited a significant sum of 1150000 EUR from his grandmother, a respected Investment Banker, in 2019, which he has wisely invested.\n",
+        "Client Summary": "The RM is committed to helping Garcia achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

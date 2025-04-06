@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Wagemakers",
+        "middle_name": "Van Dijk",
+        "last_name": "Meijer",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1957-01-08",
+        "passport_number": "JS8450279",
+        "passport_mrz": [
+            "P<NLDMEIJER<<WAGEMAKERS<VAN DIJK<<<<<<<<<<<<<",
+            "JS8450279NLD570108<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-12-09",
+        "passport_expiry_date": "2029-12-08"
+    },
+    "client_profile": {
+        "name": "Wagemakers Van Dijk Meijer",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Moreelsepark",
+            "street number": 83,
+            "postal code": "8253 65"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1957-01-08",
+        "nationality": "Dutch",
+        "passport_number": "JS8450279",
+        "passport_issue_date": "2019-12-09",
+        "passport_expiry_date": "2029-12-08",
+        "gender": "M",
+        "phone_number": "+31 06 94372534",
+        "email_address": "wagemakers.meijer@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Montessori Lyceum Rotterdam",
+            "graduation_year": 1975
+        },
+        "higher_education": [
+            {
+                "university": "Erasmus University Rotterdam",
+                "graduation_year": 1979
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1984,
+                "company": "Sanoma Media Netherlands B.V.",
+                "position": "Journalist",
+                "salary": 42000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 2017,
+                "company": "Sanoma Media Netherlands B.V.",
+                "position": "Editor",
+                "salary": 392000
+            }
+        ],
+        "aum": {
+            "savings": 690000,
+            "inheritance": 0,
+            "real_estate_value": 5220000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1440000,
+                "property location": "Hoofddorp"
+            },
+            {
+                "property type": "villa",
+                "property value": 2690000,
+                "property location": "Apeldoorn"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1090000,
+                "property location": "Helmond"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Wagemakers Van Dijk Meijer",
+        "first_name": "Wagemakers",
+        "middle_name": "Van Dijk",
+        "last_name": "Meijer",
+        "passport_number": "JS8450279",
+        "currency": "EUR",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Moreelsepark",
+            "street number": 83,
+            "postal code": "8253 65"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 94372534",
+        "email_address": "wagemakers.meijer@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Wagemakers Van Dijk Meijer and the RM were introduced at a gourmet food festival in Amsterdam. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nWagemakers Van Dijk Meijer is a 68 year old and comes from Netherlands.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Wagemakers Van Dijk Meijer is married to Daantje. They do not have any children.",
+        "Education Background": "Wagemakers completed his secondary education at Montessori Lyceum Rotterdam in 1975.\nHe then attended Erasmus University Rotterdam, which he graduated in 1979.\n",
+        "Occupation History": "Wagemakers Van Dijk Meijer is a seasoned professional with over 44 years of experience.\nAt Sanoma Media Netherlands B.V., Wagemakers Van Dijk Meijer held the position of Journalist from 1981 to 1984, developing essential skills in the field.\nAfter gaining experience, he took on the role of Editor at Sanoma Media Netherlands B.V. in 1985, further expanding his skill set.\n",
+        "Wealth Summary": "Throughout his career, he saved 690000 EUR, investing in various assets to grow his wealth.\nHe owns townhouse in Hoofddorp, where he resides. It is worth 1440000 EUR.\n\nIn addition to his primary residence, he owns villa in Apeldoorn worth 2690000 EUR.\n\nMoreover, he has invested in additional property in Helmond, giving possiblity for generating additional income. The townhouse is valued at 1090000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

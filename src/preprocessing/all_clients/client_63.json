@@ -1,0 +1,113 @@
+{
+    "passport": {
+        "first_name": "Evelien",
+        "middle_name": "Floor",
+        "last_name": "Vogel",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1989-07-13",
+        "passport_number": "AI9759237",
+        "passport_mrz": [
+            "P<NLDVOGEL<<EVELIEN<FLOOR<<<<<<<<<<<<<<<<<<<<",
+            "AI9759237NLD890713<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-09-04",
+        "passport_expiry_date": "2034-09-03"
+    },
+    "client_profile": {
+        "name": "Evelien Floor Vogel",
+        "address": {
+            "city": "Amsterdam",
+            "street name": "Nieuwegeinseweg",
+            "street number": 47,
+            "postal code": "5508 25"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1989-07-13",
+        "nationality": "Dutch",
+        "passport_number": "AI9759237",
+        "passport_issue_date": "2024-09-04",
+        "passport_expiry_date": "2034-09-03",
+        "gender": "F",
+        "phone_number": "06 01852823",
+        "email_address": "evelien.vogel@hotspots.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Leonardo College 's-Hertogenbosch",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "University of Amsterdam",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "De Brauw Blackstone Westbroek N.V.",
+                "position": "Associate Attorney",
+                "salary": 84000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 5100000,
+            "real_estate_value": 3850000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2010000,
+                "property location": "Amsterdam"
+            },
+            {
+                "property type": "house",
+                "property value": 1840000,
+                "property location": "Nijmegen"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Evelien Floor Vogel",
+        "first_name": "Evelien",
+        "middle_name": "Floor",
+        "last_name": "Vogel",
+        "passport_number": "AI9759237",
+        "currency": "EUR",
+        "address": {
+            "city": "Amsterdam",
+            "street name": "Nieuwegeinseweg",
+            "street number": 47,
+            "postal code": "5508 25"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 01852823",
+        "email_address": "evelien.vogel@hotspots.nl"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Evelien Floor Vogel at a charity gala in Amsterdam. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nEvelien Floor Vogel is a 35 year old and comes from Netherlands.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Evelien Floor Vogel and Voorn tied the knot in 2017. They do not have any children.",
+        "Education Background": "Evelien earned her secondary school diploma from Leonardo College 's-Hertogenbosch in 2007.\nEvelien graduated from University of Amsterdam in 2012, completing her higher education.\n",
+        "Occupation History": "Evelien Floor Vogel is a 35 year old and comes from Netherlands.\nEvelien Floor Vogel began her professional journey as a Associate Attorney at De Brauw Blackstone Westbroek N.V. in 2013, laying the foundation for future success.\n",
+        "Wealth Summary": "She managed to save approximately 110000 EUR from her earnings at all companies.\nShe owns 2 exceptional properties: house located in Amsterdam, valued at approximately 2,010,000.00 EUR, house located in Nijmegen, valued at approximately 1,840,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Amsterdam and Nijmegen.\nIn 2016, she received an inheritance of 5100000 EUR from her late grandmother, who was a prominent Tech Entrepreneur, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

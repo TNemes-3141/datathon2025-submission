@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Carlotta",
+        "middle_name": "Ginevra",
+        "last_name": "Fabbri",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1958-09-13",
+        "passport_number": "AD0109200",
+        "passport_mrz": [
+            "P<ITAFABBRI<<CARLOTTA<GINEVRA<<<<<<<<<<<<<<<<",
+            "AD0109200ITA580913<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-10-20",
+        "passport_expiry_date": "2029-10-19"
+    },
+    "client_profile": {
+        "name": "Carlotta Ginevra Fabbri",
+        "address": {
+            "city": "Trieste",
+            "street name": "Campo Santa Marina",
+            "street number": 22,
+            "postal code": "23504"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1958-09-13",
+        "nationality": "Italian",
+        "passport_number": "AD0109200",
+        "passport_issue_date": "2019-10-20",
+        "passport_expiry_date": "2029-10-19",
+        "gender": "F",
+        "phone_number": "+39 365 9550996",
+        "email_address": "carlotta.fabbri@infinito.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Liceo Classico Giovanni Paolo II Catania",
+            "graduation_year": 1976
+        },
+        "higher_education": [
+            {
+                "university": "American University of Rome",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1984,
+                "company": "Hilton Worldwide Italia S.r.l.",
+                "position": "Hotel Manager",
+                "salary": 27000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1989,
+                "company": "Hilton Worldwide Italia S.r.l.",
+                "position": "General Manager",
+                "salary": 39000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Hilton Worldwide Italia S.r.l.",
+                "position": "Regional Vice President",
+                "salary": 62000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 2019,
+                "company": "Gruppo Starhotels S.p.A.",
+                "position": "CEO",
+                "salary": 955000
+            }
+        ],
+        "aum": {
+            "savings": 1840000,
+            "inheritance": 0,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {},
+        "real_estate_details": [],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Carlotta Ginevra Fabbri",
+        "first_name": "Carlotta",
+        "middle_name": "Ginevra",
+        "last_name": "Fabbri",
+        "passport_number": "AD0109200",
+        "currency": "EUR",
+        "address": {
+            "city": "Trieste",
+            "street name": "Campo Santa Marina",
+            "street number": 22,
+            "postal code": "23504"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 365 9550996",
+        "email_address": "carlotta.fabbri@infinito.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Carlotta Ginevra Fabbri at a golf tournament in Rome. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nCarlotta Ginevra Fabbri is a seasoned professional with over 43 years of experience.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Carlotta Ginevra Fabbri has been happily married to Fantini since 1994. They do not have any children.",
+        "Education Background": "Carlotta earned her secondary school diploma from Liceo Classico Giovanni Paolo II Catania in 1976.\nCarlotta completed her university education at American University of Rome in 1982.\n",
+        "Occupation History": "Carlotta Ginevra Fabbri is a 66 year old and comes from Italy.\nCarlotta Ginevra Fabbri's first role was as a Hotel Manager at Hilton Worldwide Italia S.r.l., where she worked diligently from 1982 to 1984 to establish a strong reputation.\nHer subsequent role was as a General Manager at Hilton Worldwide Italia S.r.l., where she continued to grow professionally from 1985 to 1989.\nAt Hilton Worldwide Italia S.r.l., she worked as a Regional Vice President from 1990 to 1991, focusing on strategic initiatives and team collaboration.\nIn 1992, she transitioned to Gruppo Starhotels S.p.A. to take on the position of CEO, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "She managed to save approximately 1840000 EUR from her earnings at all companies.\nClient does not have any properties.She does not have any inheritances.",
+        "Client Summary": "In summary, Carlotta has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

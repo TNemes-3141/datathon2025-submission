@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Valeria",
+        "middle_name": "D\u00e1cil",
+        "last_name": "Morales",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "2001-06-04",
+        "passport_number": "FB2402072",
+        "passport_mrz": [
+            "P<ESPMORALES<<VALERIA<D\u00c1CIL<<<<<<<<<<<<<<<<<<",
+            "FB2402072ESP010604<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-12-09",
+        "passport_expiry_date": "2029-12-08"
+    },
+    "client_profile": {
+        "name": "Valeria D\u00e1cil Morales",
+        "address": {
+            "city": "Santa Cruz de Tenerife",
+            "street name": "Calle de San Bernardo",
+            "street number": 83,
+            "postal code": "19776"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "2001-06-04",
+        "nationality": "Spanish",
+        "passport_number": "FB2402072",
+        "passport_issue_date": "2024-12-09",
+        "passport_expiry_date": "2029-12-08",
+        "gender": "F",
+        "phone_number": "677 209 499",
+        "email_address": "valeria.morales@orange.es",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Francisco de Quevedo Valladolid",
+            "graduation_year": 2020
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2890000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Valeria D\u00e1cil Morales",
+        "first_name": "Valeria",
+        "middle_name": "D\u00e1cil",
+        "last_name": "Morales",
+        "passport_number": "FB2402072",
+        "currency": "EUR",
+        "address": {
+            "city": "Santa Cruz de Tenerife",
+            "street name": "Calle de San Bernardo",
+            "street number": 83,
+            "postal code": "19776"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "677 209 499",
+        "email_address": "valeria.morales@orange.es"
+    },
+    "client_description": {
+        "Summary Note": "Valeria D\u00e1cil Morales and the RM met at a financial seminar in Madrid. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nValeria D\u00e1cil Morales is a 23 year old and comes from Spain.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Valeria D\u00e1cil Morales is currently single. She does not have any children.",
+        "Education Background": "Valeria obtained her secondary school diploma from IES Francisco de Quevedo Valladolid in 2020.\n",
+        "Occupation History": "Valeria D\u00e1cil Morales is a 23 year old and comes from Spain.\nValeria D\u00e1cil Morales did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nShe is risk-averse and prefers to invest in safer assets.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 2890000 EUR from her late grandmother, a renowned Private Equity Manager, in 2018.\n",
+        "Client Summary": "The RM is committed to helping Valeria achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

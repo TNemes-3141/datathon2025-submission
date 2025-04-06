@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Burkart",
+        "middle_name": "Roth",
+        "last_name": "Kaufmann",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "2000-02-17",
+        "passport_number": "RF3600903",
+        "passport_mrz": [
+            "P<CHEKAUFMANN<<BURKART<ROTH<<<<<<<<<<<<<<<<<<",
+            "R3F600903CHE000217<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-01-07",
+        "passport_expiry_date": "2030-01-06"
+    },
+    "client_profile": {
+        "name": "Burkart Roth Kaufmann",
+        "address": {
+            "city": "Lugano",
+            "street name": "B\u00e4renplatz",
+            "street number": 58,
+            "postal code": "7659"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "2000-02-17",
+        "nationality": "Swiss",
+        "passport_number": "RF3600903",
+        "passport_issue_date": "2020-01-07",
+        "passport_expiry_date": "2030-01-06",
+        "gender": "M",
+        "phone_number": "",
+        "email_address": "burkart.kaufmann@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e des Templiers Fribourg",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "Hotel Institute Montreux",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "UBS AG",
+                "position": "Financial Advisor",
+                "salary": 61000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 2630000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Burkart Roth Kaufmann",
+        "first_name": "Burkart",
+        "middle_name": "Roth",
+        "last_name": "Kaufmann",
+        "passport_number": "RF3600903",
+        "currency": "CHF",
+        "address": {
+            "city": "Lugano",
+            "street name": "B\u00e4renplatz",
+            "street number": 58,
+            "postal code": "7659"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 009 030 68 96",
+        "email_address": "burkart.kaufmann@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Burkart Roth Kaufmann and the RM are cousins, having grown up together in Z\u00fcrich. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nBurkart Roth Kaufmann is a 25 year old and comes from Switzerland.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Burkart Roth Kaufmann and D\u00e9borah tied the knot in 2024. They do not have any children.",
+        "Education Background": "Burkart completed his secondary education at Lyc\u00e9e des Templiers Fribourg in 2018.\nBurkart pursued higher education at Hotel Institute Montreux, graduating in 2024.\n",
+        "Occupation History": "Burkart Roth Kaufmann is a 25 year old and comes from Switzerland.\nBurkart Roth Kaufmann began his professional journey as a Financial Advisor at UBS AG in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "Throughout his career, he saved 20000 CHF, investing in various assets to grow his wealth.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 2630000 CHF from his late grandfather, a renowned Neurosurgeon, in 2020.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

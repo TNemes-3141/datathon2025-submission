@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Mulders",
+        "middle_name": "De Jong",
+        "last_name": "Maassen",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1977-06-20",
+        "passport_number": "CF6207457",
+        "passport_mrz": [
+            "P<NLDMAASSEN<<MULDERS<DE JONG<<<<<<<<<<<<<<<<",
+            "CF6207457NLD770620<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-03-16",
+        "passport_expiry_date": "2028-03-15"
+    },
+    "client_profile": {
+        "name": "Mulders De Jong Maassen",
+        "address": {
+            "city": "Maastricht",
+            "street name": "Nieuwmarkt",
+            "street number": 38,
+            "postal code": "9335 44"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1977-06-20",
+        "nationality": "Dutch",
+        "passport_number": "CF6207457",
+        "passport_issue_date": "2018-03-16",
+        "passport_expiry_date": "2028-03-15",
+        "gender": "M",
+        "phone_number": "06 98308475",
+        "email_address": "mulders.maassen@upcmail.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "RSG Magister Almelo",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "Nyenrode Business Universiteit",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2005,
+                "company": "10 Feather Corporation B.V.",
+                "position": "Assistant Designer",
+                "salary": 45000
+            },
+            {
+                "start_year": 2006,
+                "end_year": null,
+                "company": "Victor & Rolf B.V.",
+                "position": "Senior Designer",
+                "salary": 197000
+            }
+        ],
+        "aum": {
+            "savings": 320000,
+            "inheritance": 640000,
+            "real_estate_value": 4719000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2014,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1489000,
+                "property location": "Maastricht"
+            },
+            {
+                "property type": "house",
+                "property value": 1930000,
+                "property location": "Emmen"
+            },
+            {
+                "property type": "condo",
+                "property value": 1300000,
+                "property location": "Venlo"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mulders De Jong Maassen",
+        "first_name": "Mulders",
+        "middle_name": "De Jong",
+        "last_name": "Maassen",
+        "passport_number": "CF6207457",
+        "currency": "EUR",
+        "address": {
+            "city": "Maastricht",
+            "street name": "Nieuwmarkt",
+            "street number": 38,
+            "postal code": "9335 44"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 98308475",
+        "email_address": "mulders.maassen@upcmail.nl"
+    },
+    "client_description": {
+        "Summary Note": "Mulders De Jong Maassen and the RM were introduced at a charity run in Amsterdam. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nMulders De Jong Maassen is a 47 year old Senior Designer from Netherlands. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Mulders De Jong Maassen is married to Anouk. Together they have 3 kids called Charlotte, Floor and Snijders.",
+        "Education Background": "In 1995, Mulders graduated from RSG Magister Almelo with a secondary school diploma.\nMulders earned his degree from Nyenrode Business Universiteit in 2000.\n",
+        "Occupation History": "Having worked for over 24 years, Mulders De Jong Maassen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAt 10 Feather Corporation B.V., Mulders De Jong Maassen held the position of Assistant Designer from 2001 to 2005, developing essential skills in the field.\nHe then transitioned to Victor & Rolf B.V. as a Senior Designer, leveraging his expertise to drive results from 2006 till now.\n",
+        "Wealth Summary": "While working, he saved 320000 EUR, which he used to build a diversified investment portfolio.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Venlo, Emmen and Maastricht, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe inherited 640000 EUR from his mother, a well-known Neurosurgeon, in 2014, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have Mulders as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

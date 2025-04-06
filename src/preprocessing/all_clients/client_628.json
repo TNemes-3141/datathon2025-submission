@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Mayr",
+        "middle_name": "Schnell",
+        "last_name": "Reiter",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1962-05-03",
+        "passport_number": "YR6815215",
+        "passport_mrz": [
+            "P<AUTREITER<<MAYR<SCHNELL<<<<<<<<<<<<<<<<<<<<",
+            "YR6815215AUT620503<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-09-18",
+        "passport_expiry_date": "2028-09-17"
+    },
+    "client_profile": {
+        "name": "Mayr Schnell Reiter",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Gasometerstra\u00dfe",
+            "street number": 35,
+            "postal code": "5506"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1962-05-03",
+        "nationality": "Austrian",
+        "passport_number": "YR6815215",
+        "passport_issue_date": "2018-09-18",
+        "passport_expiry_date": "2028-09-17",
+        "gender": "M",
+        "phone_number": "+43 517 875 3944",
+        "email_address": "mayr.reiter@chello.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Fran\u00e7ais de Vienne",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "FH Joanneum University of Applied Sciences",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1987,
+                "company": "Microsoft Austria GmbH",
+                "position": "Software Developer",
+                "salary": 32000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 2023,
+                "company": "Microsoft Austria GmbH",
+                "position": "Startup Founder",
+                "salary": 420000
+            }
+        ],
+        "aum": {
+            "savings": 850000,
+            "inheritance": 0,
+            "real_estate_value": 3326000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 816000,
+                "property location": "Klagenfurt"
+            },
+            {
+                "property type": "villa",
+                "property value": 1790000,
+                "property location": "Tulln an der Donau"
+            },
+            {
+                "property type": "flat",
+                "property value": 720000,
+                "property location": "Bruck an der Mur"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mayr Schnell Reiter",
+        "first_name": "Mayr",
+        "middle_name": "Schnell",
+        "last_name": "Reiter",
+        "passport_number": "YR6815215",
+        "currency": "EUR",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Gasometerstra\u00dfe",
+            "street number": 35,
+            "postal code": "5506"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 517 875 3944",
+        "email_address": "mayr.reiter@chello.at"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Mayr Schnell Reiter at a charity gala in Vienna. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nMayr Schnell Reiter is a 62 year old and comes from Austria.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Mayr Schnell Reiter is married to Victoria. Mayr and Victoria have 3 children, named Franziska, Gertrud and Hinterleitner.",
+        "Education Background": "Mayr finished secondary school at Lyc\u00e9e Fran\u00e7ais de Vienne in 1982.\nMayr graduated from FH Joanneum University of Applied Sciences in 1985, completing his higher education.\n",
+        "Occupation History": "Having worked for over 39 years, Mayr Schnell Reiter brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nMayr Schnell Reiter began his professional journey as a Software Developer at Microsoft Austria GmbH in 1986, laying the foundation for future success.\nIn 1988, he moved to Microsoft Austria GmbH to work as a Startup Founder, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "He managed to save approximately 850000 EUR from his earnings at all companies.\nHe owns townhouse in Klagenfurt, where he resides. It is worth 816000 EUR.\n\nIn addition to his primary residence, he owns villa in Tulln an der Donau worth 1790000 EUR.\n\nMoreover, he has invested in additional property in Bruck an der Mur, giving possiblity for generating additional income. The flat is valued at 720000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

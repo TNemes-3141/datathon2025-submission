@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Fran\u00e7oise",
+        "middle_name": "Gis\u00e8le",
+        "last_name": "Werner",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1987-01-10",
+        "passport_number": "LT2776992",
+        "passport_mrz": [
+            "P<CHEWERNER<<FRAN\u00c7OISE<GIS\u00c8LE<<<<<<<<<<<<<<<<",
+            "LT2776992CHE870110<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-06-13",
+        "passport_expiry_date": "2026-06-12"
+    },
+    "client_profile": {
+        "name": "Fran\u00e7oise Gis\u00e8le Werner",
+        "address": {
+            "city": "Bellinzona",
+            "street name": "Stadthausplatz",
+            "street number": 72,
+            "postal code": "8689"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1987-01-10",
+        "nationality": "Swiss",
+        "passport_number": "LT2776992",
+        "passport_issue_date": "2016-06-13",
+        "passport_expiry_date": "2026-06-12",
+        "gender": "F",
+        "phone_number": "+41 081 211 49 32",
+        "email_address": "francoise.werner@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Kantonsschule Liestal Basel-Landschaft",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "Lausanne Hospitality School",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": " Implenia AG",
+                "position": "Property Manager",
+                "salary": 62000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "ALLREAL Group AG",
+                "position": "Developer",
+                "salary": 129000
+            }
+        ],
+        "aum": {
+            "savings": 180000,
+            "inheritance": 1860000,
+            "real_estate_value": 8660000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 4010000,
+                "property location": "Bellinzona"
+            },
+            {
+                "property type": "house",
+                "property value": 2820000,
+                "property location": "Basel"
+            },
+            {
+                "property type": "flat",
+                "property value": 1830000,
+                "property location": "Sion"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Fran\u00e7oise Gis\u00e8le Werner",
+        "first_name": "Fran\u00e7oise",
+        "middle_name": "Gis\u00e8le",
+        "last_name": "Werner",
+        "passport_number": "LT2776992",
+        "currency": "CHF",
+        "address": {
+            "city": "Bellinzona",
+            "street name": "Stadthausplatz",
+            "street number": 72,
+            "postal code": "8689"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "++31 081 211 49 32",
+        "email_address": "francoise.werner@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Fran\u00e7oise Gis\u00e8le Werner's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nFran\u00e7oise Gis\u00e8le Werner is a 38 year old Developer from Switzerland.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Fran\u00e7oise Gis\u00e8le Werner is currently single. She does not have any children.",
+        "Education Background": "Fran\u00e7oise completed her secondary education at Kantonsschule Liestal Basel-Landschaft in 1995.\nFran\u00e7oise earned her degree from Lausanne Hospitality School in 2011.\n",
+        "Occupation History": "Fran\u00e7oise Gis\u00e8le Werner is a 38 year old and comes from Switzerland.\nFran\u00e7oise Gis\u00e8le Werner launched her career as a Property Manager at  Implenia AG, where she gained valuable experience from 2010 to 2014.\nShe then transitioned to ALLREAL Group AG as a Developer, leveraging her expertise to drive results from 2016 till now.\n",
+        "Wealth Summary": "She managed to save approximately 180000 CHF from her earnings at all companies.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 8660000 CHF.\n\nShe inherited a significant sum of 1860000 CHF from her grandmother, a respected Tech Entrepreneur, in 2019, which she has wisely invested.\n",
+        "Client Summary": "In summary, Fran\u00e7oise has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

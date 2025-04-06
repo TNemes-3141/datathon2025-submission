@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Meier",
+        "middle_name": "Werner",
+        "last_name": "Lehmann",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1980-10-26",
+        "passport_number": "QD6415401",
+        "passport_mrz": [
+            "P<CHELEHMANN<<MEIER<WERNER<<<<<<<<<<<<<<<<<<<",
+            "QD6415401CHE801026<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-11-23",
+        "passport_expiry_date": "2027-11-22"
+    },
+    "client_profile": {
+        "name": "Meier Werner Lehmann",
+        "address": {
+            "city": "Zurich",
+            "street name": "Rathausgasse",
+            "street number": 72,
+            "postal code": "4565"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1980-10-26",
+        "nationality": "Swiss",
+        "passport_number": "QD6415401",
+        "passport_issue_date": "2017-11-23",
+        "passport_expiry_date": "2027-11-22",
+        "gender": "M",
+        "phone_number": "079 449 92 60",
+        "email_address": "meier.lehmann@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "\u00c9cole secondaire de Saint-Imier Bern",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "Webster University Geneva",
+                "graduation_year": 2003
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2007,
+                "company": "Kunsthaus Z\u00fcrich",
+                "position": "Art Dealer",
+                "salary": 58000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2014,
+                "company": "Kunstmuseum Basel",
+                "position": "Gallery Owner",
+                "salary": 98000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2024,
+                "company": "Kunsthaus Z\u00fcrich",
+                "position": "Art Advisor",
+                "salary": 189000
+            }
+        ],
+        "aum": {
+            "savings": 270000,
+            "inheritance": 460000,
+            "real_estate_value": 1880000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2010,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1880000,
+                "property location": "Zurich"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Belgium"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Meier Werner Lehmann",
+        "first_name": "Meier",
+        "middle_name": "Werner",
+        "last_name": "Lehmann",
+        "passport_number": "QD6415401",
+        "currency": "CHF",
+        "address": {
+            "city": "Zurich",
+            "street name": "Rathausgasse",
+            "street number": 72,
+            "postal code": "4565"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "079 449 92 60",
+        "email_address": "meier.lehmann@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Meier Werner Lehmann at a yacht party in Z\u00fcrich. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nMeier Werner Lehmann is a 44 year old Art Advisor from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Meier Werner Lehmann and Julia have been married since 2009. They do not have any children.",
+        "Education Background": "Meier finished secondary school at \u00c9cole secondaire de Saint-Imier Bern in 2000.\n",
+        "Occupation History": "Meier Werner Lehmann is a 44 year old Art Advisor from Switzerland.\nIn 2005, Meier Werner Lehmann started working as a Art Dealer at Kunsthaus Z\u00fcrich, marking the beginning of his successful career.\nAt Kunstmuseum Basel, he held the position of Gallery Owner from 2009 to 2014, making significant contributions to the organization.\nFrom 2015 to 2024, he served as a Art Advisor at Kunsthaus Z\u00fcrich, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 270000 CHF.\nHe owns flat in Zurich, where he resides. It is worth 1880000 CHF.\n\n\nIn addition to his career success, he also received an inheritance of 460000 CHF from his late , a renowned Stock Trader, in .\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "passport": {
+        "first_name": "Santoro",
+        "middle_name": " Marino",
+        "last_name": "Galli",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1977-11-28",
+        "passport_number": "PJ7429929",
+        "passport_mrz": [
+            "P<ITAGALLI<<SANTORO< MARINO<<<<<<<<<<<<<<<<<<",
+            "PJ7429929ITA771128<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-11-20",
+        "passport_expiry_date": "2028-11-19"
+    },
+    "client_profile": {
+        "name": "Santoro Marino Galli",
+        "address": {
+            "city": "Brescia",
+            "street name": "Piazza Farnese",
+            "street number": 37,
+            "postal code": "32984"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1977-11-28",
+        "nationality": "Italian",
+        "passport_number": "PJ7429929",
+        "passport_issue_date": "2018-11-20",
+        "passport_expiry_date": "2028-11-19",
+        "gender": "M",
+        "phone_number": "+39 303 0812519",
+        "email_address": "santoro.galli@tin.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "European University of Rome",
+                "graduation_year": 2001
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2005,
+                "company": "Giorgio Armani S.p.A.",
+                "position": "Assistant Designer",
+                "salary": 26000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2009,
+                "company": "Versace S.p.A.",
+                "position": "Senior Designer",
+                "salary": 38000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Prada S.p.A.",
+                "position": "Creative Director",
+                "salary": 175000
+            }
+        ],
+        "aum": {
+            "savings": 250000,
+            "inheritance": 0,
+            "real_estate_value": 2736000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 726000,
+                "property location": "Brescia"
+            },
+            {
+                "property type": "villa",
+                "property value": 2010000,
+                "property location": "Messina"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Santoro Marino Galli",
+        "first_name": "Santoro",
+        "middle_name": " Marino",
+        "last_name": "Galli",
+        "passport_number": "PJ7429929",
+        "currency": "EUR",
+        "address": {
+            "city": "Brescia",
+            "street name": "Piazza Farnese",
+            "street number": 37,
+            "postal code": "32984"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 303 0812519",
+        "email_address": "santoro.galli@tin.it"
+    },
+    "client_description": {
+        "Summary Note": "Santoro Marino Galli and the RM met at a networking event in Rome. They quickly realized they had complementary skills and decided to collaborate on several projects.\nHaving worked for over 23 years, Santoro Marino Galli brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Santoro Marino Galli and Gabriella tied the knot in 2011. Their children are named Malatesta, Lombardi and Ginevra.",
+        "Education Background": "In 1996, Santoro finished his secondary school education at Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia.\nSantoro completed his university studies at European University of Rome in 2001.\n",
+        "Occupation History": "Santoro Marino Galli is a seasoned professional with over 23 years of experience.\nAt Giorgio Armani S.p.A., Santoro Marino Galli held the position of Assistant Designer from 2002 to 2005, developing essential skills in the field.\nAfter gaining experience, he took on the role of Senior Designer at Versace S.p.A. in 2005, further expanding his skill set.\nFrom 2011 till now, he served as a Creative Director at Prada S.p.A., solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "He managed to save approximately 250000 EUR from his earnings at all companies.\nHe has flat located in Brescia, worth 726000 EUR.\n\nHe purchased villa in Messina, where he spends his holidays. It is valued at 2010000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

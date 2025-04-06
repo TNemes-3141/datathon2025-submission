@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "\u00c9lodie",
+        "middle_name": "Charlotte",
+        "last_name": "Thiry",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1988-02-29",
+        "passport_number": "LP7049439",
+        "passport_mrz": [
+            "P<BELTHIRY<<\u00c9LODIE<CHARLOTTE<<<<<<<<<<<<<<<<<",
+            "LP7049439BEL880229<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-02-28",
+        "passport_expiry_date": "2031-02-27"
+    },
+    "client_profile": {
+        "name": "\u00c9lodie Charlotte Thiry",
+        "address": {
+            "city": "Kortrijk",
+            "street name": "Rue de la Madeleine",
+            "street number": 67,
+            "postal code": "5267"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1988-02-29",
+        "nationality": "Belgian",
+        "passport_number": "LP7049439",
+        "passport_issue_date": "2024-02-28",
+        "passport_expiry_date": "2031-02-27",
+        "gender": "F",
+        "phone_number": "0405 988 960",
+        "email_address": "elodie.thiry@proximus.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Institut des Ursulines",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2010
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2012,
+                "end_year": 2015,
+                "company": "CMB NV",
+                "position": "Ship Broker",
+                "salary": 42000
+            },
+            {
+                "start_year": 2016,
+                "end_year": 2019,
+                "company": "CMB NV",
+                "position": "Shipping Company Owner",
+                "salary": 59000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "NYK Line (Belgium) NV",
+                "position": "Fleet Manager",
+                "salary": 112000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 0,
+            "real_estate_value": 870000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 870000,
+                "property location": "Kortrijk"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "\u00c9lodie Charlotte Thiry",
+        "first_name": "\u00c9lodie",
+        "middle_name": "Charlotte",
+        "last_name": "Thiry",
+        "passport_number": "LP7049439",
+        "currency": "EUR",
+        "address": {
+            "city": "Kortrijk",
+            "street name": "Rue de la Madeleine",
+            "street number": 67,
+            "postal code": "5267"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0405 988 960",
+        "email_address": "elodie.thiry@proximus.be"
+    },
+    "client_description": {
+        "Summary Note": "\u00c9lodie Charlotte Thiry and the RM crossed paths at a mutual friend's dinner party in Brussels. They discovered they had many common acquaintances and decided to explore business opportunities together.\n\u00c9lodie Charlotte Thiry is a 37 year old Fleet Manager from Belgium. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "\u00c9lodie Charlotte Thiry and Sanders tied the knot in 2020. They are proud parents of 1 child: L\u00e9a.",
+        "Education Background": "In 2005, \u00c9lodie graduated from Institut des Ursulines with a secondary school diploma.\n\u00c9lodie attended Vesalius College and graduated in 2010.\n",
+        "Occupation History": "\u00c9lodie Charlotte Thiry is a 37 year old Fleet Manager from Belgium.\n\u00c9lodie Charlotte Thiry began her professional journey as a Ship Broker at CMB NV in 2012, laying the foundation for future success.\nHer subsequent role was as a Shipping Company Owner at CMB NV, where she continued to grow professionally from 2016 to 2019.\nFrom 2019 till now, she served as a Fleet Manager at NYK Line (Belgium) NV, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "Throughout her career, she saved 140000 EUR, investing in various assets to grow her wealth.\nShe owns townhouse in Kortrijk, where she resides. It is worth 870000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

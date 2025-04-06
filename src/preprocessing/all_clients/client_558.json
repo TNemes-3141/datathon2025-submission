@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Petersen",
+        "middle_name": "",
+        "last_name": "Haugaard",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1984-01-29",
+        "passport_number": "RY3783934",
+        "passport_mrz": [
+            "P<DNKHAUGAARD<<PETERSEN<<<<<<<<<<<<<<<<<<<<<<",
+            "RY3783934DNK840129<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-11-24",
+        "passport_expiry_date": "2034-11-23"
+    },
+    "client_profile": {
+        "name": "Petersen Haugaard",
+        "address": {
+            "city": "Slagelse",
+            "street name": "\u00d8sterbrogade",
+            "street number": 2,
+            "postal code": "9335"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1984-01-29",
+        "nationality": "Danish",
+        "passport_number": "RY3783934",
+        "passport_issue_date": "2024-11-24",
+        "passport_expiry_date": "2034-11-23",
+        "gender": "M",
+        "phone_number": "+45 27 80 94 88",
+        "email_address": "petersen.haugaard@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Skive Gymnasium",
+            "graduation_year": 2001
+        },
+        "higher_education": [
+            {
+                "university": "International Business Academy (IBA)",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2011,
+                "company": "EQT Partners A/S",
+                "position": "Analyst",
+                "salary": 254000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2024,
+                "company": "EQT Partners A/S",
+                "position": "Associate",
+                "salary": 843000
+            }
+        ],
+        "aum": {
+            "savings": 1160000,
+            "inheritance": 44950000,
+            "real_estate_value": 3992000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2009,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1820000,
+                "property location": "Slagelse"
+            },
+            {
+                "property type": "flat",
+                "property value": 1092000,
+                "property location": "Roskilde"
+            },
+            {
+                "property type": "flat",
+                "property value": 1080000,
+                "property location": "Esbjerg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Petersen Haugaard",
+        "first_name": "Petersen",
+        "middle_name": "",
+        "last_name": "Haugaard",
+        "passport_number": "RY3783934",
+        "currency": "DKK",
+        "address": {
+            "city": "Slagelse",
+            "street name": "\u00d8sterbrogade",
+            "street number": 2,
+            "postal code": "9335"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 27 80 94 88",
+        "email_address": "petersen.haugaard@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Petersen Haugaard during a business conference in Copenhagen. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nPetersen Haugaard is a 41 year old Associate from Denmark.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Petersen Haugaard has been happily married to Isabella since 2015. Together they have 2 kids called Olivia and Hanne.",
+        "Education Background": "In 2001, Petersen graduated from Skive Gymnasium with a secondary school diploma.\nPetersen earned his degree from International Business Academy (IBA) in 2007.\n",
+        "Occupation History": "Petersen Haugaard is a 41 year old and comes from Denmark.\nPetersen Haugaard began his professional journey as a Analyst at EQT Partners A/S in 2007, laying the foundation for future success.\nAt EQT Partners A/S, he held the position of Associate from 2012 to 2024, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 1160000 DKK, investing in various assets to grow his wealth.\nHe owns house in Slagelse, where he resides. It is worth 1820000 DKK.\n\nHe purchased flat in Roskilde, where he spends his holidays. It is valued at 1092000 DKK.\nOn top of that he inherited a beautiful flat in Esbjerg, which could be used as a weekend getaway. It is valued at 1080000 DKK.\nHe inherited a significant sum of 44950000 DKK from his mother, a respected Investment Banker, in 2009, which he has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

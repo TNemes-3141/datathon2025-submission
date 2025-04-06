@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Rossi",
+        "middle_name": "Silvestri",
+        "last_name": "Donati",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1959-09-05",
+        "passport_number": "CF8312708",
+        "passport_mrz": [
+            "P<ITADONATI<<ROSSI<SILVESTRI<<<<<<<<<<<<<<<<<",
+            "CF8312708ITA590905<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-08-12",
+        "passport_expiry_date": "2032-08-11"
+    },
+    "client_profile": {
+        "name": "Rossi Silvestri Donati",
+        "address": {
+            "city": "Perugia",
+            "street name": "Via del Governo Vecchio",
+            "street number": 61,
+            "postal code": "18216"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1959-09-05",
+        "nationality": "Italian",
+        "passport_number": "CF8312708",
+        "passport_issue_date": "2022-08-12",
+        "passport_expiry_date": "2032-08-11",
+        "gender": "M",
+        "phone_number": "306 7122234",
+        "email_address": "rossi.donati@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "University of Milan",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1984,
+                "end_year": 1989,
+                "company": "UBM S.p.A.",
+                "position": "Investment Banker",
+                "salary": 28000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 2020,
+                "company": "Intesa Sanpaolo S.p.A.",
+                "position": "Private Equity Investor",
+                "salary": 278000
+            }
+        ],
+        "aum": {
+            "savings": 570000,
+            "inheritance": 0,
+            "real_estate_value": 1495000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 675000,
+                "property location": "Perugia"
+            },
+            {
+                "property type": "condo",
+                "property value": 820000,
+                "property location": "Perugia"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Rossi Silvestri Donati",
+        "first_name": "Rossi",
+        "middle_name": "Silvestri",
+        "last_name": "Donati",
+        "passport_number": "CF8312708",
+        "currency": "EUR",
+        "address": {
+            "city": "Perugia",
+            "street name": "Via del Governo Vecchio",
+            "street number": 61,
+            "postal code": "18216"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "306 7122234",
+        "email_address": "rossi.donati@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Rossi Silvestri Donati and the RM were introduced at an art auction in Rome. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nRossi Silvestri Donati is a 65 year old and comes from Italy.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Rossi Silvestri Donati is currently single. He does not have any children.",
+        "Education Background": "Rossi finished secondary school at Istituto Tecnico Industriale Statale Enrico Mattei Roma in 1978.\nHe then attended University of Milan, which he graduated in 1982.\n",
+        "Occupation History": "Rossi Silvestri Donati is a 65 year old retired Private Equity Investor from Italy. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nRossi Silvestri Donati began his professional journey as a Investment Banker at UBM S.p.A. in 1984, laying the foundation for future success.\nAfter gaining experience, he took on the role of Private Equity Investor at Intesa Sanpaolo S.p.A. in 1991, further expanding his skill set.\n",
+        "Wealth Summary": "He managed to save approximately 570000 EUR from his earnings at all companies.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Perugia, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

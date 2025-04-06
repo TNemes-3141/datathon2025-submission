@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Janssens",
+        "middle_name": "",
+        "last_name": "Roelandts",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1982-04-17",
+        "passport_number": "JY4195195",
+        "passport_mrz": [
+            "P<BELROELANDTS<<JANSSENS<<<<<<<<<<<<<<<<<<<<<",
+            "JY4195195BEL820417<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-04-04",
+        "passport_expiry_date": "2026-04-03"
+    },
+    "client_profile": {
+        "name": "Janssens Roelandts",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Rue de la Convention",
+            "street number": 17,
+            "postal code": "5112"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1982-04-17",
+        "nationality": "Belgian",
+        "passport_number": "JY4195195",
+        "passport_issue_date": "2019-04-04",
+        "passport_expiry_date": "2026-04-03",
+        "gender": "M",
+        "phone_number": "+32 0485 074 674",
+        "email_address": "janssens.roelandts@scarlet.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Coll\u00e8ge Notre-Dame de la Consolation",
+            "graduation_year": 2001
+        },
+        "higher_education": [
+            {
+                "university": "University of Namur",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2007,
+                "company": "Petercam SA",
+                "position": "Financial Advisor",
+                "salary": 40000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "ING Private Banking Belgium",
+                "position": "Portfolio Manager",
+                "salary": 59000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "ING Private Banking Belgium",
+                "position": "Wealth Manager",
+                "salary": 248000
+            }
+        ],
+        "aum": {
+            "savings": 340000,
+            "inheritance": 7490000,
+            "real_estate_value": 1220000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2007,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1220000,
+                "property location": "Li\u00e8ge"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Janssens Roelandts",
+        "first_name": "Janssens",
+        "middle_name": "",
+        "last_name": "Roelandts",
+        "passport_number": "JY4195195",
+        "currency": "EUR",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Rue de la Convention",
+            "street number": 17,
+            "postal code": "5112"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0485 074 674",
+        "email_address": "janssens.roelandts@scarlet.be"
+    },
+    "client_description": {
+        "Summary Note": "Janssens Roelandts and the RM were introduced at a charity run in Brussels. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nHaving worked for over 19 years, Janssens Roelandts brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Janssens Roelandts and Jos\u00e9phine have been married since 2011. They do not have any children.",
+        "Education Background": "Janssens finished secondary school at Coll\u00e8ge Notre-Dame de la Consolation in 2001.\nAfter that, he went on to study at University of Namur until 2006.\n",
+        "Occupation History": "Janssens Roelandts is a seasoned professional with over 19 years of experience.\nJanssens Roelandts began his professional journey as a Financial Advisor at Petercam SA in 2006, laying the foundation for future success.\nAt ING Private Banking Belgium, he held the position of Portfolio Manager from 2008 to 2012, making significant contributions to the organization.\nAt ING Private Banking Belgium, he worked as a Wealth Manager from 2014 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 340000 EUR.\nHe has house located in Li\u00e8ge, worth 1220000 EUR.\n\nHe inherited a significant sum of 7490000 EUR from his grandfather, a respected Neurosurgeon, in 2007, which he has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

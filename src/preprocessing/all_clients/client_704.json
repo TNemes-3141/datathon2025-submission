@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Joke",
+        "middle_name": "Geertje",
+        "last_name": "Mulders",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1972-04-29",
+        "passport_number": "DO6890751",
+        "passport_mrz": [
+            "P<NLDMULDERS<<JOKE<GEERTJE<<<<<<<<<<<<<<<<<<<",
+            "DO6890751NLD720429<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-11-22",
+        "passport_expiry_date": "2031-11-21"
+    },
+    "client_profile": {
+        "name": "Joke Geertje Mulders",
+        "address": {
+            "city": "Assen",
+            "street name": "Nieuwegeinseweg",
+            "street number": 77,
+            "postal code": "6774 34"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1972-04-29",
+        "nationality": "Dutch",
+        "passport_number": "DO6890751",
+        "passport_issue_date": "2021-11-22",
+        "passport_expiry_date": "2031-11-21",
+        "gender": "F",
+        "phone_number": "+31 06 58862525",
+        "email_address": "joke.mulders@hotspots.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Katholieke Scholengemeenschap Hoofddorp",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "Maastricht University School of Business and Economics",
+                "graduation_year": 1996
+            },
+            {
+                "university": "Leiden University",
+                "graduation_year": 2001
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 2000,
+                "company": "ABN AMRO Group N.V.",
+                "position": "Investment Banker",
+                "salary": 41000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2007,
+                "company": "ING Group N.V.",
+                "position": "Private Equity Investor",
+                "salary": 76000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "SNS Bank N.V.",
+                "position": "Hedge Fund Manager",
+                "salary": 343000
+            }
+        ],
+        "aum": {
+            "savings": 540000,
+            "inheritance": 1440000,
+            "real_estate_value": 3320000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2012,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2030000,
+                "property location": "Assen"
+            },
+            {
+                "property type": "flat",
+                "property value": 1290000,
+                "property location": "Almere"
+            }
+        ],
+        "investment_risk_profile": "",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Joke Geertje Mulders",
+        "first_name": "Joke",
+        "middle_name": "Geertje",
+        "last_name": "Mulders",
+        "passport_number": "DO6890751",
+        "currency": "EUR",
+        "address": {
+            "city": "Assen",
+            "street name": "Nieuwegeinseweg",
+            "street number": 77,
+            "postal code": "6774 34"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 58862525",
+        "email_address": "joke.mulders@hotspots."
+    },
+    "client_description": {
+        "Summary Note": "Joke Geertje Mulders and the RM are cousins, having grown up together in Amsterdam. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nHaving worked for over 29 years, Joke Geertje Mulders brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Joke Geertje Mulders is married to Veenhoven. They do not have any children.",
+        "Education Background": "Joke earned her secondary school diploma from Katholieke Scholengemeenschap Hoofddorp in 1990.\nAfter that, she went on to study at Maastricht University School of Business and Economics until 1996.\nShe pursued addtionally further eduaction by attending Leiden University and graduating in 2001.\n",
+        "Occupation History": "With a career spanning nearly 29 years, Joke Geertje Mulders has established herself as a key player in the industry.\nAt ABN AMRO Group N.V., Joke Geertje Mulders held the position of Investment Banker from 1996 to 2000, developing essential skills in the field.\nShe then transitioned to ING Group N.V. as a Private Equity Investor, leveraging her expertise to drive results from 2002 to 2007.\nShe spent 16 years working as a Hedge Fund Manager at SNS Bank N.V., refining her expertise and building a strong network.\n",
+        "Wealth Summary": "While working, she saved 540000 EUR, which she used to build a diversified investment portfolio.\nShe has house located in Assen, worth 2030000 EUR.\n\nIn addition to her primary residence, she owns flat in Almere worth 1290000 EUR.\n\nIn 2012, she received an inheritance of 1440000 EUR from her late grandfather, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

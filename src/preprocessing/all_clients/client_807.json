@@ -1,0 +1,137 @@
+{
+    "passport": {
+        "first_name": "Janssens",
+        "middle_name": "",
+        "last_name": "Roelandts",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1962-11-23",
+        "passport_number": "NN7256948",
+        "passport_mrz": [
+            "P<BELROELANDTS<<JANSSENS<<<<<<<<<<<<<<<<<<<<<",
+            "NN7256948BEL621123<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-10-19",
+        "passport_expiry_date": "2023-10-18"
+    },
+    "client_profile": {
+        "name": "Janssens Roelandts",
+        "address": {
+            "city": "Ghent",
+            "street name": "Rue de la Loi",
+            "street number": 29,
+            "postal code": "5202"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1962-11-23",
+        "nationality": "Belgian",
+        "passport_number": "NN7256948",
+        "passport_issue_date": "2016-10-19",
+        "passport_expiry_date": "2023-10-18",
+        "gender": "M",
+        "phone_number": "+32 0427 352 019",
+        "email_address": "janssens.roelandts@skype.be",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Solvay Brussels School of Economics and Management",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1989,
+                "company": "CMB NV",
+                "position": "Ship Broker",
+                "salary": 35000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1992,
+                "company": "Wallenius Wilhelmsen Logistics Belgium NV",
+                "position": "Shipping Company Owner",
+                "salary": 60000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "CMB NV",
+                "position": "Fleet Manager",
+                "salary": 130000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2005,
+                "company": "Wallenius Wilhelmsen Logistics Belgium NV",
+                "position": "Maritime Industry Leader",
+                "salary": 206000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2023,
+                "company": "Exmar NV",
+                "position": "Logistics Conglomerate Owner",
+                "salary": 647000
+            }
+        ],
+        "aum": {
+            "savings": 1190000,
+            "inheritance": 0,
+            "real_estate_value": 1970000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 760000,
+                "property location": "Ghent"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1210000,
+                "property location": "Ghent"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Janssens Roelandts",
+        "first_name": "Janssens",
+        "middle_name": "",
+        "last_name": "Roelandts",
+        "passport_number": "NN7256948",
+        "currency": "EUR",
+        "address": {
+            "city": "Ghent",
+            "street name": "Rue de la Loi",
+            "street number": 29,
+            "postal code": "5202"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0427 352 019",
+        "email_address": "janssens.roelandts@skype.be"
+    },
+    "client_description": {
+        "Summary Note": "Janssens Roelandts and the RM met at a financial seminar in Brussels. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nWith a career spanning nearly 38 years, Janssens Roelandts has established himself as a key player in the industry.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Janssens Roelandts is currently widowed. His child is named Fatima.",
+        "Education Background": "Janssens completed his secondary education at Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur in 1981.\nJanssens graduated from Solvay Brussels School of Economics and Management in 1985, completing his higher education.\n",
+        "Occupation History": "Janssens Roelandts is a seasoned professional with over 38 years of experience.\nAt CMB NV, Janssens Roelandts held the position of Ship Broker from 1987 to 1989, developing essential skills in the field.\nIn 1990, he moved to Wallenius Wilhelmsen Logistics Belgium NV to work as a Shipping Company Owner, applying his knowledge to achieve outstanding performance.\nFrom 1994 to 1999, he served as a Fleet Manager at CMB NV, solidifying his position as a leader in the industry.\nHe worked as a Maritime Industry Leader at Wallenius Wilhelmsen Logistics Belgium NV from 2000 to 2005, playing a pivotal role in shaping the company's vision and strategy.\nJanssens Roelandts retired after holding the position of Logistics Conglomerate Owner at Exmar NV from 2007 to 2023.",
+        "Wealth Summary": "While working, he saved 1190000 EUR, which he used to build a diversified investment portfolio.\nHe has invested in several rental properties across various locations, generating additional income. The properties are valued at 1970000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

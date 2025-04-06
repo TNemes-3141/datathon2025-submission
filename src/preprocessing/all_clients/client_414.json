@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Pedersen",
+        "middle_name": "Krog",
+        "last_name": "Madsen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1969-11-13",
+        "passport_number": "FD1442976",
+        "passport_mrz": [
+            "P<DNKMADSEN<<PEDERSEN<KROG<<<<<<<<<<<<<<<<<<<",
+            "FD1442976DNK691113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-09-23",
+        "passport_expiry_date": "2033-09-22"
+    },
+    "client_profile": {
+        "name": "Pedersen Krog Madsen",
+        "address": {
+            "city": "Odense",
+            "street name": "Vandkunsten",
+            "street number": 50,
+            "postal code": "2177"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1969-11-13",
+        "nationality": "Danish",
+        "passport_number": "FD1442976",
+        "passport_issue_date": "2023-09-23",
+        "passport_expiry_date": "2033-09-22",
+        "gender": "M",
+        "phone_number": "94 10 30 75",
+        "email_address": "pedersen.madsen@telia.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Rysensteen Gymnasium",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "University College Lilleb\u00e6lt",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1997,
+                "company": "Trifork A/S",
+                "position": "Software Developer",
+                "salary": 251000
+            },
+            {
+                "start_year": 1998,
+                "end_year": null,
+                "company": "IBM Danmark A/S",
+                "position": "Startup Founder",
+                "salary": 1474000
+            }
+        ],
+        "aum": {
+            "savings": 3020000,
+            "inheritance": 23660000,
+            "real_estate_value": 3621000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1411000,
+                "property location": "Odense"
+            },
+            {
+                "property type": "flat",
+                "property value": 990000,
+                "property location": "Esbjerg \u00d8"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1220000,
+                "property location": "Copenhagen"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "",
+        "preferred_markets": [
+            "Spain",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Pedersen Krog Madsen",
+        "first_name": "Pedersen",
+        "middle_name": "Krog",
+        "last_name": "Madsen",
+        "passport_number": "FD1442976",
+        "currency": "DKK",
+        "address": {
+            "city": "Odense",
+            "street name": "Vandkunsten",
+            "street number": 50,
+            "postal code": "2177"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "94 10 30 75",
+        "email_address": "pedersen.madsen@telia.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Pedersen Krog Madsen's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nPedersen Krog Madsen is a seasoned professional with over 32 years of experience.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Pedersen Krog Madsen and Hanne have been married since 2000. They are proud parents of 2 children: Agnes and Olsen.",
+        "Education Background": "Pedersen finished secondary school at Rysensteen Gymnasium in 1987.\nPedersen received his degree from University College Lilleb\u00e6lt in 1994.\n",
+        "Occupation History": "Having worked for over 32 years, Pedersen Krog Madsen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nIn 1993, Pedersen Krog Madsen started working as a Software Developer at Trifork A/S, marking the beginning of his successful career.\nAt IBM Danmark A/S, he held the position of Startup Founder from 1998 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 3020000 DKK.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Esbjerg \u00d8, Odense and Copenhagen, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of his grandmother, a successful Venture Capitalist, he received an inheritance of 23660000 DKK in 2007, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

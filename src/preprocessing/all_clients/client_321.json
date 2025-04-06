@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Russo",
+        "middle_name": "",
+        "last_name": "Belli",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1990-12-08",
+        "passport_number": "WO7579358",
+        "passport_mrz": [
+            "P<ITABELLI<<RUSSO<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "WO7579358ITA901208<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-08",
+        "passport_expiry_date": "2030-08-07"
+    },
+    "client_profile": {
+        "name": "Russo Belli",
+        "address": {
+            "city": "Catania",
+            "street name": "Via IV Novembre",
+            "street number": 70,
+            "postal code": "06126"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1990-12-08",
+        "nationality": "Italian",
+        "passport_number": "WO7579358",
+        "passport_issue_date": "2020-08-08",
+        "passport_expiry_date": "2030-08-07",
+        "gender": "M",
+        "phone_number": "+39 312 5177390",
+        "email_address": "russo.belli@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Scuola Superiore di Lingue e Letterature Straniere per Interpreti e Traduttori Milano",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "University of Naples Federico II",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1992,
+                "end_year": 2017,
+                "company": "Luxottica Group S.p.A.",
+                "position": "Plant Manager",
+                "salary": 28000
+            },
+            {
+                "start_year": 2018,
+                "end_year": 2023,
+                "company": "Fiat Chrysler Automobiles N.V.",
+                "position": "Operations Director",
+                "salary": 52000
+            }
+        ],
+        "aum": {
+            "savings": 50000,
+            "inheritance": 2050000,
+            "real_estate_value": 2400000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 730000,
+                "property location": "Catania"
+            },
+            {
+                "property type": "condo",
+                "property value": 830000,
+                "property location": "Modena"
+            },
+            {
+                "property type": "flat",
+                "property value": 840000,
+                "property location": "Rome"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Russo Belli",
+        "first_name": "Russo",
+        "middle_name": "",
+        "last_name": "Belli",
+        "passport_number": "WO7579358",
+        "currency": "EUR",
+        "address": {
+            "city": "Catania",
+            "street name": "Via IV Novembre",
+            "street number": 70,
+            "postal code": "06126"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 312 5177390",
+        "email_address": "russo.belli@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Russo Belli and the RM were introduced at a charity run in Rome. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nWith a career spanning nearly 11 years, Russo Belli has established himself as a key player in the industry.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Russo Belli and Ginevra have been married since 2022. They do not have any children.",
+        "Education Background": "In 2009, Russo finished his secondary school education at Scuola Superiore di Lingue e Letterature Straniere per Interpreti e Traduttori Milano.\nRusso completed his university education at University of Naples Federico II in 2013.\n",
+        "Occupation History": "Russo Belli is a 34 year old Operations Director from Italy.\nRusso Belli began his professional journey as a Plant Manager at Luxottica Group S.p.A. in 2014, laying the foundation for future success.\nHis subsequent role was as a Operations Director at Fiat Chrysler Automobiles N.V., where he continued to grow professionally from 2018 to 2023.\n",
+        "Wealth Summary": "Throughout his career, he saved 50000 EUR, investing in various assets to grow his wealth.\nHe owns condo in Catania, where he resides. It is worth 730000 EUR.\n\nIn addition to his primary residence, he owns condo in Modena worth 830000 EUR.\n\nMoreover, he has invested in additional property in Rome, giving possiblity for generating additional income. The flat is valued at 840000 EUR.\n\nHe inherited 2050000 EUR from his grandfather, a well-known Corporate Lawyer, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

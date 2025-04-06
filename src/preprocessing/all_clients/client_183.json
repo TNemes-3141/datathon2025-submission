@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "\u00c9lodie",
+        "middle_name": "Daphn\u00e9",
+        "last_name": "Maes",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1974-08-28",
+        "passport_number": "SU6240598",
+        "passport_mrz": [
+            "P<BELMAES<<\u00c9LODIE<DAPHN\u00c9<<<<<<<<<<<<<<<<<<<<<",
+            "SU6240598BEL740828<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-10",
+        "passport_expiry_date": "2030-08-09"
+    },
+    "client_profile": {
+        "name": "\u00c9lodie Daphn\u00e9 Maes",
+        "address": {
+            "city": "Aalst",
+            "street name": "Rue des Quatre Bras",
+            "street number": 20,
+            "postal code": "8924"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1974-08-28",
+        "nationality": "Belgian",
+        "passport_number": "SU6240598",
+        "passport_issue_date": "2023-08-10",
+        "passport_expiry_date": "2030-08-09",
+        "gender": "F",
+        "phone_number": "+32 0424 945 427",
+        "email_address": "elodie.maes@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "Universit\u00e9 libre de Bruxelles",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "GIMV NV",
+                "position": "Stockbroker",
+                "salary": 40000
+            },
+            {
+                "start_year": 2001,
+                "end_year": null,
+                "company": "GIMV NV",
+                "position": "Portfolio Manager",
+                "salary": 309000
+            }
+        ],
+        "aum": {
+            "savings": 480000,
+            "inheritance": 1460000,
+            "real_estate_value": 1540000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2008,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1540000,
+                "property location": "Aalst"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "\u00c9lodie Daphn\u00e9 Maes",
+        "first_name": "\u00c9lodie",
+        "middle_name": "Daphn\u00e9",
+        "last_name": "Maes",
+        "passport_number": "SU6240598",
+        "currency": "EUR",
+        "address": {
+            "city": "Aalst",
+            "street name": "Rue des Quatre Bras",
+            "street number": 20,
+            "postal code": "8924"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0424 945 427",
+        "email_address": "elodie.maes@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met \u00c9lodie Daphn\u00e9 Maes at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\n\u00c9lodie Daphn\u00e9 Maes is a seasoned professional with over 26 years of experience.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "\u00c9lodie Daphn\u00e9 Maes and Wouters have been married since 2005. Their child is  named Margot.",
+        "Education Background": "\u00c9lodie earned her secondary school diploma from Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur in 1992.\nIn 1999, \u00c9lodie graduated from Universit\u00e9 libre de Bruxelles with a degree.\n",
+        "Occupation History": "\u00c9lodie Daphn\u00e9 Maes is a seasoned professional with over 26 years of experience.\n\u00c9lodie Daphn\u00e9 Maes's first role was as a Stockbroker at GIMV NV, where she worked diligently from 1999 to 2000 to establish a strong reputation.\nHer subsequent role was as a Portfolio Manager at GIMV NV, where she continued to grow professionally from 2001 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 480000 EUR.\nShe owns house in Aalst, where she resides. It is worth 1540000 EUR.\n\n\nFollowing the passing of her grandmother, a successful Stock Trader, she received an inheritance of 1460000 EUR in 2008, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In summary, \u00c9lodie has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

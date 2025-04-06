@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Concha",
+        "middle_name": "Estefan\u00eda",
+        "last_name": "Hern\u00e1ndez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1959-09-24",
+        "passport_number": "PS2597097",
+        "passport_mrz": [
+            "P<ESPHERN\u00c1NDEZ<<CONCHA<ESTEFAN\u00cdA<<<<<<<<<<<<<",
+            "PS2597097ESP590924<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-04-14",
+        "passport_expiry_date": "2026-04-13"
+    },
+    "client_profile": {
+        "name": "Concha Estefan\u00eda Hern\u00e1ndez",
+        "address": {
+            "city": "Cuenca",
+            "street name": "Calle de la Victoria",
+            "street number": 56,
+            "postal code": "44122"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1959-09-24",
+        "nationality": "Spanish",
+        "passport_number": "PS2597097",
+        "passport_issue_date": "2016-04-14",
+        "passport_expiry_date": "2026-04-13",
+        "gender": "F",
+        "phone_number": "+34 657 123 038",
+        "email_address": "concha.hernandez@terra.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Instituto de Educaci\u00f3n Secundaria IES Pedro Salinas Ja\u00e9n",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "University of Seville",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1983,
+                "end_year": 1984,
+                "company": "Adolfo Dom\u00ednguez S.A.",
+                "position": "Assistant Designer",
+                "salary": 26000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1985,
+                "company": "Mango MNG Holdings S.L.",
+                "position": "Senior Designer",
+                "salary": 36000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 1988,
+                "company": "Mango MNG Holdings S.L.",
+                "position": "Creative Director",
+                "salary": 58000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 2020,
+                "company": "Inditex S.A.",
+                "position": "Founder/Designer",
+                "salary": 874000
+            }
+        ],
+        "aum": {
+            "savings": 1720000,
+            "inheritance": 0,
+            "real_estate_value": 2380000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1300000,
+                "property location": "Cuenca"
+            },
+            {
+                "property type": "condo",
+                "property value": 1080000,
+                "property location": "Castell\u00f3n de la Plana"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Concha Estefan\u00eda Hern\u00e1ndez",
+        "first_name": "Concha",
+        "middle_name": "Estefan\u00eda",
+        "last_name": "Hern\u00e1ndez",
+        "passport_number": "PS2597097",
+        "currency": "EUR",
+        "address": {
+            "city": "Cuenca",
+            "street name": "Calle de la Victoria",
+            "street number": 56,
+            "postal code": "44122"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 657 123 038",
+        "email_address": "concha.hernandez@terra.es"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Concha Estefan\u00eda Hern\u00e1ndez at a charity gala in Madrid. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nConcha Estefan\u00eda Hern\u00e1ndez is a seasoned professional with over 42 years of experience.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Concha Estefan\u00eda Hern\u00e1ndez and Soto tied the knot in 1994. They are proud parents of 3 children: Castro, Ib\u00e1\u00f1ez and Catalina.",
+        "Education Background": "In 1978, Concha finished her secondary school education at Instituto de Educaci\u00f3n Secundaria IES Pedro Salinas Ja\u00e9n.\nConcha finished her studies at University of Seville in 1983.\n",
+        "Occupation History": "Having worked for over 42 years, Concha Estefan\u00eda Hern\u00e1ndez brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nConcha Estefan\u00eda Hern\u00e1ndez began her professional journey as a Assistant Designer at Adolfo Dom\u00ednguez S.A. in 1983, laying the foundation for future success.\nAt Mango MNG Holdings S.L., she held the position of Senior Designer from 1984 to 1985, making significant contributions to the organization.\nIn 1987, she joined Mango MNG Holdings S.L. as a Creative Director, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nIn 1990, she transitioned to Inditex S.A. to take on the position of Founder/Designer, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1720000 EUR.\nShe owns house in Cuenca, where she resides. It is worth 1300000 EUR.\n\nIn addition to her primary residence, she owns condo in Castell\u00f3n de la Plana worth 1080000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

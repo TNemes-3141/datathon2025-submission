@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Ad\u00e8le",
+        "middle_name": "",
+        "last_name": "Vandenberghe",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1986-02-04",
+        "passport_number": "AN2564348",
+        "passport_mrz": [
+            "P<BELVANDENBERGHE<<AD\u00c8LE<<<<<<<<<<<<<<<<<<<<<",
+            "AN2564348BEL860204<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-05-09",
+        "passport_expiry_date": "2031-05-08"
+    },
+    "client_profile": {
+        "name": "Ad\u00e8le Vandenberghe",
+        "address": {
+            "city": "Hasselt",
+            "street name": "Rue des Champs-\u00c9lys\u00e9es",
+            "street number": 88,
+            "postal code": "2226"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1986-02-04",
+        "nationality": "Belgian",
+        "passport_number": "AN2564348",
+        "passport_issue_date": "2024-05-09",
+        "passport_expiry_date": "2031-05-08",
+        "gender": "F",
+        "phone_number": "+32 0412 705 183",
+        "email_address": "adele.vandenberghe@outlook.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Atheneum Antwerpen Linkeroever",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "Erasmus University College Brussels",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2012,
+                "company": "Sonaca SA",
+                "position": "Aerospace Engineer",
+                "salary": 36000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2015,
+                "company": "Asco Industries NV",
+                "position": "Program Manager",
+                "salary": 54000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Asco Industries NV",
+                "position": "Director of Operations",
+                "salary": 138000
+            }
+        ],
+        "aum": {
+            "savings": 160000,
+            "inheritance": 5540000,
+            "real_estate_value": 2015000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 765000,
+                "property location": "Hasselt"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1250000,
+                "property location": "Menen"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ad\u00e8le Vandenberghe",
+        "first_name": "Ad\u00e8le",
+        "middle_name": "",
+        "last_name": "Vandenberghe",
+        "passport_number": "AN2564348",
+        "currency": "EUR",
+        "address": {
+            "city": "Hasselt",
+            "street name": "Rue des Champs-\u00c9lys\u00e9es",
+            "street number": 88,
+            "postal code": "2226"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0412 705 183",
+        "email_address": "adele.vandenberghe@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Ad\u00e8le Vandenberghe and the RM were introduced at a charity run in Brussels. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nAd\u00e8le Vandenberghe is a seasoned professional with over 16 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Ad\u00e8le Vandenberghe is currently widowed. She has 1 kid called De Smet.",
+        "Education Background": "Ad\u00e8le finished secondary school at Atheneum Antwerpen Linkeroever in 2003.\nAd\u00e8le completed her university studies at Erasmus University College Brussels in 2009.\n",
+        "Occupation History": "Ad\u00e8le Vandenberghe is a seasoned professional with over 16 years of experience.\nAd\u00e8le Vandenberghe began her professional journey as a Aerospace Engineer at Sonaca SA in 2009, laying the foundation for future success.\nHer subsequent role was as a Program Manager at Asco Industries NV, where she continued to grow professionally from 2014 to 2015.\nShe spent 9 years working as a Director of Operations at Asco Industries NV, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 160000 EUR.\nShe owns 2 exceptional properties: condo located in Hasselt, valued at approximately 765,000.00 EUR, townhouse located in Menen, valued at approximately 1,250,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Hasselt and Menen.\n\nIn addition to her career success, she also received an inheritance of 5540000 EUR from her late grandmother, a renowned Real Estate Developer, in 2017.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

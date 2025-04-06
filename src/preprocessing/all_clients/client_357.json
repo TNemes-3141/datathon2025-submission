@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Gabriela",
+        "middle_name": "Gis\u00e8le",
+        "last_name": "Jost",
+        "gender": "",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1987-02-02",
+        "passport_number": "LQ5025647",
+        "passport_mrz": [
+            "P<CHEJOST<<GABRIELA<GIS\u00c8LE<<<<<<<<<<<<<<<<<<<",
+            "LQ5025647CHE870202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-30",
+        "passport_expiry_date": "2029-09-29"
+    },
+    "client_profile": {
+        "name": "Gabriela Gis\u00e8le Jost",
+        "address": {
+            "city": "Basel",
+            "street name": "Place des Halles",
+            "street number": 85,
+            "postal code": "9666"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1987-02-02",
+        "nationality": "Swiss",
+        "passport_number": "LQ5025647",
+        "passport_issue_date": "2019-09-30",
+        "passport_expiry_date": "2029-09-29",
+        "gender": "F",
+        "phone_number": "070 534 79 43",
+        "email_address": "gabriela.jost@lycos.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e cantonal de Porrentruy Jura",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "University of Lausanne",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": "Schellenberg Wittmer Ltd.",
+                "position": "Associate Attorney",
+                "salary": 57000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2025,
+                "company": "B\u00e4r & Karrer AG",
+                "position": "Senior Associate",
+                "salary": 103000
+            }
+        ],
+        "aum": {
+            "savings": 150000,
+            "inheritance": 6670000,
+            "real_estate_value": 4890000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2570000,
+                "property location": "Basel"
+            },
+            {
+                "property type": "condo",
+                "property value": 2320000,
+                "property location": "St. Gallen"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Austria"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Gabriela Gis\u00e8le Jost",
+        "first_name": "Gabriela",
+        "middle_name": "Gis\u00e8le",
+        "last_name": "Jost",
+        "passport_number": "LQ5025647",
+        "currency": "CHF",
+        "address": {
+            "city": "Basel",
+            "street name": "Place des Halles",
+            "street number": 85,
+            "postal code": "9666"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "070 534 79 43",
+        "email_address": "gabriela.jost@lycos.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Gabriela Gis\u00e8le Jost at a wine tasting event in Z\u00fcrich. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nHaving worked for over 15 years, Gabriela Gis\u00e8le Jost brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Gabriela Gis\u00e8le Jost is currently divorced. She does not have any children.",
+        "Education Background": "Gabriela completed her secondary education at Lyc\u00e9e cantonal de Porrentruy Jura in 2004.\nGabriela attended University of Lausanne and graduated in 2009.\n",
+        "Occupation History": "Gabriela Gis\u00e8le Jost is a 38 year old Senior Associate from Switzerland.\nIn 2010, Gabriela Gis\u00e8le Jost started working as a Associate Attorney at Schellenberg Wittmer Ltd., marking the beginning of her successful career.\nShe then transitioned to B\u00e4r & Karrer AG as a Senior Associate, leveraging her expertise to drive results from 2015 to 2025.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 150000 CHF.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across St. Gallen and Basel, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nIn addition to her career success, she also received an inheritance of 6670000 CHF from her late grandfather, a renowned Private Equity Manager, in 2017.\n",
+        "Client Summary": "The RM is very happy to have Gabriela as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

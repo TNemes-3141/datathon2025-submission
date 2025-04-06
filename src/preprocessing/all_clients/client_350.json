@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Soto",
+        "middle_name": "",
+        "last_name": "Ruiz",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1954-11-17",
+        "passport_number": "ST9857697",
+        "passport_mrz": [
+            "P<ESPRUIZ<<SOTO<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "ST9857697ESP541117<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2015-03-23",
+        "passport_expiry_date": "2025-03-22"
+    },
+    "client_profile": {
+        "name": "Soto Ruiz",
+        "address": {
+            "city": "Castell\u00f3n de la Plana",
+            "street name": "Plaza de la Encarnaci\u00f3n",
+            "street number": 97,
+            "postal code": "25614"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1954-11-17",
+        "nationality": "Spanish",
+        "passport_number": "ST9857697",
+        "passport_issue_date": "2015-03-23",
+        "passport_expiry_date": "2025-03-22",
+        "gender": "M",
+        "phone_number": "+34 699 566 284",
+        "email_address": "soto.ruiz@wanadoo.es",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Alfonso X el Sabio Murcia",
+            "graduation_year": 1972
+        },
+        "higher_education": [
+            {
+                "university": "Ram\u00f3n Llull University",
+                "graduation_year": 1978
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1978,
+                "end_year": 1982,
+                "company": "NH Hotel Group S.A.",
+                "position": "Hotel Manager",
+                "salary": 25000
+            },
+            {
+                "start_year": 1982,
+                "end_year": 1984,
+                "company": "Barcel\u00f3 Hotels & Resorts S.A.",
+                "position": "General Manager",
+                "salary": 37000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1985,
+                "company": "Iberostar Hotels & Resorts S.A.",
+                "position": "Regional Vice President",
+                "salary": 63000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "NH Hotel Group S.A.",
+                "position": "CEO",
+                "salary": 112000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 2015,
+                "company": "Iberostar Hotels & Resorts S.A.",
+                "position": "Hospitality Industry Leader",
+                "salary": 945000
+            }
+        ],
+        "aum": {
+            "savings": 1850000,
+            "inheritance": 0,
+            "real_estate_value": 1000000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1000000,
+                "property location": "Castell\u00f3n de la Plana"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Soto Ruiz",
+        "first_name": "Soto",
+        "middle_name": "",
+        "last_name": "Ruiz",
+        "passport_number": "ST9857697",
+        "currency": "EUR",
+        "address": {
+            "city": "Castell\u00f3n de la Plana",
+            "street name": "Plaza de la Encarnaci\u00f3n",
+            "street number": 97,
+            "postal code": "25614"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "++32 699 566 284",
+        "email_address": "soto.ruiz@wanadoo.es"
+    },
+    "client_description": {
+        "Summary Note": "Soto Ruiz and the RM were introduced at an art auction in Madrid. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nSoto Ruiz is a 70 year old retired Hospitality Industry Leader from Spain. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Soto Ruiz is currently divorced. He does not have any children.",
+        "Education Background": "In 1972, Soto graduated from IES Alfonso X el Sabio Murcia with a secondary school diploma.\nSoto completed his university education at Ram\u00f3n Llull University in 1978.\n",
+        "Occupation History": "Soto Ruiz is a seasoned professional with over 47 years of experience.\nSoto Ruiz began his professional journey as a Hotel Manager at NH Hotel Group S.A. in 1978, laying the foundation for future success.\nAt Barcel\u00f3 Hotels & Resorts S.A., he held the position of General Manager from 1982 to 1984, making significant contributions to the organization.\nAt Iberostar Hotels & Resorts S.A., he worked as a Regional Vice President from 1984 to 1985, focusing on strategic initiatives and team collaboration.\nHe appointment as a CEO at NH Hotel Group S.A. in 1985 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\nHe held the position of Hospitality Industry Leader at Iberostar Hotels & Resorts S.A. from 1989 until his retirement.",
+        "Wealth Summary": "While working, he saved 1850000 EUR, which he used to build a diversified investment portfolio.\nHe has townhouse located in Castell\u00f3n de la Plana, worth 1000000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "passport": {
+        "first_name": "Simon",
+        "middle_name": "Laurent",
+        "last_name": "Guillaume",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1990-06-27",
+        "passport_number": "YQ1917228",
+        "passport_mrz": [
+            "P<FRAGUILLAUME<<SIMON<LAURENT<<<<<<<<<<<<<<<<",
+            "YQ1917228FRA900627<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-17",
+        "passport_expiry_date": "2033-02-16"
+    },
+    "client_profile": {
+        "name": "Simon Laurent Guillaume",
+        "address": {
+            "city": "Reims",
+            "street name": "Rue Gay-Lussac",
+            "street number": 5,
+            "postal code": "29468"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1990-06-27",
+        "nationality": "French",
+        "passport_number": "YQ1917228",
+        "passport_issue_date": "2023-02-17",
+        "passport_expiry_date": "2033-02-16",
+        "gender": "M",
+        "phone_number": "+33 00 22 35 61 03",
+        "email_address": "simon.guillaume@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Voltaire",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole des Beaux-Arts de Paris",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "InterContinental Hotels Group France",
+                "position": "Hotel Manager",
+                "salary": 75000
+            }
+        ],
+        "aum": {
+            "savings": 90000,
+            "inheritance": 1620000,
+            "real_estate_value": 3198000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1078000,
+                "property location": "Reims"
+            },
+            {
+                "property type": "house",
+                "property value": 2120000,
+                "property location": "Caen"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Simon Laurent Guillaume",
+        "first_name": "Simon",
+        "middle_name": "Laurent",
+        "last_name": "Guillaume",
+        "passport_number": "YQ1917228",
+        "currency": "EUR",
+        "address": {
+            "city": "Reims",
+            "street name": "Rue Gay-Lussac",
+            "street number": 5,
+            "postal code": "29468"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 00 22 35 61 03",
+        "email_address": "simon.guillaume@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Simon Laurent Guillaume and the RM met at a financial seminar in Paris. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nSimon Laurent Guillaume is a 34 year old Hotel Manager from France.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Simon Laurent Guillaume is married to Ambre. Their child is  named Delphine.",
+        "Education Background": "Simon obtained his secondary school diploma from Lyc\u00e9e Voltaire in 2010.\nSimon earned his degree from \u00c9cole Normale Sup\u00e9rieure (ENS) Paris in 2013.\n",
+        "Occupation History": "Simon Laurent Guillaume is a 34 year old and comes from France.\nSimon Laurent Guillaume launched his career as a Hotel Manager at InterContinental Hotels Group France, where he gained valuable experience from 2014 till now.\n",
+        "Wealth Summary": "While working, he saved 90000 EUR, which he used to build a diversified investment portfolio.\nHe owns flat in Reims, where he resides. It is worth 1078000 EUR.\n\nIn addition to his primary residence, he owns house in Caen worth 2120000 EUR.\n\n\nFollowing the passing of his grandfather, a successful Investment Banker, he received an inheritance of 1620000 EUR in 2020, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Bernard",
+        "middle_name": "",
+        "last_name": "Richard",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1987-01-06",
+        "passport_number": "BF6256422",
+        "passport_mrz": [
+            "P<FRARICHARD<<BERNARD<<<<<<<<<<<<<<<<<<<<<<<<",
+            "BF6256422FRA870106<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-28",
+        "passport_expiry_date": "2033-02-27"
+    },
+    "client_profile": {
+        "name": "Bernard Richard",
+        "address": {
+            "city": "Rouen",
+            "street name": "Avenue George V",
+            "street number": 18,
+            "postal code": "60829"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1987-01-06",
+        "nationality": "French",
+        "passport_number": "BF6256422",
+        "passport_issue_date": "2023-02-28",
+        "passport_expiry_date": "2033-02-27",
+        "gender": "M",
+        "phone_number": "06 47 18 98 51",
+        "email_address": "bernard.richard@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Victor Hugo",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Polytechnique",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2014,
+                "company": "Mus\u00e9e Rodin",
+                "position": "Art Dealer",
+                "salary": 32000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Mus\u00e9e Rodin",
+                "position": "Gallery Owner",
+                "salary": 108000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 4340000,
+            "real_estate_value": 2660000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1660000,
+                "property location": "Rouen"
+            },
+            {
+                "property type": "flat",
+                "property value": 1000000,
+                "property location": "Montpellier"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Bernard Richard",
+        "first_name": "Bernard",
+        "middle_name": "",
+        "last_name": "Richard",
+        "passport_number": "BF6256422",
+        "currency": "EUR",
+        "address": {
+            "city": "Rouen",
+            "street name": "Avenue George V",
+            "street number": 18,
+            "postal code": "60829"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "06 47 18 98 51",
+        "email_address": "bernard.richard@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Bernard Richard since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nBernard Richard is a 38 year old Gallery Owner from France.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Bernard Richard is currently single. He does not have any children.",
+        "Education Background": "Bernard graduated from Lyc\u00e9e Victor Hugo in 2004.\nBernard completed his university education at \u00c9cole Polytechnique in 2011.\n",
+        "Occupation History": "Bernard Richard is a 38 year old and comes from France.\nBernard Richard's first role was as a Art Dealer at Mus\u00e9e Rodin, where he worked diligently from 2011 to 2014 to establish a strong reputation.\nAt Mus\u00e9e Rodin, he held the position of Gallery Owner from 2014 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 140000 EUR, investing in various assets to grow his wealth.\nHe owns 2 exceptional properties: house located in Rouen, valued at approximately 1,660,000.00 EUR, flat located in Montpellier, valued at approximately 13,000,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Montpellier and Rouen.\n\nFollowing the passing of his grandmother, a successful Stock Trader, he received an inheritance of 4340000 EUR in 2017, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

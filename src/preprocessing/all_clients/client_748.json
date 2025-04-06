@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Evelien",
+        "middle_name": "Julia",
+        "last_name": "Peeters",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1982-07-31",
+        "passport_number": "GL4763213",
+        "passport_mrz": [
+            "P<NLDPEETERS<<EVELIEN<JULIA<<<<<<<<<<<<<<<<<<",
+            "GL4763213NLD820731<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-06-30",
+        "passport_expiry_date": "2027-06-29"
+    },
+    "client_profile": {
+        "name": "Evelien Julia Peeters",
+        "address": {
+            "city": "Leiden",
+            "street name": "Oudegracht",
+            "street number": 94,
+            "postal code": "7433 14"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1982-07-31",
+        "nationality": "Dutch",
+        "passport_number": "GL4763213",
+        "passport_issue_date": "2017-06-30",
+        "passport_expiry_date": "2027-06-29",
+        "gender": "F",
+        "phone_number": "+31 06 41572677",
+        "email_address": "evelien.peeters@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gerardus Majellalynceum Amsterdam",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "NWO - Netherlands Organisation for Scientific Research",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2012,
+                "company": "Galapagos N.V.",
+                "position": "Research Scientist",
+                "salary": 49000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Galapagos N.V.",
+                "position": "Biotech Startup Founder",
+                "salary": 133000
+            }
+        ],
+        "aum": {
+            "savings": 210000,
+            "inheritance": 1850000,
+            "real_estate_value": 3320000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2008,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2050000,
+                "property location": "Leiden"
+            },
+            {
+                "property type": "condo",
+                "property value": 1270000,
+                "property location": "Almere"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Evelien Julia Peeters",
+        "first_name": "Evelien",
+        "middle_name": "Julia",
+        "last_name": "Peeters",
+        "passport_number": "GL4763213",
+        "currency": "EUR",
+        "address": {
+            "city": "Leiden",
+            "street name": "Oudegracht",
+            "street number": 94,
+            "postal code": "7433 14"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 41572677",
+        "email_address": "evelien.peeters@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Evelien Julia Peeters's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nEvelien Julia Peeters is a 42 year old Biotech Startup Founder from Netherlands.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Evelien Julia Peeters and Veenhoven tied the knot in 2012. Evelien and Veenhoven have 2 children, named Willems and Ilona.",
+        "Education Background": "Evelien graduated from Gerardus Majellalynceum Amsterdam in 2000.\nEvelien earned her degree from NWO - Netherlands Organisation for Scientific Research in 2006.\n",
+        "Occupation History": "Evelien Julia Peeters is a 42 year old Biotech Startup Founder from Netherlands.\nIn 2007, Evelien Julia Peeters started working as a Research Scientist at Galapagos N.V., marking the beginning of her successful career.\nAt Galapagos N.V., she held the position of Biotech Startup Founder from 2014 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout her career, she saved 210000 EUR, investing in various assets to grow her wealth.\nShe owns 2 exceptional properties: villa located in Leiden, valued at approximately 2,050,000.00 EUR, condo located in Almere, valued at approximately 1,270,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Leiden and Almere.\n\nFollowing the passing of her mother, a successful Stock Trader, she received an inheritance of 1850000 EUR in 2008, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Evelien as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

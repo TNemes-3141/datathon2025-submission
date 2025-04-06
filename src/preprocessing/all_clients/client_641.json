@@ -1,0 +1,138 @@
+{
+    "passport": {
+        "first_name": "Lang",
+        "middle_name": "Schnell",
+        "last_name": "Reiter",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1976-02-07",
+        "passport_number": "BH3834274",
+        "passport_mrz": [
+            "P<AUTREITER<<LANG<SCHNELL<<<<<<<<<<<<<<<<<<<<",
+            "BH3834274AUT760207<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-07",
+        "passport_expiry_date": "2029-08-06"
+    },
+    "client_profile": {
+        "name": "Lang Schnell Reiter",
+        "address": {
+            "city": "Tulln an der Donau",
+            "street name": "Ringstra\u00dfe",
+            "street number": 62,
+            "postal code": "0326"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1976-02-07",
+        "nationality": "Austrian",
+        "passport_number": "BH3834274",
+        "passport_issue_date": "2019-08-07",
+        "passport_expiry_date": "2029-08-06",
+        "gender": "M",
+        "phone_number": "685 643 7966",
+        "email_address": "lang.reiter@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "BG/BRG Neusiedl am See",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "FH Joanneum University of Applied Sciences",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2001,
+                "company": "SAP Austria GmbH",
+                "position": "Software Developer",
+                "salary": 31000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2003,
+                "company": "Microsoft Austria GmbH",
+                "position": "Startup Founder",
+                "salary": 47000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2007,
+                "company": "Microsoft Austria GmbH",
+                "position": "CEO",
+                "salary": 70000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "Cisco Systems Austria GmbH",
+                "position": "Venture Capitalist",
+                "salary": 736000
+            }
+        ],
+        "aum": {
+            "savings": 1130000,
+            "inheritance": 2610000,
+            "real_estate_value": 3083000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1023000,
+                "property location": "Tulln an der Donau"
+            },
+            {
+                "property type": "condo",
+                "property value": 930000,
+                "property location": "Zwettl"
+            },
+            {
+                "property type": "condo",
+                "property value": 1130000,
+                "property location": "Kitzb\u00fchel"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lang Schnell Reiter",
+        "first_name": "Lang",
+        "middle_name": "Schnell",
+        "last_name": "Reiter",
+        "passport_number": "BH3834274",
+        "currency": "EUR",
+        "address": {
+            "city": "Tulln an der Donau",
+            "street name": "Ringstra\u00dfe",
+            "street number": 62,
+            "postal code": "0326"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "",
+        "email_address": "lang.reiter@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Lang Schnell Reiter at a wine tasting event in Vienna. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nHaving worked for over 26 years, Lang Schnell Reiter brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Lang Schnell Reiter is currently single. He does not have any children.",
+        "Education Background": "Lang received his secondary school diploma from BG/BRG Neusiedl am See in 1993.\nLang completed his university education at FH Joanneum University of Applied Sciences in 2000.\n",
+        "Occupation History": "Lang Schnell Reiter is a 49 year old Venture Capitalist from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLang Schnell Reiter's first role was as a Software Developer at SAP Austria GmbH, where he worked diligently from 1999 to 2001 to establish a strong reputation.\nIn 2001, he moved to Microsoft Austria GmbH to work as a Startup Founder, applying his knowledge to achieve outstanding performance.\nFrom 2003 to 2007, he served as a CEO at Microsoft Austria GmbH, solidifying his position as a leader in the industry.\nHe appointment as a Venture Capitalist at Cisco Systems Austria GmbH in 2007 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1130000 EUR.\nHe has invested in several rental properties across various locations, generating additional income. The properties are valued at 3083000 EUR.\n\nHe inherited a significant sum of 2610000 EUR from his grandfather, a respected Hedge Fund Manager, in 2015, which he has wisely invested.\n",
+        "Client Summary": "In summary, Lang has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

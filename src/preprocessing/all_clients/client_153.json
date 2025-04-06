@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Emanuela",
+        "middle_name": "Martina",
+        "last_name": "Galli",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1996-07-01",
+        "passport_number": "JU4492118",
+        "passport_mrz": [
+            "P<ITAGALLI<<EMANUELA<MARTINA<<<<<<<<<<<<<<<<<",
+            "JU4492118ITA960701<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-07-09",
+        "passport_expiry_date": "2033-07-08"
+    },
+    "client_profile": {
+        "name": "Emanuela Martina Galli",
+        "address": {
+            "city": "Verona",
+            "street name": "Via Roma",
+            "street number": 71,
+            "postal code": "75954"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1996-07-01",
+        "nationality": "Italian",
+        "passport_number": "JU4492118",
+        "passport_issue_date": "2023-07-09",
+        "passport_expiry_date": "2033-07-08",
+        "gender": "F",
+        "phone_number": "373 5235347",
+        "email_address": "emanuela.galli@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Scuola Media Statale Antonio Meucci Firenze",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "Normal Superior School of Pisa",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": 2024,
+                "company": "Roche S.p.A.",
+                "position": "Research Scientist",
+                "salary": 24000
+            },
+            {
+                "start_year": 2025,
+                "end_year": null,
+                "company": "Roche S.p.A.",
+                "position": "Clinical Trials Manager",
+                "salary": 41000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1400000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Emanuela Martina Galli",
+        "first_name": "Emanuela",
+        "middle_name": "Martina",
+        "last_name": "Galli",
+        "passport_number": "JU4492118",
+        "currency": "EUR",
+        "address": {
+            "city": "Verona",
+            "street name": "Via Roma",
+            "street number": 71,
+            "postal code": "75954"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "373 5235347",
+        "email_address": "emanuela.galli@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Emanuela Martina Galli and the RM were introduced at a charity run in Rome. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nEmanuela Martina Galli is a 28 year old and comes from Italy.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Emanuela Martina Galli is currently single. She does not have any children.",
+        "Education Background": "Emanuela completed her secondary education at Scuola Media Statale Antonio Meucci Firenze in 2015.\nEmanuela completed her university education at Normal Superior School of Pisa in 2021.\n",
+        "Occupation History": "Emanuela Martina Galli is a 28 year old and comes from Italy.\nEmanuela Martina Galli began her professional journey as a Research Scientist at Roche S.p.A. in 2021, laying the foundation for future success.\nShe then transitioned to Roche S.p.A. as a Clinical Trials Manager, leveraging her expertise to drive results from 2025 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 10000 EUR.\nClient does not have any properties.In 2018, she received an inheritance of 1400000 EUR from her late grandmother, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Emanuela has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

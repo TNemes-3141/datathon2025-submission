@@ -1,0 +1,133 @@
+{
+    "passport": {
+        "first_name": "Schneider",
+        "middle_name": "Hagenbuch",
+        "last_name": "Gasser",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1970-09-28",
+        "passport_number": "IJ6004700",
+        "passport_mrz": [
+            "P<CHEGASSER<<SCHNEIDER<HAGENBUCH<<<<<<<<<<<<<",
+            "IJ6004700CHE700928<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-07-03",
+        "passport_expiry_date": "2032-07-02"
+    },
+    "client_profile": {
+        "name": "Schneider Hagenbuch Gasser",
+        "address": {
+            "city": "Geneva",
+            "street name": "Altstadt",
+            "street number": 25,
+            "postal code": "9745"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1970-09-28",
+        "nationality": "Swiss",
+        "passport_number": "IJ6004700",
+        "passport_issue_date": "2022-07-03",
+        "passport_expiry_date": "2032-07-02",
+        "gender": "M",
+        "phone_number": "039 607 02 38",
+        "email_address": "schneider.gasser@gmx.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kantonschule Solothurn Solothurn",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 1994
+            },
+            {
+                "university": "Franklin University Switzerland",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "RUAG Schweiz AG",
+                "position": "Aerospace Engineer",
+                "salary": 76000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2002,
+                "company": "Pilatus Aircraft Ltd.",
+                "position": "Program Manager",
+                "salary": 90000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2006,
+                "company": "SR Technics Switzerland Ltd.",
+                "position": "Director of Operations",
+                "salary": 134000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "SR Technics Switzerland Ltd.",
+                "position": "VP of Business Development",
+                "salary": 874000
+            }
+        ],
+        "aum": {
+            "savings": 1500000,
+            "inheritance": 7050000,
+            "real_estate_value": 2680000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2009,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2680000,
+                "property location": "Geneva"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Schneider Hagenbuch Gasser",
+        "first_name": "Schneider",
+        "middle_name": "Hagenbuch",
+        "last_name": "Gasser",
+        "passport_number": "IJ6004700",
+        "currency": "CHF",
+        "address": {
+            "city": "Geneva",
+            "street name": "Altstadt",
+            "street number": 25,
+            "postal code": "9745"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "039 607 02 38",
+        "email_address": "schneider.gasser@gmx.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Schneider Hagenbuch Gasser since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nSchneider Hagenbuch Gasser is a 54 year old VP of Business Development from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Schneider Hagenbuch Gasser and Chiara have been married since 2002. They are proud parents of 3 children: Brunner, Annina and K\u00e4gi.",
+        "Education Background": "Schneider earned his secondary school diploma from Kantonschule Solothurn Solothurn in 1989.\nSchneider attended Suffolk University in Geneva and graduated in 1994.\nSchneider earned his additionally degree from Franklin University Switzerland in 1997.\n",
+        "Occupation History": "With a career spanning nearly 31 years, Schneider Hagenbuch Gasser has established himself as a key player in the industry.\nIn 1994, Schneider Hagenbuch Gasser started working as a Aerospace Engineer at RUAG Schweiz AG, marking the beginning of his successful career.\nHe then transitioned to Pilatus Aircraft Ltd. as a Program Manager, leveraging his expertise to drive results from 2001 to 2002.\nHis tenure as a Director of Operations at SR Technics Switzerland Ltd. from 2003 to 2006 was marked by significant achievements and a deepening understanding of the field.\nHis next role was as a VP of Business Development at SR Technics Switzerland Ltd., where he applied his extensive experience to drive innovation from 2007 till now.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1500000 CHF.\nHe has house located in Geneva, worth 2680000 CHF.\n\nIn 2009, he received an inheritance of 7050000 CHF from his late grandmother, who was a prominent Stock Trader, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

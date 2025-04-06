@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Chlo\u00e9",
+        "middle_name": "Ad\u00e8le",
+        "last_name": "Dupont",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1986-09-18",
+        "passport_number": "NL9696107",
+        "passport_mrz": [
+            "P<BELDUPONT<<CHLO\u00c9<AD\u00c8LE<<<<<<<<<<<<<<<<<<<<<",
+            "NL9696107BEL860918<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-07-07",
+        "passport_expiry_date": "2024-07-06"
+    },
+    "client_profile": {
+        "name": "Chlo\u00e9 Ad\u00e8le Dupont",
+        "address": {
+            "city": "Turnhout",
+            "street name": "Rue Belliard",
+            "street number": 4,
+            "postal code": "2226"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1986-09-18",
+        "nationality": "Belgian",
+        "passport_number": "NL9696107",
+        "passport_issue_date": "2017-07-07",
+        "passport_expiry_date": "2024-07-06",
+        "gender": "F",
+        "phone_number": "+32 0470 942 378",
+        "email_address": "chloe.dupont@skype.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Heilige Familiecollege",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "Universit\u00e9 catholique de Louvain",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2011,
+                "company": "Belfius Bank SA",
+                "position": "Family Office Manager",
+                "salary": 36000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "BNP Paribas Fortis SA/NV",
+                "position": "Investment Director",
+                "salary": 137000
+            }
+        ],
+        "aum": {
+            "savings": 200000,
+            "inheritance": 2270000,
+            "real_estate_value": 3002000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 890000,
+                "property location": "Turnhout"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1402000,
+                "property location": "Genk"
+            },
+            {
+                "property type": "flat",
+                "property value": 710000,
+                "property location": "Herstal"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Chlo\u00e9 Ad\u00e8le Dupont",
+        "first_name": "Chlo\u00e9",
+        "middle_name": "Ad\u00e8le",
+        "last_name": "Dupont",
+        "passport_number": "NL9696107",
+        "currency": "EUR",
+        "address": {
+            "city": "Turnhout",
+            "street name": "Rue Belliard",
+            "street number": 4,
+            "postal code": "2226"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0470 942 378",
+        "email_address": "chloe.dupont@skype.be"
+    },
+    "client_description": {
+        "Summary Note": "Chlo\u00e9 Ad\u00e8le Dupont and the RM were introduced at a charity run in Brussels. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nChlo\u00e9 Ad\u00e8le Dupont is a seasoned professional with over 15 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Chlo\u00e9 Ad\u00e8le Dupont and Sterckx tied the knot in 2014. They do not have any children.",
+        "Education Background": "Chlo\u00e9 earned her secondary school diploma from Heilige Familiecollege in 2005.\nChlo\u00e9 received her degree from Universit\u00e9 catholique de Louvain in 2009.\n",
+        "Occupation History": "Chlo\u00e9 Ad\u00e8le Dupont is a seasoned professional with over 15 years of experience.\nChlo\u00e9 Ad\u00e8le Dupont began her professional journey as a Family Office Manager at Belfius Bank SA in 2010, laying the foundation for future success.\nAt BNP Paribas Fortis SA/NV, she held the position of Investment Director from 2011 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "While working, she saved 200000 EUR, which she used to build a diversified investment portfolio.\nShe owns flat in Turnhout, where she resides. It is worth 890000 EUR.\n\nIn addition to her primary residence, she owns townhouse in Genk worth 1402000 EUR.\n\nOn top of that she inherited a beautiful flat in Herstal, which could be used as a weekend getaway. It is valued at 710000 EUR.\n\nFollowing the passing of her grandfather, a successful Investment Banker, she received an inheritance of 2270000 EUR in 2015, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

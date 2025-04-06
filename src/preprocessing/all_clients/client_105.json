@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Emma",
+        "middle_name": "Capucine",
+        "last_name": "Bernard",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1989-04-27",
+        "passport_number": "XU9409325",
+        "passport_mrz": [
+            "P<FRABERNARD<<EMMA<CAPUCINE<<<<<<<<<<<<<<<<<<",
+            "XU9409325FRA890427<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-06-21",
+        "passport_expiry_date": "2031-06-20"
+    },
+    "client_profile": {
+        "name": "Emma Capucine Bernard",
+        "address": {
+            "city": "Toulon",
+            "street name": "Rue Royale",
+            "street number": 18,
+            "postal code": "98286"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1989-04-27",
+        "nationality": "French",
+        "passport_number": "XU9409325",
+        "passport_issue_date": "2021-06-21",
+        "passport_expiry_date": "2031-06-20",
+        "gender": "F",
+        "phone_number": "+33 04 66 74 92 79",
+        "email_address": "emma.bernard@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e du Parc",
+            "graduation_year": 2008
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole des Beaux-Arts de Paris",
+                "graduation_year": 2012
+            },
+            {
+                "university": "\u00c9cole Polytechnique",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Centre Pompidou",
+                "position": "Art Dealer",
+                "salary": 68000
+            }
+        ],
+        "aum": {
+            "savings": 90000,
+            "inheritance": 1930000,
+            "real_estate_value": 7280000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2020000,
+                "property location": "Toulon"
+            },
+            {
+                "property type": "villa",
+                "property value": 3170000,
+                "property location": "Lille"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2090000,
+                "property location": "Clermont-Ferrand"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Emma Capucine Bernard",
+        "first_name": "Emma",
+        "middle_name": "Capucine",
+        "last_name": "Bernard",
+        "passport_number": "XU9409325",
+        "currency": "EUR",
+        "address": {
+            "city": "Toulon",
+            "street name": "Rue Royale",
+            "street number": 18,
+            "postal code": "98286"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 04 66 74 92 79",
+        "email_address": "emma.bernard@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Emma Capucine Bernard and the RM were introduced at an art auction in Paris. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nEmma Capucine Bernard is a 35 year old and comes from France.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Emma Capucine Bernard and Durand tied the knot in 2020. Emma and Durand have 2 children, named Martin and Oph\u00e9lie.",
+        "Education Background": "Emma completed her secondary education at Lyc\u00e9e du Parc in 2008.\nEmma received her degree from \u00c9cole des Beaux-Arts de Paris in 2012.\nMoreover she completed her extra university education at \u00c9cole Polytechnique in 2018.\n",
+        "Occupation History": "Emma Capucine Bernard is a 35 year old and comes from France.\nIn 2013, Emma Capucine Bernard started working as a Art Dealer at Centre Pompidou, marking the beginning of her successful career.\n",
+        "Wealth Summary": "While working, she saved 90000 EUR, which she used to build a diversified investment portfolio.\nShe has townhouse located in Toulon, worth 2020000 EUR.\n\nShe purchased villa in Lille, where she spends her holidays. It is valued at 3170000 EUR.\nMoreover, she has invested in additional property in Clermont-Ferrand, giving possiblity for generating additional income. The townhouse is valued at 2090000 EUR.\n\nShe inherited a significant sum of 1930000 EUR from her grandmother, a respected Oil and Gas Executive, in 2017, which she has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

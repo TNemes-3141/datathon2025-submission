@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Zbinden",
+        "middle_name": "Egli",
+        "last_name": "Lehmann",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1980-04-11",
+        "passport_number": "TR5343505",
+        "passport_mrz": [
+            "P<CHELEHMANN<<ZBINDEN<EGLI<<<<<<<<<<<<<<<<<<<",
+            "TR5343505CHE800411<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-01-24",
+        "passport_expiry_date": "2029-01-23"
+    },
+    "client_profile": {
+        "name": "Zbinden Egli Lehmann",
+        "address": {
+            "city": "Thun",
+            "street name": "Place des Halles",
+            "street number": 42,
+            "postal code": "6081"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1980-04-11",
+        "nationality": "Swiss",
+        "passport_number": "TR5343505",
+        "passport_issue_date": "2019-01-24",
+        "passport_expiry_date": "2029-01-23",
+        "gender": "M",
+        "phone_number": "+41 030 219 74 20",
+        "email_address": "zbinden.lehmann@freedom.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Kantonsschule Frauenfeld Thurgau",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "University of Lucerne",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2008,
+                "company": " Implenia AG",
+                "position": "Property Manager",
+                "salary": 59000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "ALLREAL Group AG",
+                "position": "Developer",
+                "salary": 248000
+            }
+        ],
+        "aum": {
+            "savings": 380000,
+            "inheritance": 2240000,
+            "real_estate_value": 7540000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2010,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 3220000,
+                "property location": "Thun"
+            },
+            {
+                "property type": "villa",
+                "property value": 4320000,
+                "property location": "Lausanne"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Zbinden Egli Lehmann",
+        "first_name": "Zbinden",
+        "middle_name": "Egli",
+        "last_name": "Lehmann",
+        "passport_number": "TR5343505",
+        "currency": "CHF",
+        "address": {
+            "city": "Thun",
+            "street name": "Place des Halles",
+            "street number": 42,
+            "postal code": "6081"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 030 219 74 20",
+        "email_address": "zbinden.lehmann@freedom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Zbinden Egli Lehmann at a luxury car show in Z\u00fcrich. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nWith a career spanning nearly 21 years, Zbinden Egli Lehmann has established himself as a key player in the industry.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Zbinden Egli Lehmann is currently single. He does not have any children.",
+        "Education Background": "Zbinden graduated from Kantonsschule Frauenfeld Thurgau in 1999.\nAfter that, he went on to study at University of Lucerne until 2004.\n",
+        "Occupation History": "Having worked for over 21 years, Zbinden Egli Lehmann brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nZbinden Egli Lehmann began his professional journey as a Property Manager at  Implenia AG in 2004, laying the foundation for future success.\nAt ALLREAL Group AG, he held the position of Developer from 2009 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 380000 CHF.\nHe has house located in Thun, worth 3220000 CHF.\n\nIn addition to his primary residence, he owns villa in Lausanne worth 4320000 CHF.\n\n\nFollowing the passing of his mother, a successful Hedge Fund Manager, he received an inheritance of 2240000 CHF in 2010, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Zbinden as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

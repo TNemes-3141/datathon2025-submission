@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Wouters",
+        "middle_name": "",
+        "last_name": "Raes",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1957-08-03",
+        "passport_number": "NT0828057",
+        "passport_mrz": [
+            "P<BELRAES<<WOUTERS<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "NT0828057BEL570803<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-06-22",
+        "passport_expiry_date": "2031-06-21"
+    },
+    "client_profile": {
+        "name": "Wouters Raes",
+        "address": {
+            "city": "Aalst",
+            "street name": "Place de la Libert\u00e9",
+            "street number": 64,
+            "postal code": "7413"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1957-08-03",
+        "nationality": "Belgian",
+        "passport_number": "NT0828057",
+        "passport_issue_date": "2031-06-21",
+        "passport_expiry_date": "2024-06-22",
+        "gender": "M",
+        "phone_number": "+32 0492 340 915",
+        "email_address": "wouters.raes@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Institut Saint-Guibert",
+            "graduation_year": 1975
+        },
+        "higher_education": [
+            {
+                "university": "Brussels School of International Studies",
+                "graduation_year": 1981
+            },
+            {
+                "university": "Solvay Brussels School of Economics and Management",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1983,
+                "company": "ING Belgium SA/NV",
+                "position": "Family Office Manager",
+                "salary": 34000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 2018,
+                "company": "Belfius Bank SA",
+                "position": "Investment Director",
+                "salary": 375000
+            }
+        ],
+        "aum": {
+            "savings": 650000,
+            "inheritance": 0,
+            "real_estate_value": 3210000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 930000,
+                "property location": "Aalst"
+            },
+            {
+                "property type": "house",
+                "property value": 1440000,
+                "property location": "Turnhout"
+            },
+            {
+                "property type": "flat",
+                "property value": 840000,
+                "property location": "Ghent"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Wouters Raes",
+        "first_name": "Wouters",
+        "middle_name": "",
+        "last_name": "Raes",
+        "passport_number": "NT0828057",
+        "currency": "EUR",
+        "address": {
+            "city": "Aalst",
+            "street name": "Place de la Libert\u00e9",
+            "street number": 64,
+            "postal code": "7413"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0492 340 915",
+        "email_address": "wouters.raes@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Wouters Raes at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nWith a career spanning nearly 43 years, Wouters Raes has established himself as a key player in the industry.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Wouters Raes is married to L\u00e9a. They do not have any children.",
+        "Education Background": "In 1975, Wouters finished his secondary school education at Institut Saint-Guibert.\nHe then attended Brussels School of International Studies, which he graduated in 1981.\nHe pursued addtionally further eduaction by attending Solvay Brussels School of Economics and Management and graduating in 1984.\n",
+        "Occupation History": "Having worked for over 43 years, Wouters Raes brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nWouters Raes launched his career as a Family Office Manager at ING Belgium SA/NV, where he gained valuable experience from 1982 to 1983.\nHis subsequent role was as a Investment Director at Belfius Bank SA, where he continued to grow professionally from 1985 till retirement.\n",
+        "Wealth Summary": "He managed to save approximately 650000 EUR from his earnings at all companies.\nHe has townhouse located in Aalst, worth 930000 EUR.\n\nHe purchased house in Turnhout, where he spends his holidays. It is valued at 15000000 EUR.\nMoreover, he has invested in additional property in Ghent, giving possiblity for generating additional income. The flat is valued at 840000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

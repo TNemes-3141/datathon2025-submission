@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Noemi",
+        "middle_name": "Corinne",
+        "last_name": "Zbinden",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1969-12-20",
+        "passport_number": "XM5219644",
+        "passport_mrz": [
+            "P<CHEZBINDEN<<NOEMI<CORINNE<<<<<<<<<<<<<<<<<<",
+            "XM5219644CHE691220<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-05-10",
+        "passport_expiry_date": "2032-05-09"
+    },
+    "client_profile": {
+        "name": "Noemi Corinne Zbinden",
+        "address": {
+            "city": "Basel",
+            "street name": "Spitalgasse",
+            "street number": 88,
+            "postal code": "1018"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1969-12-20",
+        "nationality": "Swiss",
+        "passport_number": "XM5219644",
+        "passport_issue_date": "2022-05-10",
+        "passport_expiry_date": "2032-05-09",
+        "gender": "F",
+        "phone_number": "+41 073 222 68 65",
+        "email_address": "noemi.zbinden@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "\u00c9cole secondaire de Morges Vaud",
+            "graduation_year": 1988
+        },
+        "higher_education": [
+            {
+                "university": "Franklin University Switzerland",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1995,
+                "company": "Bellevue Palace Bern",
+                "position": "Hotel Manager",
+                "salary": 62000
+            },
+            {
+                "start_year": 1995,
+                "end_year": null,
+                "company": "Grand Resort Bad Ragaz",
+                "position": "General Manager",
+                "salary": 609000
+            }
+        ],
+        "aum": {
+            "savings": 1110000,
+            "inheritance": 6930000,
+            "real_estate_value": 2760000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2760000,
+                "property location": "Basel"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Noemi Corinne Zbinden",
+        "first_name": "Noemi",
+        "middle_name": "Corinne",
+        "last_name": "Zbinden",
+        "passport_number": "XM5219644",
+        "currency": "CHF",
+        "address": {
+            "city": "Basel",
+            "street name": "Spitalgasse",
+            "street number": 88,
+            "postal code": "1018"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 073 222 68 65",
+        "email_address": "noemi.zbinden@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Noemi Corinne Zbinden and the RM were introduced at a charity run in Z\u00fcrich. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nNoemi Corinne Zbinden is a seasoned professional with over 32 years of experience.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Noemi Corinne Zbinden is married to Brunner. They do not have any children.",
+        "Education Background": "Noemi obtained her secondary school diploma from \u00c9cole secondaire de Morges Vaud in 1988.\nNoemi completed her university studies at Franklin University Switzerland in 1993.\n",
+        "Occupation History": "Noemi Corinne Zbinden is a 55 year old and comes from Switzerland.\nNoemi Corinne Zbinden's first role was as a Hotel Manager at Bellevue Palace Bern, where she worked diligently from 1993 to 1995 to establish a strong reputation.\nShe then transitioned to Grand Resort Bad Ragaz as a General Manager, leveraging her expertise to drive results from 1995 till now.\n",
+        "Wealth Summary": "She managed to save approximately 1110000 CHF from her earnings at all companies.\nShe has condo located in Basel, worth 2760000 CHF.\n\n\nFollowing the passing of her grandmother, a successful Hedge Fund Manager, she received an inheritance of 6930000 CHF in 2007, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

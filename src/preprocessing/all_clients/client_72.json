@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Keller",
+        "middle_name": "Baumgartner",
+        "last_name": "Burkart",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1989-01-13",
+        "passport_number": "YJ5485278",
+        "passport_mrz": [
+            "P<CHEBURKART<<KELLER<BAUMGARTNER<<<<<<<<<<<<<",
+            "YJ5485278CHE890113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-08-17",
+        "passport_expiry_date": "2031-08-16"
+    },
+    "client_profile": {
+        "name": "Keller Baumgartner Burkart",
+        "address": {
+            "city": "Zurich",
+            "street name": "Waisenhausplatz",
+            "street number": 37,
+            "postal code": "7294"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1989-01-13",
+        "nationality": "Swiss",
+        "passport_number": "YJ5485278",
+        "passport_issue_date": "2021-08-17",
+        "passport_expiry_date": "2031-08-16",
+        "gender": "M",
+        "phone_number": "+41 000 319 59 05",
+        "email_address": "keller.burkart@bluewin.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium Stadelhofen Luzern",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "Franklin University Switzerland",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2012,
+                "end_year": 2016,
+                "company": "Roche Holding AG",
+                "position": "Research Scientist",
+                "salary": 65000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Pfizer AG (Swiss branch)",
+                "position": "Clinical Trials Manager",
+                "salary": 113000
+            }
+        ],
+        "aum": {
+            "savings": 170000,
+            "inheritance": 2650000,
+            "real_estate_value": 5660000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2910000,
+                "property location": "Zurich"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2750000,
+                "property location": "Herisau"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Spain"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Keller Baumgartner Burkart",
+        "first_name": "Keller",
+        "middle_name": "Baumgartner",
+        "last_name": "Burkart",
+        "passport_number": "YJ5485278",
+        "currency": "CHF",
+        "address": {
+            "city": "Zurich",
+            "street name": "Waisenhausplatz",
+            "street number": 37,
+            "postal code": "7294"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 000 319 59 05",
+        "email_address": "keller.burkart@bluewin.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Keller Baumgartner Burkart at a yacht party in Z\u00fcrich. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nHaving worked for over 13 years, Keller Baumgartner Burkart brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Keller Baumgartner Burkart has been happily married to Lynn since 2013. They do not have any children.",
+        "Education Background": "Keller obtained his secondary school diploma from Gymnasium Stadelhofen Luzern in 2007.\nKeller received his degree from Franklin University Switzerland in 2013.\n",
+        "Occupation History": "Keller Baumgartner Burkart is a seasoned professional with over 13 years of experience.\nIn 2012, Keller Baumgartner Burkart started working as a Research Scientist at Roche Holding AG, marking the beginning of his successful career.\nAfter gaining experience, he took on the role of Clinical Trials Manager at Pfizer AG (Swiss branch) in 2016, further expanding his skill set.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 170000 CHF.\nHe has townhouse located in Zurich, worth 2910000 CHF.\n\nHe purchased townhouse in Herisau, where he spends his holidays. It is valued at 2750000 CHF.\nHe inherited 2650000 CHF from his grandmother, a well-known Private Equity Manager, in 2017, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In summary, Keller has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

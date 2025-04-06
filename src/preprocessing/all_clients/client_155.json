@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": " Jacobs",
+        "middle_name": "Raes",
+        "last_name": "Moens",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1980-08-29",
+        "passport_number": "RD1086749",
+        "passport_mrz": [
+            "P<BELMOENS<< JACOBS<RAES<<<<<<<<<<<<<<<<<<<<<",
+            "RD1086749BEL800829<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-06-16",
+        "passport_expiry_date": "2030-06-15"
+    },
+    "client_profile": {
+        "name": " Jacobs Raes Moens",
+        "address": {
+            "city": "Tournai",
+            "street name": "Rue de la R\u00e9publique",
+            "street number": 13,
+            "postal code": "7781"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1980-08-29",
+        "nationality": "Belgian",
+        "passport_number": "RD1086749",
+        "passport_issue_date": "2023-06-16",
+        "passport_expiry_date": "2030-06-15",
+        "gender": "M",
+        "phone_number": "+32 0420 974 354",
+        "email_address": "jacobs.moens@skynet.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Onze-Lieve-Vrouwe-Wavercollege",
+            "graduation_year": 1998
+        },
+        "higher_education": [
+            {
+                "university": "Thomas More University of Applied Sciences",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2010,
+                "company": "Pfizer Belgium SA",
+                "position": "Research Scientist",
+                "salary": 55000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2012,
+                "company": "UCB Pharma SA",
+                "position": "Clinical Trials Manager",
+                "salary": 60000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Pfizer Belgium SA",
+                "position": "Regulatory Affairs Director",
+                "salary": 253000
+            }
+        ],
+        "aum": {
+            "savings": 350000,
+            "inheritance": 3710000,
+            "real_estate_value": 3040000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2008,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1810000,
+                "property location": "Tournai"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1230000,
+                "property location": "Ostend"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": " Jacobs Raes Moens",
+        "first_name": " Jacobs",
+        "middle_name": "Raes",
+        "last_name": "Moens",
+        "passport_number": "RD1086749",
+        "currency": "EUR",
+        "address": {
+            "city": "Tournai",
+            "street name": "Rue de la R\u00e9publique",
+            "street number": 13,
+            "postal code": "7781"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0420 974 354",
+        "email_address": "jacobs.moens@skynet.be"
+    },
+    "client_description": {
+        "Summary Note": " Jacobs Raes Moens and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\n Jacobs Raes Moens is a 44 year old Regulatory Affairs Director from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Jacobs Raes Moens is currently single. He does not have any children.",
+        "Education Background": "In 1989,  Jacobs graduated from Onze-Lieve-Vrouwe-Wavercollege with a secondary school diploma.\n Jacobs attended Thomas More University of Applied Sciences and graduated in 2005.\n",
+        "Occupation History": " Jacobs Raes Moens is a 44 year old Regulatory Affairs Director from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2005,  Jacobs Raes Moens started working as a Research Scientist at Pfizer Belgium SA, marking the beginning of his successful career.\nAt UCB Pharma SA, he held the position of Clinical Trials Manager from 2010 to 2012, making significant contributions to the organization.\nFrom 2014 till now, he served as a Regulatory Affairs Director at Pfizer Belgium SA, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "While working, he saved 350000 EUR, which he used to build a diversified investment portfolio.\nHe has villa located in Tournai, worth 1810000 EUR.\n\nHe purchased townhouse in Ostend, where he spends his holidays. It is valued at 1230000 EUR.\nIn 2008, he received an inheritance of 3710000 EUR from his late mother, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have  Jacobs as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "",
+        "last_name": "Ramos",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1982-02-15",
+        "passport_number": "CO8312284",
+        "passport_mrz": [
+            "P<ESPRAMOS<<FERN\u00c1NDEZ<<<<<<<<<<<<<<<<<<<<<<<<",
+            "CO8312284ESP820215<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-05-26",
+        "passport_expiry_date": "2027-05-25"
+    },
+    "client_profile": {
+        "name": "Fern\u00e1ndez Ramos",
+        "address": {
+            "city": "Salamanca",
+            "street name": "Plaza de la Magdalena",
+            "street number": 41,
+            "postal code": "84461"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1982-02-15",
+        "nationality": "Spanish",
+        "passport_number": "CO8312284",
+        "passport_issue_date": "2017-05-26",
+        "passport_expiry_date": "2027-05-25",
+        "gender": "M",
+        "phone_number": "+34 651 471 321",
+        "email_address": "fernandez.ramos@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Salvador Espriu Barcelona",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "Complutense University of Madrid",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2010,
+                "company": "Telef\u00f3nica S.A.",
+                "position": "Software Developer",
+                "salary": 25000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2013,
+                "company": "Amadeus IT Group S.A.",
+                "position": "Startup Founder",
+                "salary": 39000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2023,
+                "company": "Telef\u00f3nica S.A.",
+                "position": "CEO",
+                "salary": 117000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 2930000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2008,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fern\u00e1ndez Ramos",
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "",
+        "last_name": "Ramos",
+        "passport_number": "CO8312284",
+        "currency": "EUR",
+        "address": {
+            "city": "Salamanca",
+            "street name": "Plaza de la Magdalena",
+            "street number": 41,
+            "postal code": "84461"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 651 471 321",
+        "email_address": "fernandez.ramos@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Fern\u00e1ndez Ramos at a wine tasting event in Madrid. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nFern\u00e1ndez Ramos is a 43 year old and comes from Spain.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Fern\u00e1ndez Ramos and Carmen have been married since 2009. Their children are named Alba and Herrera.",
+        "Education Background": "Fern\u00e1ndez obtained his secondary school diploma from IES Salvador Espriu Barcelona in 2000.\nAfter that, he went on to study at Complutense University of Madrid until 2005.\n",
+        "Occupation History": "Fern\u00e1ndez Ramos is a seasoned professional with over 19 years of experience.\nAt Telef\u00f3nica S.A., Fern\u00e1ndez Ramos held the position of Software Developer from 2006 to 2010, developing essential skills in the field.\nAt Amadeus IT Group S.A., he held the position of Startup Founder from 2010 to 2013, making significant contributions to the organization.\nHis tenure as a CEO at Telef\u00f3nica S.A. from 2015 to 2023 was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "He managed to save approximately 140000 EUR from his earnings at all companies.\nClient does not have any properties.He inherited a significant sum of 2930000 EUR from his grandmother, a respected Corporate Lawyer, in 2008, which he has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

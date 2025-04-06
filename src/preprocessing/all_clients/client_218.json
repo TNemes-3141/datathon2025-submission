@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Jost",
+        "middle_name": "",
+        "last_name": "Schmid",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "2001-04-21",
+        "passport_number": "AP8719369",
+        "passport_mrz": [
+            "P<CHESCHMID<<JOST<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "AP8719369CHE010421<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-01-31",
+        "passport_expiry_date": "2034-01-30"
+    },
+    "client_profile": {
+        "name": "Jost Schmid",
+        "address": {
+            "city": "Bellinzona",
+            "street name": "Place des Halles",
+            "street number": 58,
+            "postal code": "4733"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "2001-04-21",
+        "nationality": "Swiss",
+        "passport_number": "AP8719369",
+        "passport_issue_date": "2034-01-30",
+        "passport_expiry_date": "2024-01-31",
+        "gender": "M",
+        "phone_number": "+41 043 093 91 31",
+        "email_address": "jost.schmid@swissonline.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e cantonal de Porrentruy Jura",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "University of Bern",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2710000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "1-6 months",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Jost Schmid",
+        "first_name": "Jost",
+        "middle_name": "",
+        "last_name": "Schmid",
+        "passport_number": "AP8719369",
+        "currency": "CHF",
+        "address": {
+            "city": "Bellinzona",
+            "street name": "Place des Halles",
+            "street number": 58,
+            "postal code": "4733"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 043 093 91 31",
+        "email_address": "jost.schmid@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Jost Schmid at a corporate retreat in Z\u00fcrich. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nJost Schmid is a 23 year old and comes from Switzerland.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Jost Schmid is currently single. He does not have any children.",
+        "Education Background": "Jost completed his secondary education at Lyc\u00e9e cantonal de Porrentruy Jura in 2019.\nAfter that, he went on to study at University of Bern until 2024.\n",
+        "Occupation History": "Jost Schmid is a 23 year old and comes from Switzerland.\nJost Schmid did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.In 2016, he received an inheritance of 2710000 CHF from his late grandmother, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is committed to helping Jost achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

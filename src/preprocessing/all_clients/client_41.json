@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Oph\u00e9lie",
+        "middle_name": "Margot",
+        "last_name": "Lemaire",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1997-01-29",
+        "passport_number": "JL1723475",
+        "passport_mrz": [
+            "P<BELLEMAIRE<<OPH\u00c9LIE<MARGOT<<<<<<<<<<<<<<<<<",
+            "JL1723475BEL970129<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-12-12",
+        "passport_expiry_date": "2031-12-11"
+    },
+    "client_profile": {
+        "name": "Oph\u00e9lie Margot Lemaire",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue des Quatre Bras",
+            "street number": 20,
+            "postal code": "2838"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1997-01-29",
+        "nationality": "Belgian",
+        "passport_number": "JL1723475",
+        "passport_issue_date": "2024-12-12",
+        "passport_expiry_date": "2031-12-11",
+        "gender": "F",
+        "phone_number": "+32 0487 318 260",
+        "email_address": "ophelie.lemaire@scarlet.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Heilige Familiecollege",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "Ghent University",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "BNP Paribas Fortis SA/NV",
+                "position": "Family Office Manager",
+                "salary": 58000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 1240000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Oph\u00e9lie Margot Lemaire",
+        "first_name": "Oph\u00e9lie",
+        "middle_name": "Margot",
+        "last_name": "Lemaire",
+        "passport_number": "JL1723475",
+        "currency": "EUR",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue des Quatre Bras",
+            "street number": 20,
+            "postal code": "2838"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0487 318 260",
+        "email_address": "ophelie.lemaire@scarlet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Oph\u00e9lie Margot Lemaire's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nOph\u00e9lie Margot Lemaire is a 28 year old Family Office Manager from Belgium.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Oph\u00e9lie Margot Lemaire is currently single. She does not have any children.",
+        "Education Background": "Oph\u00e9lie received her secondary school diploma from Heilige Familiecollege in 2006.\nOph\u00e9lie earned her degree from Ghent University in 2019.\n",
+        "Occupation History": "Oph\u00e9lie Margot Lemaire is a 28 year old Family Office Manager from Belgium.\nOph\u00e9lie Margot Lemaire's first role was as a Family Office Manager at BNP Paribas Fortis SA/NV, where she worked diligently from 2020 till now to establish a strong reputation.\n",
+        "Wealth Summary": "She managed to save approximately 40000 EUR from her earnings at all companies.\nClient does not have any properties.She inherited a significant sum of 1240000 EUR from her grandmother, a respected Hedge Fund Manager, in 2015, which she has wisely invested.\n",
+        "Client Summary": "In summary, Oph\u00e9lie has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

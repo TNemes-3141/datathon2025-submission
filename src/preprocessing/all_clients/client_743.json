@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Imke",
+        "middle_name": "",
+        "last_name": "Schneider",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1998-05-17",
+        "passport_number": "DO4107800",
+        "passport_mrz": [
+            "P<DEUSCHNEIDER<<IMKE<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "DO4107800DEU980517<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-03-12",
+        "passport_expiry_date": "2031-03-11"
+    },
+    "client_profile": {
+        "name": "Imke Schneider",
+        "address": {
+            "city": "Essen",
+            "street name": "Schlachte",
+            "street number": 97,
+            "postal code": "82678"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1998-05-17",
+        "nationality": "German",
+        "passport_number": "DO4107800",
+        "passport_issue_date": "2021-03-12",
+        "passport_expiry_date": "2031-03-11",
+        "gender": "F",
+        "phone_number": "+49 8077 102876",
+        "email_address": "imke.schneider@t-online.de",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Heisenberg-Gymnasium L\u00fcneburg",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "ISM Dortmund",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": 2023,
+                "company": "DWS Investments",
+                "position": "Stockbroker",
+                "salary": 42000
+            },
+            {
+                "start_year": 2023,
+                "end_year": 2025,
+                "company": "DWS Investments",
+                "position": "Portfolio Manager",
+                "salary": 56000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 1250000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Imke Schneider",
+        "first_name": "Imke",
+        "middle_name": "",
+        "last_name": "Schneider",
+        "passport_number": "DO4107800",
+        "currency": "EUR",
+        "address": {
+            "city": "Essen",
+            "street name": "Schlachte",
+            "street number": 97,
+            "postal code": "82678"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 8077 102876",
+        "email_address": "imke.schneider@t-online.de"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Imke Schneider at a corporate retreat in Berlin. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nImke Schneider is a 26 year old and comes from Germany.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Imke Schneider and Schmitt have been married since 2024. They do not have any children.",
+        "Education Background": "Imke received her secondary school diploma from Heisenberg-Gymnasium L\u00fcneburg in 2016.\nImke graduated from ISM Dortmund in 2021, completing her higher education.\n",
+        "Occupation History": "Imke Schneider is a 26 year old and comes from Germany.\nImke Schneider launched her career as a Stockbroker at DWS Investments, where she gained valuable experience from 2022 to 2023.\nAfter gaining experience, she took on the role of Portfolio Manager at DWS Investments in 2023, further expanding her skill set.\n",
+        "Wealth Summary": "While working, she saved 20000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.She inherited 1250000 EUR from her grandfather, a well-known Stock Trader, in 2018, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Imke has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "passport": {
+        "first_name": "Evelyne",
+        "middle_name": "Corinne",
+        "last_name": "Keller",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1959-07-09",
+        "passport_number": "BM9932083",
+        "passport_mrz": [
+            "P<CHEKELLER<<EVELYNE<CORINNE<<<<<<<<<<<<<<<<<",
+            "BM9932083CHE590709<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-05-28",
+        "passport_expiry_date": "2032-05-27"
+    },
+    "client_profile": {
+        "name": "Evelyne Corinne Keller",
+        "address": {
+            "city": "Chur",
+            "street name": "Rue de la Cite",
+            "street number": 50,
+            "postal code": "1248"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1959-07-09",
+        "nationality": "Swiss",
+        "passport_number": "BM9932083",
+        "passport_issue_date": "2022-05-28",
+        "passport_expiry_date": "2032-05-27",
+        "gender": "F",
+        "phone_number": "+41 081 903 39 79",
+        "email_address": "evelyne.keller@swissonline.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium am Burgh\u00f6lzli Basel",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1984,
+                "end_year": 1987,
+                "company": "Glencore International AG",
+                "position": "Junior Trader",
+                "salary": 67000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 1990,
+                "company": "Gunvor Group Ltd. (Swiss branch)",
+                "position": "Senior Trader",
+                "salary": 91000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1993,
+                "company": "Mercuria Energy Trading SA",
+                "position": "Trading Desk Manager",
+                "salary": 129000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 2020,
+                "company": "Trafigura Beheer B.V. (Swiss branch)",
+                "position": "Head of Commodities",
+                "salary": 1507000
+            }
+        ],
+        "aum": {
+            "savings": 2650000,
+            "inheritance": 0,
+            "real_estate_value": 8090000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2410000,
+                "property location": "Chur"
+            },
+            {
+                "property type": "condo",
+                "property value": 2790000,
+                "property location": "Appenzell"
+            },
+            {
+                "property type": "condo",
+                "property value": 2890000,
+                "property location": "Chur"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Evelyne Corinne Keller",
+        "first_name": "Evelyne",
+        "middle_name": "Corinne",
+        "last_name": "Keller",
+        "passport_number": "BM9932083",
+        "currency": "CHF",
+        "address": {
+            "city": "Chur",
+            "street name": "Rue de la Cite",
+            "street number": 50,
+            "postal code": "1248"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 081 903 39 79",
+        "email_address": "evelyne.keller@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Evelyne Corinne Keller's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nWith a career spanning nearly 41 years, Evelyne Corinne Keller has established herself as a key player in the industry.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Evelyne Corinne Keller is married to M\u00fcller. They do not have any children.",
+        "Education Background": "Evelyne finished secondary school at Gymnasium am Burgh\u00f6lzli Basel in 1978.\nEvelyne graduated from Suffolk University in Geneva in 1982, completing her higher education.\n",
+        "Occupation History": "Evelyne Corinne Keller is a seasoned professional with over 41 years of experience.\nEvelyne Corinne Keller launched her career as a Junior Trader at Glencore International AG, where she gained valuable experience from 1984 to 1987.\nAt Gunvor Group Ltd. (Swiss branch), she held the position of Senior Trader from 1987 to 1990, making significant contributions to the organization.\nShe spent 3 years working as a Trading Desk Manager at Mercuria Energy Trading SA, refining her expertise and building a strong network.\nShe appointment as a Head of Commodities at Trafigura Beheer B.V. (Swiss branch) in 1993 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "Throughout her career, she saved 2650000 CHF, investing in various assets to grow her wealth.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Chur and Appenzell, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

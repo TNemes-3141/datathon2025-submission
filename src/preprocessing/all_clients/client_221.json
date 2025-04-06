@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Bernard",
+        "middle_name": "Louis",
+        "last_name": "Durand",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1963-08-14",
+        "passport_number": "CV7309528",
+        "passport_mrz": [
+            "P<FRADURAND<<BERNARD<LOUIS<<<<<<<<<<<<<<<<<<<",
+            "CV7309528FRA081463<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-05-05",
+        "passport_expiry_date": "2031-05-04"
+    },
+    "client_profile": {
+        "name": "Bernard Louis Durand",
+        "address": {
+            "city": "Lille",
+            "street name": "Rue Gay-Lussac",
+            "street number": 84,
+            "postal code": "68367"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1963-08-14",
+        "nationality": "French",
+        "passport_number": "CV7309528",
+        "passport_issue_date": "2021-05-05",
+        "passport_expiry_date": "2031-05-04",
+        "gender": "M",
+        "phone_number": "+33 00 66 37 87 79",
+        "email_address": "bernard.durand@laposte.net",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e International de Lyon",
+            "graduation_year": 1983
+        },
+        "higher_education": [
+            {
+                "university": "ESSEC Business School",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1991,
+                "company": "Sanofi S.A.",
+                "position": "Research Scientist",
+                "salary": 32000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1992,
+                "company": "Ipsen S.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 48000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1995,
+                "company": "Cellectis S.A.",
+                "position": "CEO",
+                "salary": 63000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2024,
+                "company": "Ipsen S.A.",
+                "position": "Venture Capitalist",
+                "salary": 828000
+            }
+        ],
+        "aum": {
+            "savings": 1520000,
+            "inheritance": 0,
+            "real_estate_value": 3560000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1880000,
+                "property location": "Lille"
+            },
+            {
+                "property type": "condo",
+                "property value": 1680000,
+                "property location": "Orl\u00e9ans"
+            }
+        ],
+        "investment_risk_profile": "Balanced",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Bernard Louis Durand",
+        "first_name": "Bernard",
+        "middle_name": "Louis",
+        "last_name": "Durand",
+        "passport_number": "CV7309528",
+        "currency": "EUR",
+        "address": {
+            "city": "Lille",
+            "street name": "Rue Gay-Lussac",
+            "street number": 84,
+            "postal code": "68367"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 00 66 37 87 79",
+        "email_address": "bernard.durand@laposte.net"
+    },
+    "client_description": {
+        "Summary Note": "Bernard Louis Durand and the RM crossed paths at a tech conference in Paris. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nWith a career spanning nearly 37 years, Bernard Louis Durand has established himself as a key player in the industry.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Bernard Louis Durand and Ingrid have been married since 1995. Bernard and Ingrid have 2 children, named \u00c9milie and Louise.",
+        "Education Background": "Bernard received his secondary school diploma from Lyc\u00e9e International de Lyon in 1983.\nBernard completed his university studies at ESSEC Business School in 1988.\n",
+        "Occupation History": "Bernard Louis Durand is a 61 year old retired Venture Capitalist from France. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nBernard Louis Durand launched his career as a Research Scientist at Sanofi S.A., where he gained valuable experience from 1988 to 1991.\nIn 1991, he moved to Ipsen S.A. to work as a Biotech Startup Founder, applying his knowledge to achieve outstanding performance.\nIn 1993, he joined Cellectis S.A. as a CEO, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHis next role was as a Venture Capitalist at Ipsen S.A., where he applied his extensive experience to drive innovation from 1996 till retirement.\n",
+        "Wealth Summary": "He managed to save approximately 1520000 EUR from his earnings at all companies.\nHe owns 2 exceptional properties: townhouse located in Lille, valued at approximately 1,880,000.00 EUR, condo located in Orl\u00e9ans, valued at approximately 1,680,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Lille and Orl\u00e9ans.\nHe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

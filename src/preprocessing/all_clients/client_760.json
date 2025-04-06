@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "",
+        "last_name": "Gil",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "2001-05-05",
+        "passport_number": "QL3802472",
+        "passport_mrz": [
+            "P<ESPGIL<<FERN\u00c1NDEZ<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "QL3802472ESP010505<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-01-25",
+        "passport_expiry_date": "2025-01-24"
+    },
+    "client_profile": {
+        "name": "Fern\u00e1ndez Gil",
+        "address": {
+            "city": "Florence",
+            "street name": "Corso Cairoli",
+            "street number": 43,
+            "postal code": "72697"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "2001-05-05",
+        "nationality": "Spanish",
+        "passport_number": "QL3802472",
+        "passport_issue_date": "2020-01-25",
+        "passport_expiry_date": "2025-01-24",
+        "gender": "M",
+        "phone_number": "+39 382 9585821",
+        "email_address": "fernandez.gil@fastweb.it",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Federico Garc\u00eda Lorca Granada",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "IE University",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2080000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fern\u00e1ndez Gil",
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "",
+        "last_name": "Gil",
+        "passport_number": "QL3802472",
+        "currency": "EUR",
+        "address": {
+            "city": "Florence",
+            "street name": "Corso Cairoli",
+            "street number": 43,
+            "postal code": "72697"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 382 9585821",
+        "email_address": "fernandez.gil@fastweb.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Fern\u00e1ndez Gil since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nFern\u00e1ndez Gil is a 23 year old and comes from Italy.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Fern\u00e1ndez Gil is currently single. He does not have any children.",
+        "Education Background": "Fern\u00e1ndez graduated from IES Federico Garc\u00eda Lorca Granada in 2019.\nFern\u00e1ndez completed his university education at IE University in 2024.\n",
+        "Occupation History": "Fern\u00e1ndez Gil is a 23 year old and comes from Italy.\nFern\u00e1ndez Gil did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.He inherited a significant sum of 2080000 EUR from his grandfather, a respected Tech Entrepreneur, in 2015, which he has wisely invested.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

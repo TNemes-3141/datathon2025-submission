@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Aline",
+        "middle_name": "",
+        "last_name": "M\u00fcller",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1970-08-13",
+        "passport_number": "JM9124713",
+        "passport_mrz": [
+            "P<CHEM\u00dcLLER<<ALINE<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "JM9124713CHE700813<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-03-01",
+        "passport_expiry_date": "2032-02-29"
+    },
+    "client_profile": {
+        "name": "Aline M\u00fcller",
+        "address": {
+            "city": "Herisau",
+            "street name": "Limmatquai",
+            "street number": 69,
+            "postal code": "9618"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1970-08-13",
+        "nationality": "Swiss",
+        "passport_number": "JM9124713",
+        "passport_issue_date": "2022-03-01",
+        "passport_expiry_date": "2032-02-29",
+        "gender": "F",
+        "phone_number": "+41 023 822 18 94",
+        "email_address": "aline.muller@freedom.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Kantonsschule Baden Baden",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "University of Fribourg",
+                "graduation_year": 1995
+            },
+            {
+                "university": "University of Basel",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1995,
+                "company": "SRF Schweizer Radio und Fernsehen",
+                "position": "Journalist",
+                "salary": 67000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "Ringier AG",
+                "position": "Editor",
+                "salary": 93000
+            },
+            {
+                "start_year": 1998,
+                "end_year": null,
+                "company": "SRF Schweizer Radio und Fernsehen",
+                "position": "Publisher",
+                "salary": 865000
+            }
+        ],
+        "aum": {
+            "savings": 1470000,
+            "inheritance": 0,
+            "real_estate_value": 3370000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 3370000,
+                "property location": "Herisau"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "France"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Aline M\u00fcller",
+        "first_name": "Aline",
+        "middle_name": "",
+        "last_name": "M\u00fcller",
+        "passport_number": "JM9124713",
+        "currency": "CHF",
+        "address": {
+            "city": "Herisau",
+            "street name": "Limmatquai",
+            "street number": 69,
+            "postal code": "9618"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 023 822 18 94",
+        "email_address": "aline.muller@freedom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Aline M\u00fcller at a charity gala in Z\u00fcrich. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nHaving worked for over 31 years, Aline M\u00fcller brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Aline M\u00fcller is currently divorced. She has 2 kids called Kammermann and Nina.",
+        "Education Background": "Aline finished secondary school at Kantonsschule Baden Baden in 1990.\nAline received her degree from University of Fribourg in 1995.\nIn 1999, she received extra education and graduated from University of Basel with an additional degree.\n",
+        "Occupation History": "Having worked for over 31 years, Aline M\u00fcller brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIn 1994, Aline M\u00fcller started working as a Journalist at SRF Schweizer Radio und Fernsehen, marking the beginning of her successful career.\nShe then transitioned to Ringier AG as a Editor, leveraging her expertise to drive results from 1995 to 1996.\nShe spent 27 years working as a Publisher at SRF Schweizer Radio und Fernsehen, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1470000 CHF.\nShe has house located in Herisau, worth 3370000 CHF.\n\nShe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

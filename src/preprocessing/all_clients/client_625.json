@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Dubois",
+        "middle_name": "Bertrand",
+        "last_name": "Bernard",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2002-05-06",
+        "passport_number": "MX7400647",
+        "passport_mrz": [
+            "P<FRABERNARD<<DUBOIS<BERTRAND<<<<<<<<<<<<<<<<",
+            "MX7400647FRA020506<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-03-01",
+        "passport_expiry_date": "2032-02-29"
+    },
+    "client_profile": {
+        "name": "Dubois Bertrand Bernard",
+        "address": {
+            "city": "Saint-Denis",
+            "street name": "Rue Marbeuf",
+            "street number": 51,
+            "postal code": "26755"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2002-05-06",
+        "nationality": "French",
+        "passport_number": "MX7400647",
+        "passport_issue_date": "2022-03-01",
+        "passport_expiry_date": "2032-02-29",
+        "gender": "M",
+        "phone_number": "+33 02 39 58 66 62",
+        "email_address": "dubois.bernard@free.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Jean-Baptiste Say",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2820000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Dubois Bertrand Bernard",
+        "first_name": "Dubois",
+        "middle_name": "Bertrand",
+        "last_name": "Bernard",
+        "passport_number": "MX7400647",
+        "currency": "EUR",
+        "address": {
+            "city": "Saint-Denis",
+            "street name": "Rue Marbeuf",
+            "street number": 51,
+            "postal code": "26755"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 02 39 58 66 62",
+        "email_address": "dubois.bernard@free.fr"
+    },
+    "client_description": {
+        "Summary Note": "Dubois Bertrand Bernard and the RM were introduced at a gourmet food festival in Paris. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nDubois Bertrand Bernard is a 22 year old and comes from France.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Dubois Bertrand Bernard is currently single.",
+        "Education Background": "Dubois received his secondary school diploma from Lyc\u00e9e Jean-Baptiste Say in 2021.\n",
+        "Occupation History": "Dubois Bertrand Bernard is a 22 year old and comes from France.\nDubois Bertrand Bernard did not start his professional career yet.",
+        "Wealth Summary": "He did not save any money from his earnings.\nClient does not have any properties.\nFollowing the passing of his grandmother, a successful Stock Trader, he received an inheritance of 2820000 EUR in 2017, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is excited to help Dubois navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

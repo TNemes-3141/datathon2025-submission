@@ -1,0 +1,137 @@
+{
+    "account_form": {
+        "name": "Kuhn Furrer Ackermann",
+        "first_name": "Kuhn",
+        "middle_name": "Furrer",
+        "last_name": "Ackermann",
+        "passport_number": "HX0931819",
+        "currency": "CHF",
+        "address": {
+            "city": "St. Gallen",
+            "street name": "Stadthausplatz",
+            "street number": 67,
+            "postal code": "6394"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "039 418 54 571",
+        "email_address": "kuhn.ackermann@teli.ch"
+    },
+    "client_description": {
+        "Summary Note": "Kuhn Furrer Ackermann and the RM were introduced at a charity run in Z\u00fcrich. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nKuhn Furrer Ackermann is a 70 year old retired Landlord from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Kuhn Furrer Ackermann is currently divorced. His child is named Lena.",
+        "Education Background": "Kuhn graduated from Kantonsschule Sursee Luzern in 1974.\nKuhn completed his university education at Lausanne Hospitality School in 1979.\n",
+        "Occupation History": "Having worked for over 46 years, Kuhn Furrer Ackermann brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nKuhn Furrer Ackermann launched his career as a Property Manager at Swiss Prime Site AG, where he gained valuable experience from 1979 to 1982.\nHis subsequent role was as a Developer at ALLREAL Group AG, where he continued to grow professionally from 1984 to 1987.\nIn 1989, he joined ALLREAL Group AG as a Construction Company Owner, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHe appointment as a Real Estate Investment Trust (REIT) CEO at ALLREAL Group AG in 1996 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\nKuhn Furrer Ackermann retired after holding the position of Landlord at  Implenia AG from 2002 to 2015.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1780000 CHF.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across St. Gallen and Zurich, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    },
+    "client_profile": {
+        "name": "Kuhn Furrer Ackermann",
+        "address": {
+            "city": "St. Gallen",
+            "street name": "Stadthausplatz",
+            "street number": 67,
+            "postal code": "6394"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1954-08-27",
+        "nationality": "Swiss",
+        "passport_number": "HX0Q931819",
+        "passport_issue_date": "2024-02-12",
+        "passport_expiry_date": "2034-02-11",
+        "gender": "M",
+        "phone_number": "039 418 54 57",
+        "email_address": "kuhn.ackermann@teli.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Kantonsschule Sursee Luzern",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "Lausanne Hospitality School",
+                "graduation_year": 1979
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1982,
+                "company": "Swiss Prime Site AG",
+                "position": "Property Manager",
+                "salary": 60000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1987,
+                "company": "ALLREAL Group AG",
+                "position": "Developer",
+                "salary": 100000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1994,
+                "company": "ALLREAL Group AG",
+                "position": "Construction Company Owner",
+                "salary": 217000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2000,
+                "company": "ALLREAL Group AG",
+                "position": "Real Estate Investment Trust (REIT) CEO",
+                "salary": 204000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2015,
+                "company": " Implenia AG",
+                "position": "Landlord",
+                "salary": 1172000
+            }
+        ],
+        "aum": {
+            "savings": 1780000,
+            "inheritance": 0,
+            "real_estate_value": 11330000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 5760000,
+                "property location": "St. Gallen"
+            },
+            {
+                "property type": "villa",
+                "property value": 5570000,
+                "property location": "Zurich"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "CHF"
+    },
+    "passport": {
+        "first_name": "Kuhn",
+        "middle_name": "Furrer",
+        "last_name": "Ackermann",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1954-08-27",
+        "passport_number": "HX0931819",
+        "passport_mrz": [
+            "P<CHEACKERMANN<<KUHN<FURRER<<<<<<<<<<<<<<<<<<",
+            "HX0931819CHE540827<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-02-12",
+        "passport_expiry_date": "2034-02-11"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Catalina",
+        "middle_name": "Clara",
+        "last_name": "Ruiz",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1998-03-27",
+        "passport_number": "WN3490620",
+        "passport_mrz": [
+            "P<ESPRUIZ<<CATALINA<CLARA<<<<<<<<<<<<<<<<<<<<",
+            "WN3490620ESP980327<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-04-15",
+        "passport_expiry_date": "2024-04-14"
+    },
+    "client_profile": {
+        "name": "Catalina Clara Ruiz",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Calle de la Reina Cristina",
+            "street number": 52,
+            "postal code": "30370"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1998-03-27",
+        "nationality": "Spanish",
+        "passport_number": "WN3490620",
+        "passport_issue_date": "2019-04-15",
+        "passport_expiry_date": "2024-04-14",
+        "gender": "F",
+        "phone_number": "+34 686 280 099",
+        "email_address": "catalina.ruiz@terra.es",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Colegio Jes\u00fas-Mar\u00eda Tarragona",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "Escuela de Negocios de Navarra",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": 2025,
+                "company": "Banco Santander S.A.",
+                "position": "Family Office Manager",
+                "salary": 26000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2960000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Catalina Clara Ruiz",
+        "first_name": "Catalina",
+        "middle_name": "Clara",
+        "last_name": "Ruiz",
+        "passport_number": "WN3490620",
+        "currency": "EUR",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Calle de la Reina Cristina",
+            "street number": 52,
+            "postal code": "30370"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 686 280 099",
+        "email_address": "catalina.ruiz@terra.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Catalina Clara Ruiz at a wine tasting event in Madrid. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nCatalina Clara Ruiz is a 27 year old Family Office Manager from Spain.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Catalina Clara Ruiz is currently single. She does not have any children.",
+        "Education Background": "Catalina graduated from Colegio Jes\u00fas-Mar\u00eda Tarragona in 2015.\nCatalina earned her degree from Escuela de Negocios de Navarra in 2021.\n",
+        "Occupation History": "Catalina Clara Ruiz is a 27 year old Family Office Manager from Spain.\nCatalina Clara Ruiz began her professional journey as a Family Office Manager at Banco Santander S.A. in 2022, laying the foundation for future success.\n",
+        "Wealth Summary": "Throughout her career, she saved 10000 EUR, investing in various assets to grow her wealth.\nClient does not have any properties.\nFollowing the passing of her grandmother, a successful Stock Trader, she received an inheritance of 2960000 EUR in 2020, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

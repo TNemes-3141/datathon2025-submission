@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Lena",
+        "middle_name": "Corinne",
+        "last_name": "Wyss",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "2003-09-19",
+        "passport_number": "OS0689069",
+        "passport_mrz": [
+            "P<CHEWYSS<<LENA<CORINNE<<<<<<<<<<<<<<<<<<<<<<",
+            "OS0689069CHE030919<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-03-06",
+        "passport_expiry_date": "2033-03-05"
+    },
+    "client_profile": {
+        "name": "Lena Corinne Wyss",
+        "address": {
+            "city": "Locarno",
+            "street name": "Gertrudstrasse",
+            "street number": 25,
+            "postal code": "2562"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "2003-09-19",
+        "nationality": "Swiss",
+        "passport_number": "OS0689069",
+        "passport_issue_date": "2023-03-06",
+        "passport_expiry_date": "2033-03-05",
+        "gender": "F",
+        "phone_number": "+41 067 474 30 32",
+        "email_address": "lena.wyss@upc.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "\u00c9cole secondaire de Morges Vaud",
+            "graduation_year": 2023
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 980000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "10 months",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Lena Corinne Wyss",
+        "first_name": "Lena",
+        "middle_name": "Corinne",
+        "last_name": "Wyss",
+        "passport_number": "OS0689069",
+        "currency": "CHF",
+        "address": {
+            "city": "Locarno",
+            "street name": "Gertrudstrasse",
+            "street number": 25,
+            "postal code": "2562"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 067 474 30 32",
+        "email_address": "lena.wyss@upc.ch"
+    },
+    "client_description": {
+        "Summary Note": "Lena Corinne Wyss and the RM crossed paths at a tech conference in Z\u00fcrich. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nLena Corinne Wyss is a 21 year old and comes from Switzerland.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Lena Corinne Wyss is currently single. She does not have any children.",
+        "Education Background": "In 2023, Lena finished her secondary school education at \u00c9cole secondaire de Morges Vaud.\n",
+        "Occupation History": "Lena Corinne Wyss is a 21 year old and comes from Switzerland.\nLena Corinne Wyss did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.In 2015, she received an inheritance of 980000 CHF from her late grandmother, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

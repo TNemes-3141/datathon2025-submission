@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Lefebvre",
+        "middle_name": "Lambert",
+        "last_name": "David",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1974-04-13",
+        "passport_number": "KA2391951",
+        "passport_mrz": [
+            "P<FRADAVID<<LEFEBVRE<LAMBERT<<<<<<<<<<<<<<<<<",
+            "KA2391951FRA740413<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-09-12",
+        "passport_expiry_date": "2034-09-11"
+    },
+    "client_profile": {
+        "name": "Lefebvre Lambert David",
+        "address": {
+            "city": "Rouen",
+            "street name": "Place Vend\u00f4me",
+            "street number": 79,
+            "postal code": "73540"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1974-04-13",
+        "nationality": "French",
+        "passport_number": "KA2391951",
+        "passport_issue_date": "2024-09-12",
+        "passport_expiry_date": "2034-09-11",
+        "gender": "M",
+        "phone_number": "+33 00 56 87 73 77",
+        "email_address": "lefebvre.david@numericable.fr",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Vaucanson",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "La F\u00e9mis",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "Mus\u00e9e Rodin",
+                "position": "Art Dealer",
+                "salary": 31000
+            },
+            {
+                "start_year": 2002,
+                "end_year": null,
+                "company": "Centre Pompidou",
+                "position": "Gallery Owner",
+                "salary": 241000
+            }
+        ],
+        "aum": {
+            "savings": 440000,
+            "inheritance": 8940000,
+            "real_estate_value": 1460000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2010,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1460000,
+                "property location": "Rouen"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lefebvre Lambert David",
+        "first_name": "Lefebvre",
+        "middle_name": "Lambert",
+        "last_name": "David",
+        "passport_number": "KA2391951",
+        "currency": "EUR",
+        "address": {
+            "city": "Rouen",
+            "street name": "Place Vend\u00f4me",
+            "street number": 79,
+            "postal code": "73540"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 00 56 87 73 77",
+        "email_address": "lefebvre.david@numericable.fr"
+    },
+    "client_description": {
+        "Summary Note": "Lefebvre Lambert David and the RM met at a networking event in Paris. They quickly realized they had complementary skills and decided to collaborate on several projects.\nHaving worked for over 27 years, Lefebvre Lambert David brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Lefebvre Lambert David is currently widowed. He does not have any children.",
+        "Education Background": "Lefebvre finished secondary school at Lyc\u00e9e Vaucanson in 1993.\nLefebvre earned his degree from La F\u00e9mis in 1999.\n",
+        "Occupation History": "With a career spanning nearly 27 years, Lefebvre Lambert David has established himself as a key player in the industry.\nIn 1998, Lefebvre Lambert David started working as a Art Dealer at Mus\u00e9e Rodin, marking the beginning of his successful career.\nIn 2002, he moved to Centre Pompidou to work as a Gallery Owner, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 440000 EUR, which he used to build a diversified investment portfolio.\nHe has flat located in Rouen, worth 1460000 EUR.\n\n\nFollowing the passing of his grandmother, a successful Oil and Gas Executive, he received an inheritance of 8940000 EUR in 2010, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Lucas",
+        "middle_name": "Juliette",
+        "last_name": "Dumovt",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1997-09-23",
+        "passport_number": "VW0273497",
+        "passport_mrz": [
+            "P<BELDUMONT<<LUCAS<JULIETTE<<<<<<<<<<<<<<<<<<",
+            "VW0273497BEL970923<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-12-12",
+        "passport_expiry_date": "2029-12-11"
+    },
+    "client_profile": {
+        "name": "Lucas Juliette Dumont",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Rue de la R\u00e9volution Belge",
+            "street number": 73,
+            "postal code": "6050"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1997-09-23",
+        "nationality": "Belgian",
+        "passport_number": "VW0273497",
+        "passport_issue_date": "2022-12-12",
+        "passport_expiry_date": "2029-12-11",
+        "gender": "F",
+        "phone_number": "+32 0430 420 971",
+        "email_address": "lucas.dumont@belgacom.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "Hasselt University",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": 2024,
+                "company": "Galapagos NV",
+                "position": "Research Scientist",
+                "salary": 37000
+            },
+            {
+                "start_year": 2025,
+                "end_year": null,
+                "company": "Takeda Pharmaceuticals Belgium",
+                "position": "Biotech Startup Founder",
+                "salary": 51000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2180000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lucas Juliette Dumont",
+        "first_name": "Lucas",
+        "middle_name": "Juliette",
+        "last_name": "Dumont",
+        "passport_number": "VW0273497",
+        "currency": "EUR",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Rue de la R\u00e9volution Belge",
+            "street number": 73,
+            "postal code": "6050"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0430 420 9711",
+        "email_address": "lucas.dumont@belgacom.be"
+    },
+    "client_description": {
+        "Summary Note": "Lucas Juliette Dumont and the RM were introduced at a gourmet food festival in Brussels. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nLucas Juliette Dumont is a 27 year old and comes from Belgium.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Lucas Juliette Dumont is married to Simons. They do not have any children.",
+        "Education Background": "Lucas finished secondary school at Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur in 2017.\nLucas graduated from Hasselt University in 2021, completing her higher education.\n",
+        "Occupation History": "Lucas Juliette Dumont is a 27 year old and comes from Belgium.\nAt Galapagos NV, Lucas Juliette Dumont held the position of Research Scientist from 2022 to 2024, developing essential skills in the field.\nShe then transitioned to Takeda Pharmaceuticals Belgium as a Biotech Startup Founder, leveraging her expertise to drive results from 2025 till now.\n",
+        "Wealth Summary": "Throughout her career, she saved 10000 EUR, investing in various assets to grow her wealth.\nClient does not have any properties.She inherited 2180000 EUR from her grandmother, a well-known Private Equity Manager, in 2019, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Lucas has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

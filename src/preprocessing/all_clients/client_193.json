@@ -1,0 +1,116 @@
+{
+    "passport": {
+        "first_name": "Wyss",
+        "middle_name": "Huber",
+        "last_name": "Keller",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1962-05-11",
+        "passport_number": "BH1659506",
+        "passport_mrz": [
+            "P<CHEKELLER<<WYSS<HUBER<<<<<<<<<<<<<<<<<<<<<<",
+            "BH1659506CHE620511<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2015-05-22",
+        "passport_expiry_date": "2025-05-21"
+    },
+    "client_profile": {
+        "name": "Wyss Huber Keller",
+        "address": {
+            "city": "Lausanne",
+            "street name": "Place des Halles",
+            "street number": 83,
+            "postal code": "2428"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1962-05-11",
+        "nationality": "Swiss",
+        "passport_number": "BH1659506",
+        "passport_issue_date": "2015-05-22",
+        "passport_expiry_date": "2025-05-21",
+        "gender": "M",
+        "phone_number": "+41 088 805 29 72",
+        "email_address": "wyss.keller@gmx.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "\u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "ETH Zurich",
+                "graduation_year": 1985
+            },
+            {
+                "university": "University of Geneva",
+                "graduation_year": 1990
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1990,
+                "company": "Pfizer AG (Swiss branch)",
+                "position": "Research Scientist",
+                "salary": 66000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Pfizer AG (Swiss branch)",
+                "position": "Clinical Trials Manager",
+                "salary": 99000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 2023,
+                "company": "Pfizer AG (Swiss branch)",
+                "position": "Regulatory Affairs Director",
+                "salary": 1287000
+            }
+        ],
+        "aum": {
+            "savings": 2540000,
+            "inheritance": 0,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {},
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Austria"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Wyss Huber Keller",
+        "first_name": "Wyss",
+        "middle_name": "Huber",
+        "last_name": "Keller",
+        "passport_number": "BH1659506",
+        "currency": "CHF",
+        "address": {
+            "city": "Lausanne",
+            "street name": "Place des Halles",
+            "street number": 83,
+            "postal code": "2428"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "++43 088 805 29 72",
+        "email_address": "wyss.keller@gmx.ch"
+    },
+    "client_description": {
+        "Summary Note": "Wyss Huber Keller and the RM were introduced at a charity run in Z\u00fcrich. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nWyss Huber Keller is a 62 year old and comes from Switzerland.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Wyss Huber Keller and Daniela tied the knot in 1997. They do not have any children.",
+        "Education Background": "In 1981, Wyss graduated from \u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel with a secondary school diploma.\nWyss earned his degree from ETH Zurich in 1985.\nWyss earned his additionally degree from University of Geneva in 1990.\n",
+        "Occupation History": "Wyss Huber Keller is a 62 year old and comes from Switzerland.\nIn 1987, Wyss Huber Keller started working as a Research Scientist at Pfizer AG (Swiss branch), marking the beginning of his successful career.\nAt Pfizer AG (Swiss branch), he held the position of Clinical Trials Manager from 1990 to 1991, making significant contributions to the organization.\nIn 1991, he joined Pfizer AG (Swiss branch) as a Regulatory Affairs Director, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 2540000 CHF.\nClient does not have any properties.He does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

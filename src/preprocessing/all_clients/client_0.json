@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Julia",
+        "middle_name": "Dominique",
+        "last_name": "B\u00fchler",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1984-10-28",
+        "passport_number": "UR3017937",
+        "passport_mrz": [
+            "P<CHEB\u00dcHLER<<JULIA<DOMINIQUE<<<<<<<<<<<<<<<<<",
+            "UR3017937CHE841028<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-30",
+        "passport_expiry_date": "2033-08-29"
+    },
+    "client_profile": {
+        "name": "Julia Dominique B\u00fchler",
+        "address": {
+            "city": "Zurich",
+            "street name": "Marktgasse",
+            "street number": 19,
+            "postal code": "7468"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1984-10-28",
+        "nationality": "Swiss",
+        "passport_number": "UR3017937",
+        "passport_issue_date": "2023-08-30",
+        "passport_expiry_date": "2033-08-29",
+        "gender": "F",
+        "phone_number": "+41 076 583 55 28",
+        "email_address": "julia.buhler@gmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Kantonsschule Wettingen Wettingen",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "University of Fribourg",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2009,
+                "company": "UBS AG",
+                "position": "Investment Banker",
+                "salary": 69000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "UBS AG",
+                "position": "Private Equity Investor",
+                "salary": 236000
+            }
+        ],
+        "aum": {
+            "savings": 300000,
+            "inheritance": 1910000,
+            "real_estate_value": 2420000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2420000,
+                "property location": "Zurich"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Julia Dominique B\u00fchler",
+        "first_name": "Julia",
+        "middle_name": "Dominique",
+        "last_name": "B\u00fchler",
+        "passport_number": "UR3017937",
+        "currency": "CHF",
+        "address": {
+            "city": "Zurich",
+            "street name": "Marktgasse",
+            "street number": 19,
+            "postal code": "7468"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 076 583 55 28",
+        "email_address": "julia.buhler@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Julia Dominique B\u00fchler and the RM crossed paths at a tech conference in Z\u00fcrich. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nJulia Dominique B\u00fchler is a 40 year old Private Equity Investor from Switzerland.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Julia Dominique B\u00fchler is currently single. She does not have any children.",
+        "Education Background": "Julia completed her secondary education at Kantonsschule Wettingen Wettingen in 2003.\nJulia earned her degree from University of Fribourg in 2007.\n",
+        "Occupation History": "Julia Dominique B\u00fchler is a seasoned professional with over 17 years of experience.\nIn 2008, Julia Dominique B\u00fchler started working as a Investment Banker at UBS AG, marking the beginning of her successful career.\nIn 2011, she moved to UBS AG to work as a Private Equity Investor, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, she saved 300000 CHF, which she used to build a diversified investment portfolio.\nShe has condo located in Zurich, worth 2420000 CHF.\n\n\nIn addition to her career success, she also received an inheritance of 1910000 CHF from her late grandmother, a renowned Real Estate Developer, in 2018.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

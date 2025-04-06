@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Egli",
+        "middle_name": "B\u00fchler",
+        "last_name": "Roth",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1965-10-08",
+        "passport_number": "TK7591655",
+        "passport_mrz": [
+            "P<CHEROTH<<EGLI<B\u00dcHLER<<<<<<<<<<<<<<<<<<<<<<<",
+            "TK7591655CHE651008<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-05-15",
+        "passport_expiry_date": "2031-05-14"
+    },
+    "client_profile": {
+        "name": "Egli B\u00fchler Roth",
+        "address": {
+            "city": "Chur",
+            "street name": "Place des Halles",
+            "street number": 91,
+            "postal code": "3074"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1965-10-08",
+        "nationality": "Swiss",
+        "passport_number": "TK7591655",
+        "passport_issue_date": "2021-05-15",
+        "passport_expiry_date": "2031-05-14",
+        "gender": "M",
+        "phone_number": "068 546 92 14",
+        "email_address": "egli.roth@lycos.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kantonsschule Liestal Basel-Landschaft",
+            "graduation_year": 1973
+        },
+        "higher_education": [
+            {
+                "university": "ETH Zurich",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1992,
+                "company": "Kunsthaus Z\u00fcrich",
+                "position": "Art Dealer",
+                "salary": 61000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1998,
+                "company": "Kunsthaus Z\u00fcrich",
+                "position": "Gallery Owner",
+                "salary": 132000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2001,
+                "company": "Mus\u00e9e d'Art et d'Histoire Geneva",
+                "position": "Art Advisor",
+                "salary": 130000
+            },
+            {
+                "start_year": 2002,
+                "end_year": null,
+                "company": "Kunstmuseum Basel",
+                "position": "Curator",
+                "salary": 1615000
+            }
+        ],
+        "aum": {
+            "savings": 2780000,
+            "inheritance": 0,
+            "real_estate_value": 2250000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2250000,
+                "property location": "Chur"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Egli B\u00fchler Roth",
+        "first_name": "Egli",
+        "middle_name": "B\u00fchler",
+        "last_name": "Roth",
+        "passport_number": "TK7591655",
+        "currency": "CHF",
+        "address": {
+            "city": "Chur",
+            "street name": "Place des Halles",
+            "street number": 91,
+            "postal code": "3074"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "068 546 92 14",
+        "email_address": "egli.roth@lycos.ch"
+    },
+    "client_description": {
+        "Summary Note": "Egli B\u00fchler Roth and the RM were introduced at a gourmet food festival in Z\u00fcrich. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nEgli B\u00fchler Roth is a 59 year old and comes from Switzerland.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Egli B\u00fchler Roth has been happily married to Larissa since 1993. Egli and Larissa have 2 children, named Lehmann and Huber.",
+        "Education Background": "Egli finished secondary school at Kantonsschule Liestal Basel-Landschaft in 1985.\nEgli finished his studies at ETH Zurich in 1988.\n",
+        "Occupation History": "Having worked for over 35 years, Egli B\u00fchler Roth brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nIn 1990, Egli B\u00fchler Roth started working as a Art Dealer at Kunsthaus Z\u00fcrich, marking the beginning of his successful career.\nAfter gaining experience, he took on the role of Gallery Owner at Kunsthaus Z\u00fcrich in 1993, further expanding his skill set.\nHe spent 1 years working as a Art Advisor at Mus\u00e9e d'Art et d'Histoire Geneva, refining his expertise and building a strong network.\nHe appointment as a Curator at Kunstmuseum Basel in 2002 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 2780000 CHF.\nHe has townhouse located in Chur, worth 2250000 CHF.\n\nHe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

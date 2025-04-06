@@ -1,0 +1,134 @@
+{
+    "passport": {
+        "first_name": "Charlotte",
+        "middle_name": "",
+        "last_name": "Thiry",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1957-07-01",
+        "passport_number": "IL2357375",
+        "passport_mrz": [
+            "P<BELTHIRY<<CHARLOTTE<<<<<<<<<<<<<<<<<<<<<<<<",
+            "IL2357375BEL570701<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-12-04",
+        "passport_expiry_date": "2026-12-03"
+    },
+    "client_profile": {
+        "name": "Charlotte Thiry",
+        "address": {
+            "city": "Poperinge",
+            "street name": "Rue des Dominicains",
+            "street number": 22,
+            "postal code": "0865"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1957-07-01",
+        "nationality": "Belgian",
+        "passport_number": "IL2357375",
+        "passport_issue_date": "2019-12-04",
+        "passport_expiry_date": "2026-12-03",
+        "gender": "F",
+        "phone_number": "+32 0438 078 145",
+        "email_address": "charlotte.thiry@icloud.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Institut Saint-Stanislas",
+            "graduation_year": 1964
+        },
+        "higher_education": [
+            {
+                "university": "Ghent University",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1983,
+                "company": "Thales Alenia Space Belgium",
+                "position": "Aerospace Engineer",
+                "salary": 36000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1986,
+                "company": "Sabca SA",
+                "position": "Program Manager",
+                "salary": 51000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 1993,
+                "company": "Thales Alenia Space Belgium",
+                "position": "Director of Operations",
+                "salary": 119000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2018,
+                "company": "Sonaca SA",
+                "position": "VP of Business Development",
+                "salary": 918000
+            }
+        ],
+        "aum": {
+            "savings": 1480000,
+            "inheritance": 0,
+            "real_estate_value": 3575000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1225000,
+                "property location": "Poperinge"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1320000,
+                "property location": "Mechelen"
+            },
+            {
+                "property type": "condo",
+                "property value": 1030000,
+                "property location": "Maaseik"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Charlotte Thiry",
+        "first_name": "Charlotte",
+        "middle_name": "",
+        "last_name": "Thiry",
+        "passport_number": "IL2357375",
+        "currency": "EUR",
+        "address": {
+            "city": "Poperinge",
+            "street name": "Rue des Dominicains",
+            "street number": 22,
+            "postal code": "0865"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0438 078 145",
+        "email_address": "charlotte.thiry@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Charlotte Thiry at a corporate retreat in Brussels. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nCharlotte Thiry is a seasoned professional with over 44 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Charlotte Thiry and Peiren tied the knot in 1984. They do not have any children.",
+        "Education Background": "In 1975, Charlotte graduated from Institut Saint-Stanislas with a secondary school diploma.\nIn 1980, Charlotte graduated from Ghent University with a degree.\n",
+        "Occupation History": "Having worked for over 44 years, Charlotte Thiry brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIn 1981, Charlotte Thiry started working as a Aerospace Engineer at Thales Alenia Space Belgium, marking the beginning of her successful career.\nAt Sabca SA, she held the position of Program Manager from 1985 to 1986, making significant contributions to the organization.\nHer tenure as a Director of Operations at Thales Alenia Space Belgium from 1988 to 1993 was marked by significant achievements and a deepening understanding of the field.\nAfter 12 years of dedication, she assumed the role of VP of Business Development at Sonaca SA in 1995, spearheading high-profile projects and mentoring junior colleagues.\n",
+        "Wealth Summary": "While working, she saved 1480000 EUR, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Mechelen, Maaseik and Poperinge, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

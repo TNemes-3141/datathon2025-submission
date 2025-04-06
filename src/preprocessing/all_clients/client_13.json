@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "\u00c8ve",
+        "middle_name": "Capucine",
+        "last_name": "Faure",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1995-02-14",
+        "passport_number": "CK1617743",
+        "passport_mrz": [
+            "P<FRAPIERRE<<\u00c8VE<CAPUCINE<<<<<<<<<<<<<<<<<<<<",
+            "CK1617743FRA950214<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-07-10",
+        "passport_expiry_date": "2030-07-09"
+    },
+    "client_profile": {
+        "name": "\u00c8ve Capucine Pierre",
+        "address": {
+            "city": "Saint-Denis",
+            "street name": "Boulevard Raspail",
+            "street number": 34,
+            "postal code": "87570"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1995-02-14",
+        "nationality": "French",
+        "passport_number": "CK1617743",
+        "passport_issue_date": "2020-07-10",
+        "passport_expiry_date": "2030-07-09",
+        "gender": "F",
+        "phone_number": "+33 06 62 64 13 45",
+        "email_address": "eve.pierre@live.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Victor Hugo",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "University of Toulouse",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Mus\u00e9e Rodin",
+                "position": "Art Dealer",
+                "salary": 39000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 3570000,
+            "real_estate_value": 1380000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1380000,
+                "property location": "Saint-Denis"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "\u00c8ve Capucine Pierre",
+        "first_name": "\u00c8ve",
+        "middle_name": "Capucine",
+        "last_name": "Pierre",
+        "passport_number": "CK1617743",
+        "currency": "EUR",
+        "address": {
+            "city": "Saint-Denis",
+            "street name": "Boulevard Raspail",
+            "street number": 34,
+            "postal code": "87570"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 06 62 64 13 45",
+        "email_address": "eve.pierre@live.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of \u00c8ve Capucine Pierre's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\n\u00c8ve Capucine Pierre is a 30 year old and comes from France.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "\u00c8ve Capucine Pierre is married to Robin. They are proud parents of 1 child: Lina.",
+        "Education Background": "\u00c8ve completed her secondary education at Lyc\u00e9e Victor Hugo in 2014.\n\u00c8ve completed her university education at University of Toulouse in 2017.\n",
+        "Occupation History": "\u00c8ve Capucine Pierre is a 30 year old and comes from France.\n\u00c8ve Capucine Pierre began her professional journey as a Art Dealer at Mus\u00e9e Rodin in 2019, laying the foundation for future success.\n",
+        "Wealth Summary": "Throughout her career, she saved 30000 EUR, investing in various assets to grow her wealth.\nShe has flat located in Saint-Denis, worth 1380000 EUR.\n\nIn 2020, she received an inheritance of 3570000 EUR from her late , who was a prominent , and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

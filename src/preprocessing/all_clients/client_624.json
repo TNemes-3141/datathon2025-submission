@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Lechner",
+        "middle_name": "Fuchs",
+        "last_name": "Bauer",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1973-03-31",
+        "passport_number": "SO1308671",
+        "passport_mrz": [
+            "P<AUTBAUER<<LECHNER<FUCHS<<<<<<<<<<<<<<<<<<<<",
+            "SO1308671AUT730331<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-11-04",
+        "passport_expiry_date": "2034-11-03"
+    },
+    "client_profile": {
+        "name": "Lechner Fuchs Bauer",
+        "address": {
+            "city": "Bregenz",
+            "street name": "Mariahilfer Stra\u00dfe",
+            "street number": 56,
+            "postal code": "6929"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1973-03-31",
+        "nationality": "Austrian",
+        "passport_number": "SO1308671",
+        "passport_issue_date": "2024-11-04",
+        "passport_expiry_date": "2034-11-03",
+        "gender": "M",
+        "phone_number": "+43 261 838 0148",
+        "email_address": "lechner.bauer@liwest.at",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Akademisches Gymnasium Graz",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 1998,
+                "company": "Marinomed Biotechnologie GmbH",
+                "position": "Research Scientist",
+                "salary": 31000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2004,
+                "company": "Baxter BioScience",
+                "position": "Biotech Startup Founder",
+                "salary": 48000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Intercell AG",
+                "position": "CEO",
+                "salary": 73000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "Intercell AG",
+                "position": "Venture Capitalist",
+                "salary": 145000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2023,
+                "company": "Intercell AG",
+                "position": "Industry Leader",
+                "salary": 205000
+            }
+        ],
+        "aum": {
+            "savings": 330000,
+            "inheritance": 3680000,
+            "real_estate_value": 1950000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2009,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1950000,
+                "property location": "Bregenz"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lechner Fuchs Bauer",
+        "first_name": "Lechner",
+        "middle_name": "Fuchs",
+        "last_name": "Bauer",
+        "passport_number": "SO1308671",
+        "currency": "EUR",
+        "address": {
+            "city": "Bregenz",
+            "street name": "Mariahilfer Stra\u00dfe",
+            "street number": 56,
+            "postal code": "6929"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 261 838 0148",
+        "email_address": "lechner.bauer@liwest.at"
+    },
+    "client_description": {
+        "Summary Note": "Lechner Fuchs Bauer and the RM were introduced at an art auction in Vienna. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nLechner Fuchs Bauer is a 52 year old Industry Leader from Austria.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Lechner Fuchs Bauer is currently divorced. He has 1 kid called Miriam.",
+        "Education Background": "In 1991, Lechner graduated from Akademisches Gymnasium Graz with a secondary school diploma.\nAfter that, he went on to study at Graz University of Technology until 1985.\n",
+        "Occupation History": "Lechner Fuchs Bauer is a 52 year old Industry Leader from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLechner Fuchs Bauer launched his career as a Research Scientist at Marinomed Biotechnologie GmbH, where he gained valuable experience from 1996 to 1998.\nHis subsequent role was as a Biotech Startup Founder at Baxter BioScience, where he continued to grow professionally from 2000 to 2004.\nFrom 2005 to 2006, he served as a CEO at Intercell AG, solidifying his position as a leader in the industry.\nHis next role was as a Venture Capitalist at Intercell AG, where he applied his extensive experience to drive innovation from 2008 to 2012.\nAs a Industry Leader at Intercell AG since 2014, he remains committed to excellence, driving progress and inspiring others through his remarkable leadership.",
+        "Wealth Summary": "Throughout his career, he saved 330000 EUR, investing in various assets to grow his wealth.\nHe has villa located in Bregenz, worth 1950000 EUR.\n\nHe inherited 3680000 EUR from his grandmother, a well-known Venture Capitalist, in 2009, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

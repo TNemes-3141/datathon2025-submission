@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Carolin",
+        "middle_name": "Hanna",
+        "last_name": "Schneider",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1973-08-05",
+        "passport_number": "BK3304839",
+        "passport_mrz": [
+            "P<DEUSCHNEIDER<<CAROLIN<HANNA<<<<<<<<<<<<<<<<",
+            "BK3304839DEU730805<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-30",
+        "passport_expiry_date": "2029-05-29"
+    },
+    "client_profile": {
+        "name": "Carolin Hanna Schneider",
+        "address": {
+            "city": "Braunschweig",
+            "street name": "Altonaer Stra\u00dfe",
+            "street number": 1,
+            "postal code": "84881"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1973-08-05",
+        "nationality": "German",
+        "passport_number": "BK3304839",
+        "passport_issue_date": "2019-05-30",
+        "passport_expiry_date": "2029-05-29",
+        "gender": "F",
+        "phone_number": "+49 7224 970812",
+        "email_address": "carolin.schneider@t-online.de",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "Ludwig Maximilian University of Munich",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2001,
+                "company": "DWS Investments",
+                "position": "Stockbroker",
+                "salary": 39000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2005,
+                "company": "Deutsche Asset Management",
+                "position": "Portfolio Manager",
+                "salary": 61000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "Deutsche Asset Management",
+                "position": "Hedge Fund Manager",
+                "salary": 379000
+            }
+        ],
+        "aum": {
+            "savings": 630000,
+            "inheritance": 2340000,
+            "real_estate_value": 2920000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1760000,
+                "property location": "Braunschweig"
+            },
+            {
+                "property type": "flat",
+                "property value": 1160000,
+                "property location": "Wuppertal"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Hybrid",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Carolin Hanna Schneider",
+        "first_name": "Carolin",
+        "middle_name": "Hanna",
+        "last_name": "Schneider",
+        "passport_number": "BK3304839",
+        "currency": "EUR",
+        "address": {
+            "city": "Braunschweig",
+            "street name": "Altonaer Stra\u00dfe",
+            "street number": 1,
+            "postal code": "84881"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+4 7224 970812",
+        "email_address": "carolin.schneider@t-online.de"
+    },
+    "client_description": {
+        "Summary Note": "Carolin Hanna Schneider and the RM crossed paths at a mutual friend's dinner party in Berlin. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHaving worked for over 27 years, Carolin Hanna Schneider brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Carolin Hanna Schneider is currently divorced. Her child is named Schwarz.",
+        "Education Background": "In 1992, Carolin graduated from Wilhelm-von-Humboldt-Gymnasium Berlin with a secondary school diploma.\nCarolin pursued higher education at Ludwig Maximilian University of Munich, graduating in 1998.\n",
+        "Occupation History": "With a career spanning nearly 27 years, Carolin Hanna Schneider has established herself as a key player in the industry.\nAt DWS Investments, Carolin Hanna Schneider held the position of Stockbroker from 1998 to 2001, developing essential skills in the field.\nAt Deutsche Asset Management, she held the position of Portfolio Manager from 2003 to 2005, making significant contributions to the organization.\nIn 2007, she joined Deutsche Asset Management as a Hedge Fund Manager, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "Throughout her career, she saved 630000 EUR, investing in various assets to grow her wealth.\nShe owns house in Braunschweig, where she resides. It is worth 1760000 EUR.\n\nIn addition to her primary residence, she owns flat in Wuppertal worth 1160000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 2340000 EUR from her late grandmother, a renowned Tech Entrepreneur, in 2007.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

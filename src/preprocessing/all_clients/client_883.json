@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Egger",
+        "middle_name": "Mayr",
+        "last_name": "Schwarz",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1969-11-14",
+        "passport_number": "JZ1299439",
+        "passport_mrz": [
+            "P<AUTSCHWARZ<<EGGER<MAYR<<<<<<<<<<<<<<<<<<<<<",
+            "JZ1299439AUT691114<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-03-10",
+        "passport_expiry_date": "2028-03-09"
+    },
+    "client_profile": {
+        "name": "Egger Mayr Schwarz",
+        "address": {
+            "city": "Graz",
+            "street name": "Alpenstra\u00dfe",
+            "street number": 49,
+            "postal code": "7127"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1969-11-14",
+        "nationality": "Austrian",
+        "passport_number": "JZ1299439",
+        "passport_issue_date": "2018-03-10",
+        "passport_expiry_date": "2028-03-09",
+        "gender": "M",
+        "phone_number": "+43 655 273 1736",
+        "email_address": "egger.schwarz@aon.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium Bregenz",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "LIMAK Austrian Business School",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1996,
+                "company": "Alpha Private Equity",
+                "position": "Analyst",
+                "salary": 32000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "Equity Partners Investment GmbH",
+                "position": "Associate",
+                "salary": 50000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2023,
+                "company": "Alpha Private Equity",
+                "position": "Partner",
+                "salary": 545000
+            }
+        ],
+        "aum": {
+            "savings": 900000,
+            "inheritance": 120000,
+            "real_estate_value": 1140000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2015,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1140000,
+                "property location": "Graz"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Egger Mayr Schwarz",
+        "first_name": "Egger",
+        "middle_name": "Mayr",
+        "last_name": "Schwarz",
+        "passport_number": "JZ1299439",
+        "currency": "EUR",
+        "address": {
+            "city": "Graz",
+            "street name": "Alpenstra\u00dfe",
+            "street number": 49,
+            "postal code": "7127"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 655 273 1736",
+        "email_address": "egger.schwarz@aon.at"
+    },
+    "client_description": {
+        "Summary Note": "Egger Mayr Schwarz and the RM met at a networking event in Vienna. They quickly realized they had complementary skills and decided to collaborate on several projects.\nEgger Mayr Schwarz is a 55 year old Partner from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Egger Mayr Schwarz is married to Tanja. Together they have 3 kids called Fischer, Maier and Lisa.",
+        "Education Background": "In 1989, Egger finished his secondary school education at Gymnasium Bregenz.\nEgger finished his studies at LIMAK Austrian Business School in 1994.\n",
+        "Occupation History": "Egger Mayr Schwarz is a 55 year old Partner from Austria.\nIn 1993, Egger Mayr Schwarz started working as a Analyst at Alpha Private Equity, marking the beginning of his successful career.\nIn 1998, he moved to Equity Partners Investment GmbH to work as a Associate, applying his knowledge to achieve outstanding performance.\nIn 2001, he joined Quadriga Capital GmbH as a Investment Director, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nIn 2003, he transitioned to Alpha Private Equity to take on the position of Partner, capitalizing on his expertise to propel business growth.\n",
+        "Wealth Summary": "While working, he saved 900000 EUR, which he used to build a diversified investment portfolio.\nHe has house located in Graz, worth 1140000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 120000 EUR from his late father, a renowned Real Estate Developer, in 2015.\n",
+        "Client Summary": "In summary, Egger has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

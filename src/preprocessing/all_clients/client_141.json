@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Julia",
+        "middle_name": "Josefine",
+        "last_name": "Lang",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1988-07-22",
+        "passport_number": "GZ5788709",
+        "passport_mrz": [
+            "P<AUTLANG<<JULIA<JOSEFINE<<<<<<<<<<<<<<<<<<<<",
+            "GZ5788709AUT880722<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-02-01",
+        "passport_expiry_date": "2034-01-31"
+    },
+    "client_profile": {
+        "name": "Julia Josefine Lang",
+        "address": {
+            "city": "Linz",
+            "street name": "Westbahnstra\u00dfe",
+            "street number": 71,
+            "postal code": "4444"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1988-07-22",
+        "nationality": "Austrian",
+        "passport_number": "GZ5788709",
+        "passport_issue_date": "2024-02-01",
+        "passport_expiry_date": "2034-01-31",
+        "gender": "F",
+        "phone_number": "+43 895 199 7847",
+        "email_address": "julia.lang@vol.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Bundesgymnasium und Bundesrealgymnasium Leoben",
+            "graduation_year": 2008
+        },
+        "higher_education": [
+            {
+                "university": "University of Salzburg",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 2015,
+                "company": "Conwert Immobilien Invest AG",
+                "position": "Property Manager",
+                "salary": 33000
+            },
+            {
+                "start_year": 2017,
+                "end_year": 2021,
+                "company": "Immofinanz AG",
+                "position": "Developer",
+                "salary": 44000
+            },
+            {
+                "start_year": 2023,
+                "end_year": 2025,
+                "company": "CA Immo",
+                "position": "Construction Company Owner",
+                "salary": 71000
+            }
+        ],
+        "aum": {
+            "savings": 50000,
+            "inheritance": 3970000,
+            "real_estate_value": 1730000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1730000,
+                "property location": "Linz"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Julia Josefine Lang",
+        "first_name": "Julia",
+        "middle_name": "Josefine",
+        "last_name": "Lang",
+        "passport_number": "GZ5788709",
+        "currency": "EUR",
+        "address": {
+            "city": "Linz",
+            "street name": "Westbahnstra\u00dfe",
+            "street number": 71,
+            "postal code": "4444"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 895 199 7847",
+        "email_address": "julia.lang@vol.at"
+    },
+    "client_description": {
+        "Summary Note": "Julia Josefine Lang and the RM crossed paths at a tech conference in Vienna. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nJulia Josefine Lang is a 36 year old Construction Company Owner from Austria.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Julia Josefine Lang is currently single. She does not have any children.",
+        "Education Background": "In 2008, Julia finished her secondary school education at Bundesgymnasium und Bundesrealgymnasium Leoben.\nJulia received her degree from University of Salzburg in 1997.\n",
+        "Occupation History": "Having worked for over 12 years, Julia Josefine Lang brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulia Josefine Lang's first role was as a Property Manager at Conwert Immobilien Invest AG, where she worked diligently from 2013 to 2015 to establish a strong reputation.\nShe then transitioned to Immofinanz AG as a Developer, leveraging her expertise to drive results from 2017 to 2021.\nIn 2023, she joined CA Immo as a Construction Company Owner, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "While working, she saved 50000 EUR, which she used to build a diversified investment portfolio.\nShe has villa located in Linz, worth 1730000 EUR.\n\n\nFollowing the passing of her grandmother, a successful Real Estate Developer, she received an inheritance of 3970000 EUR in 2020, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

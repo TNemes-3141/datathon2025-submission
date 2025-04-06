@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Frederikke",
+        "middle_name": "Anna",
+        "last_name": "Laursen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1994-02-03",
+        "passport_number": "ZY6114453",
+        "passport_mrz": [
+            "P<DNKLAURSEN<<FREDERIKKE<ANNA<<<<<<<<<<<<<<<<",
+            "ZY6114453DNK940203<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-03-06",
+        "passport_expiry_date": "2027-03-05"
+    },
+    "client_profile": {
+        "name": "Frederikke Anna Laursen",
+        "address": {
+            "city": "Roskilde",
+            "street name": "Vandkunsten",
+            "street number": 85,
+            "postal code": "1951"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1994-02-03",
+        "nationality": "Danish",
+        "passport_number": "ZY6114453",
+        "passport_issue_date": "2017-03-06",
+        "passport_expiry_date": "2027-03-05",
+        "gender": "F",
+        "phone_number": "+45 52 00 04 78",
+        "email_address": "frederikke.laursen@dk-hostmaster.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Faaborg Gymnasium",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2018,
+                "end_year": 2022,
+                "company": "IBM Danmark A/S",
+                "position": "Software Developer",
+                "salary": 284000
+            },
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "SAP Danmark A/S",
+                "position": "Startup Founder",
+                "salary": 429000
+            }
+        ],
+        "aum": {
+            "savings": 360000,
+            "inheritance": 8720000,
+            "real_estate_value": 4183000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1853000,
+                "property location": "Roskilde"
+            },
+            {
+                "property type": "condo",
+                "property value": 970000,
+                "property location": "Slagelse"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1360000,
+                "property location": "Helsing\u00f8r"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Frederikke Anna Laursen",
+        "first_name": "Frederikke",
+        "middle_name": "Anna",
+        "last_name": "Laursen",
+        "passport_number": "ZY6114453",
+        "currency": "DKK",
+        "address": {
+            "city": "Roskilde",
+            "street name": "Vandkunsten",
+            "street number": 85,
+            "postal code": "1951"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 52 00 04 78",
+        "email_address": "frederikke.laursen@dk-hostmaster.dk"
+    },
+    "client_description": {
+        "Summary Note": "Frederikke Anna Laursen and the RM were introduced at an art auction in Copenhagen. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nFrederikke Anna Laursen is a 31 year old Startup Founder from Denmark.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Frederikke Anna Laursen and Pedersen have been married since 2020. They are proud parents of 2 children: Louise and Olsen.",
+        "Education Background": "Frederikke earned her secondary school diploma from Faaborg Gymnasium in 2013.\nIn 2018, Frederikke graduated from Aarhus University with a degree.\n",
+        "Occupation History": "Frederikke Anna Laursen is a 31 year old and comes from Denmark.\nFrederikke Anna Laursen launched her career as a Software Developer at IBM Danmark A/S, where she gained valuable experience from 2018 to 2022.\nShe then transitioned to SAP Danmark A/S as a Startup Founder, leveraging her expertise to drive results from 2022 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 360000 DKK.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Roskilde, Helsing\u00f8r and Slagelse, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe inherited 8720000 DKK from her grandmother, a well-known Hedge Fund Manager, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Frederikke has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

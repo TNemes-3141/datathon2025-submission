@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Luc\u00eda",
+        "middle_name": "Encarna",
+        "last_name": "P\u00e9rez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1968-02-20",
+        "passport_number": "CR2806702",
+        "passport_mrz": [
+            "P<ESPP\u00c9REZ<<LUC\u00cdA<ENCARNA<<<<<<<<<<<<<<<<<<<<",
+            "CR2806702ESP680220<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-04-08",
+        "passport_expiry_date": "2027-04-07"
+    },
+    "client_profile": {
+        "name": "Luc\u00eda Encarna P\u00e9rez",
+        "address": {
+            "city": "Logro\u00f1o",
+            "street name": "Calle de la Reina Cristina",
+            "street number": 85,
+            "postal code": "62416"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1968-02-20",
+        "nationality": "Spanish",
+        "passport_number": "CR2806702",
+        "passport_issue_date": "2017-04-08",
+        "passport_expiry_date": "2027-04-07",
+        "gender": "F",
+        "phone_number": "655 517 873",
+        "email_address": "lucia.perez@ya.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Colegio El Pilar Getafe",
+            "graduation_year": 1985
+        },
+        "higher_education": [
+            {
+                "university": "University of Barcelona",
+                "graduation_year": 1990
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1991,
+                "end_year": 1995,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Drilling Engineer",
+                "salary": 23000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2002,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Reservoir Engineer",
+                "salary": 55000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2007,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Operations Manager",
+                "salary": 63000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2013,
+                "company": "Repsol S.A.",
+                "position": "VP of Exploration",
+                "salary": 109000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Gas Natural Fenosa S.A.",
+                "position": "CEO",
+                "salary": 322000
+            }
+        ],
+        "aum": {
+            "savings": 500000,
+            "inheritance": 7050000,
+            "real_estate_value": 2520000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2006,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2520000,
+                "property location": "Logro\u00f1o"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Luc\u00eda Encarna P\u00e9rez",
+        "first_name": "Luc\u00eda",
+        "middle_name": "Encarna",
+        "last_name": "P\u00e9rez",
+        "passport_number": "CR2806702",
+        "currency": "EUR",
+        "address": {
+            "city": "Logro\u00f1o",
+            "street name": "Calle de la Reina Cristina",
+            "street number": 85,
+            "postal code": "62416"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "655 517 873",
+        "email_address": "lucia.perez@ya.com"
+    },
+    "client_description": {
+        "Summary Note": "Luc\u00eda Encarna P\u00e9rez and the RM met at a networking event in Madrid. They quickly realized they had complementary skills and decided to collaborate on several projects.\nLuc\u00eda Encarna P\u00e9rez is a 57 year old CEO from Spain.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Luc\u00eda Encarna P\u00e9rez has been happily married to Gil since 1993. Their child is  named Cayetana.",
+        "Education Background": "In 1985, Luc\u00eda finished her secondary school education at Colegio El Pilar Getafe.\nLuc\u00eda graduated from University of Barcelona in 1990, completing her higher education.\n",
+        "Occupation History": "With a career spanning nearly 34 years, Luc\u00eda Encarna P\u00e9rez has established herself as a key player in the industry.\nLuc\u00eda Encarna P\u00e9rez began her professional journey as a Drilling Engineer at Enag\u00e1s S.A. in 1991, laying the foundation for future success.\nAfter gaining experience, she took on the role of Reservoir Engineer at Enag\u00e1s S.A. in 1997, further expanding her skill set.\nHer tenure as a Operations Manager at Enag\u00e1s S.A. from 2004 to 2007 was marked by significant achievements and a deepening understanding of the field.\nIn 2009, she transitioned to Repsol S.A. to take on the position of VP of Exploration, capitalizing on her expertise to propel business growth.\nShe has been a CEO at Gas Natural Fenosa S.A. since 2015, consistently demonstrating her ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "She managed to save approximately 500000 EUR from her earnings at all companies.\nShe owns villa in Logro\u00f1o, where she resides. It is worth 2520000 EUR.\n\nShe inherited a significant sum of 7050000 EUR from her mother, a respected Neurosurgeon, in 2006, which she has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Luc\u00eda as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

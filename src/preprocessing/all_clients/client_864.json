@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Lena",
+        "middle_name": "",
+        "last_name": "Steiner",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1987-04-18",
+        "passport_number": "CH4949462",
+        "passport_mrz": [
+            "P<AUTSTEINER<<LENA<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "CH4949462AUT870418<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-04-30",
+        "passport_expiry_date": "2032-04-29"
+    },
+    "client_profile": {
+        "name": "Lena Steiner",
+        "address": {
+            "city": "Amstetten",
+            "street name": "Alpenstra\u00dfe",
+            "street number": 21,
+            "postal code": "5389"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1987-04-18",
+        "nationality": "Austrian",
+        "passport_number": "CH4949462",
+        "passport_issue_date": "2022-04-30",
+        "passport_expiry_date": "2032-04-29",
+        "gender": "F",
+        "phone_number": "894 094 4696",
+        "email_address": "lena.steiner@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Musisches Gymnasium Wien",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "New Design University St. P\u00f6lten",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": 2016,
+                "company": "OMV AG",
+                "position": "Senior Trader",
+                "salary": 48000
+            },
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "Gunvor Group",
+                "position": "Trading Desk Manager",
+                "salary": 110000
+            }
+        ],
+        "aum": {
+            "savings": 130000,
+            "inheritance": 0,
+            "real_estate_value": 1830000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 820000,
+                "property location": "Amstetten"
+            },
+            {
+                "property type": "condo",
+                "property value": 1010000,
+                "property location": "Salzburg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "1-5 months",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lena Steiner",
+        "first_name": "Lena",
+        "middle_name": "",
+        "last_name": "Steiner",
+        "passport_number": "CH4949462",
+        "currency": "EUR",
+        "address": {
+            "city": "Amstetten",
+            "street name": "Alpenstra\u00dfe",
+            "street number": 21,
+            "postal code": "5389"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "894 094 4696",
+        "email_address": "lena.steiner@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Lena Steiner and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nLena Steiner is a seasoned professional with over 14 years of experience.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Lena Steiner and Koller have been married since 2016. Their child is  named Schneider.",
+        "Education Background": "Lena received her secondary school diploma from Musisches Gymnasium Wien in 2007.\nLena pursued higher education at New Design University St. P\u00f6lten, graduating in 2012.\n",
+        "Occupation History": "Lena Steiner is a 37 year old Trading Desk Manager from Austria. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2011, Lena Steiner started working as a Junior Trader at Voestalpine AG, marking the beginning of her successful career.\nAfter gaining experience, she took on the role of Senior Trader at OMV AG in 2015, further expanding her skill set.\nShe spent 8 years working as a Trading Desk Manager at Gunvor Group, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "She managed to save approximately 130000 EUR from her earnings at all companies.\nShe owns flat in Amstetten, where she resides. It is worth 820000 EUR.\n\nIn addition to her primary residence, she owns condo in Salzburg worth 1010000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

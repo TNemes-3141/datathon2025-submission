@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Madsen",
+        "middle_name": "Petersen",
+        "last_name": "J\u00f8rgensen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1960-09-14",
+        "passport_number": "LC9519286",
+        "passport_mrz": [
+            "P<DNKJ\u00d8RGENSEN<<MADSEN<PETERSEN<<<<<<<<<<<<<<",
+            "LC9519286DNK600914<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-02-04",
+        "passport_expiry_date": "2029-02-03"
+    },
+    "client_profile": {
+        "name": "Madsen Petersen J\u00f8rgensen",
+        "address": {
+            "city": "Kolding",
+            "street name": "Langebro",
+            "street number": 59,
+            "postal code": "6408"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1960-09-14",
+        "nationality": "Danish",
+        "passport_number": "LC9519286",
+        "passport_issue_date": "2019-02-04",
+        "passport_expiry_date": "2029-02-03",
+        "gender": "M",
+        "phone_number": "74 88 82 83",
+        "email_address": "madsen.jrgensen@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Odense Katedralskole",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business Academy",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "PFA Pension Forsikring A/S",
+                "position": "Stockbroker",
+                "salary": 278000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1992,
+                "company": "Investors A/S",
+                "position": "Portfolio Manager",
+                "salary": 363000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1994,
+                "company": "PFA Pension Forsikring A/S",
+                "position": "Hedge Fund Manager",
+                "salary": 567000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1999,
+                "company": "PFA Pension Forsikring A/S",
+                "position": "Private Equity Investor",
+                "salary": 734000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2021,
+                "company": "Danica Pension F\u00f6rs\u00e4kringsaktiebolag",
+                "position": "Angel Investor",
+                "salary": 7465000
+            }
+        ],
+        "aum": {
+            "savings": 11160000,
+            "inheritance": 0,
+            "real_estate_value": 6205000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1710000,
+                "property location": "Kolding"
+            },
+            {
+                "property type": "villa",
+                "property value": 1835000,
+                "property location": "Aarhus"
+            },
+            {
+                "property type": "villa",
+                "property value": 2660000,
+                "property location": "Varde"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Madsen Petersen J\u00f8rgensen",
+        "first_name": "Madsen",
+        "middle_name": "Petersen",
+        "last_name": "J\u00f8rgensen",
+        "passport_number": "LC9519286",
+        "currency": "DKK",
+        "address": {
+            "city": "Kolding",
+            "street name": "Langebro",
+            "street number": 59,
+            "postal code": "6408"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "74 88 82 83",
+        "email_address": "madsen.jrgensen@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Madsen Petersen J\u00f8rgensen on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 40 years, Madsen Petersen J\u00f8rgensen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Madsen Petersen J\u00f8rgensen is married to Emilie. They do not have any children.",
+        "Education Background": "In 1979, Madsen finished his secondary school education at Odense Katedralskole.\nMadsen earned his degree from Copenhagen Business Academy in 1984.\n",
+        "Occupation History": "Madsen Petersen J\u00f8rgensen is a 64 year old and comes from Denmark.\nAt PFA Pension Forsikring A/S, Madsen Petersen J\u00f8rgensen held the position of Stockbroker from 1985 to 1988, developing essential skills in the field.\nHe then transitioned to Investors A/S as a Portfolio Manager, leveraging his expertise to drive results from 1990 to 1992.\nHis tenure as a Hedge Fund Manager at PFA Pension Forsikring A/S from 1992 to 1994 was marked by significant achievements and a deepening understanding of the field.\nAfter 9 years of dedication, he assumed the role of Private Equity Investor at PFA Pension Forsikring A/S in 1996, spearheading high-profile projects and mentoring junior colleagues.\nHe held the position of Angel Investor at Danica Pension F\u00f6rs\u00e4kringsaktiebolag from 2001 until his retirement.",
+        "Wealth Summary": "Throughout his career, he saved 11160000 DKK, investing in various assets to grow his wealth.\nHe owns 3 exceptional properties: house located in Kolding, valued at approximately 1,710,000.00 DKK, villa located in Aarhus, valued at approximately 1,835,000.00 DKK, villa located in Varde, valued at approximately 2,660,000.00 DKK. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Kolding, Varde and Aarhus.\nHe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

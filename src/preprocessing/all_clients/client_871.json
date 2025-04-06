@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "\u00c9milie",
+        "middle_name": "Ingrid",
+        "last_name": "Dupont",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1969-02-26",
+        "passport_number": "LN4793007",
+        "passport_mrz": [
+            "P<FRADUPONT<<\u00c9MILIE<INGRID<<<<<<<<<<<<<<<<<<<",
+            "LN4793007FRA690226<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-12-11",
+        "passport_expiry_date": "2032-12-10"
+    },
+    "client_profile": {
+        "name": "\u00c9milie Ingrid Dupont",
+        "address": {
+            "city": "Brest",
+            "street name": "Rue de Bretagne",
+            "street number": 5,
+            "postal code": "56485"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1969-02-26",
+        "nationality": "French",
+        "passport_number": "LN4793007",
+        "passport_issue_date": "2022-12-11",
+        "passport_expiry_date": "2032-12-10",
+        "gender": "F",
+        "phone_number": "08 78 34 14 98",
+        "email_address": "emilie.dupont@aliceadsl.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Janson-de-Sailly",
+            "graduation_year": 1987
+        },
+        "higher_education": [
+            {
+                "university": "University of Bordeaux",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1994,
+                "company": "Louis Vuitton Malletier S.A.",
+                "position": "Assistant Designer",
+                "salary": 28000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2000,
+                "company": "Dior S.A.",
+                "position": "Senior Designer",
+                "salary": 48000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2023,
+                "company": "Herm\u00e8s International S.A.",
+                "position": "Creative Director",
+                "salary": 378000
+            }
+        ],
+        "aum": {
+            "savings": 600000,
+            "inheritance": 2610000,
+            "real_estate_value": 3190000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1460000,
+                "property location": "Brest"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1730000,
+                "property location": "Grenoble"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "\u00c9milie Ingrid Dupont",
+        "first_name": "\u00c9milie",
+        "middle_name": "Ingrid",
+        "last_name": "Dupont",
+        "passport_number": "LN4793007",
+        "currency": "EUR",
+        "address": {
+            "city": "Brest",
+            "street name": "Rue de Bretagne",
+            "street number": 5,
+            "postal code": "56485"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "08 78 34 14 98",
+        "email_address": "emilie.dupont@aliceadsl.fr"
+    },
+    "client_description": {
+        "Summary Note": "\u00c9milie Ingrid Dupont and the RM are cousins, having grown up together in Paris. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\n\u00c9milie Ingrid Dupont is a 56 year old Creative Director from France.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "\u00c9milie Ingrid Dupont is currently single. She does not have any children.",
+        "Education Background": "In 1987, \u00c9milie graduated from Lyc\u00e9e Janson-de-Sailly with a secondary school diploma.\n\u00c9milie received her degree from University of Bordeaux in 1993.\n",
+        "Occupation History": "With a career spanning nearly 32 years, \u00c9milie Ingrid Dupont has established herself as a key player in the industry.\n\u00c9milie Ingrid Dupont launched her career as a Assistant Designer at Louis Vuitton Malletier S.A., where she gained valuable experience from 1993 to 1994.\nIn 1996, she moved to Dior S.A. to work as a Senior Designer, applying her knowledge to achieve outstanding performance.\nAt Herm\u00e8s International S.A., she worked as a Creative Director from 2001 to 2023, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, she saved 600000 EUR, which she used to build a diversified investment portfolio.\nShe owns 2 exceptional properties: townhouse located in Brest, valued at approximately 1,460,000.00 EUR, townhouse located in Grenoble, valued at approximately 1,730,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Brest and Grenoble.\n\nFollowing the passing of her grandfather, a successful Corporate Lawyer, she received an inheritance of 2610000 EUR in 2009, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

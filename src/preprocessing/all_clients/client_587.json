@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "L\u00f3pez",
+        "last_name": "D\u00edaz",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1996-11-13",
+        "passport_number": "NT4484294",
+        "passport_mrz": [
+            "P<ESPD\u00cdAZ<<MU\u00d1OZ<L\u00d3PEZ<<<<<<<<<<<<<<<<<<<<<<<",
+            "NT4484294ESP691113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-03-23",
+        "passport_expiry_date": "2032-03-22"
+    },
+    "client_profile": {
+        "name": "Mu\u00f1oz L\u00f3pez D\u00edaz",
+        "address": {
+            "city": "Murcia",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 62,
+            "postal code": "92990"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1969-11-13",
+        "nationality": "Spanish",
+        "passport_number": "NT4484294",
+        "passport_issue_date": "2022-03-23",
+        "passport_expiry_date": "2032-03-22",
+        "gender": "M",
+        "phone_number": "603 484 347",
+        "email_address": "munoz.diaz@ono.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Jos\u00e9 Manuel Blecua Pamplona",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "University of the Basque Country",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1995,
+                "company": "PharmaMar S.A.",
+                "position": "Research Scientist",
+                "salary": 24000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2024,
+                "company": "Zeltia S.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 213000
+            }
+        ],
+        "aum": {
+            "savings": 420000,
+            "inheritance": 6530000,
+            "real_estate_value": 1980000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2014,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 870000,
+                "property location": "Murcia"
+            },
+            {
+                "property type": "condo",
+                "property value": 1110000,
+                "property location": "Barcelona"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mu\u00f1oz L\u00f3pez D\u00edaz",
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "L\u00f3pez",
+        "last_name": "G\u00f3mez",
+        "passport_number": "NT4484294",
+        "currency": "EUR",
+        "address": {
+            "city": "Murcia",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 62,
+            "postal code": "92990"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "603 484 347",
+        "email_address": "munoz.diaz@ono.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Mu\u00f1oz L\u00f3pez D\u00edaz at a golf tournament in Madrid. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nWith a career spanning nearly 31 years, Mu\u00f1oz L\u00f3pez D\u00edaz has established himself as a key player in the industry.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Mu\u00f1oz L\u00f3pez D\u00edaz and Beatriz have been married since 1999. They do not have any children.",
+        "Education Background": "Mu\u00f1oz completed his secondary education at IES Jos\u00e9 Manuel Blecua Pamplona in 1989.\nMu\u00f1oz finished his studies at University of the Basque Country in 1993.\n",
+        "Occupation History": "Mu\u00f1oz L\u00f3pez D\u00edaz is a seasoned professional with over 31 years of experience.\nIn 1994, Mu\u00f1oz L\u00f3pez D\u00edaz started working as a Research Scientist at PharmaMar S.A., marking the beginning of his successful career.\nIn 1996, he moved to Zeltia S.A. to work as a Biotech Startup Founder, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 420000 EUR, which he used to build a diversified investment portfolio.\nHe has invested in several rental properties across various locations, generating additional income. The properties are valued at 1980000 EUR.\n\nHe inherited a significant sum of 6530000 EUR from his mother, a respected Venture Capitalist, in 2014, which he has wisely invested.\n",
+        "Client Summary": "In summary, Mu\u00f1oz has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

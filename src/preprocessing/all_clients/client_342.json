@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Lambrechts",
+        "middle_name": "Sanders",
+        "last_name": "Michiels",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1995-05-04",
+        "passport_number": "HW0045474",
+        "passport_mrz": [
+            "P<BELMICHIELS<<LAMBRECHTS<SANDERS<<<<<<<<<<<<",
+            "HW0045474BEL950504<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-05-05",
+        "passport_expiry_date": "2030-05-04"
+    },
+    "client_profile": {
+        "name": "Lambrechts Sanders Michiels",
+        "address": {
+            "city": "Ieper",
+            "street name": "Grand Place",
+            "street number": 10,
+            "postal code": "2676"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1995-05-04",
+        "nationality": "Belgian",
+        "passport_number": "HW0045474",
+        "passport_issue_date": "2023-05-05",
+        "passport_expiry_date": "2030-05-04",
+        "gender": "M",
+        "phone_number": "0476 966 046",
+        "email_address": "lambrechts.michiels@belgacom.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Institut Saint-Stanislas",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "University of Namur",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": 2022,
+                "company": "Stella McCartney Belgium",
+                "position": "Assistant Designer",
+                "salary": 35000
+            },
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Walter Van Beirendonck BVBA",
+                "position": "Senior Designer",
+                "salary": 53000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 1060000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lambrechts Sanders Michiels",
+        "first_name": "Lambrechts",
+        "middle_name": "Sanders",
+        "last_name": "Michiels",
+        "passport_number": "HW0045474",
+        "currency": "EUR",
+        "address": {
+            "city": "Ieper",
+            "street name": "",
+            "street number": 10,
+            "postal code": "2676"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0476 966 046",
+        "email_address": "lambrechts.michiels@belgacom.be"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Lambrechts Sanders Michiels at a charity gala in Brussels. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nLambrechts Sanders Michiels is a 29 year old Senior Designer from Belgium.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Lambrechts Sanders Michiels and Ad\u00e8le have been married since 2022. They do not have any children.",
+        "Education Background": "Lambrechts obtained his secondary school diploma from Institut Saint-Stanislas in 2014.\nLambrechts completed his university studies at University of Namur in 2020.\n",
+        "Occupation History": "Lambrechts Sanders Michiels is a 29 year old Senior Designer from Belgium.\nLambrechts Sanders Michiels began his professional journey as a Assistant Designer at Stella McCartney Belgium in 2019, laying the foundation for future success.\nAfter gaining experience, he took on the role of Senior Designer at Walter Van Beirendonck BVBA in 2023, further expanding his skill set.\n",
+        "Wealth Summary": "While working, he saved 30000 EUR, which he used to build a diversified investment portfolio.\nClient does not have any properties.In 2020, he received an inheritance of 1060000 EUR from his late , who was a prominent , and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

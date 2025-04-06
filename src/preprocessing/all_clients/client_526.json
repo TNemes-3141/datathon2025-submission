@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Hagenbuch",
+        "middle_name": "Suter",
+        "last_name": "Schmid",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1975-06-21",
+        "passport_number": "UA6577534",
+        "passport_mrz": [
+            "P<CHESCHMID<<HAGENBUCH<SUTER<<<<<<<<<<<<<<<<<",
+            "UA6577534CHE750621<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-06-30",
+        "passport_expiry_date": "2029-06-29"
+    },
+    "client_profile": {
+        "name": "Hagenbuch Suter Schmid",
+        "address": {
+            "city": "Ieper",
+            "street name": "Rue de la Paix",
+            "street number": 60,
+            "postal code": "8086"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1975-06-21",
+        "nationality": "Swiss",
+        "passport_number": "UA6577534",
+        "passport_issue_date": "2019-06-30",
+        "passport_expiry_date": "2029-06-29",
+        "gender": "M",
+        "phone_number": "+32 0473 882 533",
+        "email_address": "hagenbuch.schmid@edpnet.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Liceo scientifico Giovanni Polli Lugano",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "University of St. Gallen",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2004,
+                "company": "BNP Paribas Fortis SA/NV",
+                "position": "Investment Banker",
+                "salary": 90000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2011,
+                "company": "BNP Paribas Fortis SA/NV",
+                "position": "Private Equity Investor",
+                "salary": 97000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2015,
+                "company": "Euroclear SA/NV",
+                "position": "Hedge Fund Manager",
+                "salary": 123000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2016,
+                "company": "BNP Paribas Fortis SA/NV",
+                "position": "Venture Capitalist",
+                "salary": 280000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "ING Belgium SA/NV",
+                "position": "Billionaire Investor",
+                "salary": 435000
+            }
+        ],
+        "aum": {
+            "savings": 740000,
+            "inheritance": 3250000,
+            "real_estate_value": 5300000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2009,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2610000,
+                "property location": "Ieper"
+            },
+            {
+                "property type": "condo",
+                "property value": 2690000,
+                "property location": "Fribourg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hagenbuch Suter Schmid",
+        "first_name": "Hagenbuch",
+        "middle_name": "Suter",
+        "last_name": "Lehmann",
+        "passport_number": "UA6577534",
+        "currency": "EUR",
+        "address": {
+            "city": "Ieper",
+            "street name": "Rue de la Paix",
+            "street number": 60,
+            "postal code": "8086"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0473 882 533",
+        "email_address": "hagenbuch.schmid@edpnet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Hagenbuch Suter Schmid at a corporate retreat in Brussels. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nHaving worked for over 26 years, Hagenbuch Suter Schmid brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Hagenbuch Suter Schmid has been happily married to Florine since 2001. Hagenbuch and Florine have 2 children, named Noemi and Kaufmann.",
+        "Education Background": "In 1995, Hagenbuch finished his secondary school education at Liceo scientifico Giovanni Polli Lugano.\nHagenbuch attended University of St. Gallen and graduated in 1998.\n",
+        "Occupation History": "Hagenbuch Suter Schmid is a seasoned professional with over 26 years of experience.\nHagenbuch Suter Schmid began his professional journey as a Investment Banker at BNP Paribas Fortis SA/NV in 1999, laying the foundation for future success.\nIn 2006, he moved to BNP Paribas Fortis SA/NV to work as a Private Equity Investor, applying his knowledge to achieve outstanding performance.\nFrom 2013 to 2015, he served as a Hedge Fund Manager at Euroclear SA/NV, solidifying his position as a leader in the industry.\nHe appointment as a Venture Capitalist at BNP Paribas Fortis SA/NV in 2015 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\nHis current role as a Billionaire Investor at ING Belgium SA/NV, which he has held since 2016, reflects his enduring passion for the field and his unwavering dedication to making a lasting impact.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 740000 EUR.\nHe is open to exploring high-risk investment opportunities.\nHe owns 2 exceptional properties: villa located in Ieper, valued at approximately 2,610,000.00 EUR, condo located in Fribourg, valued at approximately 2,690,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Ieper and Fribourg.\n\nFollowing the passing of his grandmother, a successful Oil and Gas Executive, he received an inheritance of 3250000 EUR in 2009, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

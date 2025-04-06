@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "Romero",
+        "last_name": "D\u00edaz",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1966-04-14",
+        "passport_number": "EY1727583",
+        "passport_mrz": [
+            "P<ESPD\u00cdAZ<<MU\u00d1OZ<<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "EY1727583ESP660414<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-07-04",
+        "passport_expiry_date": "2033-07-03"
+    },
+    "client_profile": {
+        "name": "Mu\u00f1oz Romero D\u00edaz",
+        "address": {
+            "city": "Jerez de la Frontera",
+            "street name": "Calle de Serranos",
+            "street number": 77,
+            "postal code": "98054"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1966-04-14",
+        "nationality": "Spanish",
+        "passport_number": "EY1727583",
+        "passport_issue_date": "2023-07-04",
+        "passport_expiry_date": "2033-07-03",
+        "gender": "M",
+        "phone_number": "+34 690 620 963",
+        "email_address": "munoz.diaz@hotmail.es",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Rafael Alberti C\u00e1diz",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "Ram\u00f3n Llull University",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1991,
+                "end_year": 1993,
+                "company": "Inmobiliaria Colonial S.A.",
+                "position": "Property Manager",
+                "salary": 25000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 2023,
+                "company": "Inmobiliaria Colonial S.A.",
+                "position": "Developer",
+                "salary": 260000
+            }
+        ],
+        "aum": {
+            "savings": 510000,
+            "inheritance": 3640000,
+            "real_estate_value": 5240000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2008,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 771000,
+                "property location": "Jerez de la Frontera"
+            },
+            {
+                "property type": "villa",
+                "property value": 2630000,
+                "property location": "Seville"
+            },
+            {
+                "property type": "house",
+                "property value": 1839000,
+                "property location": "Jerez de la Frontera"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mu\u00f1oz Romero D\u00edaz",
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "Romero",
+        "last_name": "D\u00edaz",
+        "passport_number": "EY1727583",
+        "currency": "EUR",
+        "address": {
+            "city": "Jerez de la Frontera",
+            "street name": "Calle de Serranos",
+            "street number": 77,
+            "postal code": "98054"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 690 620 963",
+        "email_address": "munoz.diaz@hotmail.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Mu\u00f1oz Romero D\u00edaz at a corporate retreat in Madrid. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nMu\u00f1oz Romero D\u00edaz is a seasoned professional with over 34 years of experience.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Mu\u00f1oz Romero D\u00edaz is currently divorced. He does not have any children.",
+        "Education Background": "Mu\u00f1oz completed his secondary education at IES Rafael Alberti C\u00e1diz in 1984.\nAfter that, he went on to study at Ram\u00f3n Llull University until 1989.\n",
+        "Occupation History": "Mu\u00f1oz Romero D\u00edaz is a seasoned professional with over 34 years of experience.\nIn 1991, Mu\u00f1oz Romero D\u00edaz started working as a Property Manager at Inmobiliaria Colonial S.A., marking the beginning of his successful career.\nHe then transitioned to Inmobiliaria Colonial S.A. as a Developer, leveraging his expertise to drive results from 1994 to 2023.\n",
+        "Wealth Summary": "Throughout his career, he saved 510000 EUR, investing in various assets to grow his wealth.\nHe has condo located in Jerez de la Frontera, worth 771000 EUR.\n\nIn addition to his primary residence, he owns villa in Seville worth 2630000 EUR.\n\nOn top of that he inherited a beautiful house in Jerez de la Frontera, which could be used as a weekend getaway. It is valued at 1839000 EUR.\n\nIn addition to his career success, he also received an inheritance of 3640000 EUR from his late grandmother, a renowned Private Equity Manager, in 2008.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

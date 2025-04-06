@@ -1,0 +1,138 @@
+{
+    "passport": {
+        "first_name": "Andersen",
+        "middle_name": "",
+        "last_name": "Friis",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1976-02-05",
+        "passport_number": "QN0187494",
+        "passport_mrz": [
+            "P<DNKFRIIS<<ANDERSEN<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "QN0187494DNK760205<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-03-02",
+        "passport_expiry_date": "2034-03-01"
+    },
+    "client_profile": {
+        "name": "Andersen Friis",
+        "address": {
+            "city": "Helsing\u00f8r",
+            "street name": "\u00d8sterbrogade",
+            "street number": 92,
+            "postal code": "5068"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1976-02-05",
+        "nationality": "Danish",
+        "passport_number": "QN0187494",
+        "passport_issue_date": "2024-03-02",
+        "passport_expiry_date": "2034-03-01",
+        "gender": "M",
+        "phone_number": "+45 93 27 42 73",
+        "email_address": "andersen.friis@telia.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Aabenraa Gymnasium",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2000,
+                "end_year": 2002,
+                "company": "Bavarian Nordic A/S",
+                "position": "Research Scientist",
+                "salary": 251000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2006,
+                "company": "Novo Nordisk A/S",
+                "position": "Biotech Startup Founder",
+                "salary": 390000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2008,
+                "company": "Bavarian Nordic A/S",
+                "position": "CEO",
+                "salary": 488000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "Genmab A/S",
+                "position": "Venture Capitalist",
+                "salary": 3487000
+            }
+        ],
+        "aum": {
+            "savings": 5740000,
+            "inheritance": 6090000,
+            "real_estate_value": 4380000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2009,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1430000,
+                "property location": "Helsing\u00f8r"
+            },
+            {
+                "property type": "flat",
+                "property value": 900000,
+                "property location": "Helsing\u00f8r"
+            },
+            {
+                "property type": "house",
+                "property value": 2050000,
+                "property location": "Vejle"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Andersen Friis",
+        "first_name": "Andersen",
+        "middle_name": "",
+        "last_name": "Friis",
+        "passport_number": "QN0187494",
+        "currency": "DKK",
+        "address": {
+            "city": "Helsing\u00f8r",
+            "street name": "\u00d8sterbrogade",
+            "street number": 92,
+            "postal code": "5068"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 93 27 42 73",
+        "email_address": "andersen.friis@telia.dk"
+    },
+    "client_description": {
+        "Summary Note": "Andersen Friis and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nAndersen Friis is a 49 year old Venture Capitalist from Denmark.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Andersen Friis is currently divorced. His children are named Karen and Sofia.",
+        "Education Background": "Andersen graduated from Aabenraa Gymnasium in 1995.\nAndersen completed his university education at University of Copenhagen in 1998.\n",
+        "Occupation History": "Having worked for over 25 years, Andersen Friis brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAndersen Friis began his professional journey as a Research Scientist at Bavarian Nordic A/S in 2000, laying the foundation for future success.\nHis subsequent role was as a Biotech Startup Founder at Novo Nordisk A/S, where he continued to grow professionally from 2004 to 2006.\nHe spent 2 years working as a CEO at Bavarian Nordic A/S, refining his expertise and building a strong network.\nHe appointment as a Venture Capitalist at Genmab A/S in 2009 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 5740000 DKK.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Helsing\u00f8r and Vejle, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of his grandmother, a successful Venture Capitalist, he received an inheritance of 6090000 DKK in 2009, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

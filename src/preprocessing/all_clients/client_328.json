@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Christine",
+        "middle_name": "Ellen",
+        "last_name": "Lykke",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "2000-06-09",
+        "passport_number": "JM3854522",
+        "passport_mrz": [
+            "P<DKLYKKE<<CHRISTINE<ELLEN<<<<<<<<<<<<<<<<<<<",
+            "JM3854522DK000609<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-04-18",
+        "passport_expiry_date": "2029-04-17"
+    },
+    "client_profile": {
+        "name": "Christine Ellen Lykke",
+        "address": {
+            "city": "Hiller\u00f8d",
+            "street name": "Kongens Nytorv",
+            "street number": 5,
+            "postal code": "6578"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "2000-06-09",
+        "nationality": "Danish",
+        "passport_number": "JM3854522",
+        "passport_issue_date": "2019-04-18",
+        "passport_expiry_date": "2029-04-17",
+        "gender": "F",
+        "phone_number": "+45 35 81 06 43",
+        "email_address": "christine.lykke@webspace.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "K\u00f8benhavns \u00c5bent Gymnasium",
+            "graduation_year": 2011
+        },
+        "higher_education": [
+            {
+                "university": "University College Capital",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 19630000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Netherlands"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Christine Ellen Lykke",
+        "first_name": "Christine",
+        "middle_name": "Ellen",
+        "last_name": "Lykke",
+        "passport_number": "JM3854522",
+        "currency": "DKK",
+        "address": {
+            "city": "Hiller\u00f8d",
+            "street name": "Kongens Nytorv",
+            "street number": 5,
+            "postal code": "6578"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 35 81 06 43",
+        "email_address": "christine.lykke@webspace.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Christine Ellen Lykke at a wine tasting event in Copenhagen. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nChristine Ellen Lykke is a 24 year old and comes from Denmark.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Christine Ellen Lykke is currently single. She does not have any children.",
+        "Education Background": "Christine earned her secondary school diploma from K\u00f8benhavns \u00c5bent Gymnasium in 2018.\nShe then attended University College Capital, which she graduated in 2024.\n",
+        "Occupation History": "Christine Ellen Lykke is a 24 year old and comes from Denmark.\nChristine Ellen Lykke did not start her professional career yet.",
+        "Wealth Summary": "She did not manage to save any money during her career.\nClient does not have any properties.In 2018, she received an inheritance of 19630000 DKK from her late grandmother, who was a prominent Corporate Lawyer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is excited to help Christine navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

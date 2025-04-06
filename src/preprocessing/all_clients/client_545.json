@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Elisabeth",
+        "middle_name": "Chiara",
+        "last_name": "Meier",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1965-01-05",
+        "passport_number": "XR4420425",
+        "passport_mrz": [
+            "P<CHEMEIER<<ELISABETH<CHIARA<<<<<<<<<<<<<<<<<",
+            "XR4420425CHE650105<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-01-20",
+        "passport_expiry_date": "2029-01-19"
+    },
+    "client_profile": {
+        "name": "Elisabeth Chiara Meier",
+        "address": {
+            "city": "Baden",
+            "street name": "Spitalgasse",
+            "street number": 25,
+            "postal code": "8887"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1965-01-05",
+        "nationality": "Swiss",
+        "passport_number": "XR4420425",
+        "passport_issue_date": "2019-01-20",
+        "passport_expiry_date": "2029-01-19",
+        "gender": "F",
+        "phone_number": "+41 077 316 21 12",
+        "email_address": "elisabeth.meier@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Kantonsschule Wettingen Wettingen",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "Lausanne Hospitality School",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1989,
+                "company": "Lombard Odier Darier Hentsch & Cie",
+                "position": "Family Office Manager",
+                "salary": 61000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1991,
+                "company": "Credit Suisse AG",
+                "position": "Investment Director",
+                "salary": 98000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 2025,
+                "company": "UBS AG",
+                "position": "CFO",
+                "salary": 1259000
+            }
+        ],
+        "aum": {
+            "savings": 2360000,
+            "inheritance": 180000,
+            "real_estate_value": 4820000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2014,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2520000,
+                "property location": "Baden"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2300000,
+                "property location": "Bienna"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "2 weeks",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Spain"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Elisabeth Chiara Meier",
+        "first_name": "Elisabeth",
+        "middle_name": "Chiara",
+        "last_name": "Meier",
+        "passport_number": "XR4420425",
+        "currency": "CHF",
+        "address": {
+            "city": "Baden",
+            "street name": "Spitalgasse",
+            "street number": 25,
+            "postal code": "8887"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 077 316 21 12",
+        "email_address": "elisabeth.meier@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Elisabeth Chiara Meier and the RM crossed paths at a mutual friend's dinner party in Z\u00fcrich. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHaving worked for over 37 years, Elisabeth Chiara Meier brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Elisabeth Chiara Meier is married to Schneider. They are proud parents of 2 children: Egli and D\u00e9borah.",
+        "Education Background": "Elisabeth completed her secondary education at Kantonsschule Wettingen Wettingen in 1982.\nIn 1987, Elisabeth graduated from Lausanne Hospitality School with a degree.\n",
+        "Occupation History": "With a career spanning nearly 37 years, Elisabeth Chiara Meier has established herself as a key player in the industry.\nElisabeth Chiara Meier's first role was as a Family Office Manager at Lombard Odier Darier Hentsch & Cie, where she worked diligently from 1988 to 1989 to establish a strong reputation.\nHer subsequent role was as a Investment Director at Credit Suisse AG, where she continued to grow professionally from 1989 to 1991.\nHer tenure as a CFO at UBS AG from 1991 till retirement was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "She managed to save approximately 2360000 CHF from her earnings at all companies.\nShe has house located in Baden, worth 2520000 CHF.\n\nIn addition to her primary residence, she owns townhouse in Bienna worth 2300000 CHF.\n\nShe inherited 180000 CHF from her grandfather, a well-known Stock Trader, in 2014, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have Elisabeth as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

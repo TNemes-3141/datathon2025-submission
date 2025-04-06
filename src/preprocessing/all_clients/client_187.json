@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Gruber",
+        "middle_name": "Fuchs",
+        "last_name": "Koller",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AT",
+        "nationality": "Austrian",
+        "birth_date": "1979-01-15",
+        "passport_number": "AT2793405",
+        "passport_mrz": [
+            "P<AUTKOLLER<<GRUBER<FUCHS<<<<<<<<<<<<<<<<<<<<",
+            "AT2793405AUT790115<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-11-19",
+        "passport_expiry_date": "2027-11-18"
+    },
+    "client_profile": {
+        "name": "Gruber Fuchs Koller",
+        "address": {
+            "city": "Spittal an der Drau",
+            "street name": "Gasometerstra\u00dfe",
+            "street number": 61,
+            "postal code": "9343"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1979-01-15",
+        "nationality": "Austrian",
+        "passport_number": "AT2793405",
+        "passport_issue_date": "2017-11-19",
+        "passport_expiry_date": "2027-11-18",
+        "gender": "M",
+        "phone_number": "+43 181 104 4696",
+        "email_address": "gruber.koller@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "BRG/BORG Marchfeldstra\u00dfe",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "Vienna University of Economics and Business",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2008,
+                "company": "Conwert Immobilien Invest AG",
+                "position": "Property Manager",
+                "salary": 34000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2010,
+                "company": "Immofinanz AG",
+                "position": "Developer",
+                "salary": 51000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2014,
+                "company": "Immofinanz AG",
+                "position": "Construction Company Owner",
+                "salary": 69000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2016,
+                "company": "CA Immo",
+                "position": "Real Estate Investment Trust (REIT) CEO",
+                "salary": 126000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Conwert Immobilien Invest AG",
+                "position": "Landlord",
+                "salary": 288000
+            }
+        ],
+        "aum": {
+            "savings": 340000,
+            "inheritance": 360000,
+            "real_estate_value": 870000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2006,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 870000,
+                "property location": "Spittal an der Drau"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gruber Fuchs Koller",
+        "first_name": "Gruber",
+        "middle_name": "Fuchs",
+        "last_name": "Koller",
+        "passport_number": "AT2793405",
+        "currency": "EUR",
+        "address": {
+            "city": "Spittal an der Drau",
+            "street name": "Gasometerstra\u00dfe",
+            "street number": 61,
+            "postal code": "9343"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "++358 181 104 4696",
+        "email_address": "gruber.koller@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Gruber Fuchs Koller during a business conference in Vienna. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nWith a career spanning nearly 22 years, Gruber Fuchs Koller has established himself as a key player in the industry.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Gruber Fuchs Koller and Tanja tied the knot in 2014. They do not have any children.",
+        "Education Background": "In 1996, Gruber graduated from BRG/BORG Marchfeldstra\u00dfe with a secondary school diploma.\nGruber completed his university studies at Vienna University of Economics and Business in 2001.\n",
+        "Occupation History": "Gruber Fuchs Koller is a 46 year old Landlord from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nGruber Fuchs Koller's first role was as a Property Manager at Conwert Immobilien Invest AG, where he worked diligently from 2003 to 2008 to establish a strong reputation.\nIn 2008, he moved to Immofinanz AG to work as a Developer, applying his knowledge to achieve outstanding performance.\nIn 2011, he joined Immofinanz AG as a Construction Company Owner, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHis next role was as a Real Estate Investment Trust (REIT) CEO at CA Immo, where he applied his extensive experience to drive innovation from 2015 to 2016.\nHis current role as a Landlord at Conwert Immobilien Invest AG, which he has held since 2018, reflects his enduring passion for the field and his unwavering dedication to making a lasting impact.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 340000 EUR.\nHe has townhouse located in Spittal an der Drau, worth 870000 EUR.\n\nHe inherited a significant sum of 360000 EUR from his father, a respected Private Equity Manager, in 2006, which he has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

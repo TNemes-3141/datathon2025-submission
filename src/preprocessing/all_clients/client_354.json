@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Katharina",
+        "middle_name": "Greta",
+        "last_name": "Klein",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "DEU",
+        "nationality": "Austrian",
+        "birth_date": "2002-04-07",
+        "passport_number": "HH0946570",
+        "passport_mrz": [
+            "P<DEUKLEIN<<KATHARINA<GRETA<<<<<<<<<<<<<<<<<<",
+            "HH0946570DEU020407<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-07",
+        "passport_expiry_date": "2029-03-06"
+    },
+    "client_profile": {
+        "name": "Katharina Greta Klein",
+        "address": {
+            "city": "F\u00fcrth",
+            "street name": "Unter den Linden",
+            "street number": 45,
+            "postal code": "46725"
+        },
+        "country_of_domicile": "Germany,Netherlands",
+        "birth_date": "2002-04-07",
+        "nationality": "German",
+        "passport_number": "HH0946570",
+        "passport_issue_date": "2019-03-07",
+        "passport_expiry_date": "2029-03-06",
+        "gender": "F",
+        "phone_number": "3378 880113",
+        "email_address": "katharina.klein@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Otto-Hahn-Gymnasium Karlsruhe",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1030000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Katharina Greta Klein",
+        "first_name": "Katharina",
+        "middle_name": "Greta",
+        "last_name": "Klein",
+        "passport_number": "HH0946570",
+        "currency": "EUR",
+        "address": {
+            "city": "F\u00fcrth",
+            "street name": "Unter den Linden",
+            "street number": 45,
+            "postal code": "46725"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "++3583378 880113",
+        "email_address": "katharina.klein@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Katharina Greta Klein and the RM crossed paths at a tech conference in Berlin. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nKatharina Greta Klein is a 22 year old and comes from Germany.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Katharina Greta Klein is currently single. She does not have any children.",
+        "Education Background": "Katharina finished secondary school at Otto-Hahn-Gymnasium Karlsruhe in 2021.\n",
+        "Occupation History": "Katharina Greta Klein is a 22 year old and comes from Germany.\nKatharina Greta Klein did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.She inherited 1030000 EUR from her grandfather, a well-known Neurosurgeon, in 2015, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is committed to helping Katharina achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

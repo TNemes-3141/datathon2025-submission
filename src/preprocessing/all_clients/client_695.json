@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Conti",
+        "middle_name": " Leonardi",
+        "last_name": " Marino",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1998-04-27",
+        "passport_number": "CS9947284",
+        "passport_mrz": [
+            "P<ITA MARINO<<CONTI< LEONARDI<<<<<<<<<<<<<<<<",
+            "CS9947284ITA980427<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1994-04-27",
+        "passport_expiry_date": "2004-04-26"
+    },
+    "client_profile": {
+        "name": "Conti Leonardi Marino",
+        "address": {
+            "city": "Florence",
+            "street name": "Via dei Banchi Vecchi",
+            "street number": 14,
+            "postal code": "94709"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1998-04-27",
+        "nationality": "Italian",
+        "passport_number": "CS9947284",
+        "passport_issue_date": "2022-04-27",
+        "passport_expiry_date": "2032-04-26",
+        "gender": "M",
+        "phone_number": "+39 338 4801028",
+        "email_address": "conti.marino@virgilio.it",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Scuola Media Statale Antonio Meucci Firenze",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "European University of Rome",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Intesa Sanpaolo Private Banking",
+                "position": "Financial Advisor",
+                "salary": 28000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1920000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Conti Leonardi Marino",
+        "first_name": "Conti",
+        "middle_name": " Leonardi",
+        "last_name": " Marino",
+        "passport_number": "CS9947284",
+        "currency": "EUR",
+        "address": {
+            "city": "Florence",
+            "street name": "Via dei Banchi Vecchi",
+            "street number": 14,
+            "postal code": "94709"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "++32 338 4801028",
+        "email_address": "conti marino@virgilio it"
+    },
+    "client_description": {
+        "Summary Note": "Conti Leonardi Marino and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nConti Leonardi Marino is a 26 year old Financial Advisor from Italy.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Conti Leonardi Marino is currently widowed. He does not have any children.",
+        "Education Background": "Conti earned his secondary school diploma from Scuola Media Statale Antonio Meucci Firenze in 2016.\nIn 2022, Conti graduated from European University of Rome with a degree.\n",
+        "Occupation History": "Conti Leonardi Marino is a 26 year old and comes from Italy.\nAt Intesa Sanpaolo Private Banking, Conti Leonardi Marino held the position of Financial Advisor from 2022 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 10000 EUR.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1920000 EUR from his late grandfather, a renowned Hedge Fund Manager, in 2015.\n",
+        "Client Summary": "The RM is very happy to have Conti as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

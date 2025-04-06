@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Tiainen",
+        "middle_name": "Salo",
+        "last_name": "Uusitalo",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1998-09-29",
+        "passport_number": "UL1134847",
+        "passport_mrz": [
+            "P<FINUUSITALO<<TIAINEN<SALO<<<<<<<<<<<<<<<<<<",
+            "UL1134847FIN980929<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-07-12",
+        "passport_expiry_date": "2030-07-11"
+    },
+    "client_profile": {
+        "name": "Tiainen Salo Uusitalo",
+        "address": {
+            "city": "Espoo",
+            "street name": "Kaisaniemenkatu",
+            "street number": 75,
+            "postal code": "30767"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1998-09-29",
+        "nationality": "Finnish",
+        "passport_number": "UL1134847",
+        "passport_issue_date": "2020-07-12",
+        "passport_expiry_date": "2030-07-11",
+        "gender": "M",
+        "phone_number": "042 007 99 55",
+        "email_address": "tiainen.uusitalo@finet.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Pieks\u00e4m\u00e4ki lukio",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "University of Jyv\u00e4skyl\u00e4",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": 2025,
+                "company": "Finnair Oyj",
+                "position": "Aerospace Engineer",
+                "salary": 35000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2300000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Tiainen Salo Uusitalo",
+        "first_name": "Tiainen",
+        "middle_name": "Salo",
+        "last_name": "Uusitalo",
+        "passport_number": "UL1134847",
+        "currency": "EUR",
+        "address": {
+            "city": "Espoo",
+            "street name": "Kaisaniemenkatu",
+            "street number": 75,
+            "postal code": "30767"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "042 007 99 55",
+        "email_address": "tiainen.uusitalo@finet.fi"
+    },
+    "client_description": {
+        "Summary Note": "Tiainen Salo Uusitalo and the RM met at a financial seminar in Helsinki. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nTiainen Salo Uusitalo is a 26 year old and comes from Finland.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Tiainen Salo Uusitalo is married to Emilia. They do not have any children.",
+        "Education Background": "Tiainen earned his secondary school diploma from Pieks\u00e4m\u00e4ki lukio in 2018.\nHe then attended University of Jyv\u00e4skyl\u00e4, which he graduated in 2022.\n",
+        "Occupation History": "Tiainen Salo Uusitalo is a 26 year old and comes from Finland.\nTiainen Salo Uusitalo launched his career as a Aerospace Engineer at Finnair Oyj, where he gained valuable experience from 2022 to 2025.\n",
+        "Wealth Summary": "While working, he saved 10000 EUR, which he used to build a diversified investment portfolio.\nClient does not have any properties.\nFollowing the passing of his grandmother, a successful Private Equity Manager, he received an inheritance of 2300000 EUR in 2018, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Charlotte",
+        "middle_name": "",
+        "last_name": "Van der Meer",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1967-10-24",
+        "passport_number": "RQ9683274",
+        "passport_mrz": [
+            "P<NLVAN DER MEER<<CHARLOTTE<<<<<<<<<<<<<<<<<<",
+            "RQ9683274NL671024<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-01-20",
+        "passport_expiry_date": "2028-01-19"
+    },
+    "client_profile": {
+        "name": "Charlotte Van der Meer",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "",
+            "street number": 53,
+            "postal code": "0735 32"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1967-10-24",
+        "nationality": "Dutch",
+        "passport_number": "RQ9683274",
+        "passport_issue_date": "2018-01-20",
+        "passport_expiry_date": "2028-01-19",
+        "gender": "F",
+        "phone_number": "06 37169364",
+        "email_address": "charlotte.vandermeer@kpnmail.nl",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Pieter Nieuwland College Utrecht",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "Design Academy Eindhoven",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1992,
+                "end_year": 1993,
+                "company": "Talpa Media B.V.",
+                "position": "Journalist",
+                "salary": 44000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1999,
+                "company": "Endemol Shine Group B.V.",
+                "position": "Editor",
+                "salary": 66000
+            },
+            {
+                "start_year": 2001,
+                "end_year": null,
+                "company": "Talpa Media B.V.",
+                "position": "Publisher",
+                "salary": 623000
+            }
+        ],
+        "aum": {
+            "savings": 1150000,
+            "inheritance": 4410000,
+            "real_estate_value": 2500000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2010,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1610000,
+                "property location": "Hoofddorp"
+            },
+            {
+                "property type": "flat",
+                "property value": 890000,
+                "property location": "Oss"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Charlotte Van der Meer",
+        "first_name": "Charlotte",
+        "middle_name": "",
+        "last_name": "Van der Meer",
+        "passport_number": "RQ9683274",
+        "currency": "EUR",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Zuidas",
+            "street number": 53,
+            "postal code": "0735 32"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 7169364",
+        "email_address": "charlotte.vandermeer@kpnmail.nl"
+    },
+    "client_description": {
+        "Summary Note": "Charlotte Van der Meer and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nCharlotte Van der Meer is a 57 year old Publisher from Netherlands. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Charlotte Van der Meer is currently divorced. Her child is named Isabelle.",
+        "Education Background": "Charlotte completed her secondary education at Pieter Nieuwland College Utrecht in 1986.\nAfter that, she went on to study at Design Academy Eindhoven until 1991.\n",
+        "Occupation History": "Charlotte Van der Meer is a seasoned professional with over 33 years of experience.\nAt Talpa Media B.V., Charlotte Van der Meer held the position of Journalist from 1992 to 1993, developing essential skills in the field.\nAfter gaining experience, she took on the role of Editor at Endemol Shine Group B.V. in 1995, further expanding her skill set.\nIn 2001, she joined Talpa Media B.V. as a Publisher, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "Throughout her career, she saved 1150000 EUR, investing in various assets to grow her wealth.\nShe has house located in Hoofddorp, worth 1610000 EUR.\n\nIn addition to her primary residence, she owns flat in Oss worth 890000 EUR.\n\nShe inherited a significant sum of 4410000 EUR from her father, a respected Neurosurgeon, in 2010, which she has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

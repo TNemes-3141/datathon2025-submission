@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Marchand",
+        "middle_name": "",
+        "last_name": "Renault",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1966-08-22",
+        "passport_number": "AT5466269",
+        "passport_mrz": [
+            "P<FRARENAULT<<MARCHAND<<<<<<<<<<<<<<<<<<<<<<<",
+            "AT5466269FRA660822<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-09-01",
+        "passport_expiry_date": "2033-08-31"
+    },
+    "client_profile": {
+        "name": "Marchand Renault",
+        "address": {
+            "city": "Nice",
+            "street name": "Quai d'Orsay",
+            "street number": 65,
+            "postal code": "30260"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1966-08-22",
+        "nationality": "French",
+        "passport_number": "AT5466269",
+        "passport_issue_date": "2023-09-01",
+        "passport_expiry_date": "2033-08-31",
+        "gender": "M",
+        "phone_number": "+33 03 15 84 17 64",
+        "email_address": "marchand.renault@aliceadsl.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e du Parc",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "University of Montpellier",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1991,
+                "end_year": 1993,
+                "company": "La Banque Postale Private Banking",
+                "position": "Financial Advisor",
+                "salary": 33000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1998,
+                "company": "La Banque Postale Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 46000
+            },
+            {
+                "start_year": 1999,
+                "end_year": null,
+                "company": "La Banque Postale Private Banking",
+                "position": "Wealth Manager",
+                "salary": 501000
+            }
+        ],
+        "aum": {
+            "savings": 960000,
+            "inheritance": 2760000,
+            "real_estate_value": 1240000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2010,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1240000,
+                "property location": "Nice"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Marchand Renault",
+        "first_name": "Marchand",
+        "middle_name": "",
+        "last_name": "Renault",
+        "passport_number": "AT5466269",
+        "currency": "EUR",
+        "address": {
+            "city": "Nice",
+            "street name": "Quai d'Orsay",
+            "street number": 65,
+            "postal code": "30260"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 03 15 84 17 64",
+        "email_address": "marchand.renault@aliceadsl.fr"
+    },
+    "client_description": {
+        "Summary Note": "Marchand Renault and the RM met at a financial seminar in Paris. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nMarchand Renault is a 58 year old and comes from France.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Marchand Renault and Camille tied the knot in 2000. Together they have 1 kid called Garcia.",
+        "Education Background": "Marchand received his secondary school diploma from Lyc\u00e9e du Parc in 1984.\nMarchand attended University of Montpellier and graduated in 1991.\n",
+        "Occupation History": "With a career spanning nearly 34 years, Marchand Renault has established himself as a key player in the industry.\nMarchand Renault's first role was as a Financial Advisor at La Banque Postale Private Banking, where he worked diligently from 1991 to 1993 to establish a strong reputation.\nHe then transitioned to La Banque Postale Private Banking as a Portfolio Manager, leveraging his expertise to drive results from 1995 to 1998.\nHis tenure as a Wealth Manager at La Banque Postale Private Banking from 1999 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 960000 EUR.\nHe owns flat in Nice, where he resides. It is worth 1240000 EUR.\n\nHe inherited a significant sum of 2760000 EUR from his mother, a respected Oil and Gas Executive, in 2010, which he has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

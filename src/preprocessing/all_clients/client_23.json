@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Voorn",
+        "middle_name": "",
+        "last_name": "Spaans",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1999-02-15",
+        "passport_number": "TA4930667",
+        "passport_mrz": [
+            "P<NLDSPAANS<<VOORN<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "TA4930667NLD990215<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-04-05",
+        "passport_expiry_date": "2033-04-04"
+    },
+    "client_profile": {
+        "name": "Voorn Spaans",
+        "address": {
+            "city": "Eindhoven",
+            "street name": "Langegracht",
+            "street number": 84,
+            "postal code": "7011 69"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1999-02-15",
+        "nationality": "Dutch",
+        "passport_number": "TA4930667",
+        "passport_issue_date": "2023-04-05",
+        "passport_expiry_date": "2033-04-04",
+        "gender": "M",
+        "phone_number": "+31 06 96063509",
+        "email_address": "voorn.spaans@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "CSG Willem van Oranje Apeldoorn",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "Vrije Universiteit Amsterdam - School of Business and Economics",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": 2024,
+                "company": "CBRE Global Investors Nederland B.V.",
+                "position": "Property Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2025,
+                "end_year": null,
+                "company": "Bouwinvest REIM B.V.",
+                "position": "Developer",
+                "salary": 63000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2580000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Voorn Spaans",
+        "first_name": "Voorn",
+        "middle_name": "",
+        "last_name": "Spaans",
+        "passport_number": "TA4930667",
+        "currency": "EUR",
+        "address": {
+            "city": "Eindhoven",
+            "street name": "Langegracht",
+            "street number": 84,
+            "postal code": "7011 69"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 96063509",
+        "email_address": "voorn.spaans@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Voorn Spaans at a charity gala in Amsterdam. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nVoorn Spaans is a 26 year old and comes from Netherlands.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Voorn Spaans and Isabelle have been married since 2024. They do not have any children.",
+        "Education Background": "In 2017, Voorn finished his secondary school education at CSG Willem van Oranje Apeldoorn.\nIn 2023, Voorn graduated from Vrije Universiteit Amsterdam - School of Business and Economics with a degree.\n",
+        "Occupation History": "Voorn Spaans is a 26 year old and comes from Netherlands.\nVoorn Spaans began his professional journey as a Property Manager at CBRE Global Investors Nederland B.V. in 2023, laying the foundation for future success.\nHis subsequent role was as a Developer at Bouwinvest REIM B.V., where he continued to grow professionally from 2025 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 10000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.He inherited a significant sum of 2580000 EUR from his grandmother, a respected Stock Trader, in 2017, which he has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

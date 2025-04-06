@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "\u00d8stergaard",
+        "middle_name": "Friis",
+        "last_name": "Jensen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1999-03-31",
+        "passport_number": "YX1073080",
+        "passport_mrz": [
+            "P<DNKJENSEN<<\u00d8STERGAARD<FRIIS<<<<<<<<<<<<<<<<",
+            "YX1073080DNK990331<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-03-28",
+        "passport_expiry_date": "2033-03-27"
+    },
+    "client_profile": {
+        "name": "\u00d8stergaard Friis Jensen",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Fiolgade",
+            "street number": 44,
+            "postal code": "3776"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1999-03-31",
+        "nationality": "Danish",
+        "passport_number": "YX1073080",
+        "passport_issue_date": "2023-03-28",
+        "passport_expiry_date": "2033-03-27",
+        "gender": "M",
+        "phone_number": "56 40 21 01",
+        "email_address": "stergaard.jensen@dk-hostmaster.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Randers Statsskole",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": 2025,
+                "company": "Skanska Danmark A/S",
+                "position": "Property Manager",
+                "salary": 265000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 17720000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "\u00d8stergaard Friis Jensen",
+        "first_name": "\u00d8stergaard",
+        "middle_name": "Friis",
+        "last_name": "Jensen",
+        "passport_number": "YX1073080",
+        "currency": "DKK",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Fiolgade",
+            "street number": 44,
+            "postal code": "3776"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "56 40 21 01",
+        "email_address": "stergaard.jensen@dk-hostmaster.dk"
+    },
+    "client_description": {
+        "Summary Note": "\u00d8stergaard Friis Jensen and the RM were introduced at an art auction in Copenhagen. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\n\u00d8stergaard Friis Jensen is a 26 year old and comes from Denmark.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "\u00d8stergaard Friis Jensen and Emilie have been married since 2024. They do not have any children.",
+        "Education Background": "\u00d8stergaard earned his secondary school diploma from Randers Statsskole in 2018.\nIn 2021, \u00d8stergaard graduated from Copenhagen Business School with a degree.\n",
+        "Occupation History": "\u00d8stergaard Friis Jensen is a 26 year old and comes from Denmark.\nIn 2023, \u00d8stergaard Friis Jensen started working as a Property Manager at Skanska Danmark A/S, marking the beginning of his successful career.\n",
+        "Wealth Summary": "Throughout his career, he saved 70000 DKK, investing in various assets to grow his wealth.\nClient does not have any properties.He inherited 17720000 DKK from his grandmother, a well-known Neurosurgeon, in 2019, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

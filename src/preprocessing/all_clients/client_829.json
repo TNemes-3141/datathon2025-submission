@@ -1,0 +1,123 @@
+{
+    "passport": {
+        "first_name": "Valeria",
+        "middle_name": "Daniela",
+        "last_name": "Herrera",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1990-07-16",
+        "passport_number": "CU8767740",
+        "passport_mrz": [
+            "P<ESPHERRERA<<VALERIA<DANIELA<<<<<<<<<<<<<<<<",
+            "CU8767740ESP900716<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-07-19",
+        "passport_expiry_date": "2032-07-18"
+    },
+    "client_profile": {
+        "name": "Valeria Daniela Herrera",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Calle de la Princesa",
+            "street number": 11,
+            "postal code": "83448"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1990-07-16",
+        "nationality": "Spanish",
+        "passport_number": "CU8767740",
+        "passport_issue_date": "2022-07-19",
+        "passport_expiry_date": "2032-07-18",
+        "gender": "F",
+        "phone_number": "+34 624 530 020",
+        "email_address": "valeria.herrera@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Instituto de Educaci\u00f3n Secundaria IES Ramiro de Maeztu Madrid",
+            "graduation_year": 2008
+        },
+        "higher_education": [
+            {
+                "university": "Ram\u00f3n Llull University",
+                "graduation_year": 2015
+            },
+            {
+                "university": "University of Granada",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": 2017,
+                "company": "Indra Sistemas S.A.",
+                "position": "Aerospace Engineer",
+                "salary": 24000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Indra Sistemas S.A.",
+                "position": "Program Manager",
+                "salary": 39000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 3090000,
+            "real_estate_value": 1885000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1075000,
+                "property location": "Almer\u00eda"
+            },
+            {
+                "property type": "flat",
+                "property value": 810000,
+                "property location": "Santa Cruz de Tenerife"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Valeria Daniela Herrera",
+        "first_name": "Valeria",
+        "middle_name": "Daniela",
+        "last_name": "Herrera",
+        "passport_number": "CU8767740",
+        "currency": "EUR",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Calle de la Princesa",
+            "street number": 11,
+            "postal code": "83448"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 624 530 020",
+        "email_address": "valeria.herrera@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Valeria Daniela Herrera at a charity gala in Madrid. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nValeria Daniela Herrera is a 34 year old Program Manager from Spain.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Valeria Daniela Herrera is currently single. She does not have any children.",
+        "Education Background": "Valeria completed her secondary education at Instituto de Educaci\u00f3n Secundaria IES Ramiro de Maeztu Madrid in 2008.\nIn 2015, Valeria graduated from Ram\u00f3n Llull University with a degree.\nShe also pursued further higher education at University of Granada, graduating in 2017.\n",
+        "Occupation History": "Valeria Daniela Herrera is a 34 year old Program Manager from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2014, Valeria Daniela Herrera started working as a Aerospace Engineer at Indra Sistemas S.A., marking the beginning of her successful career.\nIn 2018, she moved to Indra Sistemas S.A. to work as a Program Manager, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "Throughout her career, she saved 40000 EUR, investing in various assets to grow her wealth.\nShe has house located in Almer\u00eda, worth 1075000 EUR.\n\nIn addition to her primary residence, she owns flat in Santa Cruz de Tenerife worth 810000 EUR.\n\nIn 2017, she received an inheritance of 3090000 EUR from her late grandmother, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

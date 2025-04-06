@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Dupont",
+        "middle_name": "Peiren",
+        "last_name": "Lambrechts",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "2001-02-25",
+        "passport_number": "AW6413009",
+        "passport_mrz": [
+            "P<BELLAMBRECHTS<<DUPONT<PEIREN<<<<<<<<<<<<<<<",
+            "AW6413009BEL010225<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-30",
+        "passport_expiry_date": "2026-05-29"
+    },
+    "client_profile": {
+        "name": "Dupont Peiren Lambrechts",
+        "address": {
+            "city": "Sint-Niklaas",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": 39,
+            "postal code": "5477"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "2001-02-25",
+        "nationality": "Belgian",
+        "passport_number": "AW6413009",
+        "passport_issue_date": "2019-05-30",
+        "passport_expiry_date": "2026-05-29",
+        "gender": "M",
+        "phone_number": "+32 0424 439 686",
+        "email_address": "dupont.lambrechts@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut Saint-Guibert",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2060000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Dupont Peiren Lambrechts",
+        "first_name": "Dupont",
+        "middle_name": "Peiren",
+        "last_name": "Lambrechts",
+        "passport_number": "AW6413009",
+        "currency": "EUR",
+        "address": {
+            "city": "Sint-Niklaas",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": 39,
+            "postal code": "5477"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0424 439 686",
+        "email_address": "dupont.lambrechts@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Dupont Peiren Lambrechts on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nDupont Peiren Lambrechts is a 24 year old and comes from Belgium.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Dupont Peiren Lambrechts is currently single. He does not have any children.",
+        "Education Background": "Dupont earned his secondary school diploma from Institut Saint-Guibert in 2019.\nDupont graduated from Vesalius College in 2025, completing his higher education.\n",
+        "Occupation History": "Dupont Peiren Lambrechts is a 24 year old and comes from Belgium.\nDupont Peiren Lambrechts did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.In 2018, he received an inheritance of 2060000 EUR from his late grandfather, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is committed to helping Dupont achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

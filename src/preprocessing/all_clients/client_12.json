@@ -1,0 +1,133 @@
+{
+    "passport": {
+        "first_name": "Binder",
+        "middle_name": "Graf",
+        "last_name": "Gruber",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1972-06-18",
+        "passport_number": "WN4136195",
+        "passport_mrz": [
+            "P<AUTGRUBER<<BINDER<GRAF<<<<<<<<<<<<<<<<<<<<<",
+            "WN4136195AUT720618<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-09-11",
+        "passport_expiry_date": "2026-09-10"
+    },
+    "client_profile": {
+        "name": "Binder Graf Gruber",
+        "address": {
+            "city": "Amstetten",
+            "street name": "Porzellangasse",
+            "street number": 86,
+            "postal code": "4029"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1972-06-18",
+        "nationality": "Austrian",
+        "passport_number": "WN4136195",
+        "passport_issue_date": "2016-09-11",
+        "passport_expiry_date": "2026-09-10",
+        "gender": "M",
+        "phone_number": "+43 215 938 0578",
+        "email_address": "binder.gruber@telekom.at",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Privatgymnasium der Dominikanerinnen",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "Academy of Fine Arts Vienna",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 1997,
+                "company": "News Networld Media GmbH",
+                "position": "Journalist",
+                "salary": 30000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "News Networld Media GmbH",
+                "position": "Editor",
+                "salary": 50000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2002,
+                "company": "ORF (Austrian Broadcasting Corporation)",
+                "position": "Publisher",
+                "salary": 71000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2023,
+                "company": "ORF (Austrian Broadcasting Corporation)",
+                "position": "TV/Radio Host",
+                "salary": 540000
+            }
+        ],
+        "aum": {
+            "savings": 870000,
+            "inheritance": 200000,
+            "real_estate_value": 1620000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 767000,
+                "property location": "Amstetten"
+            },
+            {
+                "property type": "house",
+                "property value": 853000,
+                "property location": "Wels"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Binder Graf Gruber",
+        "first_name": "Binder",
+        "middle_name": "Graf",
+        "last_name": "Gruber",
+        "passport_number": "WN4136195",
+        "currency": "EUR",
+        "address": {
+            "city": "Amstetten",
+            "street name": "Porzellangasse",
+            "street number": 86,
+            "postal code": "4029"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 215 938 0578",
+        "email_address": "binder.gruber@telekom.at"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Binder Graf Gruber at a charity gala in Vienna. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nBinder Graf Gruber is a seasoned professional with over 29 years of experience.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Binder Graf Gruber is currently widowed. His children are named Luisa, Beatrix and Koller.",
+        "Education Background": "Binder completed his secondary education at Privatgymnasium der Dominikanerinnen in 1992.\nAfter that, he went on to study at Academy of Fine Arts Vienna until 1997.\n",
+        "Occupation History": "Binder Graf Gruber is a seasoned professional with over 29 years of experience.\nBinder Graf Gruber's first role was as a Journalist at News Networld Media GmbH, where he worked diligently from 1996 to 1997 to establish a strong reputation.\nHis subsequent role was as a Editor at News Networld Media GmbH, where he continued to grow professionally from 1998 to 2000.\nHis tenure as a Publisher at ORF (Austrian Broadcasting Corporation) from 2001 to 2002 was marked by significant achievements and a deepening understanding of the field.\nIn 2004, he transitioned to ORF (Austrian Broadcasting Corporation) to take on the position of TV/Radio Host, capitalizing on his expertise to propel business growth.\n",
+        "Wealth Summary": "He managed to save approximately 870000 EUR from his earnings at all companies.\nHe owns condo in Amstetten, where he resides. It is worth 767000 EUR.\n\nHe purchased house in Wels, where he spends his holidays. It is valued at 853000 EUR.\n\nIn addition to his career success, he also received an inheritance of 200000 EUR from his late grandfather, a renowned Stock Trader, in 2009.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Hortense",
+        "middle_name": "Charlotte",
+        "last_name": "Lemaire",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1995-07-12",
+        "passport_number": "ME3714981",
+        "passport_mrz": [
+            "P<BELLEMAIRE<<HORTENSE<CHARLOTTE<<<<<<<<<<<<<",
+            "ME3714981BEL950712<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-11-29",
+        "passport_expiry_date": "2027-11-28"
+    },
+    "client_profile": {
+        "name": "Hortense Charlotte Lemaire",
+        "address": {
+            "city": "Menen",
+            "street name": "Rue du Houblon",
+            "street number": 25,
+            "postal code": "1592"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1995-07-12",
+        "nationality": "Belgian",
+        "passport_number": "ME3714981",
+        "passport_issue_date": "2020-11-29",
+        "passport_expiry_date": "2027-11-28",
+        "gender": "F",
+        "phone_number": "+32 0417 737 902",
+        "email_address": "hortense.lemaire@telenet.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Xaverius College",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "Hasselt University",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": 2025,
+                "company": "KBC Private Banking NV",
+                "position": "Financial Advisor",
+                "salary": 47000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 1070000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hortense Charlotte Lemaire",
+        "first_name": "Hortense",
+        "middle_name": "Charlotte",
+        "last_name": "Lemaire",
+        "passport_number": "ME3714981",
+        "currency": "EUR",
+        "address": {
+            "city": "Menen",
+            "street name": "Rue du Houblon",
+            "street number": 25,
+            "postal code": "1592"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0417 737 902",
+        "email_address": "hortense.lemaire@telenet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Hortense Charlotte Lemaire at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nHortense Charlotte Lemaire is a 29 year old and comes from Belgium.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Hortense Charlotte Lemaire and Maes have been married since 2024. They do not have any children.",
+        "Education Background": "Hortense completed her secondary education at Xaverius College in 2014.\nHortense received her degree from Hasselt University in 2018.\n",
+        "Occupation History": "Hortense Charlotte Lemaire is a 29 year old and comes from Belgium.\nHortense Charlotte Lemaire launched her career as a Financial Advisor at KBC Private Banking NV, where she gained valuable experience from 2020 to 2025.\n",
+        "Wealth Summary": "Throughout her career, she saved 30000 EUR, investing in various assets to grow her wealth.\nClient does not have any properties.In 2016, she received an inheritance of 1070000 EUR from her late grandmother, who was a prominent Tech Entrepreneur, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Hortense as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

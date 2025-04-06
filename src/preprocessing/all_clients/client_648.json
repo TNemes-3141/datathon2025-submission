@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Chlo\u00e9",
+        "middle_name": "Emma",
+        "last_name": "Wouters",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1997-01-20",
+        "passport_number": "KL3990304",
+        "passport_mrz": [
+            "P<BELWOUTERS<<CHLO\u00c9<EMMA<<<<<<<<<<<<<<<<<<<<<",
+            "KL3990304BEL970120<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-01-08",
+        "passport_expiry_date": "2029-01-07"
+    },
+    "client_profile": {
+        "name": "Chlo\u00e9 Emma Wouters",
+        "address": {
+            "city": "Vejle",
+            "street name": "Nyg\u00e5rdsvej",
+            "street number": 54,
+            "postal code": "8295"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1997-01-20",
+        "nationality": "Belgian",
+        "passport_number": "KL3990304",
+        "passport_issue_date": "2022-01-08",
+        "passport_expiry_date": "2029-01-07",
+        "gender": "F",
+        "phone_number": "81 10 94 64",
+        "email_address": "chloe.wouters@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Atheneum Brugge Centrum",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "United Business Institutes",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Danske Bank Wealth Management",
+                "position": "Financial Advisor",
+                "salary": 38000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 22340000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Belgium"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Chlo\u00e9 Emma Wouters",
+        "first_name": "Chlo\u00e9",
+        "middle_name": "Emma",
+        "last_name": "Wouters",
+        "passport_number": "KL3990304",
+        "currency": "DKK",
+        "address": {
+            "city": "Vejle",
+            "street name": "Nyg\u00e5rdsvej",
+            "street number": 54,
+            "postal code": "8295"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "81 10 94 64",
+        "email_address": "chloe.wouters@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Chlo\u00e9 Emma Wouters and the RM were introduced at an art auction in Copenhagen. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nChlo\u00e9 Emma Wouters is a 28 year old and comes from Denmark.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Chlo\u00e9 Emma Wouters is married to Maes. They do not have any children.",
+        "Education Background": "Chlo\u00e9 graduated from Atheneum Brugge Centrum in 2014.\nChlo\u00e9 received her degree from United Business Institutes in 2021.\n",
+        "Occupation History": "Chlo\u00e9 Emma Wouters is a 28 year old Financial Advisor from Denmark.\nChlo\u00e9 Emma Wouters's first role was as a Financial Advisor at Danske Bank Wealth Management, where she worked diligently from 2021 till now to establish a strong reputation.\n",
+        "Wealth Summary": "Throughout her career, she saved 20000 DKK, investing in various assets to grow her wealth.\nClient does not have any properties.She inherited a significant sum of 22340000 DKK from her grandfather, a respected Oil and Gas Executive, in 2018, which she has wisely invested.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

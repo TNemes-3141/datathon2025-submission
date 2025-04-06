@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Daniela",
+        "middle_name": "Idun",
+        "last_name": "Oddershede",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1992-06-16",
+        "passport_number": "PC3127983",
+        "passport_mrz": [
+            "P<DNKODDERSHEDE<<DANIELA<IDUN<<<<<<<<<<<<<<<<",
+            "PC3127983DNK920616<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-12-09",
+        "passport_expiry_date": "2026-12-08"
+    },
+    "client_profile": {
+        "name": "Daniela Idun Oddershede",
+        "address": {
+            "city": "Gentofte",
+            "street name": "Str\u00f8get",
+            "street number": 50,
+            "postal code": "4783"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1992-06-16",
+        "nationality": "Danish",
+        "passport_number": "PC3127983",
+        "passport_issue_date": "2016-12-09",
+        "passport_expiry_date": "2026-12-08",
+        "gender": "F",
+        "phone_number": "+45 85 30 38 71",
+        "email_address": "daniela.oddershede@all.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Middelfart Gymnasium",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "The Royal Danish Academy of Fine Arts - Schools of Architecture, Design and Conservation",
+                "graduation_year": 2017
+            },
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Ordrupgaard Museum",
+                "position": "Art Dealer",
+                "salary": 337000
+            }
+        ],
+        "aum": {
+            "savings": 350000,
+            "inheritance": 17230000,
+            "real_estate_value": 5350000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1140000,
+                "property location": "Gentofte"
+            },
+            {
+                "property type": "villa",
+                "property value": 2530000,
+                "property location": "Aarhus"
+            },
+            {
+                "property type": "house",
+                "property value": 1680000,
+                "property location": "Vejle"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Daniela Idun Oddershede",
+        "first_name": "Daniela",
+        "middle_name": "Idun",
+        "last_name": "Oddershede",
+        "passport_number": "PC3127983",
+        "currency": "DKK",
+        "address": {
+            "city": "Gentofte",
+            "street name": "Str\u00f8get",
+            "street number": 50,
+            "postal code": "4783"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 85 30 38 71",
+        "email_address": "daniela.oddershede@all.dk"
+    },
+    "client_description": {
+        "Summary Note": "Daniela Idun Oddershede and the RM met at a financial seminar in Copenhagen. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nDaniela Idun Oddershede is a 32 year old and comes from Denmark.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Daniela Idun Oddershede is currently divorced. She has 1 kid called Hanne.",
+        "Education Background": "Daniela received her secondary school diploma from Middelfart Gymnasium in 2010.\nDaniela completed her university studies at The Royal Danish Academy of Fine Arts - Schools of Architecture, Design and Conservation in 2017.\nShe also pursued further higher education at University of Copenhagen, graduating in 2020.\n",
+        "Occupation History": "Daniela Idun Oddershede is a 32 year old Art Dealer from Denmark.\nIn 2016, Daniela Idun Oddershede started working as a Art Dealer at Ordrupgaard Museum, marking the beginning of her successful career.\n",
+        "Wealth Summary": "She managed to save approximately 350000 DKK from her earnings at all companies.\nShe has flat located in Gentofte, worth 1140000 DKK.\n\nIn addition to her primary residence, she owns villa in Aarhus worth 2530000 DKK.\n\nOn top of that she inherited a beautiful house in Vejle, which could be used as a weekend getaway. It is valued at 1680000 DKK.\nShe inherited a significant sum of 17230000 DKK from her grandfather, a respected Private Equity Manager, in 2015, which she has wisely invested.\n",
+        "Client Summary": "In summary, Daniela has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

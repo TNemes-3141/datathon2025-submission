@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Peltola",
+        "middle_name": "",
+        "last_name": "Paananen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1988-12-26",
+        "passport_number": "DT1658591",
+        "passport_mrz": [
+            "P<FINPAANANEN<<PELTOLA<<<<<<<<<<<<<<<<<<<<<<<",
+            "DT1658591FIN881226<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-04-20",
+        "passport_expiry_date": "2033-04-19"
+    },
+    "client_profile": {
+        "name": "Peltola Paananen",
+        "address": {
+            "city": "Rauma",
+            "street name": "Ruoholahteenkatu",
+            "street number": 45,
+            "postal code": "60517"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1988-12-26",
+        "nationality": "Finnish",
+        "passport_number": "DT1658591",
+        "passport_issue_date": "2023-04-20",
+        "passport_expiry_date": "2033-04-19",
+        "gender": "M",
+        "phone_number": "+358 043 677 26 77",
+        "email_address": "peltola.paananen@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Parikkalan lukio",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "University of Helsinki",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2012,
+                "end_year": 2014,
+                "company": "Citycon Oyj",
+                "position": "Property Manager",
+                "salary": 38000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Technopolis Plc",
+                "position": "Developer",
+                "salary": 83000
+            }
+        ],
+        "aum": {
+            "savings": 100000,
+            "inheritance": 8100000,
+            "real_estate_value": 610000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 610000,
+                "property location": "Rauma"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Peltola Paananen",
+        "first_name": "Peltola",
+        "middle_name": "",
+        "last_name": "Paananen",
+        "passport_number": "DT1658591",
+        "currency": "EUR",
+        "address": {
+            "city": "Rauma",
+            "street name": "Ruoholahteenkatu",
+            "street number": 45,
+            "postal code": "60517"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 043 677 26 77",
+        "email_address": "peltola.paananen@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Peltola Paananen at a wine tasting event in Helsinki. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nWith a career spanning nearly 13 years, Peltola Paananen has established himself as a key player in the industry.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Peltola Paananen and Ella have been married since 2020. Peltola and Ella have 1 child, named Niemi.",
+        "Education Background": "Peltola graduated from Parikkalan lukio in 2007.\nPeltola finished his studies at University of Helsinki in 2013.\n",
+        "Occupation History": "Peltola Paananen is a 36 year old and comes from Finland.\nPeltola Paananen launched his career as a Property Manager at Citycon Oyj, where he gained valuable experience from 2012 to 2014.\nHis subsequent role was as a Developer at Technopolis Plc, where he continued to grow professionally from 2015 till now.\n",
+        "Wealth Summary": "While working, he saved 100000 EUR, which he used to build a diversified investment portfolio.\nHe owns flat in Rauma, where he resides. It is worth 610000 EUR.\n\nHe inherited 8100000 EUR from his grandmother, a well-known Hedge Fund Manager, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have Peltola as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

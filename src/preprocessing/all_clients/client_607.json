@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Ambre",
+        "middle_name": "Laur\u00e8ne",
+        "last_name": "Simon",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "FRA",
+        "nationality": "Swiss",
+        "birth_date": "1975-06-25",
+        "passport_number": "RY1273860",
+        "passport_mrz": [
+            "P<FRASIMON<<AMBRE<LAUR\u00c8NE<<<<<<<<<<<<<<<<<<<<",
+            "RY1273860FRA750625<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-07-10",
+        "passport_expiry_date": "2028-07-09"
+    },
+    "client_profile": {
+        "name": "Ambre Laur\u00e8ne Simon",
+        "address": {
+            "city": "Paris",
+            "street name": "Rue de Rivoli",
+            "street number": 49,
+            "postal code": "83835"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1975-06-25",
+        "nationality": "French",
+        "passport_number": "RY1273860",
+        "passport_issue_date": "2018-07-10",
+        "passport_expiry_date": "2028-07-09",
+        "gender": "F",
+        "phone_number": "+33 04 18 84 75 27",
+        "email_address": "ambre.simon@numericable.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Louis-le-Grand",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Normale Sup\u00e9rieure (ENS) Paris",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "Ipsen S.A.",
+                "position": "Research Scientist",
+                "salary": 30000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2002,
+                "company": "Ipsen S.A.",
+                "position": "Clinical Trials Manager",
+                "salary": 45000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2008,
+                "company": "Servier Laboratories",
+                "position": "Regulatory Affairs Director",
+                "salary": 67000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": "Ipsen S.A.",
+                "position": "CEO",
+                "salary": 110000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Pierre Fabre S.A.",
+                "position": "Industry Leader",
+                "salary": 585000
+            }
+        ],
+        "aum": {
+            "savings": 830000,
+            "inheritance": 1360000,
+            "real_estate_value": 1410000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1410000,
+                "property location": "Paris"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ambre Laur\u00e8ne Simon",
+        "first_name": "Ambre",
+        "middle_name": "Laur\u00e8ne",
+        "last_name": "Simon",
+        "passport_number": "RY1273860",
+        "currency": "EUR",
+        "address": {
+            "city": "Paris",
+            "street name": "Rue de Rivoli",
+            "street number": 49,
+            "postal code": "83835"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 04 18 84 75 27",
+        "email_address": "ambre.simon@numericable.fr"
+    },
+    "client_description": {
+        "Summary Note": "Ambre Laur\u00e8ne Simon and the RM were introduced at an art auction in Paris. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nWith a career spanning nearly 26 years, Ambre Laur\u00e8ne Simon has established herself as a key player in the industry.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Ambre Laur\u00e8ne Simon and Louis tied the knot in 2011. Ambre and Louis have 1 child, named Ingrid.",
+        "Education Background": "Ambre completed her secondary education at Lyc\u00e9e Louis-le-Grand in 1993.\nAmbre completed her university education at \u00c9cole Normale Sup\u00e9rieure (ENS) Paris in 2000.\n",
+        "Occupation History": "With a career spanning nearly 26 years, Ambre Laur\u00e8ne Simon has established herself as a key player in the industry.\nIn 1999, Ambre Laur\u00e8ne Simon started working as a Research Scientist at Ipsen S.A., marking the beginning of her successful career.\nShe then transitioned to Ipsen S.A. as a Clinical Trials Manager, leveraging her expertise to drive results from 2000 to 2002.\nAt Servier Laboratories, she worked as a Regulatory Affairs Director from 2004 to 2008, focusing on strategic initiatives and team collaboration.\nShe appointment as a CEO at Ipsen S.A. in 2010 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\nShe has been a Industry Leader at Pierre Fabre S.A. since 2014, consistently demonstrating her ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "She managed to save approximately 830000 EUR from her earnings at all companies.\nShe owns condo in Paris, where she resides. It is worth 1410000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 1360000 EUR from her late mother, a renowned Neurosurgeon, in 2012.\n",
+        "Client Summary": "In summary, Ambre has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

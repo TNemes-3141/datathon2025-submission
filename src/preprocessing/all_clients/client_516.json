@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "Caroline",
+        "middle_name": "Gitte",
+        "last_name": "Rasmussen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1981-09-01",
+        "passport_number": "MT6779225",
+        "passport_mrz": [
+            "P<DNKRASMUSSEN<<CAROLINE<GITTE<<<<<<<<<<<<<<<",
+            "MT6779225DNK810901<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-01",
+        "passport_expiry_date": "2030-07-31"
+    },
+    "client_profile": {
+        "name": "Caroline Gitte Rasmussen",
+        "address": {
+            "city": "",
+            "street name": "\u00c5boulevarden",
+            "street number": 46,
+            "postal code": "7103"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1981-09-01",
+        "nationality": "Danish",
+        "passport_number": "MT6779225",
+        "passport_issue_date": "2020-08-01",
+        "passport_expiry_date": "2030-07-31",
+        "gender": "F",
+        "phone_number": "+45 85 53 31 99",
+        "email_address": "caroline.rasmussen@wanadoo.dk",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Middelfart Gymnasium",
+            "graduation_year": 1999
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2010,
+                "company": "DSV A/S",
+                "position": "Junior Trader",
+                "salary": 265000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2015,
+                "company": "Norden A/S",
+                "position": "Senior Trader",
+                "salary": 367000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Torm A/S",
+                "position": "Trading Desk Manager",
+                "salary": 884000
+            }
+        ],
+        "aum": {
+            "savings": 1150000,
+            "inheritance": 18050000,
+            "real_estate_value": 3340000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 940000,
+                "property location": "Hiller\u00f8d"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1540000,
+                "property location": "Varde"
+            },
+            {
+                "property type": "flat",
+                "property value": 860000,
+                "property location": "Skanderborg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Caroline Gitte Rasmussen",
+        "first_name": "Caroline",
+        "middle_name": "Gitte",
+        "last_name": "Rasmussen",
+        "passport_number": "MT6779225",
+        "currency": "DKK",
+        "address": {
+            "city": "Hiller\u00f8d",
+            "street name": "\u00c5boulevarden",
+            "street number": 46,
+            "postal code": "7103"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 85 53 31 99",
+        "email_address": "caroline.rasmussen@wanadoo.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Caroline Gitte Rasmussen during a business conference in Copenhagen. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nWith a career spanning nearly 19 years, Caroline Gitte Rasmussen has established herself as a key player in the industry.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Caroline Gitte Rasmussen and Knudsen tied the knot in 2017. They do not have any children.",
+        "Education Background": "In 1999, Caroline finished her secondary school education at Middelfart Gymnasium.\nCaroline finished her studies at Aarhus University in 2006.\n",
+        "Occupation History": "With a career spanning nearly 19 years, Caroline Gitte Rasmussen has established herself as a key player in the industry.\nCaroline Gitte Rasmussen launched her career as a Junior Trader at DSV A/S, where she gained valuable experience from 2006 to 2010.\nHer subsequent role was as a Senior Trader at Norden A/S, where she continued to grow professionally from 2012 to 2015.\nIn 2016, she joined Torm A/S as a Trading Desk Manager, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "She managed to save approximately 1150000 DKK from her earnings at all companies.\nShe owns 3 exceptional properties: flat located in Hiller\u00f8d, valued at approximately 940,000.00 DKK, townhouse located in Varde, valued at approximately 1,540,000.00 DKK, flat located in Skanderborg, valued at approximately 860,000.00 DKK. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Hiller\u00f8d, Skanderborg and Varde.\nShe inherited a significant sum of 18050000 DKK from her grandfather, a respected Private Equity Manager, in 2009, which she has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

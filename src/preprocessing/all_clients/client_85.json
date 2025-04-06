@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Mathilde",
+        "middle_name": "Ida",
+        "last_name": "Christensen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1988-03-25",
+        "passport_number": "MC1772520",
+        "passport_mrz": [
+            "P<DNKCHRISTENSEN<<MATHILDE<IDA<<<<<<<<<<<<<<<",
+            "MC1772520DNK880325<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-07-13",
+        "passport_expiry_date": "2026-07-12"
+    },
+    "client_profile": {
+        "name": "Mathilde Ida Christensen",
+        "address": {
+            "city": "Varde",
+            "street name": "H.C. Andersens Boulevard",
+            "street number": 2,
+            "postal code": "8098"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1988-03-25",
+        "nationality": "Danish",
+        "passport_number": "MC1772520",
+        "passport_issue_date": "2016-07-13",
+        "passport_expiry_date": "2026-07-12",
+        "gender": "F",
+        "phone_number": "+45 80 70 65 94",
+        "email_address": "mathilde.christensen@dk-hostmaster.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Slagelse Gymnasium",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "Technical University of Denmark (DTU)",
+                "graduation_year": 2011
+            },
+            {
+                "university": "University of Southern Denmark",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2015,
+                "company": "Bavarian Nordic A/S",
+                "position": "Research Scientist",
+                "salary": 284000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2016,
+                "company": "Bavarian Nordic A/S",
+                "position": "Biotech Startup Founder",
+                "salary": 378000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": " Zealand Pharma A/S",
+                "position": "CEO",
+                "salary": 1042000
+            }
+        ],
+        "aum": {
+            "savings": 1220000,
+            "inheritance": 15560000,
+            "real_estate_value": 6060000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2170000,
+                "property location": "Varde"
+            },
+            {
+                "property type": "house",
+                "property value": 2380000,
+                "property location": "Gladsaxe"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1510000,
+                "property location": "Esbjerg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Mathilde Ida Christensen",
+        "first_name": "Mathilde",
+        "middle_name": "Ida",
+        "last_name": "Christensen",
+        "passport_number": "MC1772520",
+        "currency": "DKK",
+        "address": {
+            "city": "Varde",
+            "street name": "H.C. Andersens Boulevard",
+            "street number": 2,
+            "postal code": "8098"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 80 70 65 94",
+        "email_address": "mathilde.christensen@dk-hostmaster.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Mathilde Ida Christensen at a golf tournament in Copenhagen. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nMathilde Ida Christensen is a 37 year old and comes from Denmark.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Mathilde Ida Christensen and N\u00f8rregaard tied the knot in 2016. They do not have any children.",
+        "Education Background": "Mathilde graduated from Slagelse Gymnasium in 2007.\nMathilde completed her university education at Technical University of Denmark (DTU) in 2011.\nShe also pursued further higher education at University of Southern Denmark, graduating in 2015.\n",
+        "Occupation History": "Mathilde Ida Christensen is a 37 year old CEO from Denmark. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2011, Mathilde Ida Christensen started working as a Research Scientist at Bavarian Nordic A/S, marking the beginning of her successful career.\nHer subsequent role was as a Biotech Startup Founder at Bavarian Nordic A/S, where she continued to grow professionally from 2015 to 2016.\nHer tenure as a CEO at  Zealand Pharma A/S from 2018 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1220000 DKK.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Esbjerg, Varde and Gladsaxe, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe inherited 15560000 DKK from her grandmother, a well-known Oil and Gas Executive, in 2015, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

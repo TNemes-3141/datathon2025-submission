@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Fabienne",
+        "middle_name": "Lena",
+        "last_name": "Weber",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1986-11-30",
+        "passport_number": "EV9187982",
+        "passport_mrz": [
+            "P<CHEWEBER<<FABIENNE<LENA<<<<<<<<<<<<<<<<<<<<",
+            "EV9187982CHE861130<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-09-16",
+        "passport_expiry_date": "2027-09-15"
+    },
+    "client_profile": {
+        "name": "Fabienne Lena Weber",
+        "address": {
+            "city": "Sion",
+            "street name": "Limmatquai",
+            "street number": 90,
+            "postal code": "0424"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1968-11-30",
+        "nationality": "Swiss",
+        "passport_number": "EV9187982",
+        "passport_issue_date": "2017-09-16",
+        "passport_expiry_date": "2027-09-15",
+        "gender": "F",
+        "phone_number": "+41 046 247 21 83",
+        "email_address": "fabienne.weber@gmx.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Liceo di Lugano Lugano",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "Haute \u00c9cole de Musique de Gen\u00e8ve",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": "Hapag-Lloyd (Switzerland) AG",
+                "position": "Ship Broker",
+                "salary": 65000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2018,
+                "company": "CMA CGM (Switzerland) SA",
+                "position": "Shipping Company Owner",
+                "salary": 90000
+            },
+            {
+                "start_year": 2018,
+                "end_year": 2024,
+                "company": "Mediterranean Shipping Company (MSC) SA",
+                "position": "Fleet Manager",
+                "salary": 231000
+            }
+        ],
+        "aum": {
+            "savings": 310000,
+            "inheritance": 0,
+            "real_estate_value": 6940000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2430000,
+                "property location": "Sion"
+            },
+            {
+                "property type": "condo",
+                "property value": 2750000,
+                "property location": "Lausanne"
+            },
+            {
+                "property type": "flat",
+                "property value": 1760000,
+                "property location": "Bern"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Fabienne Lena Weber",
+        "first_name": "Fabienne",
+        "middle_name": "Lena",
+        "last_name": "Weber",
+        "passport_number": "EV9187982",
+        "currency": "CHF",
+        "address": {
+            "city": "Sion",
+            "street name": "Limmatquai",
+            "street number": 90,
+            "postal code": "0424"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 046 247 21 83",
+        "email_address": "fabienne.weber@gmx.ch"
+    },
+    "client_description": {
+        "Summary Note": "Fabienne Lena Weber and the RM crossed paths at a mutual friend's dinner party in Z\u00fcrich. They discovered they had many common acquaintances and decided to explore business opportunities together.\nFabienne Lena Weber is a 38 year old Fleet Manager from Switzerland.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Fabienne Lena Weber is currently divorced. Her children are named Florine, Anna and Julia.",
+        "Education Background": "Fabienne earned her secondary school diploma from Liceo di Lugano Lugano in 2005.\n",
+        "Occupation History": "Fabienne Lena Weber is a seasoned professional with over 15 years of experience.\nIn 2010, Fabienne Lena Weber started working as a Ship Broker at Hapag-Lloyd (Switzerland) AG, marking the beginning of her successful career.\nShe then transitioned to CMA CGM (Switzerland) SA as a Shipping Company Owner, leveraging her expertise to drive results from 2014 to 2018.\nHer tenure as a Fleet Manager at Mediterranean Shipping Company (MSC) SA from 2018 to 2024 was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "While working, she saved 310000 CHF, which she used to build a diversified investment portfolio.\nShe has condo located in Sion, worth 2430000 CHF.\n\nShe purchased condo in Lausanne, where she spends her holidays. It is valued at 2750000 CHF.\nMoreover, she has invested in additional property in Bern, giving possiblity for generating additional income. The flat is valued at 1760000 CHF.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

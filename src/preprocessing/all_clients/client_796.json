@@ -1,0 +1,137 @@
+{
+    "passport": {
+        "first_name": "Karen",
+        "middle_name": "Agnes",
+        "last_name": "Gundersen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1955-08-12",
+        "passport_number": "PK1708606",
+        "passport_mrz": [
+            "P<DNKGUNDERSEN<<KAREN<AGNES<<<<<<<<<<<<<<<<<<",
+            "PK1708606DNK550812<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-17",
+        "passport_expiry_date": "2027-08-16"
+    },
+    "client_profile": {
+        "name": "Karen Agnes Gundersen",
+        "address": {
+            "city": "Esbjerg",
+            "street name": "S\u00f8lvgade",
+            "street number": 50,
+            "postal code": "7772"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1955-08-12",
+        "nationality": "Danish",
+        "passport_number": "PK1708606",
+        "passport_issue_date": "2017-08-17",
+        "passport_expiry_date": "2027-08-16",
+        "gender": "F",
+        "phone_number": "91 52 57 20",
+        "email_address": "karen.gundersen@cybercity.dk",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Frederikshavn Gymnasium",
+            "graduation_year": 1973
+        },
+        "higher_education": [
+            {
+                "university": "Roskilde University",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1983,
+                "company": "Kromann Reumert",
+                "position": "Associate Attorney",
+                "salary": 294000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 1985,
+                "company": "Kromann Reumert",
+                "position": "Senior Associate",
+                "salary": 394000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "Kromann Reumert",
+                "position": "Partner",
+                "salary": 498000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 1991,
+                "company": "Kromann Reumert",
+                "position": "Managing Partner",
+                "salary": 982000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 2016,
+                "company": "Bech-Bruun",
+                "position": "Law Firm Chairman",
+                "salary": 8287000
+            }
+        ],
+        "aum": {
+            "savings": 14550000,
+            "inheritance": 0,
+            "real_estate_value": 4060000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1710000,
+                "property location": "Esbjerg"
+            },
+            {
+                "property type": "house",
+                "property value": 2350000,
+                "property location": "Slagelse"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Austria"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Karen Agnes Gundersen",
+        "first_name": "Karen",
+        "middle_name": "Agnes",
+        "last_name": "Gundersen",
+        "passport_number": "PK1708606",
+        "currency": "DKK",
+        "address": {
+            "city": "Esbjerg",
+            "street name": "S\u00f8lvgade",
+            "street number": 50,
+            "postal code": "7772"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "91 52 57 20",
+        "email_address": "karen.gundersen@cybercity.dk"
+    },
+    "client_description": {
+        "Summary Note": "Karen Agnes Gundersen and the RM were introduced at an art auction in Copenhagen. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nHaving worked for over 46 years, Karen Agnes Gundersen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Karen Agnes Gundersen is currently widowed. She has 2 kids called Hansen and Friis.",
+        "Education Background": "Karen received her secondary school diploma from Frederikshavn Gymnasium in 1973.\nKaren completed her university studies at Roskilde University in 1980.\n",
+        "Occupation History": "Karen Agnes Gundersen is a 69 year old retired Law Firm Chairman from Denmark.\nAt Kromann Reumert, Karen Agnes Gundersen held the position of Associate Attorney from 1979 to 1983, developing essential skills in the field.\nIn 1983, she moved to Kromann Reumert to work as a Senior Associate, applying her knowledge to achieve outstanding performance.\nShe spent 3 years working as a Partner at Kromann Reumert, refining her expertise and building a strong network.\nIn 1988, she transitioned to Kromann Reumert to take on the position of Managing Partner, capitalizing on her expertise to propel business growth.\nKaren Agnes Gundersen retired after holding the position of Law Firm Chairman at Bech-Bruun from 1991 to 2016.",
+        "Wealth Summary": "While working, she saved 14550000 DKK, which she used to build a diversified investment portfolio.\nShe owns townhouse in Esbjerg, where she resides. It is worth 1710000 DKK.\n\nIn addition to her primary residence, she owns house in Slagelse worth 2350000 DKK.\n\nShe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Larsen",
+        "middle_name": "Andersen",
+        "last_name": "\u00d8stergaard",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1996-06-06",
+        "passport_number": "RM9599687",
+        "passport_mrz": [
+            "P<DNK\u00d8STERGAARD<<LARSEN<ANDERSEN<<<<<<<<<<<<<",
+            "RM9599687DNK960606<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-06-15",
+        "passport_expiry_date": "2033-06-14"
+    },
+    "client_profile": {
+        "name": "Larsen Andersen \u00d8stergaard",
+        "address": {
+            "city": "Kolding",
+            "street name": "Fiolgade",
+            "street number": 47,
+            "postal code": "0410"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1996-06-06",
+        "nationality": "Danish",
+        "passport_number": "RM9599687",
+        "passport_issue_date": "2023-06-15",
+        "passport_expiry_date": "2033-06-14",
+        "gender": "M",
+        "phone_number": "+45 18 37 53 93",
+        "email_address": "larsen.stergaard@siminn.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Faaborg Gymnasium",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Norden A/S",
+                "position": "Junior Trader",
+                "salary": 281000
+            }
+        ],
+        "aum": {
+            "savings": 190000,
+            "inheritance": 12400000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Larsen Andersen \u00d8stergaard",
+        "first_name": "Larsen",
+        "middle_name": "Andersen",
+        "last_name": "\u00d8stergaard",
+        "passport_number": "RM9599687",
+        "currency": "DKK",
+        "address": {
+            "city": "Kolding",
+            "street name": "Fiolgade",
+            "street number": 47,
+            "postal code": "0410"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 18 37 53 93",
+        "email_address": "larsen.stergaard@siminn.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Larsen Andersen \u00d8stergaard during a business conference in Copenhagen. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nLarsen Andersen \u00d8stergaard is a 28 year old and comes from Denmark.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Larsen Andersen \u00d8stergaard is married to Mathilde. They do not have any children.",
+        "Education Background": "Larsen obtained his secondary school diploma from Faaborg Gymnasium in 2015.\nLarsen pursued higher education at University of Copenhagen, graduating in 2019.\n",
+        "Occupation History": "Larsen Andersen \u00d8stergaard is a 28 year old and comes from Denmark.\nLarsen Andersen \u00d8stergaard launched his career as a Junior Trader at Norden A/S, where he gained valuable experience from 2021 till now.\n",
+        "Wealth Summary": "He managed to save approximately 190000 DKK from his earnings at all companies.\nClient does not have any properties.In 2020, he received an inheritance of 12400000 DKK from his late grandmother, who was a prominent Neurosurgeon, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

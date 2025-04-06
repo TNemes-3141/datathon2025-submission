@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Joris",
+        "middle_name": "Lemaire",
+        "last_name": "Maes",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1985-09-04",
+        "passport_number": "EF9494278",
+        "passport_mrz": [
+            "P<BELMAES<<JORIS<LEMAIRE<<<<<<<<<<<<<<<<<<<<<",
+            "EF9494278BEL850904<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-07-02",
+        "passport_expiry_date": "2026-07-01"
+    },
+    "client_profile": {
+        "name": "Joris Lemaire Maes",
+        "address": {
+            "city": "Menen",
+            "street name": "Rue de la R\u00e9gence",
+            "street number": 82,
+            "postal code": "5262"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1985-09-04",
+        "nationality": "Belgian",
+        "passport_number": "EF9494278",
+        "passport_issue_date": "2019-07-02",
+        "passport_expiry_date": "2026-07-01",
+        "gender": "M",
+        "phone_number": "+32 0416 446 227",
+        "email_address": "joris.maes@scarlet.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2010,
+                "company": "BNP Paribas Wealth Management Belgium",
+                "position": "Financial Advisor",
+                "salary": 41000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2023,
+                "company": "BNP Paribas Wealth Management Belgium",
+                "position": "Portfolio Manager",
+                "salary": 148000
+            }
+        ],
+        "aum": {
+            "savings": 200000,
+            "inheritance": 4050000,
+            "real_estate_value": 3533000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1270000,
+                "property location": "Menen"
+            },
+            {
+                "property type": "condo",
+                "property value": 1143000,
+                "property location": "Hasselt"
+            },
+            {
+                "property type": "condo",
+                "property value": 1120000,
+                "property location": "Lokeren"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Joris Lemaire Maes",
+        "first_name": "Joris",
+        "middle_name": "Lemaire",
+        "last_name": "Maes",
+        "passport_number": "EF9494278",
+        "currency": "EUR",
+        "address": {
+            "city": "Menen",
+            "street name": "Rue de la R\u00e9gence",
+            "street number": 82,
+            "postal code": "5262"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0416 446 2279",
+        "email_address": "joris.maes@scarlet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Joris Lemaire Maes during a business conference in Brussels. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nJoris Lemaire Maes is a 39 year old Portfolio Manager from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Joris Lemaire Maes is currently single. He does not have any children.",
+        "Education Background": "In 2005, Joris graduated from Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur with a secondary school diploma.\nJoris finished his studies at Vesalius College in 2009.\n",
+        "Occupation History": "With a career spanning nearly 16 years, Joris Lemaire Maes has established himself as a key player in the industry.\nAt BNP Paribas Wealth Management Belgium, Joris Lemaire Maes held the position of Financial Advisor from 2009 to 2010, developing essential skills in the field.\nAt BNP Paribas Wealth Management Belgium, he held the position of Portfolio Manager from 2010 to 2023, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 200000 EUR, investing in various assets to grow his wealth.\nHe has townhouse located in Menen, worth 1270000 EUR.\n\nHe purchased condo in Hasselt, where he spends his holidays. It is valued at 1143000 EUR.\nOn top of that he inherited a beautiful condo in Lokeren, which could be used as a weekend getaway. It is valued at 1120000 EUR.\nIn 2020, he received an inheritance of 4050000 EUR from his late grandfather, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

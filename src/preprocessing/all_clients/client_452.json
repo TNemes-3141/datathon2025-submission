@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "Rieder",
+        "middle_name": "Schwarz",
+        "last_name": "Hinterleitner",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1981-06-10",
+        "passport_number": "VK8036172",
+        "passport_mrz": [
+            "P<AUTHINTERLEITNER<<RIEDER<SCHWARZ<<<<<<<<<<<",
+            "VK8036172AUT810610<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-11",
+        "passport_expiry_date": "2029-03-10"
+    },
+    "client_profile": {
+        "name": "Rieder Schwarz Hinterleitner",
+        "address": {
+            "city": "Schwechat",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 21,
+            "postal code": "8456"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1981-06-10",
+        "nationality": "Austrian",
+        "passport_number": "VK8036172",
+        "passport_issue_date": "2019-03-11",
+        "passport_expiry_date": "2029-03-10",
+        "gender": "M",
+        "phone_number": "+43 707 344 8148",
+        "email_address": "rieder.hinterleitner@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "BG/BRG Neusiedl am See",
+            "graduation_year": 1999
+        },
+        "higher_education": [
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2007,
+                "company": "LGT Bank \u00d6sterreich AG",
+                "position": "Financial Advisor",
+                "salary": 35000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2011,
+                "company": "Raiffeisen Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 44000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2025,
+                "company": "Raiffeisen Private Banking",
+                "position": "Wealth Manager",
+                "salary": 206000
+            }
+        ],
+        "aum": {
+            "savings": 280000,
+            "inheritance": 210000,
+            "real_estate_value": 2794000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2012,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 954000,
+                "property location": "Schwechat"
+            },
+            {
+                "property type": "condo",
+                "property value": 860000,
+                "property location": "Gmunden"
+            },
+            {
+                "property type": "house",
+                "property value": 980000,
+                "property location": "Sankt P\u00f6lten"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Rieder Schwarz Hinterleitner",
+        "first_name": "Rieder",
+        "middle_name": "Schwarz",
+        "last_name": "Hinterleitner",
+        "passport_number": "VK8036172",
+        "currency": "EUR",
+        "address": {
+            "city": "Schwechat",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 21,
+            "postal code": "8456"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 707 344 8148",
+        "email_address": "rieder.hinterleitner@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Rieder Schwarz Hinterleitner on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 19 years, Rieder Schwarz Hinterleitner brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Rieder Schwarz Hinterleitner and Petra have been married since 2009. Together they have 2 kids called Gruber and Maier.",
+        "Education Background": "Rieder graduated from BG/BRG Neusiedl am See in 1999.\nRieder completed his university studies at Graz University of Technology in 2004.\n",
+        "Occupation History": "Rieder Schwarz Hinterleitner is a 43 year old Wealth Manager from Austria.\nRieder Schwarz Hinterleitner began his professional journey as a Financial Advisor at LGT Bank \u00d6sterreich AG in 2006, laying the foundation for future success.\nAt Raiffeisen Private Banking, he held the position of Portfolio Manager from 2009 to 2011, making significant contributions to the organization.\nHe spent 13 years working as a Wealth Manager at Raiffeisen Private Banking, refining his expertise and building a strong network.\n",
+        "Wealth Summary": "Throughout his career, he saved 280000 EUR, investing in various assets to grow his wealth.\nHe has flat located in Schwechat, worth 954000 EUR.\n\nIn addition to his primary residence, he owns condo in Gmunden worth 860000 EUR.\n\nMoreover, he has invested in additional property in Sankt P\u00f6lten, giving possiblity for generating additional income. The house is valued at 980000 EUR.\n\n\nFollowing the passing of his father, a successful Oil and Gas Executive, he received an inheritance of 210000 EUR in 2012, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In summary, Rieder has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

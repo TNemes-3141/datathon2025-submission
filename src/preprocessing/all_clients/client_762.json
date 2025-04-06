@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Ferrari",
+        "middle_name": "Fantini",
+        "last_name": "Malatesta",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1993-10-26",
+        "passport_number": "GR2930949",
+        "passport_mrz": [
+            "P<ITAMALATESTA<<FERRARI<FANTINI<<<<<<<<<<<<<<",
+            "GR2930949ITA931026<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-06-30",
+        "passport_expiry_date": "2030-06-29"
+    },
+    "client_profile": {
+        "name": "Ferrari Fantini Malatesta",
+        "address": {
+            "city": "Siena",
+            "street name": "Via XX Settembre",
+            "street number": 100,
+            "postal code": "36247"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1993-10-26",
+        "nationality": "Italian",
+        "passport_number": "GR2930949",
+        "passport_issue_date": "2020-06-30",
+        "passport_expiry_date": "2030-06-29",
+        "gender": "M",
+        "phone_number": "+39 322 9185704",
+        "email_address": "ferrari.malatesta@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Liceo Musicale Ottorino Respighi Bologna",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "University of Turin",
+                "graduation_year": 2016
+            },
+            {
+                "university": "Superior School of Advanced Studies of Pisa",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": 2018,
+                "company": "Studio Legale Associato",
+                "position": "Associate Attorney",
+                "salary": 27000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Gianni, Origoni, Grippo, Cappelli & Partners",
+                "position": "Senior Associate",
+                "salary": 44000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 5850000,
+            "real_estate_value": 790000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 790000,
+                "property location": "Siena"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ferrari Fantini Malatesta",
+        "first_name": "Fantini",
+        "middle_name": "Ferrari",
+        "last_name": "Malatesta",
+        "passport_number": "GR2930949",
+        "currency": "EUR",
+        "address": {
+            "city": "Siena",
+            "street name": "Via XX Settembre",
+            "street number": 100,
+            "postal code": "36247"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 322 9185704",
+        "email_address": "ferrari.malatesta@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Ferrari Fantini Malatesta and the RM are cousins, having grown up together in Rome. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nFerrari Fantini Malatesta is a 31 year old Senior Associate from Italy.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Ferrari Fantini Malatesta is currently single. He does not have any children.",
+        "Education Background": "In 2013, Ferrari graduated from Liceo Musicale Ottorino Respighi Bologna with a secondary school diploma.\nFerrari earned his degree from University of Turin in 2016.\nAdditionally, he went on to study at Superior School of Advanced Studies of Pisa until 2021.\n",
+        "Occupation History": "Ferrari Fantini Malatesta is a 31 year old Senior Associate from Italy.\nIn 2017, Ferrari Fantini Malatesta started working as a Associate Attorney at Studio Legale Associato, marking the beginning of his successful career.\nHis subsequent role was as a Senior Associate at Gianni, Origoni, Grippo, Cappelli & Partners, where he continued to grow professionally from 2020 till now.\n",
+        "Wealth Summary": "While working, he saved 40000 EUR, which he used to build a diversified investment portfolio.\nHe has condo located in Siena, worth 790000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 5850000 EUR from his late grandmother, a renowned Venture Capitalist, in 2018.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

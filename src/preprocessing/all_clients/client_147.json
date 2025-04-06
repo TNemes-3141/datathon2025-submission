@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Maassen",
+        "middle_name": "",
+        "last_name": "Kuipers",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1996-08-28",
+        "passport_number": "SB5948726",
+        "passport_mrz": [
+            "P<NLDKUIPERS<<MAASSEN<<<<<<<<<<<<<<<<<<<<<<<<",
+            "SB5948726NLD010819<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-12-10",
+        "passport_expiry_date": "2026-12-09"
+    },
+    "client_profile": {
+        "name": "Maassen Kuipers",
+        "address": {
+            "city": "Emmen",
+            "street name": "Kinkerstraat",
+            "street number": 45,
+            "postal code": "8735 04"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "2001-08-19",
+        "nationality": "Dutch",
+        "passport_number": "SB5948726",
+        "passport_issue_date": "2016-12-10",
+        "passport_expiry_date": "2026-12-09",
+        "gender": "M",
+        "phone_number": "+31 06 74027318",
+        "email_address": "maassen.kuipers@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "St. Willibrorduscollege Deurne",
+            "graduation_year": 2021
+        },
+        "higher_education": [
+            {
+                "university": "Erasmus University Rotterdam",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2630000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Maassen Kuipers",
+        "first_name": "Maassen",
+        "middle_name": "",
+        "last_name": "Kuipers",
+        "passport_number": "SB5948726",
+        "currency": "EUR",
+        "address": {
+            "city": "Emmen",
+            "street name": "Kinkerstraat",
+            "street number": 45,
+            "postal code": "8735 04"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 74027318",
+        "email_address": "maassen.kuipers@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Maassen Kuipers and the RM crossed paths at a tech conference in Amsterdam. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nMaassen Kuipers is a 23 year old and comes from Netherlands.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Maassen Kuipers is currently single. He does not have any children.",
+        "Education Background": "Maassen received his secondary school diploma from St. Willibrorduscollege Deurne in 2021.\nMaassen attended Erasmus University Rotterdam and graduated in 2024.\n",
+        "Occupation History": "Maassen Kuipers is a 23 year old and comes from Netherlands.\nMaassen Kuipers did not start his professional career yet.",
+        "Wealth Summary": "He did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 2630000 EUR from his late grandfather, a renowned Venture Capitalist, in 2018.\n",
+        "Client Summary": "The RM is excited to help Maassen navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

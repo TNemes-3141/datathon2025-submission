@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Anna",
+        "middle_name": "Miriam",
+        "last_name": "Wagner",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1995-10-07",
+        "passport_number": "LM8901267",
+        "passport_mrz": [
+            "P<AUTWAGNER<<ANNA<MIRIAM<<<<<<<<<<<<<<<<<<<<<",
+            "LM8901267AUT951007<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-03-11",
+        "passport_expiry_date": "2028-03-10"
+    },
+    "client_profile": {
+        "name": "Anna Miriam Wagner",
+        "address": {
+            "city": "Villach",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 22,
+            "postal code": "6366"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1995-10-07",
+        "nationality": "Austrian",
+        "passport_number": "LM8901267",
+        "passport_issue_date": "2018-03-11",
+        "passport_expiry_date": "2028-03-10",
+        "gender": "F",
+        "phone_number": "+43 271 540 2366",
+        "email_address": "anna.wagner@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Franziskanergymnasium Hall in Tirol",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "University of Innsbruck",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": 2024,
+                "company": "Immofinanz AG",
+                "position": "Stockbroker",
+                "salary": 45000
+            },
+            {
+                "start_year": 2024,
+                "end_year": null,
+                "company": "Constantia Industries AG",
+                "position": "Portfolio Manager",
+                "salary": 48000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 1720000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Anna Miriam Wagner",
+        "first_name": "Anna",
+        "middle_name": "Miriam",
+        "last_name": "Wagner",
+        "passport_number": "LM8901267",
+        "currency": "EUR",
+        "address": {
+            "city": "Villach",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 22,
+            "postal code": "6366"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 271 540 2366",
+        "email_address": "anna.wagner@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Anna Miriam Wagner and the RM are cousins, having grown up together in Vienna. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nAnna Miriam Wagner is a 29 year old Portfolio Manager from Austria.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Anna Miriam Wagner has been happily married to Huber since 2024. They do not have any children.",
+        "Education Background": "Anna finished secondary school at Franziskanergymnasium Hall in Tirol in 2013.\nAnna attended University of Innsbruck and graduated in 2019.\n",
+        "Occupation History": "Anna Miriam Wagner is a 29 year old and comes from Austria.\nAnna Miriam Wagner's first role was as a Stockbroker at Immofinanz AG, where she worked diligently from 2019 to 2024 to establish a strong reputation.\nAfter gaining experience, she took on the role of Portfolio Manager at Constantia Industries AG in 2024, further expanding her skill set.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 40000 EUR.\nClient does not have any properties.In 2020, she received an inheritance of 1720000 EUR from her late grandmother, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

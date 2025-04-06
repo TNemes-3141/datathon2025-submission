@@ -1,0 +1,116 @@
+{
+    "passport": {
+        "first_name": "Beatrice",
+        "middle_name": "Emma",
+        "last_name": "Bruno",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1986-10-27",
+        "passport_number": "IY9802425",
+        "passport_mrz": [
+            "P<ITABRUNO<<BEATRICE<EMMA<<<<<<<<<<<<<<<<<<<<",
+            "IY9802425ITA861027<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-12-14",
+        "passport_expiry_date": "2030-12-13"
+    },
+    "client_profile": {
+        "name": "Beatrice Emma Bruno",
+        "address": {
+            "city": "Teruel",
+            "street name": "Calle de Serranos",
+            "street number": 36,
+            "postal code": "15452"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1986-10-27",
+        "nationality": "Italian",
+        "passport_number": "IY9802425",
+        "passport_issue_date": "2020-12-14",
+        "passport_expiry_date": "2030-12-13",
+        "gender": "F",
+        "phone_number": "+34 654 889 389",
+        "email_address": "beatrice.bruno@orange.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "University of Turin",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2014,
+                "company": "Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A.",
+                "position": "Journalist",
+                "salary": 24000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2025,
+                "company": "Mediaset Espa\u00f1a Comunicaci\u00f3n S.A.",
+                "position": "Editor",
+                "salary": 93000
+            }
+        ],
+        "aum": {
+            "savings": 130000,
+            "inheritance": 8350000,
+            "real_estate_value": 1020000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1020000,
+                "property location": "Teruel"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Finland",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Beatrice Emma Bruno",
+        "first_name": "Beatrice",
+        "middle_name": "Emma",
+        "last_name": "Bruno",
+        "passport_number": "IY9802425",
+        "currency": "EUR",
+        "address": {
+            "city": "Teruel",
+            "street name": "Calle de Serranos",
+            "street number": 36,
+            "postal code": "15452"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 654 889 389",
+        "email_address": "beatrice.bruno@orange.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Beatrice Emma Bruno at a wine tasting event in Madrid. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nBeatrice Emma Bruno is a 38 year old Editor from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Beatrice Emma Bruno and Marini tied the knot in 2018. They do not have any children.",
+        "Education Background": "In 2004, Beatrice graduated from Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma with a secondary school diploma.\nBeatrice completed her university education at University of Turin in 2011.\n",
+        "Occupation History": "Having worked for over 14 years, Beatrice Emma Bruno brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIn 2011, Beatrice Emma Bruno started working as a Journalist at Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A., marking the beginning of her successful career.\nIn 2014, she moved to Mediaset Espa\u00f1a Comunicaci\u00f3n S.A. to work as a Editor, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 130000 EUR.\nShe has condo located in Teruel, worth 1020000 EUR.\n\n\nFollowing the passing of her grandmother, a successful Stock Trader, she received an inheritance of 8350000 EUR in 2017, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

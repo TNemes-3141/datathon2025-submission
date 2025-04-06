@@ -1,0 +1,146 @@
+{
+    "passport": {
+        "first_name": "Knudsen",
+        "middle_name": "Gundersen",
+        "last_name": "Hansen",
+        "gender": "",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1969-06-21",
+        "passport_number": "MU4506439",
+        "passport_mrz": [
+            "P<DNKHANSEN<<KNUDSEN<GUNDERSEN<<<<<<<<<<<<<<<",
+            "MU4506439DNK690621<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-12-28",
+        "passport_expiry_date": "2034-12-27"
+    },
+    "client_profile": {
+        "name": "Knudsen Gundersen Hansen",
+        "address": {
+            "city": "Randers",
+            "street name": "Gammel Torv",
+            "street number": 40,
+            "postal code": "1419"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1969-06-21",
+        "nationality": "Danish",
+        "passport_number": "MU4506439",
+        "passport_issue_date": "2024-12-28",
+        "passport_expiry_date": "2034-12-27",
+        "gender": "M",
+        "phone_number": "35 30 34 40",
+        "email_address": "knudsen.hansen@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Odense Katedralskole",
+            "graduation_year": 1988
+        },
+        "higher_education": [
+            {
+                "university": "University College Capital",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "SAP Danmark A/S",
+                "position": "Software Developer",
+                "salary": 263000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2001,
+                "company": "IBM Danmark A/S",
+                "position": "Startup Founder",
+                "salary": 402000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "Trifork A/S",
+                "position": "CEO",
+                "salary": 936000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2012,
+                "company": "Trifork A/S",
+                "position": "Venture Capitalist",
+                "salary": 2006000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "SAP Danmark A/S",
+                "position": "Tech Industry Leader",
+                "salary": 5272000
+            }
+        ],
+        "aum": {
+            "savings": 9890000,
+            "inheritance": 4200000,
+            "real_estate_value": 3806000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2009,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1030000,
+                "property location": "Randers"
+            },
+            {
+                "property type": "house",
+                "property value": 1716000,
+                "property location": "Randers"
+            },
+            {
+                "property type": "flat",
+                "property value": 1060000,
+                "property location": "Esbjerg \u00d8"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Italy"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Knudsen Gundersen Hansen",
+        "first_name": "Knudsen",
+        "middle_name": "Gundersen",
+        "last_name": "Hansenn",
+        "passport_number": "MU4506439",
+        "currency": "DKK",
+        "address": {
+            "city": "Randers",
+            "street name": "Gammel Torv",
+            "street number": 40,
+            "postal code": "1419"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "35 30 34 40",
+        "email_address": "knudsen.hansen@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Knudsen Gundersen Hansen and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nKnudsen Gundersen Hansen is a seasoned professional with over 31 years of experience.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Knudsen Gundersen Hansen is currently single. He does not have any children.",
+        "Education Background": "In 1988, Knudsen finished his secondary school education at Odense Katedralskole.\nKnudsen completed his university education at University College Capital in 1992.\n",
+        "Occupation History": "Knudsen Gundersen Hansen is a 55 year old Tech Industry Leader from Denmark. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt SAP Danmark A/S, Knudsen Gundersen Hansen held the position of Software Developer from 1994 to 1999, developing essential skills in the field.\nAt IBM Danmark A/S, he held the position of Startup Founder from 1999 to 2001, making significant contributions to the organization.\nHe spent 5 years working as a CEO at Trifork A/S, refining his expertise and building a strong network.\nHis next role was as a Venture Capitalist at Trifork A/S, where he applied his extensive experience to drive innovation from 2007 to 2012.\nCurrently, he serves as a Tech Industry Leader at SAP Danmark A/S, continuing to make meaningful contributions to the industry since 2012.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 9890000 DKK.\nHe has flat located in Randers, worth 1030000 DKK.\n\nHe purchased house in Randers, where he spends his holidays. It is valued at 1716000 DKK.\nMoreover, he has invested in additional property in Esbjerg \u00d8, giving possiblity for generating additional income. The flat is valued at 1060000 DKK.\n\nHe inherited 4200000 DKK from his mother, a well-known Stock Trader, in 2009, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Manon",
+        "middle_name": "\u00c9lodie",
+        "last_name": "De Smet",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1972-04-14",
+        "passport_number": "EM3277428",
+        "passport_mrz": [
+            "P<BEDE SMET<<MANON<\u00c9LODIE<<<<<<<<<<<<<<<<<<<<",
+            "EM3277428BE720414<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-10-11",
+        "passport_expiry_date": "2029-10-10"
+    },
+    "client_profile": {
+        "name": "Manon \u00c9lodie De Smet",
+        "address": {
+            "city": "Aalst",
+            "street name": "Rue de la Madeleine",
+            "street number": 23,
+            "postal code": "1828"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1972-04-14",
+        "nationality": "Belgian",
+        "passport_number": "EM3277428",
+        "passport_issue_date": "2022-10-11",
+        "passport_expiry_date": "2029-10-10",
+        "gender": "F",
+        "phone_number": "+32 0479 802 850",
+        "email_address": "manon.desmet@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Koninklijk Atheneum Anderlecht",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "Hasselt University",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 1999,
+                "company": "GSK Vaccines SA",
+                "position": "Research Scientist",
+                "salary": 38000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2003,
+                "company": "UCB Pharma SA",
+                "position": "Clinical Trials Manager",
+                "salary": 53000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2010,
+                "company": "Pfizer Belgium SA",
+                "position": "Regulatory Affairs Director",
+                "salary": 125000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2015,
+                "company": "GSK Vaccines SA",
+                "position": "CEO",
+                "salary": 249000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "GSK Vaccines SA",
+                "position": "Industry Leader",
+                "salary": 305000
+            }
+        ],
+        "aum": {
+            "savings": 660000,
+            "inheritance": 110000,
+            "real_estate_value": 1240000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1240000,
+                "property location": "Aalst"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Manon \u00c9lodie De Smet",
+        "first_name": "Manon",
+        "middle_name": "\u00c9lodie",
+        "last_name": "De Smet",
+        "passport_number": "EM3277428",
+        "currency": "EUR",
+        "address": {
+            "city": "Aalst",
+            "street name": "Rue de la Madeleine",
+            "street number": 23,
+            "postal code": "1828"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0479 802 850",
+        "email_address": "manon.desmet@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Manon \u00c9lodie De Smet on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 29 years, Manon \u00c9lodie De Smet brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Manon \u00c9lodie De Smet has been happily married to Sanders since 1998. Their children are named Moens and Fatima.",
+        "Education Background": "In 1992, Manon graduated from Koninklijk Atheneum Anderlecht with a secondary school diploma.\nShe then attended Hasselt University, which she graduated in 1995.\n",
+        "Occupation History": "Manon \u00c9lodie De Smet is a seasoned professional with over 29 years of experience.\nIn 1996, Manon \u00c9lodie De Smet started working as a Research Scientist at GSK Vaccines SA, marking the beginning of her successful career.\nShe then transitioned to UCB Pharma SA as a Clinical Trials Manager, leveraging her expertise to drive results from 2001 to 2003.\nFrom 2005 to 2010, she served as a Regulatory Affairs Director at Pfizer Belgium SA, solidifying her position as a leader in the industry.\nIn 2010, she transitioned to GSK Vaccines SA to take on the position of CEO, capitalizing on her expertise to propel business growth.\nShe has been a Industry Leader at GSK Vaccines SA since 2015, consistently demonstrating her ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "While working, she saved 660000 EUR, which she used to build a diversified investment portfolio.\nShe has townhouse located in Aalst, worth 1240000 EUR.\n\nShe inherited 110000 EUR from her grandmother, a well-known Tech Entrepreneur, in 2007, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Manon has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Camille",
+        "middle_name": "Gabrielle",
+        "last_name": "Thomas",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1957-01-08",
+        "passport_number": "NG0555909",
+        "passport_mrz": [
+            "P<FRATHOMAS<<CAMILLE<GABRIELLE<<<<<<<<<<<<<<<",
+            "NG0555909FRA570108<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-04-13",
+        "passport_expiry_date": "2034-04-12"
+    },
+    "client_profile": {
+        "name": "Camille Gabrielle Thomas",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Opernring",
+            "street number": 74,
+            "postal code": "6041"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1957-01-08",
+        "nationality": "French",
+        "passport_number": "NG0555909",
+        "passport_issue_date": "2024-04-13",
+        "passport_expiry_date": "2034-04-12",
+        "gender": "F",
+        "phone_number": "+43 927 331 9021",
+        "email_address": "camille.thomas@aon.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Gustave Eiffel",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "University of Bordeaux",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1982,
+                "company": "Wolford AG",
+                "position": "Assistant Designer",
+                "salary": 29000
+            },
+            {
+                "start_year": 1982,
+                "end_year": 1984,
+                "company": "Swarovski AG",
+                "position": "Senior Designer",
+                "salary": 49000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 2017,
+                "company": "Petra Hartmann GmbH",
+                "position": "Creative Director",
+                "salary": 510000
+            }
+        ],
+        "aum": {
+            "savings": 980000,
+            "inheritance": 0,
+            "real_estate_value": 1010000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1010000,
+                "property location": "Krems an der Donau"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Camille Gabrielle Thomas",
+        "first_name": "Camille",
+        "middle_name": "Gabrielle",
+        "last_name": "Thomas",
+        "passport_number": "NG0555909",
+        "currency": "EUR",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Opernring",
+            "street number": 74,
+            "postal code": "6041"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 927 331 9021",
+        "email_address": "camille.thomas@aon.at"
+    },
+    "client_description": {
+        "Summary Note": "Camille Gabrielle Thomas and the RM crossed paths at a tech conference in Vienna. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nCamille Gabrielle Thomas is a 68 year old retired Creative Director from Austria.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Camille Gabrielle Thomas and Simon tied the knot in 1990. Camille and Simon have 1 child, named Emma.",
+        "Education Background": "In 1974, Camille graduated from Lyc\u00e9e Gustave Eiffel with a secondary school diploma.\nAfter that, she went on to study at University of Bordeaux until 1980.\n",
+        "Occupation History": "Camille Gabrielle Thomas is a 68 year old retired Creative Director from Austria.\nIn 1981, Camille Gabrielle Thomas started working as a Assistant Designer at Wolford AG, marking the beginning of her successful career.\nIn 1982, she moved to Swarovski AG to work as a Senior Designer, applying her knowledge to achieve outstanding performance.\nShe spent 31 years working as a Creative Director at Petra Hartmann GmbH, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "Throughout her career, she saved 980000 EUR, investing in various assets to grow her wealth.\nShe has house located in Krems an der Donau, worth 20000000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Laura",
+        "middle_name": "Olivia",
+        "last_name": "Olsen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1987-03-03",
+        "passport_number": "AL1004291",
+        "passport_mrz": [
+            "P<DNKOLSEN<<LAURA<OLIVIA<<<<<<<<<<<<<<<<<<<<<",
+            "AL1004291DNK870303<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-12-04",
+        "passport_expiry_date": "2030-12-03"
+    },
+    "client_profile": {
+        "name": "Laura Olivia Olsen",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Nyg\u00e5rdsvej",
+            "street number": 38,
+            "postal code": "6366"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1987-03-03",
+        "nationality": "Danish",
+        "passport_number": "AL1004291",
+        "passport_issue_date": "2020-12-04",
+        "passport_expiry_date": "2030-12-03",
+        "gender": "F",
+        "phone_number": "+45 60 48 22 48",
+        "email_address": "laura.olsen@siminn.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Viborg Katedralskole",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2012,
+                "company": "Microsoft Danmark A/S",
+                "position": "Software Developer",
+                "salary": 281000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "Trifork A/S",
+                "position": "Startup Founder",
+                "salary": 873000
+            }
+        ],
+        "aum": {
+            "savings": 1180000,
+            "inheritance": 37040000,
+            "real_estate_value": 2344000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1104000,
+                "property location": "\u00c5rhus N"
+            },
+            {
+                "property type": "condo",
+                "property value": 1240000,
+                "property location": "\u00c5rhus N"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Laura Olivia Olsen",
+        "first_name": "Laura",
+        "middle_name": "Olivia",
+        "last_name": "Olsen",
+        "passport_number": "AL1004291",
+        "currency": "DKK",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Nyg\u00e5rdsvej",
+            "street number": 38,
+            "postal code": "6366"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 60 48 22 48",
+        "email_address": "laura.olsen@siminn.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Laura Olivia Olsen during a business conference in Copenhagen. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nLaura Olivia Olsen is a 38 year old Startup Founder from Denmark. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Laura Olivia Olsen is currently divorced. She does not have any children.",
+        "Education Background": "Laura obtained her secondary school diploma from Viborg Katedralskole in 2004.\nLaura received her degree from Copenhagen Business School in 2011.\n",
+        "Occupation History": "With a career spanning nearly 14 years, Laura Olivia Olsen has established herself as a key player in the industry.\nAt Microsoft Danmark A/S, Laura Olivia Olsen held the position of Software Developer from 2011 to 2012, developing essential skills in the field.\nAt Trifork A/S, she held the position of Startup Founder from 2012 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "While working, she saved 1180000 DKK, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across \u00c5rhus N, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe inherited a significant sum of 37040000 DKK from her grandmother, a respected Stock Trader, in 2019, which she has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

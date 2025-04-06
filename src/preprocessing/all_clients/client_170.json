@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Sterckx",
+        "middle_name": "Vandenberghe",
+        "last_name": " Jacobs",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "2003-09-18",
+        "passport_number": "DP2640631",
+        "passport_mrz": [
+            "P<BEL JACOBS<<STERCKX<VANDENBERGHE<<<<<<<<<<<",
+            "DP2640631BEL030918<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-05-08",
+        "passport_expiry_date": "2027-05-07"
+    },
+    "client_profile": {
+        "name": "Sterckx Vandenberghe Jacobs",
+        "address": {
+            "city": "Tournai",
+            "street name": "Rue de l'H\u00f4tel des Monnaies",
+            "street number": 9,
+            "postal code": "6583"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "2003-09-18",
+        "nationality": "Belgian",
+        "passport_number": "DP2640631",
+        "passport_issue_date": "2020-05-08",
+        "passport_expiry_date": "2027-05-07",
+        "gender": "M",
+        "phone_number": "+32 0429 234 817",
+        "email_address": "sterckx.jacobs@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Onze-Lieve-Vrouwecollege",
+            "graduation_year": 2023
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1780000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sterckx Vandenberghe Jacobs",
+        "first_name": "Sterckx",
+        "middle_name": "Vandenberghe",
+        "last_name": " Jacobs",
+        "passport_number": "DP2640631",
+        "currency": "EUR",
+        "address": {
+            "city": "Tournai",
+            "street name": "Rue de l'H\u00f4tel des Monnaies",
+            "street number": 9,
+            "postal code": "6583"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0429 234 817",
+        "email_address": "sterckx.jacobs@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Sterckx Vandenberghe Jacobs at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nSterckx Vandenberghe Jacobs is a 21 year old and comes from Belgium.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Sterckx Vandenberghe Jacobs is currently single. He does not have any children.",
+        "Education Background": "Sterckx graduated from Onze-Lieve-Vrouwecollege in 2023.\n",
+        "Occupation History": "Sterckx Vandenberghe Jacobs is a 21 year old and comes from Belgium.\nSterckx Vandenberghe Jacobs did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.He inherited 1780000 EUR from his grandfather, a well-known Private Equity Manager, in 2019, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

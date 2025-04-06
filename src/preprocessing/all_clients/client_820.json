@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Meier",
+        "middle_name": "",
+        "last_name": "Weber",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1961-06-15",
+        "passport_number": "JU8949098",
+        "passport_mrz": [
+            "P<CHEWEBER<<MEIER<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "JU8949098CHE610615<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-10-13",
+        "passport_expiry_date": "2032-10-12"
+    },
+    "client_profile": {
+        "name": "Meier Weber",
+        "address": {
+            "city": "Frauenfeld",
+            "street name": "B\u00e4renplatz",
+            "street number": 42,
+            "postal code": "6019"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1961-06-15",
+        "nationality": "Swiss",
+        "passport_number": "JU8949098",
+        "passport_issue_date": "2022-10-13",
+        "passport_expiry_date": "2032-10-12",
+        "gender": "M",
+        "phone_number": "021 413 60 82",
+        "email_address": "meier.weber@swissonline.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e des Templiers Fribourg",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "University of Fribourg",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1989,
+                "company": "Pilatus Aircraft Ltd.",
+                "position": "Aerospace Engineer",
+                "salary": 64000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1991,
+                "company": "Pilatus Aircraft Ltd.",
+                "position": "Program Manager",
+                "salary": 93000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 2022,
+                "company": "SR Technics Switzerland Ltd.",
+                "position": "Director of Operations",
+                "salary": 1254000
+            }
+        ],
+        "aum": {
+            "savings": 2480000,
+            "inheritance": 0,
+            "real_estate_value": 6891000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1951000,
+                "property location": "Frauenfeld"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2470000,
+                "property location": "Kreuzlingen"
+            },
+            {
+                "property type": "house",
+                "property value": 2470000,
+                "property location": "Lugano"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Meier Weber",
+        "first_name": "Meier",
+        "middle_name": "",
+        "last_name": "Weber",
+        "passport_number": "JU8949098",
+        "currency": "CHF",
+        "address": {
+            "city": "Frauenfeld",
+            "street name": "B\u00e4renplatz",
+            "street number": 42,
+            "postal code": "6019"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "021 413 60 82",
+        "email_address": "meier.weber@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "Meier Weber and the RM were introduced at a charity run in Z\u00fcrich. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nHaving worked for over 39 years, Meier Weber brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Meier Weber and Fabienne have been married since 1997. Their children are named Evelyne, Hagenbuch and Emma.",
+        "Education Background": "In 1979, Meier finished his secondary school education at Lyc\u00e9e des Templiers Fribourg.\nHe then attended University of Fribourg, which he graduated in 1984.\n",
+        "Occupation History": "Meier Weber is a 63 year old and comes from Switzerland.\nMeier Weber's first role was as a Aerospace Engineer at Pilatus Aircraft Ltd., where he worked diligently from 1986 to 1989 to establish a strong reputation.\nAfter gaining experience, he took on the role of Program Manager at Pilatus Aircraft Ltd. in 1989, further expanding his skill set.\nHis tenure as a Director of Operations at SR Technics Switzerland Ltd. from 1991 till retirement was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "He managed to save approximately 2480000 CHF from his earnings at all companies.\nHe has flat located in Frauenfeld, worth 1951000 CHF.\n\nHe purchased townhouse in Kreuzlingen, where he spends his holidays. It is valued at 2470000 CHF.\nMoreover, he has invested in additional property in Lugano, giving possiblity for generating additional income. The house is valued at 2470000 CHF.\n\nHe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

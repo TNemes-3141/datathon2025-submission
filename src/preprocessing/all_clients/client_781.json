@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Rizzo",
+        "middle_name": " Marino",
+        "last_name": "Romano",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1963-04-23",
+        "passport_number": "WS3476799",
+        "passport_mrz": [
+            "P<ITAROMANO<<RIZZO< MARINO<<<<<<<<<<<<<<<<<<<",
+            "WS3476799ITA630423<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-10-22",
+        "passport_expiry_date": "2032-10-21"
+    },
+    "client_profile": {
+        "name": "Rizzo Marino Romano",
+        "address": {
+            "city": "Turin",
+            "street name": "Via Nazionale",
+            "street number": 28,
+            "postal code": "50201"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1963-04-23",
+        "nationality": "Italian",
+        "passport_number": "WS3476799",
+        "passport_issue_date": "2022-10-22",
+        "passport_expiry_date": "2032-10-21",
+        "gender": "M",
+        "phone_number": "336 1404238",
+        "email_address": "rizzo.romano@alice.it",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Liceo Musicale Arrigo Boito Parma",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Luiss Guido Carli",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1991,
+                "company": "Pinacoteca di Brera",
+                "position": "Art Dealer",
+                "salary": 25000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1994,
+                "company": "Galleria degli Uffizi",
+                "position": "Gallery Owner",
+                "salary": 42000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1998,
+                "company": "Galleria degli Uffizi",
+                "position": "Art Advisor",
+                "salary": 59000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2003,
+                "company": "Galleria Borghese",
+                "position": "Curator",
+                "salary": 189000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2024,
+                "company": "Galleria degli Uffizi",
+                "position": "Museum Director",
+                "salary": 566000
+            }
+        ],
+        "aum": {
+            "savings": 1000000,
+            "inheritance": 0,
+            "real_estate_value": 3302000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 622000,
+                "property location": "Turin"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1030000,
+                "property location": "Palermo"
+            },
+            {
+                "property type": "house",
+                "property value": 1650000,
+                "property location": "Perugia"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Rizzo Marino Romano",
+        "first_name": "Rizzo",
+        "middle_name": " Marino",
+        "last_name": "Romano",
+        "passport_number": "WS3476799",
+        "currency": "EUR",
+        "address": {
+            "city": "Turin",
+            "street name": "Via Nazionale",
+            "street number": 28,
+            "postal code": "50201"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "336 1404238",
+        "email_address": "rizzo.romano@alice.it"
+    },
+    "client_description": {
+        "Summary Note": "Rizzo Marino Romano and the RM were introduced at an art auction in Rome. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nWith a career spanning nearly 38 years, Rizzo Marino Romano has established himself as a key player in the industry.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Rizzo Marino Romano is currently widowed. His children are named Santoro, Alessia and Costanza.",
+        "Education Background": "Rizzo completed his secondary education at Liceo Musicale Arrigo Boito Parma in 1981.\nRizzo earned his degree from Luiss Guido Carli in 1987.\n",
+        "Occupation History": "Having worked for over 38 years, Rizzo Marino Romano brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nRizzo Marino Romano began his professional journey as a Art Dealer at Pinacoteca di Brera in 1987, laying the foundation for future success.\nHis subsequent role was as a Gallery Owner at Galleria degli Uffizi, where he continued to grow professionally from 1991 to 1994.\nHis tenure as a Art Advisor at Galleria degli Uffizi from 1996 to 1998 was marked by significant achievements and a deepening understanding of the field.\nHe appointment as a Curator at Galleria Borghese in 1998 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\nRizzo Marino Romano concluded his career as a Museum Director at Galleria degli Uffizi, where he worked from 2005 until retirement.",
+        "Wealth Summary": "While working, he saved 1000000 EUR, which he used to build a diversified investment portfolio.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Turin, Perugia and Palermo, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "In summary, Rizzo has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

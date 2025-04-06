@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Floriane",
+        "middle_name": "Margaux",
+        "last_name": "Legrand",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1984-02-11",
+        "passport_number": "TU8631814",
+        "passport_mrz": [
+            "P<FRALEGRAND<<FLORIANE<MARGAUX<<<<<<<<<<<<<<<",
+            "TU8631814FRA840211<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-02-01",
+        "passport_expiry_date": "2027-01-31"
+    },
+    "client_profile": {
+        "name": "Floriane Margaux Legrand",
+        "address": {
+            "city": "Ikast",
+            "street name": "Gyldenl\u00f8vesgade",
+            "street number": 61,
+            "postal code": "7990"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1984-02-11",
+        "nationality": "French",
+        "passport_number": "TU8631814",
+        "passport_issue_date": "2017-02-01",
+        "passport_expiry_date": "2027-01-31",
+        "gender": "F",
+        "phone_number": "44 51 68 06",
+        "email_address": "floriane.legrand@wanadoo.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Montaigne",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "IUT de Grenoble",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2008,
+                "company": "Rovsing A/S",
+                "position": "Aerospace Engineer",
+                "salary": 34000
+            },
+            {
+                "start_year": 2010,
+                "end_year": null,
+                "company": "Terma A/S",
+                "position": "Program Manager",
+                "salary": 100000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 19090000,
+            "real_estate_value": 4988000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2012,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1868000,
+                "property location": "Ikast"
+            },
+            {
+                "property type": "condo",
+                "property value": 1190000,
+                "property location": "Caen"
+            },
+            {
+                "property type": "house",
+                "property value": 1930000,
+                "property location": "Paris"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "France"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Floriane Margaux Legrand",
+        "first_name": "Floriane",
+        "middle_name": "Margaux",
+        "last_name": "Legrand",
+        "passport_number": "TU8631814",
+        "currency": "DKK",
+        "address": {
+            "city": "Ikast",
+            "street name": "Gyldenl\u00f8vesgade",
+            "street number": 61,
+            "postal code": "7990"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "44 51 68 06",
+        "email_address": "floriane.legrand@wanadoo.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Floriane Margaux Legrand at a golf tournament in Copenhagen. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nHaving worked for over 18 years, Floriane Margaux Legrand brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Floriane Margaux Legrand is currently single. She does not have any children.",
+        "Education Background": "Floriane finished secondary school at Lyc\u00e9e Montaigne in 2002.\nFloriane attended IUT de Grenoble and graduated in 2008.\n",
+        "Occupation History": "Having worked for over 18 years, Floriane Margaux Legrand brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAt Rovsing A/S, Floriane Margaux Legrand held the position of Aerospace Engineer from 2007 to 2008, developing essential skills in the field.\nIn 2010, she moved to Terma A/S to work as a Program Manager, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "She managed to save approximately 140000 DKK from her earnings at all companies.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Paris, Caen and Ikast, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of her grandfather, a successful Corporate Lawyer, she received an inheritance of 19090000 DKK in 2012, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "passport": {
+        "first_name": "Heidi",
+        "middle_name": "Luisa",
+        "last_name": "Fuchs",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1974-04-05",
+        "passport_number": "QH9080954",
+        "passport_mrz": [
+            "P<AUTFUCHS<<HEIDI<LUISA<<<<<<<<<<<<<<<<<<<<<<",
+            "QH9080954AUT740405<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-10-21",
+        "passport_expiry_date": "2027-10-20"
+    },
+    "client_profile": {
+        "name": "Heidi Luisa Fuchs",
+        "address": {
+            "city": "Baden bei Wien",
+            "street name": "Porzellangasse",
+            "street number": 17,
+            "postal code": "0891"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1974-04-05",
+        "nationality": "Austrian",
+        "passport_number": "QH9080954",
+        "passport_issue_date": "2017-10-21",
+        "passport_expiry_date": "2027-10-20",
+        "gender": "F",
+        "phone_number": "+43 081 245 9120",
+        "email_address": "heidi.fuchs@chello.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "BORG Wiener Neustadt",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "FH Upper Austria University of Applied Sciences",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "Baxter BioScience",
+                "position": "Research Scientist",
+                "salary": 29000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2004,
+                "company": "Sandoz International GmbH",
+                "position": "Clinical Trials Manager",
+                "salary": 48000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2009,
+                "company": "Boehringer Ingelheim RCV GmbH & Co KG",
+                "position": "Regulatory Affairs Director",
+                "salary": 71000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Boehringer Ingelheim RCV GmbH & Co KG",
+                "position": "CEO",
+                "salary": 580000
+            }
+        ],
+        "aum": {
+            "savings": 820000,
+            "inheritance": 320000,
+            "real_estate_value": 2644000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2006,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1074000,
+                "property location": "Baden bei Wien"
+            },
+            {
+                "property type": "condo",
+                "property value": 880000,
+                "property location": "Zwettl"
+            },
+            {
+                "property type": "flat",
+                "property value": 690000,
+                "property location": "Dornbirn"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Heidi Luisa Fuchs",
+        "first_name": "Heidi",
+        "middle_name": "Luisa",
+        "last_name": "Fuchs",
+        "passport_number": "QH9080954",
+        "currency": "EUR",
+        "address": {
+            "city": "Baden bei Wien",
+            "street name": "Porzellangasse",
+            "street number": 17,
+            "postal code": "0891"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 081 245 9120",
+        "email_address": "heidi.fuchs@chello.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Heidi Luisa Fuchs at a luxury car show in Vienna. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nHeidi Luisa Fuchs is a 50 year old CEO from Austria.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Heidi Luisa Fuchs and Egger tied the knot in 2003. Heidi and Egger have 2 children, named Wagner and Lisa.",
+        "Education Background": "Heidi obtained her secondary school diploma from BORG Wiener Neustadt in 1993.\nIn 1998, Heidi graduated from FH Upper Austria University of Applied Sciences with a degree.\n",
+        "Occupation History": "Heidi Luisa Fuchs is a 50 year old and comes from Austria.\nHeidi Luisa Fuchs's first role was as a Research Scientist at Baxter BioScience, where she worked diligently from 1999 to 2000 to establish a strong reputation.\nIn 2002, she moved to Sandoz International GmbH to work as a Clinical Trials Manager, applying her knowledge to achieve outstanding performance.\nHer tenure as a Regulatory Affairs Director at Boehringer Ingelheim RCV GmbH & Co KG from 2005 to 2009 was marked by significant achievements and a deepening understanding of the field.\nIn 2011, she transitioned to Boehringer Ingelheim RCV GmbH & Co KG to take on the position of CEO, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "She managed to save approximately 820000 EUR from her earnings at all companies.\nShe owns townhouse in Baden bei Wien, where she resides. It is worth 1074000 EUR.\n\nIn addition to her primary residence, she owns condo in Zwettl worth 880000 EUR.\n\nOn top of that she inherited a beautiful flat in Dornbirn, which could be used as a weekend getaway. It is valued at 690000 EUR.\nIn 2006, she received an inheritance of 320000 EUR from her late mother, who was a prominent Tech Entrepreneur, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Heidi as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

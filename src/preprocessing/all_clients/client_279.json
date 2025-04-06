@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Bruno",
+        "middle_name": "Lotti",
+        "last_name": "Moretti",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1977-05-11",
+        "passport_number": "TL0059278",
+        "passport_mrz": [
+            "P<ITAMORETTI<<BRUNO<LOTTI<<<<<<<<<<<<<<<<<<<<",
+            "TL0059278ITA770511<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-11-21",
+        "passport_expiry_date": "2027-11-20"
+    },
+    "client_profile": {
+        "name": "Bruno Lotti Moretti",
+        "address": {
+            "city": "Treviso",
+            "street name": "Via Po",
+            "street number": 24,
+            "postal code": "82415"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1977-05-11",
+        "nationality": "Italian",
+        "passport_number": "TL0059278",
+        "passport_issue_date": "2017-11-21",
+        "passport_expiry_date": "2027-11-20",
+        "gender": "M",
+        "phone_number": "+39 328 0868634",
+        "email_address": "bruno.moretti@infinito.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "Normal Superior School of Pisa",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "Roche S.p.A.",
+                "position": "Research Scientist",
+                "salary": 39000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2011,
+                "company": "Pfizer Italia S.r.l.",
+                "position": "Biotech Startup Founder",
+                "salary": 38000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2018,
+                "company": "Roche S.p.A.",
+                "position": "CEO",
+                "salary": 108000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Roche S.p.A.",
+                "position": "Venture Capitalist",
+                "salary": 196000
+            }
+        ],
+        "aum": {
+            "savings": 320000,
+            "inheritance": 2660000,
+            "real_estate_value": 650000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2011,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 650000,
+                "property location": "Treviso"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Bruno Lotti Moretti",
+        "first_name": "Bruno",
+        "middle_name": "Lotti",
+        "last_name": "Moretti",
+        "passport_number": "TL0059278",
+        "currency": "EUR",
+        "address": {
+            "city": "Treviso",
+            "street name": "Via Po",
+            "street number": 24,
+            "postal code": "82415"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 328 0868634",
+        "email_address": "bruno.moretti@infinito.it"
+    },
+    "client_description": {
+        "Summary Note": "Bruno Lotti Moretti and the RM were introduced at a charity run in Rome. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nBruno Lotti Moretti is a seasoned professional with over 23 years of experience.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Bruno Lotti Moretti and Eleonora tied the knot in 2004. Their children are named Landi and Ginevra.",
+        "Education Background": "Bruno received his secondary school diploma from Istituto Tecnico Industriale Statale Enrico Mattei Roma in 1995.\nBruno graduated from Normal Superior School of Pisa in 2000, completing his higher education.\n",
+        "Occupation History": "Bruno Lotti Moretti is a 47 year old Venture Capitalist from Italy. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nBruno Lotti Moretti launched his career as a Research Scientist at Roche S.p.A., where he gained valuable experience from 2002 to 2007.\nAfter gaining experience, he took on the role of Biotech Startup Founder at Pfizer Italia S.r.l. in 2007, further expanding his skill set.\nHe spent 5 years working as a CEO at Roche S.p.A., refining his expertise and building a strong network.\nIn 2018, he transitioned to Roche S.p.A. to take on the position of Venture Capitalist, capitalizing on his expertise to propel business growth.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 320000 EUR.\nHe owns flat in Treviso, where he resides. It is worth 650000 EUR.\n\n\nFollowing the passing of his grandfather, a successful Tech Entrepreneur, he received an inheritance of 2660000 EUR in 2011, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

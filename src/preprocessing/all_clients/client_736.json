@@ -1,0 +1,150 @@
+{
+    "passport": {
+        "first_name": "V\u00e1zquez",
+        "middle_name": "Gonz\u00e1lez",
+        "last_name": "S\u00e1nchez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1971-03-17",
+        "passport_number": "TB4785250",
+        "passport_mrz": [
+            "P<ESPS\u00c1NCHEZ<<V\u00c1ZQUEZ<GONZ\u00c1LEZ<<<<<<<<<<<<<<<",
+            "TB4785250ESP710317<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-06-18",
+        "passport_expiry_date": "2031-06-17"
+    },
+    "client_profile": {
+        "name": "V\u00e1zquez Gonz\u00e1lez S\u00e1nchez",
+        "address": {
+            "city": "Las Palmas de Gran Canaria",
+            "street name": "Calle de las Huertas",
+            "street number": 36,
+            "postal code": "53759"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1971-03-17",
+        "nationality": "Spanish",
+        "passport_number": "TB4785250",
+        "passport_issue_date": "2021-06-18",
+        "passport_expiry_date": "2031-06-17",
+        "gender": "M",
+        "phone_number": "+34 655 519 260",
+        "email_address": "vazquez.sanchez@hotmail.es",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Instituto de Educaci\u00f3n Secundaria IES Pedro Salinas Ja\u00e9n",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "Pompeu Fabra University",
+                "graduation_year": 1995
+            },
+            {
+                "university": "ESADE Business & Law School",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1996,
+                "company": "Iberostar Hotels & Resorts S.A.",
+                "position": "Hotel Manager",
+                "salary": 26000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "NH Hotel Group S.A.",
+                "position": "General Manager",
+                "salary": 37000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2003,
+                "company": "NH Hotel Group S.A.",
+                "position": "Regional Vice President",
+                "salary": 53000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2005,
+                "company": "Meli\u00e1 Hotels International S.A.",
+                "position": "CEO",
+                "salary": 100000
+            },
+            {
+                "start_year": 2006,
+                "end_year": null,
+                "company": "Meli\u00e1 Hotels International S.A.",
+                "position": "Hospitality Industry Leader",
+                "salary": 681000
+            }
+        ],
+        "aum": {
+            "savings": 970000,
+            "inheritance": 2720000,
+            "real_estate_value": 3445000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2011,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 905000,
+                "property location": "Las Palmas de Gran Canaria"
+            },
+            {
+                "property type": "house",
+                "property value": 1390000,
+                "property location": "Bilbao"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1150000,
+                "property location": "Palma de Mallorca"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Switzerland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "V\u00e1zquez Gonz\u00e1lez S\u00e1nchez",
+        "first_name": "V\u00e1zquez",
+        "middle_name": "Gonz\u00e1lez",
+        "last_name": "S\u00e1nchez",
+        "passport_number": "TB4785250",
+        "currency": "EUR",
+        "address": {
+            "city": "Las Palmas de Gran Canaria",
+            "street name": "Calle de las Huertas",
+            "street number": 36,
+            "postal code": "53759"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 655 519 260",
+        "email_address": "vazquez.sanchez@hotmail.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM met V\u00e1zquez Gonz\u00e1lez S\u00e1nchez during a business conference in Madrid. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nV\u00e1zquez Gonz\u00e1lez S\u00e1nchez is a 54 year old and comes from Spain.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "V\u00e1zquez Gonz\u00e1lez S\u00e1nchez is currently widowed. He has 2 kids called Mart\u00ednez and Rodr\u00edguez.",
+        "Education Background": "V\u00e1zquez completed his secondary education at Instituto de Educaci\u00f3n Secundaria IES Pedro Salinas Ja\u00e9n in 1990.\nV\u00e1zquez earned his degree from Pompeu Fabra University in 1995.\nOn top of that he then attended ESADE Business & Law School, where he graduated in 1998.\n",
+        "Occupation History": "V\u00e1zquez Gonz\u00e1lez S\u00e1nchez is a 54 year old Hospitality Industry Leader from Spain.\nV\u00e1zquez Gonz\u00e1lez S\u00e1nchez's first role was as a Hotel Manager at Iberostar Hotels & Resorts S.A., where he worked diligently from 1994 to 1996 to establish a strong reputation.\nHis subsequent role was as a General Manager at NH Hotel Group S.A., where he continued to grow professionally from 1998 to 2000.\nAt NH Hotel Group S.A., he worked as a Regional Vice President from 2002 to 2003, focusing on strategic initiatives and team collaboration.\nIn 2004, he transitioned to Meli\u00e1 Hotels International S.A. to take on the position of CEO, capitalizing on his expertise to propel business growth.\nSince joining Meli\u00e1 Hotels International S.A. as a Hospitality Industry Leader in 2006, he has established himself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "Throughout his career, he saved 970000 EUR, investing in various assets to grow his wealth.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Bilbao, Palma de Mallorca and Las Palmas de Gran Canaria, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nIn addition to his career success, he also received an inheritance of 2720000 EUR from his late grandmother, a renowned Venture Capitalist, in 2011.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

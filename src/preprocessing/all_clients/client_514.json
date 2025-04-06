@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Voorn",
+        "middle_name": "Van Dijk",
+        "last_name": "Veenhoven",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1963-06-10",
+        "passport_number": "DC9907074",
+        "passport_mrz": [
+            "P<NLDVEENHOVEN<<VOORN<VAN DIJK<<<<<<<<<<<<<<<",
+            "DC9907074NLD630610<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-08-05",
+        "passport_expiry_date": "2028-08-04"
+    },
+    "client_profile": {
+        "name": "Voorn Van Dijk Veenhoven",
+        "address": {
+            "city": "Tilburg",
+            "street name": "Koninginnegracht",
+            "street number": 35,
+            "postal code": "0054 80"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1963-06-10",
+        "nationality": "Dutch",
+        "passport_number": "DC9907074",
+        "passport_issue_date": "2018-08-05",
+        "passport_expiry_date": "2028-08-04",
+        "gender": "M",
+        "phone_number": "+31 06 50930720",
+        "email_address": "voorn.veenhoven@live.nl",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Het Rijnlands Lyceum Oegstgeest",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Nyenrode Business Universiteit",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1991,
+                "company": "ING Private Banking",
+                "position": "Financial Advisor",
+                "salary": 39000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 2024,
+                "company": "ING Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 412000
+            }
+        ],
+        "aum": {
+            "savings": 830000,
+            "inheritance": 0,
+            "real_estate_value": 2340000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1440000,
+                "property location": "Tilburg"
+            },
+            {
+                "property type": "flat",
+                "property value": 900000,
+                "property location": "Leiden"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Voorn Van Dijk Veenhoven",
+        "first_name": "Voorn",
+        "middle_name": "Van Dijk",
+        "last_name": "Veenhoven",
+        "passport_number": "DC9907074",
+        "currency": "EUR",
+        "address": {
+            "city": "Tilburg",
+            "street name": "Koninginnegracht",
+            "street number": 35,
+            "postal code": "0054 80"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 50930720",
+        "email_address": "voorn.veenhoven@live.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Voorn Van Dijk Veenhoven at a corporate retreat in Amsterdam. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nWith a career spanning nearly 38 years, Voorn Van Dijk Veenhoven has established himself as a key player in the industry.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Voorn Van Dijk Veenhoven is currently divorced. He does not have any children.",
+        "Education Background": "In 1981, Voorn finished his secondary school education at Het Rijnlands Lyceum Oegstgeest.\nHe then attended Nyenrode Business Universiteit, which he graduated in 1986.\n",
+        "Occupation History": "Voorn Van Dijk Veenhoven is a seasoned professional with over 38 years of experience.\nVoorn Van Dijk Veenhoven launched his career as a Financial Advisor at ING Private Banking, where he gained valuable experience from 1987 to 1991.\nIn 1992, he moved to ING Private Banking to work as a Portfolio Manager, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "He managed to save approximately 830000 EUR from his earnings at all companies.\nHe has condo located in Tilburg, worth 1440000 EUR.\n\nHe purchased flat in Leiden, where he spends his holidays. It is valued at 900000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Voorn as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

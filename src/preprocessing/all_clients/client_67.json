@@ -1,0 +1,140 @@
+{
+    "passport": {
+        "first_name": "Simons",
+        "middle_name": "Vandenberghe",
+        "last_name": "Moens",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1974-02-27",
+        "passport_number": "QW4017302",
+        "passport_mrz": [
+            "P<BELMOENS<<SIMONS<VANDENBERGHE<<<<<<<<<<<<<<",
+            "QW4017302BEL740227<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-11-07",
+        "passport_expiry_date": "2023-11-06"
+    },
+    "client_profile": {
+        "name": "Simons Vandenberghe Moens",
+        "address": {
+            "city": "Rauma",
+            "street name": "Sinikalliontie",
+            "street number": 93,
+            "postal code": "71769"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1974-02-27",
+        "nationality": "Belgian",
+        "passport_number": "QW4017302",
+        "passport_issue_date": "2016-11-07",
+        "passport_expiry_date": "2023-11-06",
+        "gender": "M",
+        "phone_number": "+358 042 551 77 27",
+        "email_address": "simons.moens@elisa.fi",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Institut de la Sainte-Famille d'Helmet",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "Universit\u00e9 catholique de Louvain",
+                "graduation_year": 1996
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 2000,
+                "company": "Pharmia Sinensis Oy",
+                "position": "Research Scientist",
+                "salary": 38000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2004,
+                "company": "Pharmia Sinensis Oy",
+                "position": "Clinical Trials Manager",
+                "salary": 54000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2010,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "Regulatory Affairs Director",
+                "salary": 77000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2013,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "CEO",
+                "salary": 118000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Leiras Oy",
+                "position": "Industry Leader",
+                "salary": 401000
+            }
+        ],
+        "aum": {
+            "savings": 630000,
+            "inheritance": 3390000,
+            "real_estate_value": 2090000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2009,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 860000,
+                "property location": "Rauma"
+            },
+            {
+                "property type": "house",
+                "property value": 1230000,
+                "property location": "Turnhout"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Simons Vandenberghe Moens",
+        "first_name": "Simons",
+        "middle_name": "Vandenberghe",
+        "last_name": "Moens",
+        "passport_number": "QW4017302",
+        "currency": "EUR",
+        "address": {
+            "city": "Rauma",
+            "street name": "Sinikalliontie",
+            "street number": 93,
+            "postal code": "71769"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 042 551 77 27",
+        "email_address": "simons.moens@elisa.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Simons Vandenberghe Moens during a business conference in Helsinki. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nSimons Vandenberghe Moens is a 51 year old Industry Leader from Finland.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Simons Vandenberghe Moens is currently divorced. He has 3 kids called Sanders, Am\u00e9lie and Manon.",
+        "Education Background": "In 1992, Simons graduated from Institut de la Sainte-Famille d'Helmet with a secondary school diploma.\nSimons attended Universit\u00e9 catholique de Louvain and graduated in 1996.\n",
+        "Occupation History": "Simons Vandenberghe Moens is a seasoned professional with over 28 years of experience.\nSimons Vandenberghe Moens launched his career as a Research Scientist at Pharmia Sinensis Oy, where he gained valuable experience from 1997 to 2000.\nIn 2000, he moved to Pharmia Sinensis Oy to work as a Clinical Trials Manager, applying his knowledge to achieve outstanding performance.\nAt Finnish Red Cross Blood Service, he worked as a Regulatory Affairs Director from 2006 to 2010, focusing on strategic initiatives and team collaboration.\nIn 2010, he transitioned to Finnish Red Cross Blood Service to take on the position of CEO, capitalizing on his expertise to propel business growth.\nHis current role as a Industry Leader at Leiras Oy, which he has held since 2015, reflects his enduring passion for the field and his unwavering dedication to making a lasting impact.",
+        "Wealth Summary": "He managed to save approximately 630000 EUR from his earnings at all companies.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Rauma and Turnhout, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe inherited a significant sum of 3390000 EUR from his father, a respected Investment Banker, in 2009, which he has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

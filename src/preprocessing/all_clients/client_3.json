@@ -1,0 +1,107 @@
+{
+    "passport": {
+        "first_name": "Kristensen",
+        "middle_name": "Petersen",
+        "last_name": "Thomsen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1990-05-05",
+        "passport_number": "QT8624520",
+        "passport_mrz": [
+            "P<DNKTHOMSEN<<KRISTENSEN<PETERSEN<<<<<<<<<<<<",
+            "QT8624520DNK900505<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-07-30",
+        "passport_expiry_date": "2027-07-29"
+    },
+    "client_profile": {
+        "name": "Kristensen Petersen Thomsen",
+        "address": {
+            "city": "N\u00e6stved",
+            "street name": "H.C. Andersens Boulevard",
+            "street number": 35,
+            "postal code": "8886"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1990-05-05",
+        "nationality": "Danish",
+        "passport_number": "QT8624520",
+        "passport_issue_date": "2017-07-30",
+        "passport_expiry_date": "2027-07-29",
+        "gender": "M",
+        "phone_number": "10 05 92 20",
+        "email_address": "kristensen.thomsen@all.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Svendborg Gymnasium",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Nordea Private Banking Danmark",
+                "position": "Financial Advisor",
+                "salary": 318000
+            }
+        ],
+        "aum": {
+            "savings": 380000,
+            "inheritance": 18710000,
+            "real_estate_value": 1020000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1020000,
+                "property location": "N\u00e6stved"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Kristensen Petersen Thomsen",
+        "first_name": "Kristensen",
+        "middle_name": "Petersen",
+        "last_name": "Thomsen",
+        "passport_number": "QT8624520",
+        "currency": "DKK",
+        "address": {
+            "city": "N\u00e6stved",
+            "street name": "H.C. Andersens Boulevard",
+            "street number": 35,
+            "postal code": "8886"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "10 05 92 20",
+        "email_address": "kristensen.thomsen@all.dk"
+    },
+    "client_description": {
+        "Summary Note": "Kristensen Petersen Thomsen and the RM crossed paths at a tech conference in Copenhagen. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nKristensen Petersen Thomsen is a 34 year old Financial Advisor from Denmark.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Kristensen Petersen Thomsen and Amanda have been married since 2018. Together they have 2 kids called Krog and Alberte.",
+        "Education Background": "Kristensen finished secondary school at Svendborg Gymnasium in 2010.\nHe then attended University of Copenhagen, which he graduated in 2014.\n",
+        "Occupation History": "Kristensen Petersen Thomsen is a 34 year old Financial Advisor from Denmark.\nAt Nordea Private Banking Danmark, Kristensen Petersen Thomsen held the position of Financial Advisor from 2015 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "While working, he saved 380000 DKK, which he used to build a diversified investment portfolio.\nHe owns condo in N\u00e6stved, where he resides. It is worth 1020000 DKK.\n\nHe inherited 18710000 DKK from his grandfather, a well-known Investment Banker, in 2019, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

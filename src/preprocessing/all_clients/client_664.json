@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Van den Berghe",
+        "middle_name": "Maes",
+        "last_name": "Peiren",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1996-04-14",
+        "passport_number": "RJ8385147",
+        "passport_mrz": [
+            "P<BELPEIREN<<VAN DEN BERGHE<MAES<<<<<<<<<<<<<",
+            "RJ8385147BEL960414<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-11-12",
+        "passport_expiry_date": "2029-11-11"
+    },
+    "client_profile": {
+        "name": "Van den Berghe Maes Peiren",
+        "address": {
+            "city": "Genk",
+            "street name": "Rue des Chartreux",
+            "street number": 53,
+            "postal code": "5940"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1996-04-14",
+        "nationality": "Finnish",
+        "passport_number": "RJ8385147",
+        "passport_issue_date": "2022-11-12",
+        "passport_expiry_date": "2029-11-11",
+        "gender": "M",
+        "phone_number": "0428 834 169",
+        "email_address": "vandenberghe.peiren@telenet.be",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Institut Notre-Dame de la Paix",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "University of Mons",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": 2023,
+                "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+                "position": "Associate Attorney",
+                "salary": 38000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 1620000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Van den Berghe Maes Peiren",
+        "first_name": "Van den Berghe",
+        "middle_name": "Maes",
+        "last_name": "Peiren",
+        "passport_number": "RJ8385147",
+        "currency": "EUR",
+        "address": {
+            "city": "Genk",
+            "street name": "Rue des Chartreux",
+            "street number": 53,
+            "postal code": "5940"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0428 834 169",
+        "email_address": "vandenberghe.peiren@telenet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Van den Berghe Maes Peiren at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nVan den Berghe Maes Peiren is a 28 year old and comes from Belgium.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Van den Berghe Maes Peiren is currently divorced. He does not have any children.",
+        "Education Background": "Van den Berghe received his secondary school diploma from Institut Notre-Dame de la Paix in 2014.\nAfter that, he went on to study at University of Mons until 2007.\n",
+        "Occupation History": "Van den Berghe Maes Peiren is a 28 year old and comes from Belgium.\nIn 2020, Van den Berghe Maes Peiren started working as a Associate Attorney at Liedekerke Wolters Waelbroeck Kirkpatrick, marking the beginning of his successful career.\n",
+        "Wealth Summary": "Throughout his career, he saved 20000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.In 2015, he received an inheritance of 1620000 EUR from his late grandmother, who was a prominent Tech Entrepreneur, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Anna",
+        "middle_name": "Frederikke",
+        "last_name": "Andersen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1956-09-22",
+        "passport_number": "ZP7295185",
+        "passport_mrz": [
+            "P<DNKANDERSEN<<ANNA<FREDERIKKE<<<<<<<<<<<<<<<",
+            "ZP7295185DNK560922<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-01-03",
+        "passport_expiry_date": "2032-01-02"
+    },
+    "client_profile": {
+        "name": "Anna Frederikke Andersen",
+        "address": {
+            "city": "Copenhagen",
+            "street name": "Linnemannsgade",
+            "street number": 35,
+            "postal code": "1381"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1956-09-22",
+        "nationality": "Danish",
+        "passport_number": "ZP7295185",
+        "passport_issue_date": "2022-01-03",
+        "passport_expiry_date": "2032-01-02",
+        "gender": "F",
+        "phone_number": "+45 88 40 14 08",
+        "email_address": "anna.andersen@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "S\u00f8nderborg Statsskole",
+            "graduation_year": 1975
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1980,
+                "end_year": 1983,
+                "company": "Total E&P Danmark A/S",
+                "position": "Drilling Engineer",
+                "salary": 278000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "Maersk Oil A/S",
+                "position": "Reservoir Engineer",
+                "salary": 386000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 2017,
+                "company": "Total E&P Danmark A/S",
+                "position": "Operations Manager",
+                "salary": 4203000
+            }
+        ],
+        "aum": {
+            "savings": 8090000,
+            "inheritance": 0,
+            "real_estate_value": 4161000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1421000,
+                "property location": "Copenhagen"
+            },
+            {
+                "property type": "house",
+                "property value": 1850000,
+                "property location": "Horsens"
+            },
+            {
+                "property type": "flat",
+                "property value": 890000,
+                "property location": "Taastrup"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Netherlands"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Anna Frederikke Andersen",
+        "first_name": "Anna",
+        "middle_name": "Frederikke",
+        "last_name": "Andersen",
+        "passport_number": "ZP7295185",
+        "currency": "DKK",
+        "address": {
+            "city": "Copenhagen",
+            "street name": "Linnemannsgade",
+            "street number": 35,
+            "postal code": "1381"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 88 40 14 08",
+        "email_address": "anna.andersen@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Anna Frederikke Andersen at a luxury car show in Copenhagen. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nAnna Frederikke Andersen is a 68 year old retired Operations Manager from Denmark.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Anna Frederikke Andersen is currently divorced. Her children are named Christensen and Friis.",
+        "Education Background": "In 1975, Anna finished her secondary school education at S\u00f8nderborg Statsskole.\nAfter that, she went on to study at Aarhus University until 1980.\n",
+        "Occupation History": "With a career spanning nearly 45 years, Anna Frederikke Andersen has established herself as a key player in the industry.\nIn 1980, Anna Frederikke Andersen started working as a Drilling Engineer at Total E&P Danmark A/S, marking the beginning of her successful career.\nHer subsequent role was as a Reservoir Engineer at Maersk Oil A/S, where she continued to grow professionally from 1985 to 1987.\nFrom 1988 till retirement, she served as a Operations Manager at Total E&P Danmark A/S, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "While working, she saved 8090000 DKK, which she used to build a diversified investment portfolio.\nShe owns condo in Copenhagen, where she resides. It is worth 1421000 DKK.\n\nIn addition to her primary residence, she owns house in Horsens worth 1850000 DKK.\n\nOn top of that she inherited a beautiful flat in Taastrup, which could be used as a weekend getaway. It is valued at 890000 DKK.\nShe does not have any inheritances.",
+        "Client Summary": "In summary, Anna has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

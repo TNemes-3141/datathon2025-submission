@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Emma",
+        "middle_name": "Evelyne",
+        "last_name": "Suter",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "2001-02-16",
+        "passport_number": "BJ5840698",
+        "passport_mrz": [
+            "P<CHESUTER<<EMMA<EVELYNE<<<<<<<<<<<<<<<<<<<<<",
+            "BJ5840698CHE010216<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-03-23",
+        "passport_expiry_date": "2031-03-22"
+    },
+    "client_profile": {
+        "name": "Emma Evelyne Suter",
+        "address": {
+            "city": "Bern",
+            "street name": "Niederdorf",
+            "street number": 33,
+            "postal code": "2498"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "2001-02-16",
+        "nationality": "Swiss",
+        "passport_number": "BJ5840698",
+        "passport_issue_date": "2021-03-23",
+        "passport_expiry_date": "2030-07-17",
+        "gender": "F",
+        "phone_number": "+41 094 046 26 55",
+        "email_address": "emma.suter@gmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Gymnasium K\u00f6niz Bern",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "University of Bern",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1200000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Emma Evelyne Suter",
+        "first_name": "Emma",
+        "middle_name": "Evelyne",
+        "last_name": "Suter",
+        "passport_number": "BJ5840698",
+        "currency": "CHF",
+        "address": {
+            "city": "Bern",
+            "street name": "Niederdorf",
+            "street number": 33,
+            "postal code": "2498"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 094 046 26 556",
+        "email_address": "emma.suter@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Emma Evelyne Suter and the RM are cousins, having grown up together in Z\u00fcrich. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nEmma Evelyne Suter is a 24 year old and comes from Switzerland.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Emma Evelyne Suter is currently single. She does not have any children.",
+        "Education Background": "Emma obtained her secondary school diploma from Gymnasium K\u00f6niz Bern in 2019.\nEmma finished her studies at University of Bern in 2023.\n",
+        "Occupation History": "Emma Evelyne Suter is a 24 year old and comes from Switzerland.\nEmma Evelyne Suter did not start her professional career yet.",
+        "Wealth Summary": "She did not manage to save any money during her career.\nClient does not have any properties.\nFollowing the passing of her grandmother, a successful Oil and Gas Executive, she received an inheritance of 1200000 CHF in 2016, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is committed to helping Emma achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

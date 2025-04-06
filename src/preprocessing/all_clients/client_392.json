@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Sch\u00e4fer",
+        "middle_name": "Wagner",
+        "last_name": "Fischer",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1983-06-15",
+        "passport_number": "ZP2945924",
+        "passport_mrz": [
+            "P<DEUFISCHER<<SCH\u00c4FER<WAGNER<<<<<<<<<<<<<<<<<",
+            "ZP2945924DEU830615<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-12-13",
+        "passport_expiry_date": "2032-12-12"
+    },
+    "client_profile": {
+        "name": "Sch\u00e4fer Wagner Fischer",
+        "address": {
+            "city": "Heidelberg",
+            "street name": "Kurf\u00fcrstendamm",
+            "street number": 65,
+            "postal code": "48438"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1983-06-15",
+        "nationality": "German",
+        "passport_number": "ZP2945924",
+        "passport_issue_date": "2022-12-13",
+        "passport_expiry_date": "2032-12-12",
+        "gender": "M",
+        "phone_number": "2705 347914",
+        "email_address": "schafer.fischer@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Fichte-Gymnasium Halle",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "ESMT Berlin",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2013,
+                "company": "Cinven Deutschland GmbH",
+                "position": "Analyst",
+                "salary": 52000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Apollo Global Management GmbH",
+                "position": "Associate",
+                "salary": 147000
+            }
+        ],
+        "aum": {
+            "savings": 190000,
+            "inheritance": 2310000,
+            "real_estate_value": 2900000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2009,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 970000,
+                "property location": "Heidelberg"
+            },
+            {
+                "property type": "house",
+                "property value": 1930000,
+                "property location": "Leipzig"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sch\u00e4fer Wagner Fischer",
+        "first_name": "Sch\u00e4fer",
+        "middle_name": "Wagner",
+        "last_name": "Fischer",
+        "passport_number": "ZP2945924",
+        "currency": "EUR",
+        "address": {
+            "city": "Heidelberg",
+            "street name": "Kurf\u00fcrstendamm",
+            "street number": 65,
+            "postal code": "48438"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "2705 347914",
+        "email_address": "schafer.fischer@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Sch\u00e4fer Wagner Fischer's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nSch\u00e4fer Wagner Fischer is a 41 year old Associate from Germany. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Sch\u00e4fer Wagner Fischer is currently single. He does not have any children.",
+        "Education Background": "Sch\u00e4fer finished secondary school at Fichte-Gymnasium Halle in 2002.\nIn 2007, Sch\u00e4fer graduated from ESMT Berlin with a degree.\n",
+        "Occupation History": "Having worked for over 17 years, Sch\u00e4fer Wagner Fischer brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nSch\u00e4fer Wagner Fischer launched his career as a Analyst at Cinven Deutschland GmbH, where he gained valuable experience from 2008 to 2013.\nIn 2014, he moved to Apollo Global Management GmbH to work as a Associate, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 190000 EUR, which he used to build a diversified investment portfolio.\nHe has condo located in Heidelberg, worth 970000 EUR.\n\nIn addition to his primary residence, he owns house in Leipzig worth 1930000 EUR.\n\nHe inherited a significant sum of 2310000 EUR from his father, a respected Investment Banker, in 2009, which he has wisely invested.\n",
+        "Client Summary": "In summary, Sch\u00e4fer has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

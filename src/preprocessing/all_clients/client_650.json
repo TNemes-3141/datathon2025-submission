@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Gruber",
+        "middle_name": "Hinterleitner",
+        "last_name": "Schnell",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1998-11-09",
+        "passport_number": "OE2665473",
+        "passport_mrz": [
+            "P<AUTSCHNELL<<GRUBER<HINTERLEITNER<<<<<<<<<<<",
+            "OE2665473AUT981109<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-09",
+        "passport_expiry_date": "2029-05-08"
+    },
+    "client_profile": {
+        "name": "Gruber Hinterleitner Schnell",
+        "address": {
+            "city": "Rosenheim",
+            "street name": "Gasometerstra\u00dfe",
+            "street number": 82,
+            "postal code": "2489"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1998-11-09",
+        "nationality": "Austrian",
+        "passport_number": "OE2665473",
+        "passport_issue_date": "2019-05-09",
+        "passport_expiry_date": "2092-05-08",
+        "gender": "M",
+        "phone_number": "027 046 9774",
+        "email_address": "gruber.schnell@vol.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "BRG/BORG Dornbirn",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Academy of Fine Arts Vienna",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": 2025,
+                "company": "Petra Hartmann GmbH",
+                "position": "Assistant Designer",
+                "salary": 29000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1770000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gruber Hinterleitner Schnell",
+        "first_name": "Gruber",
+        "middle_name": "Hinterleitner",
+        "last_name": "Schnell",
+        "passport_number": "OE2665473",
+        "currency": "EUR",
+        "address": {
+            "city": "Rosenheim",
+            "street name": "Gasometerstra\u00dfe",
+            "street number": 82,
+            "postal code": "2489"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "027 046 97745",
+        "email_address": "gruber.schnell@vol.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Gruber Hinterleitner Schnell's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nGruber Hinterleitner Schnell is a 26 year old and comes from Austria.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Gruber Hinterleitner Schnell is currently single. He does not have any children.",
+        "Education Background": "Gruber obtained his secondary school diploma from BRG/BORG Dornbirn in 2016.\nGruber finished his studies at Academy of Fine Arts Vienna in 2022.\n",
+        "Occupation History": "Gruber Hinterleitner Schnell is a 26 year old and comes from Austria.\nAt Petra Hartmann GmbH, Gruber Hinterleitner Schnell held the position of Assistant Designer from 2022 to 2025, developing essential skills in the field.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 10000 EUR.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1770000 EUR from his late grandfather, a renowned Hedge Fund Manager, in 2017.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

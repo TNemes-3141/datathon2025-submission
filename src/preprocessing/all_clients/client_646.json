@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Roelandts",
+        "middle_name": "Peiren",
+        "last_name": "Thiry",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1984-09-06",
+        "passport_number": "YR2402830",
+        "passport_mrz": [
+            "P<BELTHIRY<<ROELANDTS<PEIREN<<<<<<<<<<<<<<<<<",
+            "YR2402830BEL840906<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-07-24",
+        "passport_expiry_date": "2025-07-23"
+    },
+    "client_profile": {
+        "name": "Roelandts Peiren Thiry",
+        "address": {
+            "city": "Ghent",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 66,
+            "postal code": "8370"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1984-09-06",
+        "nationality": "Belgian",
+        "passport_number": "YR2402830",
+        "passport_issue_date": "2018-07-24",
+        "passport_expiry_date": "2025-07-23",
+        "gender": "M",
+        "phone_number": "+32 0416 740 378",
+        "email_address": "roelandts.thiry@telenet.be",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Institut Saint-Stanislas",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "KU Leuven",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2010,
+                "company": "Marriott International Belgium",
+                "position": "Hotel Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "The Hotel Brussels",
+                "position": "General Manager",
+                "salary": 150000
+            }
+        ],
+        "aum": {
+            "savings": 180000,
+            "inheritance": 1870000,
+            "real_estate_value": 920000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 920000,
+                "property location": "Ghent"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Roelandts Peiren Thiry",
+        "first_name": "Roelandts",
+        "middle_name": "Peiren",
+        "last_name": "Thiry",
+        "passport_number": "YR2402830",
+        "currency": "EUR",
+        "address": {
+            "city": "Ghent",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 66,
+            "postal code": "8370"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0416 740 378",
+        "email_address": "roelandts.thiry@telenet.be"
+    },
+    "client_description": {
+        "Summary Note": "Roelandts Peiren Thiry and the RM were introduced at an art auction in Brussels. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nHaving worked for over 16 years, Roelandts Peiren Thiry brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Roelandts Peiren Thiry is currently divorced. He has 2 kids called Maes and Fatima.",
+        "Education Background": "Roelandts finished secondary school at Institut Saint-Stanislas in 2002.\nRoelandts completed his university studies at KU Leuven in 2009.\n",
+        "Occupation History": "Having worked for over 16 years, Roelandts Peiren Thiry brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nRoelandts Peiren Thiry launched his career as a Hotel Manager at Marriott International Belgium, where he gained valuable experience from 2009 to 2010.\nHe then transitioned to The Hotel Brussels as a General Manager, leveraging his expertise to drive results from 2011 till now.\n",
+        "Wealth Summary": "While working, he saved 180000 EUR, which he used to build a diversified investment portfolio.\nHe owns condo in Ghent, where he resides. It is worth 920000 EUR.\n\nHe inherited 1870000 EUR from his grandfather, a well-known Neurosurgeon, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

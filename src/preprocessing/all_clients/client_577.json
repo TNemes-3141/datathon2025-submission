@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Hansen",
+        "middle_name": "Petersen",
+        "last_name": "Friis",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1997-08-11",
+        "passport_number": "FZ2636524",
+        "passport_mrz": [
+            "P<DNKFRIIS<<HANSEN<PETERSEN<<<<<<<<<<<<<<<<<<",
+            "FZ2636524DNK970811<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-07-05",
+        "passport_expiry_date": "2031-07-04"
+    },
+    "client_profile": {
+        "name": "Hansen Petersen Friis",
+        "address": {
+            "city": "N\u00e6stved",
+            "street name": "Skindergade",
+            "street number": 35,
+            "postal code": "3636"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1997-08-11",
+        "nationality": "Danish",
+        "passport_number": "FZ2636524",
+        "passport_issue_date": "2021-07-05",
+        "passport_expiry_date": "2031-07-04",
+        "gender": "M",
+        "phone_number": "+45 87 74 04 35",
+        "email_address": "hansen.friis@siminn.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Aabenraa Gymnasium",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Technical University of Denmark (DTU)",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": 2025,
+                "company": "Weibel Scientific A/S",
+                "position": "Aerospace Engineer",
+                "salary": 270000
+            }
+        ],
+        "aum": {
+            "savings": 150000,
+            "inheritance": 7840000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Hansen Petersen Friis",
+        "first_name": "Hansen",
+        "middle_name": "Petersen",
+        "last_name": "Friis",
+        "passport_number": "FZ2636524",
+        "currency": "DKK",
+        "address": {
+            "city": "N\u00e6stved",
+            "street name": "Skindergade",
+            "street number": 35,
+            "postal code": "3636"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 87 74 04 35",
+        "email_address": "hansen.friis@siminn.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Hansen Petersen Friis at a yacht party in Copenhagen. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nHansen Petersen Friis is a 27 year old Aerospace Engineer from Denmark.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Hansen Petersen Friis is currently divorced. He does not have any children.",
+        "Education Background": "Hansen obtained his secondary school diploma from Aabenraa Gymnasium in 2016.\nHansen graduated from Technical University of Denmark (DTU) in 2009, completing his higher education.\n",
+        "Occupation History": "Hansen Petersen Friis is a 27 year old and comes from Denmark.\nHansen Petersen Friis launched his career as a Aerospace Engineer at Weibel Scientific A/S, where he gained valuable experience from 2021 to 2025.\n",
+        "Wealth Summary": "While working, he saved 150000 DKK, which he used to build a diversified investment portfolio.\nClient does not have any properties.In 2015, he received an inheritance of 7840000 DKK from his late grandmother, who was a prominent Oil and Gas Executive, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Hansen has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

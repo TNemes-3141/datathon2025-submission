@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Weber",
+        "middle_name": "Koch",
+        "last_name": "Herrmann",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "2001-02-09",
+        "passport_number": "BQ5269182",
+        "passport_mrz": [
+            "P<DEUHERRMANN<<WEBER<KOCH<<<<<<<<<<<<<<<<<<<<",
+            "BQ5269182DEU010209<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-03-26",
+        "passport_expiry_date": "2030-03-25"
+    },
+    "client_profile": {
+        "name": "Weber Koch Herrmann",
+        "address": {
+            "city": "Erlangen",
+            "street name": "Johannisstra\u00dfe",
+            "street number": 59,
+            "postal code": "95099"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "2001-02-09",
+        "nationality": "German",
+        "passport_number": "BQ5269182",
+        "passport_issue_date": "2020-03-26",
+        "passport_expiry_date": "2030-03-25",
+        "gender": "M",
+        "phone_number": "+49 5320 987992",
+        "email_address": "weber.herrmann@t-online.de",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Pestalozzi-Gymnasium N\u00fcrnberg",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "RWTH Aachen University",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2740000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Weber Koch Herrmann",
+        "first_name": "Weber",
+        "middle_name": "Koch",
+        "last_name": "Herrmann",
+        "passport_number": "BQ5269182",
+        "currency": "EUR",
+        "address": {
+            "city": "Erlangen",
+            "street name": "Johannisstra\u00dfe",
+            "street number": 59,
+            "postal code": "95099"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 5320 987992",
+        "email_address": "weber.herrmann@t-online.de"
+    },
+    "client_description": {
+        "Summary Note": "Weber Koch Herrmann and the RM met at a networking event in Berlin. They quickly realized they had complementary skills and decided to collaborate on several projects.\nWeber Koch Herrmann is a 24 year old and comes from Germany.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Weber Koch Herrmann is currently single. He does not have any children.",
+        "Education Background": "In 2019, Weber graduated from Pestalozzi-Gymnasium N\u00fcrnberg with a secondary school diploma.\nWeber graduated from RWTH Aachen University in 2025, completing his higher education.\n",
+        "Occupation History": "Weber Koch Herrmann is a 24 year old and comes from Germany.\nWeber Koch Herrmann did not start his professional career yet.",
+        "Wealth Summary": "He did not have any savings to invest in financial markets.\nClient does not have any properties.In 2018, he received an inheritance of 2740000 EUR from his late grandmother, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is committed to helping Weber achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

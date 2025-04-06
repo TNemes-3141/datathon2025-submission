@@ -1,0 +1,138 @@
+{
+    "passport": {
+        "first_name": "Russo",
+        "middle_name": "Galli",
+        "last_name": "Bianchi",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1966-04-18",
+        "passport_number": "XR7950302",
+        "passport_mrz": [
+            "P<ITABIANCHI<<RUSSO<GALLI<<<<<<<<<<<<<<<<<<<<",
+            "XR7950302ITA660418<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-04-05",
+        "passport_expiry_date": "2028-04-04"
+    },
+    "client_profile": {
+        "name": "Russo Galli Bianchi",
+        "address": {
+            "city": "Turin",
+            "street name": "Galleria Vittorio Emanuele II",
+            "street number": 10,
+            "postal code": "60963"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1966-04-18",
+        "nationality": "Italian",
+        "passport_number": "XR7950302",
+        "passport_issue_date": "2018-04-05",
+        "passport_expiry_date": "2028-04-04",
+        "gender": "M",
+        "phone_number": "321 9376482",
+        "email_address": "russo.bianchi@libero.it",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Liceo Musicale Arrigo Boito Parma",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "Normal Superior School of Pisa",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1995,
+                "company": "Versace S.p.A.",
+                "position": "Assistant Designer",
+                "salary": 32000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1998,
+                "company": "Versace S.p.A.",
+                "position": "Senior Designer",
+                "salary": 40000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "Gucci S.p.A.",
+                "position": "Creative Director",
+                "salary": 54000
+            },
+            {
+                "start_year": 2002,
+                "end_year": null,
+                "company": "Prada S.p.A.",
+                "position": "Founder/Designer",
+                "salary": 856000
+            }
+        ],
+        "aum": {
+            "savings": 1440000,
+            "inheritance": 1620000,
+            "real_estate_value": 4160000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2011,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1358000,
+                "property location": "Turin"
+            },
+            {
+                "property type": "villa",
+                "property value": 1860000,
+                "property location": "Naples"
+            },
+            {
+                "property type": "condo",
+                "property value": 942000,
+                "property location": "Messina"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Russo Galli Bianchi",
+        "first_name": "Russo",
+        "middle_name": "Galli",
+        "last_name": "Bianchi",
+        "passport_number": "XR7950302",
+        "currency": "EUR",
+        "address": {
+            "city": "Turin",
+            "street name": "Galleria Vittorio Emanuele II",
+            "street number": 10,
+            "postal code": "60963"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "321 9376482",
+        "email_address": "russo.bianchi@libero.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Russo Galli Bianchi during a business conference in Rome. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nHaving worked for over 35 years, Russo Galli Bianchi brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Russo Galli Bianchi is currently divorced. He does not have any children.",
+        "Education Background": "Russo graduated from Liceo Musicale Arrigo Boito Parma in 1986.\nRusso graduated from Normal Superior School of Pisa in 1989, completing his higher education.\n",
+        "Occupation History": "Having worked for over 35 years, Russo Galli Bianchi brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nRusso Galli Bianchi launched his career as a Assistant Designer at Versace S.p.A., where he gained valuable experience from 1990 to 1995.\nHe then transitioned to Versace S.p.A. as a Senior Designer, leveraging his expertise to drive results from 1996 to 1998.\nAt Gucci S.p.A., he worked as a Creative Director from 1999 to 2000, focusing on strategic initiatives and team collaboration.\nIn 2002, he transitioned to Prada S.p.A. to take on the position of Founder/Designer, capitalizing on his expertise to propel business growth.\n",
+        "Wealth Summary": "He managed to save approximately 1440000 EUR from his earnings at all companies.\nHe has invested in several rental properties across various locations, generating additional income. The properties are valued at 4160000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1620000 EUR from his late father, a renowned Venture Capitalist, in 2011.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Donati",
+        "middle_name": "Marini",
+        "last_name": "Esposito",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1966-11-13",
+        "passport_number": "MW6778541",
+        "passport_mrz": [
+            "P<ITAESPOSITO<<DONATI<MARINI<<<<<<<<<<<<<<<<<",
+            "MW6778541ITA661113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-10",
+        "passport_expiry_date": "2029-08-09"
+    },
+    "client_profile": {
+        "name": "Donati Marini Esposito",
+        "address": {
+            "city": "Siena",
+            "street name": "Corso Garibaldi",
+            "street number": 38,
+            "postal code": "76822"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1966-11-13",
+        "nationality": "Italian",
+        "passport_number": "MW6778541",
+        "passport_issue_date": "2019-08-10",
+        "passport_expiry_date": "2029-08-09",
+        "gender": "M",
+        "phone_number": "+39 350 9125794",
+        "email_address": "donati.esposito@icloud.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Liceo Artistico Michelangelo Buonarroti Venezia",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "Normal Superior School of Pisa",
+                "graduation_year": 1990
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1991,
+                "end_year": 1992,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "Research Scientist",
+                "salary": 24000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1997,
+                "company": "Roche S.p.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 43000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "Novartis Farma S.p.A.",
+                "position": "CEO",
+                "salary": 59000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2004,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Venture Capitalist",
+                "salary": 92000
+            },
+            {
+                "start_year": 2006,
+                "end_year": null,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "Industry Leader",
+                "salary": 735000
+            }
+        ],
+        "aum": {
+            "savings": 1110000,
+            "inheritance": 350000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2006,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Donati Marini Esposito",
+        "first_name": "Donati",
+        "middle_name": "Marini",
+        "last_name": "Esposito",
+        "passport_number": "MW6778541",
+        "currency": "EUR",
+        "address": {
+            "city": "Siena",
+            "street name": "Corso Garibaldi",
+            "street number": 38,
+            "postal code": "76822"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 350 9125794",
+        "email_address": "donati.esposito@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Donati Marini Esposito at a yacht party in Rome. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nHaving worked for over 34 years, Donati Marini Esposito brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Donati Marini Esposito is currently divorced. He does not have any children.",
+        "Education Background": "Donati received his secondary school diploma from Liceo Artistico Michelangelo Buonarroti Venezia in 1986.\nAfter that, he went on to study at Normal Superior School of Pisa until 1990.\n",
+        "Occupation History": "Having worked for over 34 years, Donati Marini Esposito brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nDonati Marini Esposito's first role was as a Research Scientist at Menarini Industrie Farmaceutiche Riunite S.r.l., where he worked diligently from 1991 to 1992 to establish a strong reputation.\nIn 1993, he moved to Roche S.p.A. to work as a Biotech Startup Founder, applying his knowledge to achieve outstanding performance.\nAt Novartis Farma S.p.A., he worked as a CEO from 1999 to 2000, focusing on strategic initiatives and team collaboration.\nIn 2000, he transitioned to Novartis Farma S.p.A. to take on the position of Venture Capitalist, capitalizing on his expertise to propel business growth.\nSince joining Menarini Industrie Farmaceutiche Riunite S.r.l. as a Industry Leader in 2006, he has established himself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1110000 EUR.\nClient does not have any properties.In 2006, he received an inheritance of 350000 EUR from his late mother, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

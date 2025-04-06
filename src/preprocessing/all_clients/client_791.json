@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Daantje",
+        "middle_name": "Joke",
+        "last_name": "Krol",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1998-01-15",
+        "passport_number": "LZ6333975",
+        "passport_mrz": [
+            "P<NLDKROL<<DAANTJE<JOKE<<<<<<<<<<<<<<<<<<<<<<",
+            "LZ6333975NLD980115<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-05-09",
+        "passport_expiry_date": "2028-05-08"
+    },
+    "client_profile": {
+        "name": "Daantje Joke Krol",
+        "address": {
+            "city": "Delft",
+            "street name": "Eindhovenseweg",
+            "street number": 26,
+            "postal code": "1299 36"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1998-01-15",
+        "nationality": "Dutch",
+        "passport_number": "LZ6333975",
+        "passport_issue_date": "2018-05-09",
+        "passport_expiry_date": "2028-05-08",
+        "gender": "F",
+        "phone_number": "06 05321381",
+        "email_address": "daantje.krol@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "RSG Magister Almelo",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "Tio University of Applied Sciences",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "PGGM Investments",
+                "position": "Stockbroker",
+                "salary": 43000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 1360000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Daantje Joke Krol",
+        "first_name": "Daantje",
+        "middle_name": "Joke",
+        "last_name": "Krol",
+        "passport_number": "LZ6333975",
+        "currency": "EUR",
+        "address": {
+            "city": "Delft",
+            "street name": "Eindhovenseweg",
+            "street number": 26,
+            "postal code": "1299 36"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 05321381",
+        "email_address": "daantje.krol@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Daantje Joke Krol and the RM met at a financial seminar in Amsterdam. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nDaantje Joke Krol is a 27 year old Stockbroker from Netherlands.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Daantje Joke Krol is currently single. She does not have any children.",
+        "Education Background": "Daantje received her secondary school diploma from RSG Magister Almelo in 2015.\nIn 2021, Daantje graduated from Tio University of Applied Sciences with a degree.\n",
+        "Occupation History": "Daantje Joke Krol is a 27 year old Stockbroker from Netherlands.\nAt PGGM Investments, Daantje Joke Krol held the position of Stockbroker from 2022 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "Throughout her career, she saved 20000 EUR, investing in various assets to grow her wealth.\nClient does not have any properties.\nFollowing the passing of her grandmother, a successful Real Estate Developer, she received an inheritance of 1360000 EUR in 2020, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In summary, Daantje has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

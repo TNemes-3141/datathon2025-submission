@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Belli",
+        "middle_name": "Landi",
+        "last_name": "Donati",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1978-10-01",
+        "passport_number": "VK0360169",
+        "passport_mrz": [
+            "P<ITADONATI<<BELLI<LANDI<<<<<<<<<<<<<<<<<<<<<",
+            "VK0360169ITA781001<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-12-03",
+        "passport_expiry_date": "2031-12-02"
+    },
+    "client_profile": {
+        "name": "Belli Landi Donati",
+        "address": {
+            "city": "Treviso",
+            "street name": "Via Condotti",
+            "street number": 73,
+            "postal code": "01009"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1978-10-01",
+        "nationality": "Italian",
+        "passport_number": "VK0360169",
+        "passport_issue_date": "2021-12-03",
+        "passport_expiry_date": "2031-12-02",
+        "gender": "M",
+        "phone_number": "390 7087234",
+        "email_address": "belli.donati@unidata.it",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Liceo Classico Annibale Mariotti Siena",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "Luiss Guido Carli",
+                "graduation_year": 2003
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2005,
+                "company": "Banca Monte dei Paschi di Siena S.p.A.",
+                "position": "Investment Banker",
+                "salary": 23000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2008,
+                "company": "UniCredit S.p.A.",
+                "position": "Private Equity Investor",
+                "salary": 39000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "UniCredit S.p.A.",
+                "position": "Hedge Fund Manager",
+                "salary": 64000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2016,
+                "company": "UBM S.p.A.",
+                "position": "Venture Capitalist",
+                "salary": 91000
+            },
+            {
+                "start_year": 2016,
+                "end_year": 2025,
+                "company": "Intesa Sanpaolo S.p.A.",
+                "position": "Billionaire Investor",
+                "salary": 212000
+            }
+        ],
+        "aum": {
+            "savings": 340000,
+            "inheritance": 1630000,
+            "real_estate_value": 1390000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 740000,
+                "property location": "Treviso"
+            },
+            {
+                "property type": "flat",
+                "property value": 650000,
+                "property location": "Trieste"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Belli Landi Donati",
+        "first_name": "Belli",
+        "middle_name": "Landi",
+        "last_name": "Donati",
+        "passport_number": "VK0360169",
+        "currency": "EUR",
+        "address": {
+            "city": "Treviso",
+            "street name": "Via Condotti",
+            "street number": 73,
+            "postal code": "01009"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "390 7087234",
+        "email_address": "belli.donati@unidata.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Belli Landi Donati on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nWith a career spanning nearly 22 years, Belli Landi Donati has established himself as a key player in the industry.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Belli Landi Donati is currently single. He does not have any children.",
+        "Education Background": "Belli received his secondary school diploma from Liceo Classico Annibale Mariotti Siena in 1996.\nBelli earned his degree from Luiss Guido Carli in 2003.\n",
+        "Occupation History": "With a career spanning nearly 22 years, Belli Landi Donati has established himself as a key player in the industry.\nBelli Landi Donati began his professional journey as a Investment Banker at Banca Monte dei Paschi di Siena S.p.A. in 2003, laying the foundation for future success.\nIn 2007, he moved to UniCredit S.p.A. to work as a Private Equity Investor, applying his knowledge to achieve outstanding performance.\nIn 2008, he joined UniCredit S.p.A. as a Hedge Fund Manager, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nAfter 9 years of dedication, he assumed the role of Venture Capitalist at UBM S.p.A. in 2013, spearheading high-profile projects and mentoring junior colleagues.\nHe has been a Billionaire Investor at Intesa Sanpaolo S.p.A. since 2016, consistently demonstrating his ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "He managed to save approximately 340000 EUR from his earnings at all companies.\nHe is still learning about investment strategies and market dynamics.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Treviso and Trieste, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2009, he received an inheritance of 1630000 EUR from his late grandfather, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Fuchs",
+        "middle_name": "Rieder",
+        "last_name": "Reiter",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1988-02-24",
+        "passport_number": "BW6971467",
+        "passport_mrz": [
+            "P<AUTREITER<<FUCHS<RIEDER<<<<<<<<<<<<<<<<<<<<",
+            "BW6971467AUT880224<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-11-23",
+        "passport_expiry_date": "2032-11-22"
+    },
+    "client_profile": {
+        "name": "Fuchs Rieder Reiter",
+        "address": {
+            "city": "Stockerau",
+            "street name": "Donaustra\u00dfe",
+            "street number": 82,
+            "postal code": "1665"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1988-02-24",
+        "nationality": "Austrian",
+        "passport_number": "BW6971467",
+        "passport_issue_date": "2022-11-23",
+        "passport_expiry_date": "2032-11-22",
+        "gender": "M",
+        "phone_number": "+43 727 105 4199",
+        "email_address": "fuchs.reiter@liwest.at",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Erzbisch\u00f6fliches Gymnasium Borrom\u00e4um",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "Montanuniversit\u00e4t Leoben",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2012,
+                "end_year": 2015,
+                "company": "Marinomed Biotechnologie GmbH",
+                "position": "Research Scientist",
+                "salary": 31000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Octapharma AG",
+                "position": "Biotech Startup Founder",
+                "salary": 62000
+            }
+        ],
+        "aum": {
+            "savings": 80000,
+            "inheritance": 3750000,
+            "real_estate_value": 1780000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 880000,
+                "property location": "Stockerau"
+            },
+            {
+                "property type": "condo",
+                "property value": 900000,
+                "property location": "Eisenstadt"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fuchs Rieder Reiter",
+        "first_name": "Fuchs",
+        "middle_name": "Rieder",
+        "last_name": "Reiter",
+        "passport_number": "BW6971467",
+        "currency": "EUR",
+        "address": {
+            "city": "Stockerau",
+            "street name": "Donaustra\u00dfe",
+            "street number": 82,
+            "postal code": "1665"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 727 105 4199",
+        "email_address": "fuchs.reiter@liwest.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Fuchs Rieder Reiter at a golf tournament in Vienna. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nFuchs Rieder Reiter is a 37 year old and comes from Austria.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Fuchs Rieder Reiter is currently widowed. He does not have any children.",
+        "Education Background": "Fuchs earned his secondary school diploma from Erzbisch\u00f6fliches Gymnasium Borrom\u00e4um in 2006.\nFuchs graduated from Montanuniversit\u00e4t Leoben in 2011, completing his higher education.\n",
+        "Occupation History": "Having worked for over 13 years, Fuchs Rieder Reiter brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAt Marinomed Biotechnologie GmbH, Fuchs Rieder Reiter held the position of Research Scientist from 2012 to 2015, developing essential skills in the field.\nAfter gaining experience, he took on the role of Biotech Startup Founder at Octapharma AG in 2015, further expanding his skill set.\n",
+        "Wealth Summary": "Throughout his career, he saved 80000 EUR, investing in various assets to grow his wealth.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Stockerau and Eisenstadt, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2015, he received an inheritance of 3750000 EUR from his late grandfather, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

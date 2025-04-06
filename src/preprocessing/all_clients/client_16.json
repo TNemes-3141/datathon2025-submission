@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Beatriz",
+        "middle_name": "Araceli",
+        "last_name": "S\u00e1nchez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1966-09-18",
+        "passport_number": "LM1530566",
+        "passport_mrz": [
+            "P<ESPS\u00c1NCHEZ<<BEATRIZ<ARACELI<<<<<<<<<<<<<<<<",
+            "LM1530566ESP660918<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-10-08",
+        "passport_expiry_date": "2033-10-07"
+    },
+    "client_profile": {
+        "name": "Beatriz Araceli S\u00e1nchez",
+        "address": {
+            "city": "Castell\u00f3n de la Plana",
+            "street name": "Plaza de la Trinidad",
+            "street number": 34,
+            "postal code": "69304"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1966-09-18",
+        "nationality": "Spanish",
+        "passport_number": "LM1530566",
+        "passport_issue_date": "2023-10-08",
+        "passport_expiry_date": "2033-10-07",
+        "gender": "F",
+        "phone_number": "+34 687 640 837",
+        "email_address": "beatriz.sanchez@orange.es",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Federico Garc\u00eda Lorca Granada",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "University of Seville",
+                "graduation_year": 1990
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Realia Business S.A.",
+                "position": "Property Manager",
+                "salary": 26000
+            },
+            {
+                "start_year": 1992,
+                "end_year": null,
+                "company": "Metrovacesa S.A.",
+                "position": "Developer",
+                "salary": 232000
+            }
+        ],
+        "aum": {
+            "savings": 440000,
+            "inheritance": 6100000,
+            "real_estate_value": 680000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2006,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 680000,
+                "property location": "Castell\u00f3n de la Plana"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Beatriz Araceli S\u00e1nchez",
+        "first_name": "Beatriz",
+        "middle_name": "Araceli",
+        "last_name": "S\u00e1nchez",
+        "passport_number": "LM1530566",
+        "currency": "EUR",
+        "address": {
+            "city": "Castell\u00f3n de la Plana",
+            "street name": "Plaza de la Trinidad",
+            "street number": 34,
+            "postal code": "69304"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 687 640 837",
+        "email_address": "beatriz.sanchez@orange.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Beatriz Araceli S\u00e1nchez at a golf tournament in Madrid. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nBeatriz Araceli S\u00e1nchez is a 58 year old Developer from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Beatriz Araceli S\u00e1nchez is currently divorced. Her child is named Valeria.",
+        "Education Background": "In 1984, Beatriz finished her secondary school education at IES Federico Garc\u00eda Lorca Granada.\nBeatriz attended University of Seville and graduated in 1990.\n",
+        "Occupation History": "Beatriz Araceli S\u00e1nchez is a 58 year old Developer from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nBeatriz Araceli S\u00e1nchez began her professional journey as a Property Manager at Realia Business S.A. in 1990, laying the foundation for future success.\nShe then transitioned to Metrovacesa S.A. as a Developer, leveraging her expertise to drive results from 1992 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 440000 EUR.\nShe owns flat in Castell\u00f3n de la Plana, where she resides. It is worth 680000 EUR.\n\nShe inherited 6100000 EUR from her father, a well-known Tech Entrepreneur, in 2006, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

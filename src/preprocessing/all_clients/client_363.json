@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Ad\u00e8le",
+        "middle_name": "Camille",
+        "last_name": "Lambrechts",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1969-02-25",
+        "passport_number": "YJ8521397",
+        "passport_mrz": [
+            "P<BELLAMBRECHTS<<AD\u00c8LE<CAMILLE<<<<<<<<<<<<<<<",
+            "YJ8521397BEL690225<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-13",
+        "passport_expiry_date": "2027-08-12"
+    },
+    "client_profile": {
+        "name": "Ad\u00e8le Camille Lambrechts",
+        "address": {
+            "city": "Namur",
+            "street name": "Rue des Chartreux",
+            "street number": 40,
+            "postal code": "9603"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1969-02-25",
+        "nationality": "Belgian",
+        "passport_number": "YJ8521397",
+        "passport_issue_date": "2020-08-13",
+        "passport_expiry_date": "2027-08-12",
+        "gender": "F",
+        "phone_number": "+32 0459 973 572",
+        "email_address": "adele.lambrechts@icloud.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Koninklijk Atheneum Anderlecht",
+            "graduation_year": 1987
+        },
+        "higher_education": [
+            {
+                "university": "University of Li\u00e8ge",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1992,
+                "end_year": 1993,
+                "company": "PMV NV",
+                "position": "Stockbroker",
+                "salary": 41000
+            },
+            {
+                "start_year": 1994,
+                "end_year": null,
+                "company": "GIMV NV",
+                "position": "Portfolio Manager",
+                "salary": 396000
+            }
+        ],
+        "aum": {
+            "savings": 810000,
+            "inheritance": 1790000,
+            "real_estate_value": 2800000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2013,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1109000,
+                "property location": "Namur"
+            },
+            {
+                "property type": "villa",
+                "property value": 1691000,
+                "property location": "Wavre"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ad\u00e8le Camille Lambrechts",
+        "first_name": "Ad\u00e8le",
+        "middle_name": "Camille",
+        "last_name": "Lambrechts",
+        "passport_number": "YJ8521397",
+        "currency": "EUR",
+        "address": {
+            "city": "Namur",
+            "street name": "Rue des Chartreux",
+            "street number": 40,
+            "postal code": "9603"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0459 973 572",
+        "email_address": "adele.lambrechts@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Ad\u00e8le Camille Lambrechts since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nAd\u00e8le Camille Lambrechts is a 56 year old and comes from Belgium.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Ad\u00e8le Camille Lambrechts is currently divorced. She has 2 kids called Goossens and Am\u00e9lie.",
+        "Education Background": "Ad\u00e8le received her secondary school diploma from Koninklijk Atheneum Anderlecht in 1987.\nAd\u00e8le attended University of Li\u00e8ge and graduated in 1993.\n",
+        "Occupation History": "With a career spanning nearly 33 years, Ad\u00e8le Camille Lambrechts has established herself as a key player in the industry.\nIn 1992, Ad\u00e8le Camille Lambrechts started working as a Stockbroker at PMV NV, marking the beginning of her successful career.\nAt GIMV NV, she held the position of Portfolio Manager from 1994 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout her career, she saved 810000 EUR, investing in various assets to grow her wealth.\nShe owns 2 exceptional properties: condo located in Namur, valued at approximately 1,109,000.00 EUR, villa located in Wavre, valued at approximately 1,691,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Namur and Wavre.\nShe inherited 1790000 EUR from her grandfather, a well-known Venture Capitalist, in 2013, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

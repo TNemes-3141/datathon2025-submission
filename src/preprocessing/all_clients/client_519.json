@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Sepp\u00e4l\u00e4",
+        "middle_name": "Lehtinen",
+        "last_name": "Laaksonen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1966-06-27",
+        "passport_number": "ZE3843651",
+        "passport_mrz": [
+            "P<FINLAAKSONEN<<SEPP\u00c4L\u00c4<LEHTINEN<<<<<<<<<<<<<",
+            "ZE3843651FIN660627<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-09-13",
+        "passport_expiry_date": "2027-09-12"
+    },
+    "client_profile": {
+        "name": "Sepp\u00e4l\u00e4 Lehtinen Laaksonen",
+        "address": {
+            "city": "Kerava",
+            "street name": "Esplanadi",
+            "street number": 70,
+            "postal code": "10315"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1966-06-27",
+        "nationality": "Finnish",
+        "passport_number": "ZE3843651",
+        "passport_issue_date": "2017-09-13",
+        "passport_expiry_date": "2027-09-12",
+        "gender": "M",
+        "phone_number": "042 150 35 41",
+        "email_address": "seppala.laaksonen@icloud.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Pieks\u00e4m\u00e4ki lukio",
+            "graduation_year": 1985
+        },
+        "higher_education": [
+            {
+                "university": "Hanken School of Economics",
+                "graduation_year": 1990
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Citycon Oyj",
+                "position": "Property Manager",
+                "salary": 42000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1995,
+                "company": "Technopolis Plc",
+                "position": "Developer",
+                "salary": 61000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1998,
+                "company": "Skanska Talonrakennus Oy",
+                "position": "Construction Company Owner",
+                "salary": 74000
+            },
+            {
+                "start_year": 2000,
+                "end_year": null,
+                "company": "Skanska Talonrakennus Oy",
+                "position": "Real Estate Investment Trust (REIT) CEO",
+                "salary": 1164000
+            }
+        ],
+        "aum": {
+            "savings": 2240000,
+            "inheritance": 0,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {},
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sepp\u00e4l\u00e4 Lehtinen Laaksonen",
+        "first_name": "Sepp\u00e4l\u00e4",
+        "middle_name": "Lehtinen",
+        "last_name": "Laaksonen",
+        "passport_number": "ZE3843651",
+        "currency": "EUR",
+        "address": {
+            "city": "Kerava",
+            "street name": "Esplanadi",
+            "street number": 70,
+            "postal code": "10315"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "042 150 35 41",
+        "email_address": "seppala.laaksonen@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Sepp\u00e4l\u00e4 Lehtinen Laaksonen and the RM crossed paths at a tech conference in Helsinki. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nHaving worked for over 35 years, Sepp\u00e4l\u00e4 Lehtinen Laaksonen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Sepp\u00e4l\u00e4 Lehtinen Laaksonen is currently divorced. He has 1 kid called J\u00e4rvinen.",
+        "Education Background": "Sepp\u00e4l\u00e4 graduated from Pieks\u00e4m\u00e4ki lukio in 1985.\nSepp\u00e4l\u00e4 earned his degree from Hanken School of Economics in 1990.\n",
+        "Occupation History": "Sepp\u00e4l\u00e4 Lehtinen Laaksonen is a 58 year old Real Estate Investment Trust (REIT) CEO from Finland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSepp\u00e4l\u00e4 Lehtinen Laaksonen launched his career as a Property Manager at Citycon Oyj, where he gained valuable experience from 1990 to 1991.\nHis subsequent role was as a Developer at Technopolis Plc, where he continued to grow professionally from 1991 to 1995.\nIn 1996, he joined Skanska Talonrakennus Oy as a Construction Company Owner, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHis next role was as a Real Estate Investment Trust (REIT) CEO at Skanska Talonrakennus Oy, where he applied his extensive experience to drive innovation from 2000 till now.\n",
+        "Wealth Summary": "He managed to save approximately 2240000 EUR from his earnings at all companies.\nClient does not have any properties.He does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

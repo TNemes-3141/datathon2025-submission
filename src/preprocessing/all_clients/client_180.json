@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Martin",
+        "middle_name": "Richard",
+        "last_name": "Renault",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1986-07-16",
+        "passport_number": "FQ8784022",
+        "passport_mrz": [
+            "P<FRARENAULT<<MARTIN<RICHARD<<<<<<<<<<<<<<<<<",
+            "FQ8784022FRA860716<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-20",
+        "passport_expiry_date": "2030-10-19"
+    },
+    "client_profile": {
+        "name": "Martin Richard Renault",
+        "address": {
+            "city": "Strasbourg",
+            "street name": "Rue de la Paix",
+            "street number": 32,
+            "postal code": "46098"
+        },
+        "country_of_domicile": "France,Denmark",
+        "birth_date": "1986-07-16",
+        "nationality": "French",
+        "passport_number": "FQ8784022",
+        "passport_issue_date": "2020-10-20",
+        "passport_expiry_date": "2030-10-19",
+        "gender": "M",
+        "phone_number": "02 54 98 94 82",
+        "email_address": "martin.renault@icloud.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Chaptal",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Nationale d'Administration (ENA)",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2015,
+                "company": "Freshfields Bruckhaus Deringer LLP",
+                "position": "Associate Attorney",
+                "salary": 45000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2024,
+                "company": "Freshfields Bruckhaus Deringer LLP",
+                "position": "Senior Associate",
+                "salary": 62000
+            }
+        ],
+        "aum": {
+            "savings": 90000,
+            "inheritance": 2710000,
+            "real_estate_value": 1220000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1220000,
+                "property location": "Strasbourg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Martin Richard Renault",
+        "first_name": "Martin",
+        "middle_name": "Richard",
+        "last_name": "Renault",
+        "passport_number": "FQ8784022",
+        "currency": "EUR",
+        "address": {
+            "city": "Strasbourg",
+            "street name": "Rue de la Paix",
+            "street number": 32,
+            "postal code": "46098"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "02 54 98 94 82",
+        "email_address": "martin.renault@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Martin Richard Renault on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nMartin Richard Renault is a 38 year old Senior Associate from France.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Martin Richard Renault is married to Juliette. They do not have any children.",
+        "Education Background": "In 2005, Martin finished his secondary school education at Lyc\u00e9e Chaptal.\nIn 2011, Martin graduated from \u00c9cole Nationale d'Administration (ENA) with a degree.\n",
+        "Occupation History": "Martin Richard Renault is a 38 year old Senior Associate from France. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Freshfields Bruckhaus Deringer LLP, Martin Richard Renault held the position of Associate Attorney from 2010 to 2015, developing essential skills in the field.\nAt Freshfields Bruckhaus Deringer LLP, he held the position of Senior Associate from 2015 to 2024, making significant contributions to the organization.\n",
+        "Wealth Summary": "He managed to save approximately 90000 EUR from his earnings at all companies.\nHe owns condo in Strasbourg, where he resides. It is worth 1220000 EUR.\n\nHe inherited a significant sum of 2710000 EUR from his grandmother, a respected Corporate Lawyer, in 2016, which he has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Martin as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

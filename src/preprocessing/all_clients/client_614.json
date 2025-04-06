@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Kuhn",
+        "middle_name": "Roth",
+        "last_name": "Gm\u00fcr",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1973-03-10",
+        "passport_number": "CB2640613",
+        "passport_mrz": [
+            "P<CHEWERNER<<KUHN<ROTH<<<<<<<<<<<<<<<<<<<<<<<",
+            "CB2640613CHE800520<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-11",
+        "passport_expiry_date": "2029-09-10"
+    },
+    "client_profile": {
+        "name": "Kuhn Roth Werner",
+        "address": {
+            "city": "Lucerne",
+            "street name": "Gerberngasse",
+            "street number": 94,
+            "postal code": "9048"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1980-05-20",
+        "nationality": "Swiss",
+        "passport_number": "CB2640613",
+        "passport_issue_date": "2019-09-11",
+        "passport_expiry_date": "2029-09-10",
+        "gender": "M",
+        "phone_number": "+41 026 073 14 93",
+        "email_address": "kuhn.werner@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium am See Kreuzlingen",
+            "graduation_year": 1998
+        },
+        "higher_education": [
+            {
+                "university": "Haute \u00c9cole de Musique de Gen\u00e8ve",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2007,
+                "company": "Google Switzerland GmbH",
+                "position": "Software Developer",
+                "salary": 61000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "Microsoft Schweiz GmbH",
+                "position": "Startup Founder",
+                "salary": 231000
+            }
+        ],
+        "aum": {
+            "savings": 330000,
+            "inheritance": 2340000,
+            "real_estate_value": 10970000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2870000,
+                "property location": "Lucerne"
+            },
+            {
+                "property type": "villa",
+                "property value": 5830000,
+                "property location": "Zurich"
+            },
+            {
+                "property type": "condo",
+                "property value": 2270000,
+                "property location": "Chur"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Kuhn Roth Werner",
+        "first_name": "Kuhn",
+        "middle_name": "Roth",
+        "last_name": "Werner",
+        "passport_number": "CB2640613",
+        "currency": "CHF",
+        "address": {
+            "city": "Lucerne",
+            "street name": "Gerberngasse",
+            "street number": 94,
+            "postal code": "9048"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 026 073 14 93",
+        "email_address": "kuhn.werner@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Kuhn Roth Werner and the RM crossed paths at a tech conference in Z\u00fcrich. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nKuhn Roth Werner is a 44 year old Startup Founder from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Kuhn Roth Werner is married to Gis\u00e8le. Together they have 2 kids called Schneider and Frey.",
+        "Education Background": "Kuhn obtained his secondary school diploma from Gymnasium am See Kreuzlingen in 1998.\nKuhn pursued higher education at Suffolk University in Geneva, graduating in 2004.\n",
+        "Occupation History": "Kuhn Roth Werner is a 44 year old and comes from Switzerland.\nKuhn Roth Werner began his professional journey as a Software Developer at Google Switzerland GmbH in 2005, laying the foundation for future success.\nHe then transitioned to Microsoft Schweiz GmbH as a Startup Founder, leveraging his expertise to drive results from 2009 till now.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 330000 CHF.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Lucerne, Zurich and Chur, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nIn addition to his career success, he also received an inheritance of 2340000 CHF from his late mother, a renowned Stock Trader, in 2012.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

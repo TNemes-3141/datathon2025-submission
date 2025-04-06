@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Lehmann",
+        "middle_name": "Jost",
+        "last_name": "Weber",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1999-03-25",
+        "passport_number": "UO2130531",
+        "passport_mrz": [
+            "P<CHEWEBER<<LEHMANN<JOST<<<<<<<<<<<<<<<<<<<<<",
+            "UO2130531CHE990325<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-09-09",
+        "passport_expiry_date": "2034-09-08"
+    },
+    "client_profile": {
+        "name": "Lehmann Jost Weber",
+        "address": {
+            "city": "Appenzell",
+            "street name": "Stadthausplatz",
+            "street number": 29,
+            "postal code": "1260"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1999-03-25",
+        "nationality": "Swiss",
+        "passport_number": "UO2130531",
+        "passport_issue_date": "2024-09-09",
+        "passport_expiry_date": "2034-09-08",
+        "gender": "M",
+        "phone_number": "+41 006 271 81 23",
+        "email_address": "lehmann.weber@lycos.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Liceo di Lugano Lugano",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "HSR Hochschule f\u00fcr Technik Rapperswil",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": 2023,
+                "company": "Mediterranean Shipping Company (MSC) SA",
+                "position": "Ship Broker",
+                "salary": 67000
+            },
+            {
+                "start_year": 2025,
+                "end_year": 2025,
+                "company": "Maersk Line (Switzerland) A/S",
+                "position": "Shipping Company Owner",
+                "salary": 100000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 980000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Lehmann Jost Weber",
+        "first_name": "Lehmann",
+        "middle_name": "Jost",
+        "last_name": "Weber",
+        "passport_number": "UO2130531",
+        "currency": "CHF",
+        "address": {
+            "city": "Appenzell",
+            "street name": "Stadthausplatz",
+            "street number": 29,
+            "postal code": "1260"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 006 271 81 23",
+        "email_address": "lehmann.weber@lycos.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Lehmann Jost Weber on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nLehmann Jost Weber is a 26 year old and comes from Switzerland.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Lehmann Jost Weber is currently single. He does not have any children.",
+        "Education Background": "Lehmann completed his secondary education at Liceo di Lugano Lugano in 2018.\nLehmann attended HSR Hochschule f\u00fcr Technik Rapperswil and graduated in 2021.\n",
+        "Occupation History": "Lehmann Jost Weber is a 26 year old and comes from Switzerland.\nLehmann Jost Weber's first role was as a Ship Broker at Mediterranean Shipping Company (MSC) SA, where he worked diligently from 2022 to 2023 to establish a strong reputation.\nIn 2025, he moved to Maersk Line (Switzerland) A/S to work as a Shipping Company Owner, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "He managed to save approximately 10000 CHF from his earnings at all companies.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 980000 CHF from his late grandmother, a renowned Oil and Gas Executive, in 2020.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

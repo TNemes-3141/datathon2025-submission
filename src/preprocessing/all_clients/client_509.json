@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Maja",
+        "middle_name": "Emma",
+        "last_name": "Kr\u00e4mer",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1959-07-08",
+        "passport_number": "CA9620037",
+        "passport_mrz": [
+            "P<AUTKR\u00c4MER<<MAJA<EMMA<<<<<<<<<<<<<<<<<<<<<<<",
+            "C9A620037AUT590708<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-08-08",
+        "passport_expiry_date": "2028-08-07"
+    },
+    "client_profile": {
+        "name": "Maja Emma Kr\u00e4mer",
+        "address": {
+            "city": "Baden bei Wien",
+            "street name": "Liechtensteinstra\u00dfe",
+            "street number": 18,
+            "postal code": "2012"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1959-07-08",
+        "nationality": "Austrian",
+        "passport_number": "CA9620037",
+        "passport_issue_date": "2018-08-08",
+        "passport_expiry_date": "2028-08-07",
+        "gender": "F",
+        "phone_number": "+43 014 435 1424",
+        "email_address": "maja.kramer@aon.at",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Fran\u00e7ais de Vienne",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "University of Innsbruck",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1984,
+                "end_year": 1986,
+                "company": "News Networld Media GmbH",
+                "position": "Journalist",
+                "salary": 33000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 2020,
+                "company": "Styria Medien AG",
+                "position": "Editor",
+                "salary": 248000
+            }
+        ],
+        "aum": {
+            "savings": 520000,
+            "inheritance": 0,
+            "real_estate_value": 2851000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 791000,
+                "property location": "Baden bei Wien"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1080000,
+                "property location": "Graz"
+            },
+            {
+                "property type": "house",
+                "property value": 980000,
+                "property location": "Amstetten"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Maja Emma Kr\u00e4mer",
+        "first_name": "Maja",
+        "middle_name": "Emma",
+        "last_name": "Kr\u00e4mer",
+        "passport_number": "CA9620037",
+        "currency": "EUR",
+        "address": {
+            "city": "Baden bei Wien",
+            "street name": "Liechtensteinstra\u00dfe",
+            "street number": 18,
+            "postal code": "2012"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 014 435 1424",
+        "email_address": "maja.kramer@aon.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Maja Emma Kr\u00e4mer's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nMaja Emma Kr\u00e4mer is a 65 year old retired Editor from Austria.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Maja Emma Kr\u00e4mer is currently divorced. She has 2 kids called Schwarz and M\u00fcller.",
+        "Education Background": "Maja obtained her secondary school diploma from Lyc\u00e9e Fran\u00e7ais de Vienne in 1979.\nMaja earned her degree from University of Innsbruck in 1983.\n",
+        "Occupation History": "Maja Emma Kr\u00e4mer is a 65 year old retired Editor from Austria. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nMaja Emma Kr\u00e4mer launched her career as a Journalist at News Networld Media GmbH, where she gained valuable experience from 1984 to 1986.\nAfter gaining experience, she took on the role of Editor at Styria Medien AG in 1988, further expanding her skill set.\n",
+        "Wealth Summary": "While working, she saved 520000 EUR, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Amstetten, Baden bei Wien and Graz, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Maja as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Bakker",
+        "middle_name": "Janssen",
+        "last_name": "Maassen",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1992-05-17",
+        "passport_number": "OI3208538",
+        "passport_mrz": [
+            "P<NLDMAASSEN<<BAKKER<JANSSEN<<<<<<<<<<<<<<<<<",
+            "OI3208538NLD920517<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-11-17",
+        "passport_expiry_date": "2028-11-16"
+    },
+    "client_profile": {
+        "name": "Bakker Janssen Maassen",
+        "address": {
+            "city": "Enschede",
+            "street name": " Stationsplein",
+            "street number": 30,
+            "postal code": "6613 43"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1992-05-17",
+        "nationality": "Dutch",
+        "passport_number": "OI3208538",
+        "passport_issue_date": "2018-11-17",
+        "passport_expiry_date": "2028-11-16",
+        "gender": "M",
+        "phone_number": "+31 06 00023227",
+        "email_address": "bakker.maassen@icloud.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gerardus Majellalynceum Amsterdam",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "Nyenrode Business Universiteit",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": 2019,
+                "company": "De Brauw Blackstone Westbroek N.V.",
+                "position": "Associate Attorney",
+                "salary": 46000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Allen & Overy LLP",
+                "position": "Senior Associate",
+                "salary": 97000
+            }
+        ],
+        "aum": {
+            "savings": 90000,
+            "inheritance": 2810000,
+            "real_estate_value": 3170000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1570000,
+                "property location": "Enschede"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1600000,
+                "property location": "Eindhoven"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Bakker Janssen Maassen",
+        "first_name": "Bakker",
+        "middle_name": "Janssen",
+        "last_name": "Maassen",
+        "passport_number": "OI3208538",
+        "currency": "EUR",
+        "address": {
+            "city": "Enschede",
+            "street name": " Stationsplein",
+            "street number": 30,
+            "postal code": "6613 43"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 00023227",
+        "email_address": "bakker.maassen@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Bakker Janssen Maassen and the RM crossed paths at a tech conference in Amsterdam. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nBakker Janssen Maassen is a 32 year old and comes from Netherlands.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Bakker Janssen Maassen is currently single. He does not have any children.",
+        "Education Background": "Bakker received his secondary school diploma from Gerardus Majellalynceum Amsterdam in 2010.\nBakker completed his university education at Nyenrode Business Universiteit in 2017.\n",
+        "Occupation History": "Bakker Janssen Maassen is a 32 year old Senior Associate from Netherlands.\nBakker Janssen Maassen's first role was as a Associate Attorney at De Brauw Blackstone Westbroek N.V., where he worked diligently from 2016 to 2019 to establish a strong reputation.\nHis subsequent role was as a Senior Associate at Allen & Overy LLP, where he continued to grow professionally from 2020 till now.\n",
+        "Wealth Summary": "He managed to save approximately 90000 EUR from his earnings at all companies.\nHe has townhouse located in Enschede, worth 1570000 EUR.\n\nHe purchased townhouse in Eindhoven, where he spends his holidays. It is valued at 1600000 EUR.\nHe inherited a significant sum of 2810000 EUR from his grandfather, a respected Oil and Gas Executive, in 2020, which he has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

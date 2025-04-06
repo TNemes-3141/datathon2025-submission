@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Schneider",
+        "middle_name": "Wagner",
+        "last_name": "Lang",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1961-09-11",
+        "passport_number": "DQ2466295",
+        "passport_mrz": [
+            "P<AUTLANG<<SCHNEIDER<WAGNER<<<<<<<<<<<<<<<<<<",
+            "DQ2466295AUT610911<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-01-03",
+        "passport_expiry_date": "2028-01-02"
+    },
+    "client_profile": {
+        "name": "Schneider Wagner Lang",
+        "address": {
+            "city": "Bregenz",
+            "street name": "K\u00e4rntner Stra\u00dfe",
+            "street number": 91,
+            "postal code": "6824"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1961-09-11",
+        "nationality": "Austrian",
+        "passport_number": "DQ2466295",
+        "passport_issue_date": "2018-01-03",
+        "passport_expiry_date": "2028-01-02",
+        "gender": "M",
+        "phone_number": "+43 613 069 5393",
+        "email_address": "schneider.lang@liwest.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Bundesgymnasium und Bundesrealgymnasium Leoben",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Modul University Vienna",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "OMV AG",
+                "position": "Junior Trader",
+                "salary": 32000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 1993,
+                "company": "Voestalpine AG",
+                "position": "Senior Trader",
+                "salary": 63000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2022,
+                "company": "Gunvor Group",
+                "position": "Trading Desk Manager",
+                "salary": 491000
+            }
+        ],
+        "aum": {
+            "savings": 870000,
+            "inheritance": 0,
+            "real_estate_value": 4761000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 871000,
+                "property location": "Bregenz"
+            },
+            {
+                "property type": "villa",
+                "property value": 1490000,
+                "property location": "Saalfelden"
+            },
+            {
+                "property type": "villa",
+                "property value": 2400000,
+                "property location": "Tulln an der Donau"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schneider Wagner Lang",
+        "first_name": "Schneider",
+        "middle_name": "Wagner",
+        "last_name": "Lang",
+        "passport_number": "DQ2466295",
+        "currency": "EUR",
+        "address": {
+            "city": "Bregenz",
+            "street name": "K\u00e4rntner Stra\u00dfe",
+            "street number": 91,
+            "postal code": "6824"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 613 069 5393",
+        "email_address": "schneider.lang@liwest.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Schneider Wagner Lang since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nSchneider Wagner Lang is a 63 year old retired Trading Desk Manager from Austria.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Schneider Wagner Lang is married to Beatrix. Their child is  named Leonie.",
+        "Education Background": "Schneider received his secondary school diploma from Bundesgymnasium und Bundesrealgymnasium Leoben in 1981.\nSchneider pursued higher education at Modul University Vienna, graduating in 1984.\n",
+        "Occupation History": "Schneider Wagner Lang is a 63 year old retired Trading Desk Manager from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSchneider Wagner Lang's first role was as a Junior Trader at OMV AG, where he worked diligently from 1985 to 1987 to establish a strong reputation.\nHe then transitioned to Voestalpine AG as a Senior Trader, leveraging his expertise to drive results from 1988 to 1993.\nAt Gunvor Group, he worked as a Trading Desk Manager from 1995 till retirement, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 870000 EUR.\nHe has townhouse located in Bregenz, worth 871000 EUR.\n\nHe purchased villa in Saalfelden, where he spends his holidays. It is valued at 20000000 EUR.\nOn top of that he inherited a beautiful villa in Tulln an der Donau, which could be used as a weekend getaway. It is valued at 2400000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

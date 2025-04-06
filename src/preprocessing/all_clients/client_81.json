@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Silvestri",
+        "middle_name": "Moretti",
+        "last_name": "Malatesta",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1960-07-05",
+        "passport_number": "CF8968725",
+        "passport_mrz": [
+            "P<ITAMALATESTA<<SILVESTRI<<<<<<<<<<<<<<<<<<<<",
+            "CF8968725ITA600705<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-12-07",
+        "passport_expiry_date": "2030-12-06"
+    },
+    "client_profile": {
+        "name": "Silvestri Moretti Malatesta",
+        "address": {
+            "city": "Parma",
+            "street name": "Via dei Tribunali",
+            "street number": 23,
+            "postal code": "53066"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1960-07-05",
+        "nationality": "Italian",
+        "passport_number": "CF8968725",
+        "passport_issue_date": "2020-12-07",
+        "passport_expiry_date": "2030-12-06",
+        "gender": "M",
+        "phone_number": "+39 353 5314801",
+        "email_address": "silvestri.malatesta@aruba.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Commerciale Statale Luigi Einaudi Torino",
+            "graduation_year": 1967
+        },
+        "higher_education": [
+            {
+                "university": "Luiss Guido Carli",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "Assicurazioni Generali S.p.A.",
+                "position": "Stockbroker",
+                "salary": 27000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1994,
+                "company": "UniCredit S.p.A.",
+                "position": "Portfolio Manager",
+                "salary": 47000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1999,
+                "company": "Anima SGR S.p.A.",
+                "position": "Hedge Fund Manager",
+                "salary": 57000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2021,
+                "company": "Assicurazioni Generali S.p.A.",
+                "position": "Private Equity Investor",
+                "salary": 579000
+            }
+        ],
+        "aum": {
+            "savings": 930000,
+            "inheritance": 0,
+            "real_estate_value": 2570000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1130000,
+                "property location": "Parma"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1440000,
+                "property location": "Florence"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Silvestri Moretti Malatesta",
+        "first_name": "Silvestri",
+        "middle_name": "Moretti",
+        "last_name": "Malatesta",
+        "passport_number": "CF8968725",
+        "currency": "EUR",
+        "address": {
+            "city": "Parma",
+            "street name": "Via dei Tribunali",
+            "street number": 23,
+            "postal code": "53066"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 353 5314801",
+        "email_address": "silvestri.malatesta@aruba.it"
+    },
+    "client_description": {
+        "Summary Note": "Silvestri Moretti Malatesta and the RM crossed paths at a mutual friend's dinner party in Rome. They discovered they had many common acquaintances and decided to explore business opportunities together.\nSilvestri Moretti Malatesta is a seasoned professional with over 40 years of experience.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Silvestri Moretti Malatesta and Carlotta tied the knot in 1990. Silvestri and Carlotta have 2 children, named Flavia and Esposito.",
+        "Education Background": "In 1978, Silvestri finished his secondary school education at Istituto Tecnico Commerciale Statale Luigi Einaudi Torino.\nSilvestri pursued higher education at Luiss Guido Carli, graduating in 1984.\n",
+        "Occupation History": "Silvestri Moretti Malatesta is a 64 year old and comes from Italy.\nSilvestri Moretti Malatesta launched his career as a Stockbroker at Assicurazioni Generali S.p.A., where he gained valuable experience from 1985 to 1988.\nIn 1989, he moved to UniCredit S.p.A. to work as a Portfolio Manager, applying his knowledge to achieve outstanding performance.\nFrom 1996 to 1999, he served as a Hedge Fund Manager at Anima SGR S.p.A., solidifying his position as a leader in the industry.\nHis next role was as a Private Equity Investor at Assicurazioni Generali S.p.A., where he applied his extensive experience to drive innovation from 2001 till retirement.\n",
+        "Wealth Summary": "Throughout his career, he saved 930000 EUR, investing in various assets to grow his wealth.\nHe owns 2 exceptional properties: townhouse located in Parma, valued at approximately 1,130,000.00 EUR, townhouse located in Florence, valued at approximately 1,440,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Parma and Florence.\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

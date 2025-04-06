@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Weber",
+        "middle_name": "K\u00e4gi",
+        "last_name": "Gm\u00fcr",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1973-12-18",
+        "passport_number": "XI6622324",
+        "passport_mrz": [
+            "P<CHEGM\u00dcR<<WEBER<K\u00c4GI<<<<<<<<<<<<<<<<<<<<<<<<",
+            "XI6622324CHE731218<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-05-11",
+        "passport_expiry_date": "2026-05-10"
+    },
+    "client_profile": {
+        "name": "Weber K\u00e4gi Gm\u00fcr",
+        "address": {
+            "city": "Kreuzlingen",
+            "street name": "Rue de la Paix",
+            "street number": 99,
+            "postal code": "6135"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1973-12-18",
+        "nationality": "Swiss",
+        "passport_number": "XI6622324",
+        "passport_issue_date": "2016-05-11",
+        "passport_expiry_date": "2026-05-10",
+        "gender": "M",
+        "phone_number": "+41 021 387 36 19",
+        "email_address": "weber.gmur@swissonline.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "\u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "Bern University of Applied Sciences",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2002,
+                "company": "Varo Energy AG",
+                "position": "Drilling Engineer",
+                "salary": 63000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "Petrolift AG",
+                "position": "Reservoir Engineer",
+                "salary": 117000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "Swisspetro AG",
+                "position": "Operations Manager",
+                "salary": 752000
+            }
+        ],
+        "aum": {
+            "savings": 1240000,
+            "inheritance": 120000,
+            "real_estate_value": 4990000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2013,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 4990000,
+                "property location": "Kreuzlingen"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Weber K\u00e4gi Gm\u00fcr",
+        "first_name": "Weber",
+        "middle_name": "K\u00e4gi",
+        "last_name": "Gm\u00fcr",
+        "passport_number": "XI6622324",
+        "currency": "CHF",
+        "address": {
+            "city": "Kreuzlingen",
+            "street name": "Rue de la Paix",
+            "street number": 99,
+            "postal code": "6135"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 021 387 36 19",
+        "email_address": "weber.gmur@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "Weber K\u00e4gi Gm\u00fcr and the RM were introduced at a gourmet food festival in Z\u00fcrich. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nWeber K\u00e4gi Gm\u00fcr is a seasoned professional with over 27 years of experience.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Weber K\u00e4gi Gm\u00fcr is currently divorced. He has 2 kids called Lea and Roth.",
+        "Education Background": "Weber graduated from \u00c9cole secondaire de La Chaux-de-Fonds Neuch\u00e2tel in 1993.\nWeber received his degree from Bern University of Applied Sciences in 1998.\n",
+        "Occupation History": "Weber K\u00e4gi Gm\u00fcr is a 51 year old and comes from Switzerland.\nAt Varo Energy AG, Weber K\u00e4gi Gm\u00fcr held the position of Drilling Engineer from 1998 to 2002, developing essential skills in the field.\nHis subsequent role was as a Reservoir Engineer at Petrolift AG, where he continued to grow professionally from 2002 to 2007.\nHis tenure as a Operations Manager at Swisspetro AG from 2007 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "Throughout his career, he saved 1240000 CHF, investing in various assets to grow his wealth.\nHe has villa located in Kreuzlingen, worth 4990000 CHF.\n\n\nFollowing the passing of his grandfather, a successful Neurosurgeon, he received an inheritance of 120000 CHF in 2013, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "passport": {
+        "first_name": "Laine",
+        "middle_name": "Sepp\u00e4l\u00e4",
+        "last_name": "Turunen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1969-08-31",
+        "passport_number": "XA7556157",
+        "passport_mrz": [
+            "P<FINTURUNEN<<LAINE<SEPP\u00c4L\u00c4<<<<<<<<<<<<<<<<<<",
+            "XA7556157FIN690831<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-01",
+        "passport_expiry_date": "2033-07-31"
+    },
+    "client_profile": {
+        "name": "Laine Sepp\u00e4l\u00e4 Turunen",
+        "address": {
+            "city": "Tuusula",
+            "street name": "Ruoholahteenkatu",
+            "street number": 25,
+            "postal code": "29864"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1969-08-31",
+        "nationality": "Finnish",
+        "passport_number": "XA7556157",
+        "passport_issue_date": "2023-08-01",
+        "passport_expiry_date": "2033-07-31",
+        "gender": "M",
+        "phone_number": "+358 043 456 35 25",
+        "email_address": "laine.turunen@dnainternet.fi",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Hyvink\u00e4\u00e4n Sveitsin lukio",
+            "graduation_year": 1988
+        },
+        "higher_education": [
+            {
+                "university": "Aalto University",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1997,
+                "company": "Scandic Hotels Oy",
+                "position": "Hotel Manager",
+                "salary": 37000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "Scandic Hotels Oy",
+                "position": "General Manager",
+                "salary": 59000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2003,
+                "company": "Scandic Hotels Oy",
+                "position": "Regional Vice President",
+                "salary": 83000
+            },
+            {
+                "start_year": 2003,
+                "end_year": null,
+                "company": "Marriott International Oy",
+                "position": "CEO",
+                "salary": 724000
+            }
+        ],
+        "aum": {
+            "savings": 1140000,
+            "inheritance": 650000,
+            "real_estate_value": 3160000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2009,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2430000,
+                "property location": "Tuusula"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 730000,
+                "property location": "Helsinki"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Laine Sepp\u00e4l\u00e4 Turunen",
+        "first_name": "Laine",
+        "middle_name": "Sepp\u00e4l\u00e4",
+        "last_name": "Turunen",
+        "passport_number": "XA7556157",
+        "currency": "EUR",
+        "address": {
+            "city": "Tuusula",
+            "street name": "Ruoholahteenkatu",
+            "street number": 25,
+            "postal code": "29864"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 043 456 35 25",
+        "email_address": "laine.turunen@dnainternet.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Laine Sepp\u00e4l\u00e4 Turunen at a wine tasting event in Helsinki. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nLaine Sepp\u00e4l\u00e4 Turunen is a 55 year old CEO from Finland.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Laine Sepp\u00e4l\u00e4 Turunen is currently divorced. He has 1 kid called Tiainen.",
+        "Education Background": "In 1988, Laine finished his secondary school education at Hyvink\u00e4\u00e4n Sveitsin lukio.\nIn 1993, Laine graduated from Aalto University with a degree.\n",
+        "Occupation History": "Laine Sepp\u00e4l\u00e4 Turunen is a 55 year old and comes from Finland.\nIn 1994, Laine Sepp\u00e4l\u00e4 Turunen started working as a Hotel Manager at Scandic Hotels Oy, marking the beginning of his successful career.\nAt Scandic Hotels Oy, he held the position of General Manager from 1998 to 2000, making significant contributions to the organization.\nAt Scandic Hotels Oy, he worked as a Regional Vice President from 2001 to 2003, focusing on strategic initiatives and team collaboration.\nHe worked as a CEO at Marriott International Oy from 2003 till now, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "He managed to save approximately 1140000 EUR from his earnings at all companies.\nHe owns villa in Tuusula, where he resides. It is worth 2430000 EUR.\n\nHe purchased townhouse in Helsinki, where he spends his holidays. It is valued at 730000 EUR.\nHe inherited 650000 EUR from his grandmother, a well-known Real Estate Developer, in 2009, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

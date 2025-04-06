@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Alexandra",
+        "middle_name": "Justine",
+        "last_name": "Lecomte",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1960-11-06",
+        "passport_number": "OM6507797",
+        "passport_mrz": [
+            "P<BELLECOMTE<<ALEXANDRA<JUSTINE<<<<<<<<<<<<<<",
+            "OM6507797BEL601106<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-11-17",
+        "passport_expiry_date": "2023-11-16"
+    },
+    "client_profile": {
+        "name": "Alexandra Justine Lecomte",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": 18,
+            "postal code": "2149"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1960-11-06",
+        "nationality": "Belgian",
+        "passport_number": "OM6507797",
+        "passport_issue_date": "2016-11-17",
+        "passport_expiry_date": "2023-11-16",
+        "gender": "F",
+        "phone_number": "+32 0465 767 625",
+        "email_address": "alexandra.lecomte@skype.be",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Institut Saint-Louis",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "Solvay Brussels School of Economics and Management",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1984,
+                "end_year": 1989,
+                "company": "Befimmo SA",
+                "position": "Property Manager",
+                "salary": 51000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1993,
+                "company": "AG Real Estate SA",
+                "position": "Developer",
+                "salary": 54000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1996,
+                "company": "Cofinimmo SA",
+                "position": "Construction Company Owner",
+                "salary": 68000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 1998,
+                "company": "Befimmo SA",
+                "position": "Real Estate Investment Trust (REIT) CEO",
+                "salary": 117000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2021,
+                "company": "Befimmo SA",
+                "position": "Landlord",
+                "salary": 1263000
+            }
+        ],
+        "aum": {
+            "savings": 2110000,
+            "inheritance": 0,
+            "real_estate_value": 3661000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1111000,
+                "property location": "La Louvi\u00e8re"
+            },
+            {
+                "property type": "house",
+                "property value": 1330000,
+                "property location": "Aalst"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1220000,
+                "property location": "Lokeren"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Alexandra Justine Lecomte",
+        "first_name": "Alexandra",
+        "middle_name": "Justine",
+        "last_name": "Lecomte",
+        "passport_number": "OM6507797",
+        "currency": "EUR",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": "",
+            "postal code": "2149"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0465 767 625",
+        "email_address": "alexandra.lecomte@skype.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Alexandra Justine Lecomte at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nHaving worked for over 41 years, Alexandra Justine Lecomte brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Alexandra Justine Lecomte is currently widowed. Her child is named Dumont.",
+        "Education Background": "Alexandra finished secondary school at Institut Saint-Louis in 1979.\nShe then attended Solvay Brussels School of Economics and Management, which she graduated in 1985.\n",
+        "Occupation History": "Alexandra Justine Lecomte is a 64 year old retired Landlord from Belgium. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAlexandra Justine Lecomte launched her career as a Property Manager at Befimmo SA, where she gained valuable experience from 1984 to 1989.\nAt AG Real Estate SA, she held the position of Developer from 1991 to 1993, making significant contributions to the organization.\nIn 1994, she joined Cofinimmo SA as a Construction Company Owner, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nAfter 12 years of dedication, she assumed the role of Real Estate Investment Trust (REIT) CEO at Befimmo SA in 1997, spearheading high-profile projects and mentoring junior colleagues.\nUntil retiring, Alexandra Justine Lecomte served as a Landlord at Befimmo SA, contributing significantly from 1998 to 2021.",
+        "Wealth Summary": "She managed to save approximately 2110000 EUR from her earnings at all companies.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 3661000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In summary, Alexandra has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

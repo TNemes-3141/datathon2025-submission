@@ -1,0 +1,123 @@
+{
+    "passport": {
+        "first_name": "Klein",
+        "middle_name": "Kr\u00fcger",
+        "last_name": "Schwarz",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1972-05-01",
+        "passport_number": "ZU1669621",
+        "passport_mrz": [
+            "P<DEUSCHWARZ<<KLEIN<KR\u00dcGER<<<<<<<<<<<<<<<<<<<",
+            "ZU1669621DEU720501<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-01-05",
+        "passport_expiry_date": "2033-01-04"
+    },
+    "client_profile": {
+        "name": "Klein Kr\u00fcger Schwarz",
+        "address": {
+            "city": "Bielefeld",
+            "street name": "Augustusplatz",
+            "street number": 99,
+            "postal code": "40073"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1972-05-01",
+        "nationality": "German",
+        "passport_number": "ZU1669621",
+        "passport_issue_date": "2023-01-05",
+        "passport_expiry_date": "2033-01-04",
+        "gender": "M",
+        "phone_number": "+49 3028 268642",
+        "email_address": "klein.schwarz@unitybox.de",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Goethe-Gymnasium Berlin",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "Weingarten University of Education",
+                "graduation_year": 1996
+            },
+            {
+                "university": "University of Heidelberg",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 1997,
+                "company": "Union Asset Management Holding AG",
+                "position": "Stockbroker",
+                "salary": 37000
+            },
+            {
+                "start_year": 1997,
+                "end_year": null,
+                "company": "DWS Investments",
+                "position": "Portfolio Manager",
+                "salary": 260000
+            }
+        ],
+        "aum": {
+            "savings": 460000,
+            "inheritance": 1910000,
+            "real_estate_value": 2430000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2010,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1080000,
+                "property location": "Bielefeld"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1350000,
+                "property location": "Monchengladbach"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Klein Kr\u00fcger Schwarz",
+        "first_name": "Klein",
+        "middle_name": "Kr\u00fcger",
+        "last_name": "Schwarz",
+        "passport_number": "ZU1669621",
+        "currency": "EUR",
+        "address": {
+            "city": "Bielefeld",
+            "street name": "Augustusplatz",
+            "street number": 99,
+            "postal code": "40073"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 3028 268642",
+        "email_address": "klein.schwarz@unitybox.de"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Klein Kr\u00fcger Schwarz since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nKlein Kr\u00fcger Schwarz is a 52 year old and comes from Germany.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Klein Kr\u00fcger Schwarz is currently divorced. He has 3 kids called Hedwig, Gwendolyn and Diana.",
+        "Education Background": "Klein completed his secondary education at Goethe-Gymnasium Berlin in 1990.\nHe then attended Weingarten University of Education, which he graduated in 1996.\nHe also pursued further higher education at University of Heidelberg, graduating in 2000.\n",
+        "Occupation History": "Having worked for over 29 years, Klein Kr\u00fcger Schwarz brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nKlein Kr\u00fcger Schwarz's first role was as a Stockbroker at Union Asset Management Holding AG, where he worked diligently from 1996 to 1997 to establish a strong reputation.\nAfter gaining experience, he took on the role of Portfolio Manager at DWS Investments in 1997, further expanding his skill set.\n",
+        "Wealth Summary": "While working, he saved 460000 EUR, which he used to build a diversified investment portfolio.\nHe owns condo in Bielefeld, where he resides. It is worth 1080000 EUR.\n\nIn addition to his primary residence, he owns townhouse in Monchengladbach worth 1350000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1910000 EUR from his late grandmother, a renowned Stock Trader, in 2010.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

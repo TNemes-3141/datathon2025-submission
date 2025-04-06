@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Anna",
+        "middle_name": "Larissa",
+        "last_name": "Frey",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1965-11-19",
+        "passport_number": "YX2021931",
+        "passport_mrz": [
+            "P<CHEFREY<<ANNA<LARISSA<<<<<<<<<<<<<<<<<<<<<<",
+            "YX2021931CHE651119<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-12-02",
+        "passport_expiry_date": "2028-12-01"
+    },
+    "client_profile": {
+        "name": "Anna Larissa Frey",
+        "address": {
+            "city": "Lausanne",
+            "street name": "Gerberngasse",
+            "street number": 28,
+            "postal code": "1282"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1965-11-19",
+        "nationality": "Swiss",
+        "passport_number": "YX2021931",
+        "passport_issue_date": "2018-12-02",
+        "passport_expiry_date": "2028-12-01",
+        "gender": "F",
+        "phone_number": "042 877 73 59",
+        "email_address": "anna.frey@swisscom.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Gewerblich-industrielles Berufsbildungszentrum (BIG) Bern",
+            "graduation_year": 1973
+        },
+        "higher_education": [
+            {
+                "university": "University of Basel",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Credit Suisse AG",
+                "position": "Financial Advisor",
+                "salary": 62000
+            },
+            {
+                "start_year": 1991,
+                "end_year": null,
+                "company": "Credit Suisse AG",
+                "position": "Portfolio Manager",
+                "salary": 502000
+            }
+        ],
+        "aum": {
+            "savings": 1000000,
+            "inheritance": 2630000,
+            "real_estate_value": 7370000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2010,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2420000,
+                "property location": "Lausanne"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2430000,
+                "property location": "Basel"
+            },
+            {
+                "property type": "house",
+                "property value": 2520000,
+                "property location": "Bellinzona"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "France"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Anna Larissa Frey",
+        "first_name": "Anna",
+        "middle_name": "Larissa",
+        "last_name": "Frey",
+        "passport_number": "YX2021931",
+        "currency": "CHF",
+        "address": {
+            "city": "Lausanne",
+            "street name": "Gerberngasse",
+            "street number": 28,
+            "postal code": "1282"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "042 877 73 59",
+        "email_address": "anna.frey@swisscom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Anna Larissa Frey since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nAnna Larissa Frey is a 59 year old Portfolio Manager from Switzerland.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Anna Larissa Frey is currently single. She does not have any children.",
+        "Education Background": "Anna obtained her secondary school diploma from Gewerblich-industrielles Berufsbildungszentrum (BIG) Bern in 1983.\nAnna finished her studies at University of Basel in 1988.\n",
+        "Occupation History": "Having worked for over 35 years, Anna Larissa Frey brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAnna Larissa Frey began her professional journey as a Financial Advisor at Credit Suisse AG in 1990, laying the foundation for future success.\nHer subsequent role was as a Portfolio Manager at Credit Suisse AG, where she continued to grow professionally from 1991 till now.\n",
+        "Wealth Summary": "Throughout her career, she saved 1000000 CHF, investing in various assets to grow her wealth.\nShe owns 3 exceptional properties: condo located in Lausanne, valued at approximately 2,420,000.00 CHF, townhouse located in Basel, valued at approximately 2,430,000.00 CHF, house located in Bellinzona, valued at approximately 2,520,000.00 CHF. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Lausanne, Bellinzona and Basel.\nIn 2010, she received an inheritance of 2630000 CHF from her late grandmother, who was a prominent Oil and Gas Executive, and has since invested it in various assets.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

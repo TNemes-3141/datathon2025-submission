@@ -1,0 +1,113 @@
+{
+    "passport": {
+        "first_name": "Heta",
+        "middle_name": "Essi",
+        "last_name": "J\u00e4rvinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1990-05-12",
+        "passport_number": "JG0652954",
+        "passport_mrz": [
+            "P<FINJ\u00c4RVINEN<<HETA<ESSI<<<<<<<<<<<<<<<<<<<<<",
+            "JG0652954FIN900512<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-04-12",
+        "passport_expiry_date": "2031-04-11"
+    },
+    "client_profile": {
+        "name": "Heta Essi J\u00e4rvinen",
+        "address": {
+            "city": "Rauma",
+            "street name": "Tehtaankatu",
+            "street number": 99,
+            "postal code": "21534"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1990-05-12",
+        "nationality": "Finnish",
+        "passport_number": "JG0652954",
+        "passport_issue_date": "2021-04-12",
+        "passport_expiry_date": "2031-04-11",
+        "gender": "F",
+        "phone_number": "+358 041 490 58 04",
+        "email_address": "heta.jarvinen@suomi24.fi",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Sysm\u00e4n lukio",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "\u00c5bo Akademi University School of Economics",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Metso Outotec Oyj",
+                "position": "Plant Manager",
+                "salary": 54000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 1420000,
+            "real_estate_value": 2860000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2090000,
+                "property location": "Rauma"
+            },
+            {
+                "property type": "flat",
+                "property value": 770000,
+                "property location": "Nurmij\u00e4rvi"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Heta Essi J\u00e4rvinen",
+        "first_name": "Heta",
+        "middle_name": "Essi",
+        "last_name": "J\u00e4rvinen",
+        "passport_number": "JG0652954",
+        "currency": "EUR",
+        "address": {
+            "city": "Rauma",
+            "street name": "Tehtaankatu",
+            "street number": 99,
+            "postal code": "21534"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 041 490 58 04",
+        "email_address": "heta.jarvinen@suomi24.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Heta Essi J\u00e4rvinen at a luxury car show in Helsinki. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nHeta Essi J\u00e4rvinen is a 34 year old Plant Manager from Finland.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Heta Essi J\u00e4rvinen is currently single. She does not have any children.",
+        "Education Background": "Heta graduated from Sysm\u00e4n lukio in 2009.\nHeta completed her university studies at \u00c5bo Akademi University School of Economics in 2013.\n",
+        "Occupation History": "Heta Essi J\u00e4rvinen is a 34 year old Plant Manager from Finland.\nHeta Essi J\u00e4rvinen began her professional journey as a Plant Manager at Metso Outotec Oyj in 2015, laying the foundation for future success.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 60000 EUR.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Rauma and Nurmij\u00e4rvi, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of her grandmother, a successful Venture Capitalist, she received an inheritance of 1420000 EUR in 2018, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

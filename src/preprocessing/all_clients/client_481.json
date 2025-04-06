@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Idun",
+        "middle_name": "Karen",
+        "last_name": "Petersen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "2002-09-09",
+        "passport_number": "BI6245175",
+        "passport_mrz": [
+            "P<DNKPETERSEN<<IDUN<KAREN<<<<<<<<<<<<<<<<<<<<",
+            "BI6245175DNK020909<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-03-27",
+        "passport_expiry_date": "2027-03-26"
+    },
+    "client_profile": {
+        "name": "Idun Karen Petersen",
+        "address": {
+            "city": "Slagelse",
+            "street name": "S\u00f8lvgade",
+            "street number": 89,
+            "postal code": "9364"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "2002-09-09",
+        "nationality": "Danish",
+        "passport_number": "BI6245175",
+        "passport_issue_date": "2017-03-27",
+        "passport_expiry_date": "2027-03-26",
+        "gender": "F",
+        "phone_number": "+45 35 13 46 53",
+        "email_address": "idun.petersen@webspace.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "K\u00f8benhavns \u00c5bent Gymnasium",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 19210000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Idun Karen Petersen",
+        "first_name": "Idun",
+        "middle_name": "Karen",
+        "last_name": "Petersen",
+        "passport_number": "BI6245175",
+        "currency": "DKK",
+        "address": {
+            "city": "Slagelse",
+            "street name": "S\u00f8lvgade",
+            "street number": 89,
+            "postal code": "9364"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 35 13 46 53",
+        "email_address": "idun.petersen@webspace.dk"
+    },
+    "client_description": {
+        "Summary Note": "Idun Karen Petersen and the RM met at a financial seminar in Copenhagen. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nIdun Karen Petersen is a 22 year old and comes from Denmark.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Idun Karen Petersen is currently single. She does not have any children.",
+        "Education Background": "Idun finished secondary school at K\u00f8benhavns \u00c5bent Gymnasium in 2021.\n",
+        "Occupation History": "Idun Karen Petersen is a 22 year old and comes from Denmark.\nIdun Karen Petersen did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.She inherited a significant sum of 19210000 DKK from her grandmother, a respected Corporate Lawyer, in 2017, which she has wisely invested.\n",
+        "Client Summary": "The RM is excited to help Idun navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Schmid",
+        "middle_name": "K\u00e4gi",
+        "last_name": "Jost",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "2001-12-02",
+        "passport_number": "BA8526855",
+        "passport_mrz": [
+            "P<CHEJOST<<SCHMID<K\u00c4GI<<<<<<<<<<<<<<<<<<<<<<<",
+            "BA8526855CHE011202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-09-21",
+        "passport_expiry_date": "2032-09-20"
+    },
+    "client_profile": {
+        "name": "Schmid K\u00e4gi Jost",
+        "address": {
+            "city": "St. Gallen",
+            "street name": "Gertrudstrasse",
+            "street number": 95,
+            "postal code": "6870"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "2001-12-02",
+        "nationality": "Swiss",
+        "passport_number": "BA8526855",
+        "passport_issue_date": "2022-09-21",
+        "passport_expiry_date": "2032-09-20",
+        "gender": "M",
+        "phone_number": "+41 016 084 45 25",
+        "email_address": "schmid.jost@gmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Wirtschaftsgymnasium Basel Basel",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1790000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Schmid K\u00e4gi Jost",
+        "first_name": "Jost",
+        "middle_name": "K\u00e4gi",
+        "last_name": "Schmid",
+        "passport_number": "BA8526855",
+        "currency": "CHF",
+        "address": {
+            "city": "",
+            "street name": "Gertrudstrasse",
+            "street number": 95,
+            "postal code": "6870"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 016 084 45 25",
+        "email_address": "schmid.jost@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Schmid K\u00e4gi Jost and the RM crossed paths at a mutual friend's dinner party in Z\u00fcrich. They discovered they had many common acquaintances and decided to explore business opportunities together.\nSchmid K\u00e4gi Jost is a 23 year old and comes from Switzerland.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Schmid K\u00e4gi Jost is currently single. He does not have any children.",
+        "Education Background": "In 2021, Schmid graduated from Wirtschaftsgymnasium Basel Basel with a secondary school diploma.\n",
+        "Occupation History": "Schmid K\u00e4gi Jost is a 23 year old and comes from Switzerland.\nSchmid K\u00e4gi Jost did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.He inherited 1790000 CHF from his grandmother, a well-known Oil and Gas Executive, in 2018, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is excited to help Schmid navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

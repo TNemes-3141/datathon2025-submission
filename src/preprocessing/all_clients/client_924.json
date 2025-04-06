@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Manon",
+        "middle_name": "Alice",
+        "last_name": "Raes",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1999-12-04",
+        "passport_number": "FW8294865",
+        "passport_mrz": [
+            "P<BELRAES<<MANON<ALICE<<<<<<<<<<<<<<<<<<<<<<<",
+            "FW8294865BEL991204<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-14",
+        "passport_expiry_date": "2026-09-13"
+    },
+    "client_profile": {
+        "name": "Manon Alice Raes",
+        "address": {
+            "city": "Leuven",
+            "street name": "Rue Belliard",
+            "street number": 60,
+            "postal code": "2714"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1999-12-04",
+        "nationality": "Belgian",
+        "passport_number": "FW8294865",
+        "passport_issue_date": "2019-09-14",
+        "passport_expiry_date": "2026-09-13",
+        "gender": "F",
+        "phone_number": "0419 387 590",
+        "email_address": "manon.raes@belgacom.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Onze-Lieve-Vrouwe-Wavercollege",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "Artevelde University of Applied Sciences",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Thales Alenia Space Belgium",
+                "position": "Aerospace Engineer",
+                "salary": 41000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2470000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": "",
+            "profession": ""
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Manon Alice Raes",
+        "first_name": "Manon",
+        "middle_name": "Alice",
+        "last_name": "Raes",
+        "passport_number": "FW8294865",
+        "currency": "EUR",
+        "address": {
+            "city": "Leuven",
+            "street name": "Rue Belliard",
+            "street number": 60,
+            "postal code": "2714"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0419 387 590",
+        "email_address": "manon.raes@belgacom.be"
+    },
+    "client_description": {
+        "Summary Note": "Manon Alice Raes and the RM were introduced at a gourmet food festival in Brussels. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nManon Alice Raes is a 25 year old and comes from Belgium.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Manon Alice Raes is currently single. She does not have any children.",
+        "Education Background": "In 2017, Manon graduated from Onze-Lieve-Vrouwe-Wavercollege with a secondary school diploma.\nManon completed her university studies at Artevelde University of Applied Sciences in 2023.\n",
+        "Occupation History": "Manon Alice Raes is a 25 year old Aerospace Engineer from Belgium.\nManon Alice Raes's first role was as a Aerospace Engineer at Thales Alenia Space Belgium, where she worked diligently from 2023 till now to establish a strong reputation.\n",
+        "Wealth Summary": "While working, she saved 10000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.She inherited 2470000 EUR from her grandfather, a well-known Tech Entrepreneur, in 2019, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

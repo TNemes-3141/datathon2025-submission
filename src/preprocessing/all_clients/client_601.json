@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "D\u00e1cil",
+        "middle_name": "Angela",
+        "last_name": "Torres",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1999-05-05",
+        "passport_number": "BF0717144",
+        "passport_mrz": [
+            "P<ESPTORRES<<D\u00c1CIL<ANGELA<<<<<<<<<<<<<<<<<<<<",
+            "BF0717144ESP990505<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-05-17",
+        "passport_expiry_date": "2025-05-16"
+    },
+    "client_profile": {
+        "name": "D\u00e1cil Angela Torres",
+        "address": {
+            "city": "Seville",
+            "street name": "Plaza de la Magdalena",
+            "street number": 83,
+            "postal code": "55552"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1999-05-05",
+        "nationality": "Spanish",
+        "passport_number": "BF0717144",
+        "passport_issue_date": "2020-05-17",
+        "passport_expiry_date": "2025-05-16",
+        "gender": "F",
+        "phone_number": "+34 693 965 690",
+        "email_address": "dacil.torres@hotmail.es",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Andr\u00e9s Laguna Segovia",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "CEU San Pablo University",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2024,
+                "end_year": 2025,
+                "company": "Telef\u00f3nica S.A.",
+                "position": "Software Developer",
+                "salary": 26000
+            }
+        ],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2470000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "D\u00e1cil Angela Torres",
+        "first_name": "D\u00e1cil",
+        "middle_name": "Angela",
+        "last_name": "Torres",
+        "passport_number": "BF0717144",
+        "currency": "EUR",
+        "address": {
+            "city": "Seville",
+            "street name": "Plaza de la Magdalena",
+            "street number": 83,
+            "postal code": "55552"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 693 965 690",
+        "email_address": "dacil.torres@hotmail.es"
+    },
+    "client_description": {
+        "Summary Note": "D\u00e1cil Angela Torres and the RM were introduced at an art auction in Madrid. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nD\u00e1cil Angela Torres is a 25 year old and comes from Spain.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "D\u00e1cil Angela Torres is currently single. She does not have any children.",
+        "Education Background": "D\u00e1cil earned her secondary school diploma from IES Andr\u00e9s Laguna Segovia in 2019.\nD\u00e1cil completed her university studies at CEU San Pablo University in 2024.\n",
+        "Occupation History": "D\u00e1cil Angela Torres is a 25 year old Software Developer from Spain.\nD\u00e1cil Angela Torres launched her career as a Software Developer at Telef\u00f3nica S.A., where she gained valuable experience from 2024 to 2025.\n",
+        "Wealth Summary": "She did not manage to save any money during her career.\nClient does not have any properties.In 2019, she received an inheritance of 2470000 EUR from her late grandfather, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, D\u00e1cil has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

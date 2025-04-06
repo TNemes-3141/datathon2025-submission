@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Richard",
+        "middle_name": "Robin",
+        "last_name": "Lambert",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1977-06-07",
+        "passport_number": "WV3937107",
+        "passport_mrz": [
+            "P<FRALAMBERT<<RICHARD<ROBIN<<<<<<<<<<<<<<<<<<",
+            "WV3937107FRA770607<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-03-13",
+        "passport_expiry_date": "2031-03-12"
+    },
+    "client_profile": {
+        "name": "Richard Robin Lambert",
+        "address": {
+            "city": "Aix-en-Provence",
+            "street name": "Avenue Parmentier",
+            "street number": 42,
+            "postal code": "52602"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1977-06-07",
+        "nationality": "French",
+        "passport_number": "WV3937107",
+        "passport_issue_date": "2021-03-13",
+        "passport_expiry_date": "2031-03-12",
+        "gender": "M",
+        "phone_number": "00 95 31 93 23",
+        "email_address": "richard.lambert@wanadoo.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Chaptal",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Nationale d'Administration (ENA)",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2003,
+                "company": "Dior S.A.",
+                "position": "Assistant Designer",
+                "salary": 28000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2008,
+                "company": "Herm\u00e8s International S.A.",
+                "position": "Senior Designer",
+                "salary": 46000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2013,
+                "company": "Herm\u00e8s International S.A.",
+                "position": "Creative Director",
+                "salary": 62000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2020,
+                "company": "Herm\u00e8s International S.A.",
+                "position": "Founder/Designer",
+                "salary": 213000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Louis Vuitton Malletier S.A.",
+                "position": "Luxury Brand Owner",
+                "salary": 174000
+            }
+        ],
+        "aum": {
+            "savings": 340000,
+            "inheritance": 1250000,
+            "real_estate_value": 1280000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2008,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1280000,
+                "property location": "Aix-en-Provence"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "1-5 months",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Richard Robin Lambert",
+        "first_name": "Richard",
+        "middle_name": "Robin",
+        "last_name": "Lambert",
+        "passport_number": "WV3937107",
+        "currency": "EUR",
+        "address": {
+            "city": "Aix-en-Provence",
+            "street name": "Avenue Parmentier",
+            "street number": 42,
+            "postal code": "52602"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "++4500 95 31 93 23",
+        "email_address": "richard.lambert@wanadoo.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Richard Robin Lambert during a business conference in Paris. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nRichard Robin Lambert is a 47 year old Luxury Brand Owner from France.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Richard Robin Lambert has been happily married to Margaux since 2007. They do not have any children.",
+        "Education Background": "Richard graduated from Lyc\u00e9e Chaptal in 1996.\nRichard completed his university education at \u00c9cole Nationale d'Administration (ENA) in 2000.\n",
+        "Occupation History": "Richard Robin Lambert is a 47 year old Luxury Brand Owner from France. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nRichard Robin Lambert's first role was as a Assistant Designer at Dior S.A., where he worked diligently from 2001 to 2003 to establish a strong reputation.\nAt Herm\u00e8s International S.A., he held the position of Senior Designer from 2005 to 2008, making significant contributions to the organization.\nHis tenure as a Creative Director at Herm\u00e8s International S.A. from 2010 to 2013 was marked by significant achievements and a deepening understanding of the field.\nHis next role was as a Founder/Designer at Herm\u00e8s International S.A., where he applied his extensive experience to drive innovation from 2015 to 2020.\nSince joining Louis Vuitton Malletier S.A. as a Luxury Brand Owner in 2021, he has established himself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "He managed to save approximately 340000 EUR from his earnings at all companies.\nHe owns condo in Aix-en-Provence, where he resides. It is worth 1280000 EUR.\n\nIn 2008, he received an inheritance of 1250000 EUR from his late grandmother, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Richard has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

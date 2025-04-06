@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Am\u00e9lie",
+        "middle_name": "Romane",
+        "last_name": "Lemaire",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1967-09-07",
+        "passport_number": "CS2151009",
+        "passport_mrz": [
+            "P<BELLEMAIRE<<AM\u00c9LIE<ROMANE<<<<<<<<<<<<<<<<<<",
+            "CS2151009BEL670907<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-08",
+        "passport_expiry_date": "2027-08-07"
+    },
+    "client_profile": {
+        "name": "Am\u00e9lie Romane Lemaire",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Rue du Houblon",
+            "street number": 80,
+            "postal code": "7434"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1967-09-07",
+        "nationality": "Belgian",
+        "passport_number": "CS2151009",
+        "passport_issue_date": "2020-08-08",
+        "passport_expiry_date": "2027-08-07",
+        "gender": "F",
+        "phone_number": "+32 0413 299 719",
+        "email_address": "amelie.lemaire@voo.be",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Atheneum Antwerpen Linkeroever",
+            "graduation_year": 1977
+        },
+        "higher_education": [
+            {
+                "university": "Acad\u00e9mie des Beaux-Arts de Tournai",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1992,
+                "end_year": 1995,
+                "company": "Stella McCartney Belgium",
+                "position": "Assistant Designer",
+                "salary": 39000
+            },
+            {
+                "start_year": 1997,
+                "end_year": null,
+                "company": "Dries Van Noten NV",
+                "position": "Senior Designer",
+                "salary": 287000
+            }
+        ],
+        "aum": {
+            "savings": 580000,
+            "inheritance": 4270000,
+            "real_estate_value": 3341000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2014,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 970000,
+                "property location": "Li\u00e8ge"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1371000,
+                "property location": "Bruges"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1000000,
+                "property location": "Ieper"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Am\u00e9lie Romane Lemaire",
+        "first_name": "Am\u00e9lie",
+        "middle_name": "Romane",
+        "last_name": "Lemaire",
+        "passport_number": "CS2151009",
+        "currency": "EUR",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Rue du Houblon",
+            "street number": 80,
+            "postal code": "7434"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0413 299 719",
+        "email_address": "amelie.lemaire@voo.be"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Am\u00e9lie Romane Lemaire at a charity gala in Brussels. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nAm\u00e9lie Romane Lemaire is a seasoned professional with over 33 years of experience.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Am\u00e9lie Romane Lemaire is currently divorced. Her children are named Dumont, Jos\u00e9phine and Raes.",
+        "Education Background": "Am\u00e9lie earned her secondary school diploma from Atheneum Antwerpen Linkeroever in 1985.\nIn 1991, Am\u00e9lie graduated from Acad\u00e9mie des Beaux-Arts de Tournai with a degree.\n",
+        "Occupation History": "With a career spanning nearly 33 years, Am\u00e9lie Romane Lemaire has established herself as a key player in the industry.\nAm\u00e9lie Romane Lemaire launched her career as a Assistant Designer at Stella McCartney Belgium, where she gained valuable experience from 1992 to 1995.\nAfter gaining experience, she took on the role of Senior Designer at Dries Van Noten NV in 1997, further expanding her skill set.\n",
+        "Wealth Summary": "Throughout her career, she saved 580000 EUR, investing in various assets to grow her wealth.\nShe has flat located in Li\u00e8ge, worth 970000 EUR.\n\nShe purchased townhouse in Bruges, where she spends her holidays. It is valued at 1371000 EUR.\nMoreover, she has invested in additional property in Ieper, giving possiblity for generating additional income. The townhouse is valued at 1000000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 4270000 EUR from her late father, a renowned Real Estate Developer, in 2014.\n",
+        "Client Summary": "In summary, Am\u00e9lie has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

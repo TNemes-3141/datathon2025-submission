@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Schwarz",
+        "middle_name": "Steiner",
+        "last_name": "Kaiser",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1993-02-19",
+        "passport_number": "II1226336",
+        "passport_mrz": [
+            "P<AUTKAISER<<SCHWARZ<STEINER<<<<<<<<<<<<<<<<<",
+            "II1226336AUT930219<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-02-03",
+        "passport_expiry_date": "2029-02-02"
+    },
+    "client_profile": {
+        "name": "Schwarz Steiner Kaiser",
+        "address": {
+            "city": "Linz",
+            "street name": "Simmeringer Hauptstra\u00dfe",
+            "street number": 51,
+            "postal code": "1573"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1993-02-19",
+        "nationality": "Austrian",
+        "passport_number": "II1226336",
+        "passport_issue_date": "2019-02-03",
+        "passport_expiry_date": "2029-02-02",
+        "gender": "M",
+        "phone_number": "+43 041 964 6446",
+        "email_address": "schwarz.kaiser@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium Bregenz",
+            "graduation_year": 2011
+        },
+        "higher_education": [
+            {
+                "university": "Johannes Kepler University Linz",
+                "graduation_year": 2016
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": 2019,
+                "company": "FACC AG",
+                "position": "Aerospace Engineer",
+                "salary": 29000
+            },
+            {
+                "start_year": 2021,
+                "end_year": 2025,
+                "company": "AMSC Austria",
+                "position": "Program Manager",
+                "salary": 47000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 3580000,
+            "real_estate_value": 2650000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1610000,
+                "property location": "Linz"
+            },
+            {
+                "property type": "house",
+                "property value": 1040000,
+                "property location": "Dornbirn"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schwarz Steiner Kaiser",
+        "first_name": "Schwarz",
+        "middle_name": "Steiner",
+        "last_name": "Kaiser",
+        "passport_number": "II1226336",
+        "currency": "EUR",
+        "address": {
+            "city": "Linz",
+            "street name": "Simmeringer Hauptstra\u00dfe",
+            "street number": 51,
+            "postal code": "1573"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 041 964 6446",
+        "email_address": "schwarz.kaiser@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Schwarz Steiner Kaiser and the RM met at a financial seminar in Vienna. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nSchwarz Steiner Kaiser is a 32 year old Program Manager from Austria.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Schwarz Steiner Kaiser is married to Beatrix. Together they have 1 kid called Fuchs.",
+        "Education Background": "Schwarz finished secondary school at Gymnasium Bregenz in 2011.\nAfter that, he went on to study at Johannes Kepler University Linz until 2001.\n",
+        "Occupation History": "Schwarz Steiner Kaiser is a 32 year old Program Manager from Austria.\nSchwarz Steiner Kaiser began his professional journey as a Aerospace Engineer at FACC AG in 2017, laying the foundation for future success.\nAt AMSC Austria, he held the position of Program Manager from 2021 to 2025, making significant contributions to the organization.\n",
+        "Wealth Summary": "He managed to save approximately 40000 EUR from his earnings at all companies.\nHe is still learning about the complexities of financial markets and investment strategies.\nHe owns 2 exceptional properties: villa located in Linz, valued at approximately 1,610,000.00 EUR, house located in Dornbirn, valued at approximately 1,040,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Linz and Dornbirn.\n\nIn addition to his career success, he also received an inheritance of 3580000 EUR from his late grandfather, a renowned Oil and Gas Executive, in 2018.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

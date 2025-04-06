@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Emma",
+        "middle_name": "Estefan\u00eda",
+        "last_name": "Ortega",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1954-06-03",
+        "passport_number": "RZ5748539",
+        "passport_mrz": [
+            "P<ESPORTEGA<<EMMA<ESTEFAN\u00cdA<<<<<<<<<<<<<<<<<<",
+            "RZ5748539ESP540603<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-08-15",
+        "passport_expiry_date": "2026-08-14"
+    },
+    "client_profile": {
+        "name": "Emma Estefan\u00eda Ortega",
+        "address": {
+            "city": "Cadiz",
+            "street name": "Plaza de Espa\u00f1a",
+            "street number": 18,
+            "postal code": "09654"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1954-06-03",
+        "nationality": "Spanish",
+        "passport_number": "RZ5748539",
+        "passport_issue_date": "2016-08-15",
+        "passport_expiry_date": "2026-08-14",
+        "gender": "F",
+        "phone_number": "645 338 859",
+        "email_address": "emma.ortega@outlook.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Mar\u00eda Zambrano Sevilla",
+            "graduation_year": 1972
+        },
+        "higher_education": [
+            {
+                "university": "Complutense University of Madrid",
+                "graduation_year": 1979
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1980,
+                "company": "Indra Sistemas S.A.",
+                "position": "Aerospace Engineer",
+                "salary": 27000
+            },
+            {
+                "start_year": 1981,
+                "end_year": 1985,
+                "company": "Airbus Espa\u00f1a S.L.",
+                "position": "Program Manager",
+                "salary": 43000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "EADS CASA Espacio S.L.",
+                "position": "Director of Operations",
+                "salary": 60000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 2015,
+                "company": "Airbus Espa\u00f1a S.L.",
+                "position": "VP of Business Development",
+                "salary": 687000
+            }
+        ],
+        "aum": {
+            "savings": 1170000,
+            "inheritance": 0,
+            "real_estate_value": 2482000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1352000,
+                "property location": "Cadiz"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1130000,
+                "property location": "Valladolid"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Switzerland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Emma Estefan\u00eda Ortega",
+        "first_name": "Emma",
+        "middle_name": "Estefan\u00eda",
+        "last_name": "Ortega",
+        "passport_number": "RZ5748539",
+        "currency": "EUR",
+        "address": {
+            "city": "Cadiz",
+            "street name": "Plaza de Espa\u00f1a",
+            "street number": 18,
+            "postal code": "09654"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "645 338 859",
+        "email_address": "emma.ortega@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Emma Estefan\u00eda Ortega and the RM crossed paths at a tech conference in Madrid. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nEmma Estefan\u00eda Ortega is a seasoned professional with over 46 years of experience.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Emma Estefan\u00eda Ortega is currently divorced. Her child is named V\u00e1zquez.",
+        "Education Background": "In 1972, Emma graduated from IES Mar\u00eda Zambrano Sevilla with a secondary school diploma.\nIn 1979, Emma graduated from Complutense University of Madrid with a degree.\n",
+        "Occupation History": "Emma Estefan\u00eda Ortega is a 70 year old and comes from Spain.\nEmma Estefan\u00eda Ortega began her professional journey as a Aerospace Engineer at Indra Sistemas S.A. in 1979, laying the foundation for future success.\nShe then transitioned to Airbus Espa\u00f1a S.L. as a Program Manager, leveraging her expertise to drive results from 1981 to 1985.\nHer tenure as a Director of Operations at EADS CASA Espacio S.L. from 1985 to 1987 was marked by significant achievements and a deepening understanding of the field.\nShe worked as a VP of Business Development at Airbus Espa\u00f1a S.L. from 1987 till retirement, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "Throughout her career, she saved 1170000 EUR, investing in various assets to grow her wealth.\nShe owns house in Cadiz, where she resides. It is worth 1352000 EUR.\n\nShe purchased townhouse in Valladolid, where she spends her holidays. It is valued at 1130000 EUR.\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

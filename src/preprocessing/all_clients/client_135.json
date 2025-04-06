@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Lema\u00eetre",
+        "middle_name": "",
+        "last_name": "Legrand",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1972-01-04",
+        "passport_number": "DL6208863",
+        "passport_mrz": [
+            "P<FRALEGRAND<<LEMA\u00ceTRE<<<<<<<<<<<<<<<<<<<<<<<",
+            "DL6208863FRA720104<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-09-30",
+        "passport_expiry_date": "2031-09-29"
+    },
+    "client_profile": {
+        "name": "Lema\u00eetre Legrand",
+        "address": {
+            "city": "Limoges",
+            "street name": "Avenue de la Bourdonnais",
+            "street number": 57,
+            "postal code": "00830"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1972-01-04",
+        "nationality": "French",
+        "passport_number": "DL6208863",
+        "passport_issue_date": "2021-09-30",
+        "passport_expiry_date": "2031-09-29",
+        "gender": "M",
+        "phone_number": "09 22 55 14 56",
+        "email_address": "lemaitre.legrand@laposte.net",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Janson-de-Sailly",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "La F\u00e9mis",
+                "graduation_year": 1995
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 1999,
+                "company": "Canal+ Group",
+                "position": "Journalist",
+                "salary": 34000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "Canal+ Group",
+                "position": "Editor",
+                "salary": 51000
+            },
+            {
+                "start_year": 2001,
+                "end_year": null,
+                "company": "TF1 Group",
+                "position": "Publisher",
+                "salary": 465000
+            }
+        ],
+        "aum": {
+            "savings": 780000,
+            "inheritance": 3250000,
+            "real_estate_value": 1460000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2014,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1460000,
+                "property location": "Limoges"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lema\u00eetre Legrand",
+        "first_name": "Lema\u00eetre",
+        "middle_name": "",
+        "last_name": "Legrand",
+        "passport_number": "DL6208863",
+        "currency": "EUR",
+        "address": {
+            "city": "Limoges",
+            "street name": "Avenue de la Bourdonnais",
+            "street number": 57,
+            "postal code": "00830"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "09 22 55 14 56",
+        "email_address": "lemaitre.legrand@laposte.net"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Lema\u00eetre Legrand at a wine tasting event in Paris. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nHaving worked for over 30 years, Lema\u00eetre Legrand brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Lema\u00eetre Legrand is currently divorced. He has 2 kids called Robert and Boucher.",
+        "Education Background": "Lema\u00eetre graduated from Lyc\u00e9e Janson-de-Sailly in 1991.\nLema\u00eetre graduated from La F\u00e9mis in 1995, completing his higher education.\n",
+        "Occupation History": "Lema\u00eetre Legrand is a 53 year old Publisher from France.\nIn 1995, Lema\u00eetre Legrand started working as a Journalist at Canal+ Group, marking the beginning of his successful career.\nAt Canal+ Group, he held the position of Editor from 1999 to 2000, making significant contributions to the organization.\nIn 2001, he joined TF1 Group as a Publisher, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 780000 EUR.\nHe has townhouse located in Limoges, worth 1460000 EUR.\n\nHe inherited a significant sum of 3250000 EUR from his father, a respected Tech Entrepreneur, in 2014, which he has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

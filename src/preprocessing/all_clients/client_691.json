@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Voorn",
+        "middle_name": "Van der Meer",
+        "last_name": "Stam",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1988-03-31",
+        "passport_number": "ZI2121204",
+        "passport_mrz": [
+            "P<NLDSTAM<<VOORN<VAN DER MEER<<<<<<<<<<<<<<<<",
+            "ZI2121204NLD880331<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-09-22",
+        "passport_expiry_date": "2028-09-21"
+    },
+    "client_profile": {
+        "name": "Voorn Van der Meer Stam",
+        "address": {
+            "city": "Arnhem",
+            "street name": "PC Hoofdstraat",
+            "street number": 70,
+            "postal code": "2227 22"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1988-03-31",
+        "nationality": "Dutch",
+        "passport_number": "ZI2121204",
+        "passport_issue_date": "2018-09-22",
+        "passport_expiry_date": "2028-09-21",
+        "gender": "M",
+        "phone_number": "06 81083243",
+        "email_address": "voorn.stam@tele2.nl",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Openbaar Lyceum Hengelo",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "Tio University of Applied Sciences",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2014,
+                "company": "NLR - Netherlands Aerospace Centre",
+                "position": "Aerospace Engineer",
+                "salary": 47000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "NLR - Netherlands Aerospace Centre",
+                "position": "Program Manager",
+                "salary": 79000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 2230000,
+            "real_estate_value": 3140000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1540000,
+                "property location": "Arnhem"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1600000,
+                "property location": "Deventer"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Voorn Van der Meer Stam",
+        "first_name": "Voorn",
+        "middle_name": "Van der Meer",
+        "last_name": "Stam",
+        "passport_number": "ZI2121204",
+        "currency": "EUR",
+        "address": {
+            "city": "Arnhem",
+            "street name": "PC Hoofdstraat",
+            "street number": 70,
+            "postal code": "2227 22"
+        },
+        "country_of_domicile": "Netherlands,Denmark",
+        "phone_number": "06 81083243",
+        "email_address": "voorn.stam@tele2.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Voorn Van der Meer Stam at a wine tasting event in Amsterdam. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nVoorn Van der Meer Stam is a 37 year old and comes from Netherlands.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Voorn Van der Meer Stam is married to Ilona. Together they have 2 kids called Eva and Dekkers.",
+        "Education Background": "In 2006, Voorn finished his secondary school education at Openbaar Lyceum Hengelo.\nVoorn graduated from Tio University of Applied Sciences in 2012, completing his higher education.\n",
+        "Occupation History": "Having worked for over 14 years, Voorn Van der Meer Stam brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nIn 2011, Voorn Van der Meer Stam started working as a Aerospace Engineer at NLR - Netherlands Aerospace Centre, marking the beginning of his successful career.\nHis subsequent role was as a Program Manager at NLR - Netherlands Aerospace Centre, where he continued to grow professionally from 2016 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 110000 EUR, investing in various assets to grow his wealth.\nHe has condo located in Arnhem, worth 1540000 EUR.\n\nHe purchased townhouse in Deventer, where he spends his holidays. It is valued at 1600000 EUR.\nHe inherited 2230000 EUR from his grandfather, a well-known Neurosurgeon, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

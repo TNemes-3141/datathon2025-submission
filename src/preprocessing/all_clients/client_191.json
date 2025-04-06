@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Salminen",
+        "middle_name": "Tiainen",
+        "last_name": "Rissanen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1954-10-05",
+        "passport_number": "SF3444006",
+        "passport_mrz": [
+            "P<FINRISSANEN<<SALMINEN<TIAINEN<<<<<<<<<<<<<<",
+            "SF3444006FIN541005<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-01-05",
+        "passport_expiry_date": "2028-01-04"
+    },
+    "client_profile": {
+        "name": "Salminen Tiainen Rissanen",
+        "address": {
+            "city": "Lahti",
+            "street name": "Telakkakatu",
+            "street number": 31,
+            "postal code": "29940"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1954-10-05",
+        "nationality": "Finnish",
+        "passport_number": "SF3444006",
+        "passport_issue_date": "2018-01-05",
+        "passport_expiry_date": "2028-01-04",
+        "gender": "M",
+        "phone_number": "043 354 03 97",
+        "email_address": "salminen.rissanen@phoenix.fi",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Siuntion lukio",
+            "graduation_year": 1972
+        },
+        "higher_education": [
+            {
+                "university": "Aalto University School of Arts, Design and Architecture",
+                "graduation_year": 1977
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1978,
+                "end_year": 1982,
+                "company": "Sanoma Media Finland Oy",
+                "position": "Journalist",
+                "salary": 36000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1988,
+                "company": "Yleisradio Oy",
+                "position": "Editor",
+                "salary": 64000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 2015,
+                "company": "MTV3 Oy",
+                "position": "Publisher",
+                "salary": 526000
+            }
+        ],
+        "aum": {
+            "savings": 910000,
+            "inheritance": 0,
+            "real_estate_value": 2917000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1237000,
+                "property location": "Lahti"
+            },
+            {
+                "property type": "condo",
+                "property value": 840000,
+                "property location": "Espoo"
+            },
+            {
+                "property type": "condo",
+                "property value": 840000,
+                "property location": "Pori"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Salminen Tiainen Rissanen",
+        "first_name": "Saljinen",
+        "middle_name": "Tiainen",
+        "last_name": "Rissanen",
+        "passport_number": "SF3444006",
+        "currency": "EUR",
+        "address": {
+            "city": "Lahti",
+            "street name": "Telakkakatu",
+            "street number": 31,
+            "postal code": "29940"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "++49043 354 03 97",
+        "email_address": "salminen.rissanen@phoenix.fi"
+    },
+    "client_description": {
+        "Summary Note": "Salminen Tiainen Rissanen and the RM are cousins, having grown up together in Helsinki. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nWith a career spanning nearly 47 years, Salminen Tiainen Rissanen has established himself as a key player in the industry.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Salminen Tiainen Rissanen is currently widowed. He has 2 kids called Koskinen and Jenna.",
+        "Education Background": "Salminen earned his secondary school diploma from Siuntion lukio in 1972.\nAfter that, he went on to study at Aalto University School of Arts, Design and Architecture until 1977.\n",
+        "Occupation History": "Salminen Tiainen Rissanen is a 70 year old retired Publisher from Finland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Sanoma Media Finland Oy, Salminen Tiainen Rissanen held the position of Journalist from 1978 to 1982, developing essential skills in the field.\nHe then transitioned to Yleisradio Oy as a Editor, leveraging his expertise to drive results from 1984 to 1988.\nAt MTV3 Oy, he worked as a Publisher from 1990 till retirement, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, he saved 910000 EUR, which he used to build a diversified investment portfolio.\nHe has townhouse located in Lahti, worth 1237000 EUR.\n\nHe purchased condo in Espoo, where he spends his holidays. It is valued at 840000 EUR.\nOn top of that he inherited a beautiful condo in Pori, which could be used as a weekend getaway. It is valued at 840000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Salminen as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

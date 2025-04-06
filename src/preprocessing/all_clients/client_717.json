@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Huber",
+        "middle_name": "Lang",
+        "last_name": "Kr\u00e4mer",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1984-07-27",
+        "passport_number": "WJ6847162",
+        "passport_mrz": [
+            "P<AUTKR\u00c4MER<<HUBER<LANG<<<<<<<<<<<<<<<<<<<<<<",
+            "WJ6847162AUT840727<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-05-04",
+        "passport_expiry_date": "2027-05-03"
+    },
+    "client_profile": {
+        "name": "Huber Lang Kr\u00e4mer",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Neubaug\u00fcrtel",
+            "street number": 82,
+            "postal code": "8124"
+        },
+        "country_of_domicile": "Austria,Germany",
+        "birth_date": "1984-07-27",
+        "nationality": "Austrian",
+        "passport_number": "WJ6847162",
+        "passport_issue_date": "2017-05-04",
+        "passport_expiry_date": "2027-05-03",
+        "gender": "M",
+        "phone_number": "130 743 7187",
+        "email_address": "huber.kramer@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "BRG/BORG Marchfeldstra\u00dfe",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "University of Innsbruck",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2011,
+                "company": "OMV AG",
+                "position": "Junior Trader",
+                "salary": 33000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2023,
+                "company": "Voestalpine AG",
+                "position": "Senior Trader",
+                "salary": 99000
+            }
+        ],
+        "aum": {
+            "savings": 120000,
+            "inheritance": 1160000,
+            "real_estate_value": 3740000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 860000,
+                "property location": "Klagenfurt"
+            },
+            {
+                "property type": "flat",
+                "property value": 700000,
+                "property location": "Salzburg"
+            },
+            {
+                "property type": "villa",
+                "property value": 2180000,
+                "property location": "Dornbirn"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Huber Lang Kr\u00e4mer",
+        "first_name": "Huber",
+        "middle_name": "Lang",
+        "last_name": "Kz\u00e4mer",
+        "passport_number": "WJ6847162",
+        "currency": "EUR",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Neubaug\u00fcrtel",
+            "street number": 82,
+            "postal code": "8124"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "130 743 7187",
+        "email_address": "huber.kramer@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Huber Lang Kr\u00e4mer and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nHuber Lang Kr\u00e4mer is a 40 year old and comes from Austria.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Huber Lang Kr\u00e4mer and Petra have been married since 2013. They are proud parents of 2 children: Brandstetter and Rieder.",
+        "Education Background": "In 2004, Huber finished his secondary school education at BRG/BORG Marchfeldstra\u00dfe.\nAfter that, he went on to study at University of Innsbruck until 2008.\n",
+        "Occupation History": "Having worked for over 16 years, Huber Lang Kr\u00e4mer brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nIn 2009, Huber Lang Kr\u00e4mer started working as a Junior Trader at OMV AG, marking the beginning of his successful career.\nHe then transitioned to Voestalpine AG as a Senior Trader, leveraging his expertise to drive results from 2012 to 2023.\n",
+        "Wealth Summary": "He managed to save approximately 120000 EUR from his earnings at all companies.\nHe has flat located in Klagenfurt, worth 860000 EUR.\n\nIn addition to his primary residence, he owns flat in Salzburg worth 700000 EUR.\n\nMoreover, he has invested in additional property in Dornbirn, giving possiblity for generating additional income. The villa is valued at 2180000 EUR.\n\nHe inherited 1160000 EUR from his grandmother, a well-known Venture Capitalist, in 2016, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In summary, Huber has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

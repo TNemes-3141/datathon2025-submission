@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Peters",
+        "middle_name": "Vandenberghe",
+        "last_name": "Peeters",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "2002-07-27",
+        "passport_number": "VS4313579",
+        "passport_mrz": [
+            "P<BELPEETERS<<PETERS<VANDENBERGHE<<<<<<<<<<<<",
+            "VS4313579BEL020727<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-09-20",
+        "passport_expiry_date": "2023-09-19"
+    },
+    "client_profile": {
+        "name": "Peters Vandenberghe Peeters",
+        "address": {
+            "city": "Roeselare",
+            "street name": "Place de la Libert\u00e9",
+            "street number": 26,
+            "postal code": "4641"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "2002-07-27",
+        "nationality": "Belgian",
+        "passport_number": "VS4313579",
+        "passport_issue_date": "2016-09-20",
+        "passport_expiry_date": "2023-09-19",
+        "gender": "M",
+        "phone_number": "+32 0440 122 567",
+        "email_address": "peters.peeters@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Koninklijk Atheneum Boom",
+            "graduation_year": 2022
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1570000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Peters Vandenberghe Peeters",
+        "first_name": "Peters",
+        "middle_name": "Vandenberghe",
+        "last_name": "Peeters",
+        "passport_number": "VS4313579",
+        "currency": "EUR",
+        "address": {
+            "city": "Roeselare",
+            "street name": "Place de la Libert\u00e9",
+            "street number": 26,
+            "postal code": "4641"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0440 122 567",
+        "email_address": "peters.peeters@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Peters Vandenberghe Peeters at a wine tasting event in Brussels. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nPeters Vandenberghe Peeters is a 22 year old and comes from Belgium.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Peters Vandenberghe Peeters is currently single. He does not have any children.",
+        "Education Background": "In 2022, Peters graduated from Koninklijk Atheneum Boom with a secondary school diploma.\n",
+        "Occupation History": "Peters Vandenberghe Peeters is a 22 year old and comes from Belgium.\nPeters Vandenberghe Peeters did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.He inherited a significant sum of 1570000 EUR from his grandfather, a respected Hedge Fund Manager, in 2019, which he has wisely invested.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

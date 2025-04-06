@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Lea",
+        "middle_name": "",
+        "last_name": "Ackermann",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1981-08-31",
+        "passport_number": "PC5034127",
+        "passport_mrz": [
+            "P<CHEACKERMANN<<LEA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "PC5034127CHE810831<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-07-25",
+        "passport_expiry_date": "2033-07-24"
+    },
+    "client_profile": {
+        "name": "Lea Ackermann",
+        "address": {
+            "city": "Schaffhausen",
+            "street name": "Rue de l'Ath\u00e9n\u00e9e",
+            "street number": 43,
+            "postal code": "7347"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1981-08-31",
+        "nationality": "Swiss",
+        "passport_number": "PC5034127",
+        "passport_issue_date": "2023-07-25",
+        "passport_expiry_date": "2033-07-24",
+        "gender": "F",
+        "phone_number": "+41 072 563 35 76",
+        "email_address": "lea.ackermann@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "Franklin University Switzerland",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2007,
+                "company": "NZZ Mediengruppe",
+                "position": "Journalist",
+                "salary": 67000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2011,
+                "company": "SRF Schweizer Radio und Fernsehen",
+                "position": "Editor",
+                "salary": 85000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "NZZ Mediengruppe",
+                "position": "Publisher",
+                "salary": 514000
+            }
+        ],
+        "aum": {
+            "savings": 800000,
+            "inheritance": 1660000,
+            "real_estate_value": 10017000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2007,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1727000,
+                "property location": "Schaffhausen"
+            },
+            {
+                "property type": "villa",
+                "property value": 5030000,
+                "property location": "Baden"
+            },
+            {
+                "property type": "house",
+                "property value": 3260000,
+                "property location": "Bienna"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Lea Ackermann",
+        "first_name": "Lea",
+        "middle_name": "",
+        "last_name": "Ackermann",
+        "passport_number": "PC5034127",
+        "currency": "CHF",
+        "address": {
+            "city": "Schaffhausen",
+            "street name": "Rue de l'Ath\u00e9n\u00e9e",
+            "street number": 43,
+            "postal code": "7347"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 072 563 35 76",
+        "email_address": "lea.ackermann@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Lea Ackermann's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nLea Ackermann is a seasoned professional with over 20 years of experience.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Lea Ackermann is currently single. She does not have any children.",
+        "Education Background": "Lea finished secondary school at Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden in 2000.\nLea received her degree from Franklin University Switzerland in 2005.\n",
+        "Occupation History": "Lea Ackermann is a 43 year old Publisher from Switzerland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt NZZ Mediengruppe, Lea Ackermann held the position of Journalist from 2005 to 2007, developing essential skills in the field.\nIn 2008, she moved to SRF Schweizer Radio und Fernsehen to work as a Editor, applying her knowledge to achieve outstanding performance.\nHer tenure as a Publisher at NZZ Mediengruppe from 2011 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "She managed to save approximately 800000 CHF from her earnings at all companies.\nShe owns 3 exceptional properties: flat located in Schaffhausen, valued at approximately 1,727,000.00 CHF, villa located in Baden, valued at approximately 5,030,000.00 CHF, house located in Bienna, valued at approximately 3,260,000.00 CHF. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Baden, Schaffhausen and Bienna.\nShe inherited 1660000 CHF from her mother, a well-known Private Equity Manager, in 2007, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

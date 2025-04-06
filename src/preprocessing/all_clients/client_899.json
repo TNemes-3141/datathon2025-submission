@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Salo",
+        "middle_name": "J\u00e4rvinen",
+        "last_name": "Heikkinen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1996-04-21",
+        "passport_number": "LT6060409",
+        "passport_mrz": [
+            "P<FINHEIKKINEN<<SALO<J\u00c4RVINEN<<<<<<<<<<<<<<<<",
+            "LT6060409FIN960421<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-16",
+        "passport_expiry_date": "2033-02-15"
+    },
+    "client_profile": {
+        "name": "Salo J\u00e4rvinen Heikkinen",
+        "address": {
+            "city": "Kokkola",
+            "street name": "Neitsytpolku",
+            "street number": 4,
+            "postal code": "08795"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1996-04-21",
+        "nationality": "Finnish",
+        "passport_number": "LT6060409",
+        "passport_issue_date": "2023-02-16",
+        "passport_expiry_date": "2033-02-15",
+        "gender": "M",
+        "phone_number": "+358 047 179 29 90",
+        "email_address": "salo.heikkinen@surffi.net",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Hyvink\u00e4\u00e4n Sveitsin lukio",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Centria University of Applied Sciences",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Meriaura Oy",
+                "position": "Ship Broker",
+                "salary": 39000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 2340000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Hybrid",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Salo J\u00e4rvinen Heikkinen",
+        "first_name": "Salo",
+        "middle_name": "J\u00e4rvinen",
+        "last_name": "Heikkinen",
+        "passport_number": "LT6060409",
+        "currency": "EUR",
+        "address": {
+            "city": "Kokkola",
+            "street name": "Neitsytpolku",
+            "street number": 4,
+            "postal code": "08795"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 047 179 29 90",
+        "email_address": "salo.heikkinen@surffi.net"
+    },
+    "client_description": {
+        "Summary Note": "Salo J\u00e4rvinen Heikkinen and the RM crossed paths at a mutual friend's dinner party in Helsinki. They discovered they had many common acquaintances and decided to explore business opportunities together.\nSalo J\u00e4rvinen Heikkinen is a 28 year old Ship Broker from Finland.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Salo J\u00e4rvinen Heikkinen and Maarika tied the knot in 2025. They do not have any children.",
+        "Education Background": "Salo received his secondary school diploma from Hyvink\u00e4\u00e4n Sveitsin lukio in 2016.\nSalo pursued higher education at Centria University of Applied Sciences, graduating in 2021.\n",
+        "Occupation History": "Salo J\u00e4rvinen Heikkinen is a 28 year old Ship Broker from Finland.\nSalo J\u00e4rvinen Heikkinen began his professional journey as a Ship Broker at Meriaura Oy in 2021, laying the foundation for future success.\n",
+        "Wealth Summary": "Throughout his career, he saved 30000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.He inherited a significant sum of 2340000 EUR from his grandfather, a respected Real Estate Developer, in 2016, which he has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

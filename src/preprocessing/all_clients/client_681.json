@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Sanders",
+        "middle_name": "Lemaire",
+        "last_name": "Smets",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1988-01-07",
+        "passport_number": "QB3035995",
+        "passport_mrz": [
+            "P<BELSMETS<<SANDERS<LEMAIRE<<<<<<<<<<<<<<<<<<",
+            "QB3035995BEL880107<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-06-15",
+        "passport_expiry_date": "2029-06-14"
+    },
+    "client_profile": {
+        "name": "Sanders Lemaire Smets",
+        "address": {
+            "city": "Ghent",
+            "street name": "Rue de l'\u00c9glise",
+            "street number": 23,
+            "postal code": "9779"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1988-01-07",
+        "nationality": "Belgian",
+        "passport_number": "QB3035995",
+        "passport_issue_date": "2022-06-15",
+        "passport_expiry_date": "2029-06-14",
+        "gender": "M",
+        "phone_number": "+32 0436 102 557",
+        "email_address": "sanders.smets@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Atheneum Brugge Centrum",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "Brussels School of International Studies",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2013,
+                "company": "ING Belgium SA/NV",
+                "position": "Family Office Manager",
+                "salary": 36000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2019,
+                "company": "KBC Bank NV",
+                "position": "Investment Director",
+                "salary": 53000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Belfius Bank SA",
+                "position": "CFO",
+                "salary": 157000
+            }
+        ],
+        "aum": {
+            "savings": 160000,
+            "inheritance": 940000,
+            "real_estate_value": 3400000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2220000,
+                "property location": "Ghent"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1180000,
+                "property location": "Binche"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sanders Lemaire Smets",
+        "first_name": "Sanders",
+        "middle_name": "Lemaire",
+        "last_name": "Smets",
+        "passport_number": "QB3035995",
+        "currency": "EUR",
+        "address": {
+            "city": "Ghent",
+            "street name": "Rue de l'\u00c9glise",
+            "street number": 23,
+            "postal code": "9779"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0436 102 557",
+        "email_address": "sanders.smets@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Sanders Lemaire Smets and the RM crossed paths at a tech conference in Brussels. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nSanders Lemaire Smets is a 37 year old CFO from Belgium.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Sanders Lemaire Smets is currently single. He does not have any children.",
+        "Education Background": "Sanders graduated from Atheneum Brugge Centrum in 2005.\nSanders completed his university studies at Brussels School of International Studies in 2011.\n",
+        "Occupation History": "Sanders Lemaire Smets is a 37 year old CFO from Belgium.\nSanders Lemaire Smets's first role was as a Family Office Manager at ING Belgium SA/NV, where he worked diligently from 2011 to 2013 to establish a strong reputation.\nIn 2015, he moved to KBC Bank NV to work as a Investment Director, applying his knowledge to achieve outstanding performance.\nFrom 2019 till now, he served as a CFO at Belfius Bank SA, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "Throughout his career, he saved 160000 EUR, investing in various assets to grow his wealth.\nHe has villa located in Ghent, worth 2220000 EUR.\n\nHe purchased townhouse in Binche, where he spends his holidays. It is valued at 1180000 EUR.\nHe inherited a significant sum of 940000 EUR from his grandfather, a respected Real Estate Developer, in 2020, which he has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Sanders as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

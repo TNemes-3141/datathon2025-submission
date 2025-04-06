@@ -1,0 +1,150 @@
+{
+    "passport": {
+        "first_name": "Hanna",
+        "middle_name": "Ella",
+        "last_name": "Niemi",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1975-04-17",
+        "passport_number": "FH4151664",
+        "passport_mrz": [
+            "P<FINNIEMI<<HANNA<ELLA<<<<<<<<<<<<<<<<<<<<<<<",
+            "FH4151664FIN750417<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-19",
+        "passport_expiry_date": "2027-08-18"
+    },
+    "client_profile": {
+        "name": "Hanna Ella Niemi",
+        "address": {
+            "city": "Lappeenranta",
+            "street name": "Unioninkatu",
+            "street number": 91,
+            "postal code": "21530"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1975-04-17",
+        "nationality": "Finnish",
+        "passport_number": "FH4151664",
+        "passport_issue_date": "2017-08-19",
+        "passport_expiry_date": "2027-08-18",
+        "gender": "F",
+        "phone_number": "042 519 52 89",
+        "email_address": "hanna.niemi@surffi.net",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Salpaussel\u00e4n lukio",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "University of Helsinki",
+                "graduation_year": 1998
+            },
+            {
+                "university": "Turku University of Applied Sciences",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2004,
+                "company": "Fortum Corporation",
+                "position": "Drilling Engineer",
+                "salary": 40000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2009,
+                "company": "Fortum Corporation",
+                "position": "Reservoir Engineer",
+                "salary": 71000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2014,
+                "company": "Neste Corporation",
+                "position": "Operations Manager",
+                "salary": 129000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2019,
+                "company": "St1 Oy",
+                "position": "VP of Exploration",
+                "salary": 164000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Neste Corporation",
+                "position": "CEO",
+                "salary": 318000
+            }
+        ],
+        "aum": {
+            "savings": 520000,
+            "inheritance": 2930000,
+            "real_estate_value": 3773000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2010,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1383000,
+                "property location": "Lappeenranta"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 940000,
+                "property location": "Nurmij\u00e4rvi"
+            },
+            {
+                "property type": "house",
+                "property value": 1450000,
+                "property location": "Turku"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hanna Ella Niemi",
+        "first_name": "Hanna",
+        "middle_name": "Ella",
+        "last_name": "Niemi",
+        "passport_number": "FH4151664",
+        "currency": "EUR",
+        "address": {
+            "city": "Lappeenranta",
+            "street name": "Unioninkatu",
+            "street number": 91,
+            "postal code": "21530"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "042 519 52 89",
+        "email_address": "hanna.niemi@surffi.net"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Hanna Ella Niemi at a yacht party in Helsinki. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nHanna Ella Niemi is a 49 year old and comes from Finland.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Hanna Ella Niemi is currently single. She does not have any children.",
+        "Education Background": "Hanna graduated from Salpaussel\u00e4n lukio in 1995.\nIn 1998, Hanna graduated from University of Helsinki with a degree.\nShe pursued addtionally further eduaction by attending Turku University of Applied Sciences and graduating in 2004.\n",
+        "Occupation History": "Hanna Ella Niemi is a 49 year old CEO from Finland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 1999, Hanna Ella Niemi started working as a Drilling Engineer at Fortum Corporation, marking the beginning of her successful career.\nShe then transitioned to Fortum Corporation as a Reservoir Engineer, leveraging her expertise to drive results from 2004 to 2009.\nHer tenure as a Operations Manager at Neste Corporation from 2009 to 2014 was marked by significant achievements and a deepening understanding of the field.\nShe worked as a VP of Exploration at St1 Oy from 2015 to 2019, playing a pivotal role in shaping the company's vision and strategy.\nHer current role as a CEO at Neste Corporation, which she has held since 2019, reflects her enduring passion for the field and her unwavering dedication to making a lasting impact.",
+        "Wealth Summary": "While working, she saved 520000 EUR, which she used to build a diversified investment portfolio.\nShe owns 3 exceptional properties: house located in Lappeenranta, valued at approximately 1,383,000.00 EUR, townhouse located in Nurmij\u00e4rvi, valued at approximately 940,000.00 EUR, house located in Turku, valued at approximately 1,450,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Turku, Lappeenranta and Nurmij\u00e4rvi.\n\nFollowing the passing of her grandfather, a successful Real Estate Developer, she received an inheritance of 2930000 EUR in 2010, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

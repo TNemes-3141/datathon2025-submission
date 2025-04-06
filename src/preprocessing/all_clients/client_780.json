@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Castro",
+        "middle_name": "",
+        "last_name": "Rodr\u00edguez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1999-05-05",
+        "passport_number": "CY1317963",
+        "passport_mrz": [
+            "P<ESPRODR\u00cdGUEZ<<CASTRO<<<<<<<<<<<<<<<<<<<<<<<",
+            "CY1317963ESP990505<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-10-11",
+        "passport_expiry_date": "2027-10-10"
+    },
+    "client_profile": {
+        "name": "Castro Rodr\u00edguez",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Plaza de la Libertad",
+            "street number": 85,
+            "postal code": "46177"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1999-05-05",
+        "nationality": "Spanish",
+        "passport_number": "CY1317963",
+        "passport_issue_date": "2022-10-11",
+        "passport_expiry_date": "2027-10-10",
+        "gender": "M",
+        "phone_number": "696 294 085",
+        "email_address": "castro.rodriguez@gmail.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Instituto de Bachillerato Cient\u00edfico-T\u00e9cnico IES Juan Sebasti\u00e1n Elcano Bilbao",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "Reina Sofia Museum School",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Zeltia S.A.",
+                "position": "Research Scientist",
+                "salary": 25000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2240000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Castro Rodr\u00edguez",
+        "first_name": "Castro",
+        "middle_name": "",
+        "last_name": "Rodr\u00edguez",
+        "passport_number": "CY1317963",
+        "currency": "EUR",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Plaza de la Libertad",
+            "street number": 85,
+            "postal code": "46177"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "696 294 0852",
+        "email_address": "castro.rodriguez@gmail.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Castro Rodr\u00edguez since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nCastro Rodr\u00edguez is a 25 year old and comes from Spain.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Castro Rodr\u00edguez has been happily married to Sof\u00eda since 2024. They do not have any children.",
+        "Education Background": "Castro earned his secondary school diploma from Instituto de Bachillerato Cient\u00edfico-T\u00e9cnico IES Juan Sebasti\u00e1n Elcano Bilbao in 2018.\nAfter that, he went on to study at Navarra University until 2023.\n",
+        "Occupation History": "Castro Rodr\u00edguez is a 25 year old and comes from Spain.\nCastro Rodr\u00edguez began his professional journey as a Research Scientist at Zeltia S.A. in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "He managed to save approximately 10000 EUR from his earnings at all companies.\nClient does not have any properties.In 2020, he received an inheritance of 2240000 EUR from his late grandfather, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

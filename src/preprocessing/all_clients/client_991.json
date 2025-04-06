@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Hoffmann",
+        "middle_name": "Scholz",
+        "last_name": "Schmitz",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "2004-02-08",
+        "passport_number": "CZ9993538",
+        "passport_mrz": [
+            "P<DEUSCHMITZ<<HOFFMANN<SCHOLZ<<<<<<<<<<<<<<<<",
+            "CZ9993538DEU040208<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-09-22",
+        "passport_expiry_date": "2032-09-21"
+    },
+    "client_profile": {
+        "name": "Hoffmann Scholz Schmitz",
+        "address": {
+            "city": "Wuppertal",
+            "street name": "Kronprinzstra\u00dfe",
+            "street number": 40,
+            "postal code": "78985"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "2004-02-08",
+        "nationality": "German",
+        "passport_number": "CZ9993538",
+        "passport_issue_date": "2022-09-22",
+        "passport_expiry_date": "2032-09-21",
+        "gender": "M",
+        "phone_number": "+49 4936 792365",
+        "email_address": "hoffmann.schmitz@arcor.de",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Maria-Theresia-Gymnasium M\u00fcnchen",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1900000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hoffmann Scholz Schmitz",
+        "first_name": "Hoffmann",
+        "middle_name": "Scholz",
+        "last_name": "Schmitz",
+        "passport_number": "CZ9993538",
+        "currency": "EUR",
+        "address": {
+            "city": "Wuppertal",
+            "street name": "Kronprinzstra\u00dfe",
+            "street number": 40,
+            "postal code": "78985"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 4936 792365",
+        "email_address": "hoffmann.schmitz@arcor.de"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Hoffmann Scholz Schmitz since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nHoffmann Scholz Schmitz is a 21 year old and comes from Germany.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Hoffmann Scholz Schmitz is currently single. He does not have any children.",
+        "Education Background": "Hoffmann earned his secondary school diploma from Maria-Theresia-Gymnasium M\u00fcnchen in 2021.\n",
+        "Occupation History": "Hoffmann Scholz Schmitz is a 21 year old and comes from Germany.\nHoffmann Scholz Schmitz did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.\nFollowing the passing of his grandmother, a successful Hedge Fund Manager, he received an inheritance of 1900000 EUR in 2017, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

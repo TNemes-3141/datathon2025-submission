@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Mayer",
+        "middle_name": "Meier",
+        "last_name": "Scholz",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "2003-12-20",
+        "passport_number": "HK4611764",
+        "passport_mrz": [
+            "P<DEUSCHOLZ<<MAYER<MEIER<<<<<<<<<<<<<<<<<<<<<",
+            "HK4611764DEU031220<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-11-08",
+        "passport_expiry_date": "2032-11-07"
+    },
+    "client_profile": {
+        "name": "Mayer Meier Scholz",
+        "address": {
+            "city": "Berlin",
+            "street name": "Breitscheidplatz",
+            "street number": 92,
+            "postal code": "86945"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "2003-12-20",
+        "nationality": "German",
+        "passport_number": "HK4611764",
+        "passport_issue_date": "2022-11-08",
+        "passport_expiry_date": "2032-11-07",
+        "gender": "M",
+        "phone_number": "5008 947687",
+        "email_address": "mayer.scholz@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lessing-Gymnasium Frankfurt",
+            "graduation_year": 2023
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2750000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mayer Meier Scholz",
+        "first_name": "Mayer",
+        "middle_name": "Meier",
+        "last_name": "Scholz",
+        "passport_number": "HK4611764",
+        "currency": "EUR",
+        "address": {
+            "city": "Berlin",
+            "street name": "Breitscheidplatz",
+            "street number": 92,
+            "postal code": "86945"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "5008 947687",
+        "email_address": "mayer.scholz@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Mayer Meier Scholz during a business conference in Berlin. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nMayer Meier Scholz is a 21 year old and comes from Germany.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Mayer Meier Scholz is currently single. He does not have any children.",
+        "Education Background": "Mayer completed his secondary education at Lessing-Gymnasium Frankfurt in 2023.\n",
+        "Occupation History": "Mayer Meier Scholz is a 21 year old and comes from Germany.\nMayer Meier Scholz did not start his professional career yet.",
+        "Wealth Summary": "He did not have any savings to invest in financial markets.\nClient does not have any properties.He inherited a significant sum of 2750000 EUR from his grandmother, a respected Oil and Gas Executive, in 2020, which he has wisely invested.\n",
+        "Client Summary": "The RM is committed to helping Mayer achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "G\u00f3mez",
+        "last_name": "Morales",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1974-07-27",
+        "passport_number": "KJ8921579",
+        "passport_mrz": [
+            "P<ESPMORALES<<MU\u00d1OZ<G\u00d3MEZ<<<<<<<<<<<<<<<<<<<<",
+            "KJ8921579ESP740727<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-01-21",
+        "passport_expiry_date": "2028-01-20"
+    },
+    "client_profile": {
+        "name": "Mu\u00f1oz G\u00f3mez Morales",
+        "address": {
+            "city": "Gij\u00f3n",
+            "street name": "Diagonal",
+            "street number": 36,
+            "postal code": "98257"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1974-07-27",
+        "nationality": "Spanish",
+        "passport_number": "KJ8921579",
+        "passport_issue_date": "2018-01-21",
+        "passport_expiry_date": "2028-01-20",
+        "gender": "M",
+        "phone_number": "602 787 103",
+        "email_address": "munoz.morales@vodafone.es",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Jos\u00e9 Manuel Blecua Pamplona",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "University of Valencia",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2003,
+                "company": "Telef\u00f3nica S.A.",
+                "position": "Journalist",
+                "salary": 34000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2007,
+                "company": "Mediaset Espa\u00f1a Comunicaci\u00f3n S.A.",
+                "position": "Editor",
+                "salary": 37000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2010,
+                "company": "PRISA Noticias S.A.",
+                "position": "Publisher",
+                "salary": 55000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2015,
+                "company": "Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A.",
+                "position": "TV/Radio Host",
+                "salary": 116000
+            },
+            {
+                "start_year": 2016,
+                "end_year": 2024,
+                "company": "Telef\u00f3nica S.A.",
+                "position": "Media Conglomerate Owner",
+                "salary": 343000
+            }
+        ],
+        "aum": {
+            "savings": 470000,
+            "inheritance": 2730000,
+            "real_estate_value": 770000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2010,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 770000,
+                "property location": "Gij\u00f3n"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mu\u00f1oz G\u00f3mez Morales",
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "G\u00f3mez",
+        "last_name": "Gonz\u00e1lez",
+        "passport_number": "KJ8921579",
+        "currency": "EUR",
+        "address": {
+            "city": "Gij\u00f3n",
+            "street name": "Diagonal",
+            "street number": 36,
+            "postal code": "98257"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "++32602 787 103",
+        "email_address": "munoz.morales@vodafone.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Mu\u00f1oz G\u00f3mez Morales at a yacht party in Madrid. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nMu\u00f1oz G\u00f3mez Morales is a 50 year old and comes from Spain.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Mu\u00f1oz G\u00f3mez Morales is currently single. He does not have any children.",
+        "Education Background": "Mu\u00f1oz completed his secondary education at IES Jos\u00e9 Manuel Blecua Pamplona in 1994.\nMu\u00f1oz attended University of Valencia and graduated in 1998.\n",
+        "Occupation History": "Mu\u00f1oz G\u00f3mez Morales is a seasoned professional with over 27 years of experience.\nIn 1998, Mu\u00f1oz G\u00f3mez Morales started working as a Journalist at Telef\u00f3nica S.A., marking the beginning of his successful career.\nIn 2005, he moved to Mediaset Espa\u00f1a Comunicaci\u00f3n S.A. to work as a Editor, applying his knowledge to achieve outstanding performance.\nHis tenure as a Publisher at PRISA Noticias S.A. from 2007 to 2010 was marked by significant achievements and a deepening understanding of the field.\nAfter 12 years of dedication, he assumed the role of TV/Radio Host at Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A. in 2011, spearheading high-profile projects and mentoring junior colleagues.\nHe has been a Media Conglomerate Owner at Telef\u00f3nica S.A. since 2016, consistently demonstrating his ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "While working, he saved 470000 EUR, which he used to build a diversified investment portfolio.\nHe owns townhouse in Gij\u00f3n, where he resides. It is worth 770000 EUR.\n\nHe inherited 2730000 EUR from his grandmother, a well-known Tech Entrepreneur, in 2010, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In summary, Mu\u00f1oz has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

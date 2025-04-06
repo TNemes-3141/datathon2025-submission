@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Andrea",
+        "middle_name": "",
+        "last_name": "Su\u00e1rez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1961-04-03",
+        "passport_number": "EU1071985",
+        "passport_mrz": [
+            "P<ESPSU\u00c1REZ<<ANDREA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "EU1071985ESP610403<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-29",
+        "passport_expiry_date": "2033-08-28"
+    },
+    "client_profile": {
+        "name": "Andrea Su\u00e1rez",
+        "address": {
+            "city": "M\u00e1laga",
+            "street name": "Calle de la Paz",
+            "street number": 3,
+            "postal code": "90283"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1961-04-03",
+        "nationality": "Spanish",
+        "passport_number": "EU1071985",
+        "passport_issue_date": "2023-08-29",
+        "passport_expiry_date": "2033-08-28",
+        "gender": "F",
+        "phone_number": "+34 668 610 969",
+        "email_address": "andrea.suarez@gmail.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Colegio Jes\u00fas-Mar\u00eda Tarragona",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "University of Valencia",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1989,
+                "company": "Oryzon Genomics S.A.",
+                "position": "Research Scientist",
+                "salary": 23000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1990,
+                "company": "PharmaMar S.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 43000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1994,
+                "company": "Oryzon Genomics S.A.",
+                "position": "CEO",
+                "salary": 55000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 2022,
+                "company": "Almirall S.A.",
+                "position": "Venture Capitalist",
+                "salary": 814000
+            }
+        ],
+        "aum": {
+            "savings": 1420000,
+            "inheritance": 0,
+            "real_estate_value": 1960000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1000000,
+                "property location": "M\u00e1laga"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 960000,
+                "property location": "San Sebasti\u00e1n"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Andrea Su\u00e1rez",
+        "first_name": "Andrea",
+        "middle_name": "",
+        "last_name": "S\u00e1nchez",
+        "passport_number": "EU1071985",
+        "currency": "EUR",
+        "address": {
+            "city": "M\u00e1laga",
+            "street name": "Calle de la Paz",
+            "street number": 3,
+            "postal code": "90283"
+        },
+        "country_of_domicile": "Spain,France",
+        "phone_number": "+34 668 610 969",
+        "email_address": "andrea.suarez@gmail.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Andrea Su\u00e1rez on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nWith a career spanning nearly 39 years, Andrea Su\u00e1rez has established herself as a key player in the industry.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Andrea Su\u00e1rez has been happily married to Jim\u00e9nez since 1988. Andrea and Jim\u00e9nez have 2 children, named Emma and G\u00f3mez.",
+        "Education Background": "In 1981, Andrea finished her secondary school education at Colegio Jes\u00fas-Mar\u00eda Tarragona.\nAndrea attended University of Valencia and graduated in 1985.\n",
+        "Occupation History": "Andrea Su\u00e1rez is a 63 year old retired Venture Capitalist from Spain.\nAndrea Su\u00e1rez launched her career as a Research Scientist at Oryzon Genomics S.A., where she gained valuable experience from 1986 to 1989.\nHer subsequent role was as a Biotech Startup Founder at PharmaMar S.A., where she continued to grow professionally from 1989 to 1990.\nIn 1991, she joined Oryzon Genomics S.A. as a CEO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nIn 1994, she transitioned to Almirall S.A. to take on the position of Venture Capitalist, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "While working, she saved 1420000 EUR, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across M\u00e1laga and San Sebasti\u00e1n, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Andrea as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

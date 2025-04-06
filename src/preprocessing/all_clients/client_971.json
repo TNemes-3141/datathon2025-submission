@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "S\u00f8rensen",
+        "middle_name": "Jespersen",
+        "last_name": "Krog",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1990-09-15",
+        "passport_number": "DB5289774",
+        "passport_mrz": [
+            "P<KROG<<S\u00d8RENSEN<JESPERSEN<<<<<<<<<<<<<<<<<<<",
+            "DB5289774900915<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-15",
+        "passport_expiry_date": "2033-08-14"
+    },
+    "client_profile": {
+        "name": "S\u00f8rensen Jespersen Krog",
+        "address": {
+            "city": "Esbjerg \u00d8",
+            "street name": "Vesterbrogade",
+            "street number": 75,
+            "postal code": "4259"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1990-09-15",
+        "nationality": "Danish",
+        "passport_number": "DB5289774",
+        "passport_issue_date": "2033-08-14",
+        "passport_expiry_date": "2023-08-15",
+        "gender": "M",
+        "phone_number": "02 60 20 22",
+        "email_address": "srensen.krog@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Rysensteen Gymnasium",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "CBS International Business School",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": 2017,
+                "company": "Danica Pension F\u00f6rs\u00e4kringsaktiebolag",
+                "position": "Stockbroker",
+                "salary": 275000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "",
+                "position": "CFO",
+                "salary": 410000
+            }
+        ],
+        "aum": {
+            "savings": 420000,
+            "inheritance": 3670000,
+            "real_estate_value": 6360000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2690000,
+                "property location": "Esbjerg \u00d8"
+            },
+            {
+                "property type": "house",
+                "property value": 2240000,
+                "property location": "Vejle"
+            },
+            {
+                "property type": "condo",
+                "property value": 1430000,
+                "property location": "Hiller\u00f8d"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "S\u00f8rensen Jespersen Krog",
+        "first_name": "S\u00f8rensen",
+        "middle_name": "Jespersen",
+        "last_name": "Krog",
+        "passport_number": "DB5289774",
+        "currency": "DKK",
+        "address": {
+            "city": "Esbjerg \u00d8",
+            "street name": "Vesterbrogade",
+            "street number": 75,
+            "postal code": "4259"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "02 60 20 22",
+        "email_address": "srensen.krog@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met S\u00f8rensen Jespersen Krog at a charity gala in Copenhagen. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nS\u00f8rensen Jespersen Krog is a 34 year old and comes from Denmark.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "S\u00f8rensen Jespersen Krog is currently single. He does not have any children.",
+        "Education Background": "In 2009, S\u00f8rensen finished his secondary school education at Rysensteen Gymnasium.\nS\u00f8rensen received his degree from CBS International Business School in 2013.\n",
+        "Occupation History": "With a career spanning nearly 10 years, S\u00f8rensen Jespersen Krog has established himself as a key player in the industry.\nS\u00f8rensen Jespersen Krog launched his career as a Stockbroker at Danica Pension F\u00f6rs\u00e4kringsaktiebolag, where he gained valuable experience from 2015 to 2017.\nIn 2019, he moved to Investors A/S to work as a Portfolio Manager, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "Throughout his career, he saved 420000 DKK, investing in various assets to grow his wealth.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Esbjerg \u00d8, Hiller\u00f8d and Vejle, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of his grandmother, a successful Private Equity Manager, he received an inheritance of 3670000 DKK in 2016, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

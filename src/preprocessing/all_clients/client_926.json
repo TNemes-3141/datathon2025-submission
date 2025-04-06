@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Beatrice",
+        "middle_name": "Gabriella",
+        "last_name": "Marini",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1973-09-10",
+        "passport_number": "OJ6728161",
+        "passport_mrz": [
+            "P<ITAMARINI<<BEATRICE<GABRIELLA<<<<<<<<<<<<<<",
+            "OJ6728161ITA730910<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-07-13",
+        "passport_expiry_date": "2029-07-12"
+    },
+    "client_profile": {
+        "name": "Beatrice Gabriella Marini",
+        "address": {
+            "city": "Genoa",
+            "street name": "Piazza del Duomo",
+            "street number": 14,
+            "postal code": "05707"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1973-09-10",
+        "nationality": "Italian",
+        "passport_number": "OJ6728161",
+        "passport_issue_date": "2019-07-13",
+        "passport_expiry_date": "2029-07-12",
+        "gender": "F",
+        "phone_number": "337 8673551",
+        "email_address": "beatrice.marini@unidata.it",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Liceo Scientifico Enrico Fermi Bologna",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "University of Milan",
+                "graduation_year": 1998
+            },
+            {
+                "university": "University of Naples Federico II",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 2000,
+                "company": "Banca Mediolanum S.p.A.",
+                "position": "Financial Advisor",
+                "salary": 29000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2004,
+                "company": "Intesa Sanpaolo Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Banca Mediolanum S.p.A.",
+                "position": "Wealth Manager",
+                "salary": 56000
+            },
+            {
+                "start_year": 2008,
+                "end_year": null,
+                "company": "Allianz Bank Financial Advisors S.p.A.",
+                "position": "Family Office Executive",
+                "salary": 700000
+            }
+        ],
+        "aum": {
+            "savings": 980000,
+            "inheritance": 720000,
+            "real_estate_value": 4440000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1990000,
+                "property location": "Genoa"
+            },
+            {
+                "property type": "house",
+                "property value": 1400000,
+                "property location": "Reggio Calabria"
+            },
+            {
+                "property type": "house",
+                "property value": 1050000,
+                "property location": "Bari"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Beatrice Gabriella Marini",
+        "first_name": "Beatrice",
+        "middle_name": "Gabriella",
+        "last_name": "Marini",
+        "passport_number": "OJ6728161",
+        "currency": "EUR",
+        "address": {
+            "city": "Genoa",
+            "street name": "Piazza del Duomo",
+            "street number": 14,
+            "postal code": "05707"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "++34337 8673551",
+        "email_address": "beatrice.marini@unidata.it"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Beatrice Gabriella Marini at a charity gala in Rome. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nHaving worked for over 28 years, Beatrice Gabriella Marini brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Beatrice Gabriella Marini has been happily married to Lombardi since 2004. Together they have 1 kid called Daniela.",
+        "Education Background": "Beatrice received her secondary school diploma from Liceo Scientifico Enrico Fermi Bologna in 1991.\nIn 1998, Beatrice graduated from University of Milan with a degree.\nBeatrice earned her additionally degree from University of Naples Federico II in 2000.\n",
+        "Occupation History": "Beatrice Gabriella Marini is a 51 year old Family Office Executive from Italy. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Banca Mediolanum S.p.A., Beatrice Gabriella Marini held the position of Financial Advisor from 1997 to 2000, developing essential skills in the field.\nHer subsequent role was as a Portfolio Manager at Intesa Sanpaolo Private Banking, where she continued to grow professionally from 2002 to 2004.\nAt Banca Mediolanum S.p.A., she worked as a Wealth Manager from 2005 to 2006, focusing on strategic initiatives and team collaboration.\nShe worked as a Family Office Executive at Allianz Bank Financial Advisors S.p.A. from 2008 till now, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 980000 EUR.\nShe has villa located in Genoa, worth 1990000 EUR.\n\nIn addition to her primary residence, she owns house in Reggio Calabria worth 1400000 EUR.\n\nMoreover, she has invested in additional property in Bari, giving possiblity for generating additional income. The house is valued at 1050000 EUR.\n\nShe inherited 720000 EUR from her mother, a well-known Neurosurgeon, in 2012, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Beatrice has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

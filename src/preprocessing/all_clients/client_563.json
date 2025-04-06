@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Nicolas",
+        "middle_name": "",
+        "last_name": "Marchand",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1993-02-23",
+        "passport_number": "DM7929307",
+        "passport_mrz": [
+            "P<FRAMARCHAND<<NICOLAS<<<<<<<<<<<<<<<<<<<<<<<",
+            "DM7929307FRA930223<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-07-02",
+        "passport_expiry_date": "2034-07-01"
+    },
+    "client_profile": {
+        "name": "Nicolas Marchand",
+        "address": {
+            "city": "Murcia",
+            "street name": "Calle de la Universidad",
+            "street number": 14,
+            "postal code": "50382"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1993-02-23",
+        "nationality": "French",
+        "passport_number": "DM7929307",
+        "passport_issue_date": "2024-07-02",
+        "passport_expiry_date": "2034-07-01",
+        "gender": "M",
+        "phone_number": "+34 651 217 922",
+        "email_address": "nicolas.marchand@gmail.es",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Stanislas",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "American Graduate School of Business in Paris",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "KKR Iberia Asesoramiento S.A.",
+                "position": "Analyst",
+                "salary": 36000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 1420000,
+            "real_estate_value": 770000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 770000,
+                "property location": "Murcia"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Italy",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Nicolas Marchand",
+        "first_name": "Nicolas",
+        "middle_name": "",
+        "last_name": "Marchand",
+        "passport_number": "DM7929307",
+        "currency": "EUR",
+        "address": {
+            "city": "Murcia",
+            "street name": "Calle de la Universidad",
+            "street number": 14,
+            "postal code": "50382"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 651 217 922",
+        "email_address": "nicolas.marchand@gmail.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Nicolas Marchand since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nNicolas Marchand is a 32 year old Analyst from Spain.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Nicolas Marchand is married to Louise. They are proud parents of 1 child: Cl\u00e9mentine.",
+        "Education Background": "In 2010, Nicolas finished his secondary school education at Lyc\u00e9e Stanislas.\nNicolas pursued higher education at American Graduate School of Business in Paris, graduating in 2015.\n",
+        "Occupation History": "Nicolas Marchand is a 32 year old Analyst from Spain.\nNicolas Marchand's first role was as a Analyst at KKR Iberia Asesoramiento S.A., where he worked diligently from 2017 till now to establish a strong reputation.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 40000 EUR.\nHe has flat located in Murcia, worth 770000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1420000 EUR from his late grandmother, a renowned Private Equity Manager, in 2018.\n",
+        "Client Summary": "In summary, Nicolas has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

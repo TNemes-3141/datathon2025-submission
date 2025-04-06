@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Daphn\u00e9",
+        "middle_name": "Alexandra",
+        "last_name": "Lemaire",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1993-08-23",
+        "passport_number": "MH5152471",
+        "passport_mrz": [
+            "P<BELLEMAIRE<<DAPHN\u00c9<ALEXANDRA<<<<<<<<<<<<<<<",
+            "MH5152471BEL930823<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-02",
+        "passport_expiry_date": "2030-08-01"
+    },
+    "client_profile": {
+        "name": "Daphn\u00e9 Alexandra Lemaire",
+        "address": {
+            "city": "Kerava",
+            "street name": "Kalliolanpuisto",
+            "street number": 92,
+            "postal code": "28092"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1993-08-23",
+        "nationality": "Belgian",
+        "passport_number": "MH5152471",
+        "passport_issue_date": "2023-08-02",
+        "passport_expiry_date": "2030-08-01",
+        "gender": "F",
+        "phone_number": "043 145 63 21",
+        "email_address": "daphne.lemaire@dnainternet.fi",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Institut Saint-Louis",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "University of Li\u00e8ge",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": 2020,
+                "company": "Orion Corporation",
+                "position": "Research Scientist",
+                "salary": 40000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "Biotech Startup Founder",
+                "salary": 61000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 7300000,
+            "real_estate_value": 920000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 920000,
+                "property location": "Kerava"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Daphn\u00e9 Alexandra Lemaire",
+        "first_name": "Daphn\u00e9",
+        "middle_name": "Alexandra",
+        "last_name": "Lemaire",
+        "passport_number": "MH5152471",
+        "currency": "EUR",
+        "address": {
+            "city": "Kerava",
+            "street name": "Kalliolanpuisto",
+            "street number": 92,
+            "postal code": "28092"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "043 145 63 21",
+        "email_address": "daphne.lemaire@dnainternet.fi"
+    },
+    "client_description": {
+        "Summary Note": "Daphn\u00e9 Alexandra Lemaire and the RM were introduced at an art auction in Helsinki. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nDaphn\u00e9 Alexandra Lemaire is a 31 year old Biotech Startup Founder from Finland.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Daphn\u00e9 Alexandra Lemaire is currently divorced. She does not have any children.",
+        "Education Background": "Daphn\u00e9 obtained her secondary school diploma from Institut Saint-Louis in 2013.\nAfter that, she went on to study at University of Li\u00e8ge until 2018.\n",
+        "Occupation History": "Daphn\u00e9 Alexandra Lemaire is a 31 year old and comes from Finland.\nDaphn\u00e9 Alexandra Lemaire's first role was as a Research Scientist at Orion Corporation, where she worked diligently from 2017 to 2020 to establish a strong reputation.\nAt Finnish Red Cross Blood Service, she held the position of Biotech Startup Founder from 2021 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 60000 EUR.\nShe owns townhouse in Kerava, where she resides. It is worth 920000 EUR.\n\n\nFollowing the passing of her grandfather, a successful Hedge Fund Manager, she received an inheritance of 7300000 EUR in 2016, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Daphn\u00e9 as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

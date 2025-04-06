@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "L\u00e9a",
+        "middle_name": "Manon",
+        "last_name": "Dumont",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "2002-07-27",
+        "passport_number": "HE9798786",
+        "passport_mrz": [
+            "P<BELDUMONT<<L\u00c9A<MANON<<<<<<<<<<<<<<<<<<<<<<<",
+            "HE9798786BEL020727<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-08-06",
+        "passport_expiry_date": "2028-08-05"
+    },
+    "client_profile": {
+        "name": "L\u00e9a Manon Dumont",
+        "address": {
+            "city": "Ostend",
+            "street name": "Rue des Chartreux",
+            "street number": 11,
+            "postal code": "9287"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "2002-07-27",
+        "nationality": "Belgian",
+        "passport_number": "HE9798786",
+        "passport_issue_date": "2021-08-06",
+        "passport_expiry_date": "2028-08-05",
+        "gender": "F",
+        "phone_number": "+32 0470 816 253",
+        "email_address": "lea.dumont@scarlet.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut des Ursulines",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1350000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "L\u00e9a Manon Dumont",
+        "first_name": "L\u00e9a",
+        "middle_name": "Manon",
+        "last_name": "Dumont",
+        "passport_number": "HE9798786",
+        "currency": "EUR",
+        "address": {
+            "city": "Ostend",
+            "street name": "Rue des Chartreux",
+            "street number": 11,
+            "postal code": "9287"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "++43 0470 816 253",
+        "email_address": "lea.dumont@scarlet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM met L\u00e9a Manon Dumont at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nL\u00e9a Manon Dumont is a 22 year old and comes from Belgium.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "L\u00e9a Manon Dumont is currently single. She does not have any children.",
+        "Education Background": "L\u00e9a finished secondary school at Institut des Ursulines in 2021.\n",
+        "Occupation History": "L\u00e9a Manon Dumont is a 22 year old and comes from Belgium.\nL\u00e9a Manon Dumont did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.She inherited a significant sum of 1350000 EUR from her grandfather, a respected Corporate Lawyer, in 2018, which she has wisely invested.\n",
+        "Client Summary": "The RM is excited to help L\u00e9a navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "Ellen",
+        "middle_name": "Louise",
+        "last_name": "H\u00f8jgaard",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1969-02-03",
+        "passport_number": "ZO3420908",
+        "passport_mrz": [
+            "P<DNKH\u00d8JGAARD<<ELLEN<LOUISE<<<<<<<<<<<<<<<<<<",
+            "ZO3420908DNK690203<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-07-11",
+        "passport_expiry_date": "2026-07-10"
+    },
+    "client_profile": {
+        "name": "Ellen Louise H\u00f8jgaard",
+        "address": {
+            "city": "Randers",
+            "street name": "Israels Plads",
+            "street number": 43,
+            "postal code": "5624"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1969-02-03",
+        "nationality": "Danish",
+        "passport_number": "ZO3420908",
+        "passport_issue_date": "2016-07-11",
+        "passport_expiry_date": "2026-07-10",
+        "gender": "F",
+        "phone_number": "71 72 89 30",
+        "email_address": "ellen.hjgaard@tiscali.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Haderslev Katedralskole",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1995,
+                "company": "National Gallery of Denmark",
+                "position": "Art Dealer",
+                "salary": 286000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1999,
+                "company": "Louisiana Museum of Modern Art",
+                "position": "Gallery Owner",
+                "salary": 351000
+            },
+            {
+                "start_year": 2000,
+                "end_year": null,
+                "company": "Louisiana Museum of Modern Art",
+                "position": "Art Advisor",
+                "salary": 4145000
+            }
+        ],
+        "aum": {
+            "savings": 7860000,
+            "inheritance": 13180000,
+            "real_estate_value": 3868000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2007,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1778000,
+                "property location": "Randers"
+            },
+            {
+                "property type": "flat",
+                "property value": 1020000,
+                "property location": "Svendborg"
+            },
+            {
+                "property type": "condo",
+                "property value": 1070000,
+                "property location": "Hiller\u00f8d"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Ellen Louise H\u00f8jgaard",
+        "first_name": "Ellen",
+        "middle_name": "Louise",
+        "last_name": "H\u00f8jgaard",
+        "passport_number": "ZO3420908",
+        "currency": "DKK",
+        "address": {
+            "city": "Randers",
+            "street name": "Israels Plads",
+            "street number": 43,
+            "postal code": "5624"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "71 72 89 30",
+        "email_address": "ellen.hjgaard@tiscali.dk"
+    },
+    "client_description": {
+        "Summary Note": "Ellen Louise H\u00f8jgaard and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nEllen Louise H\u00f8jgaard is a 56 year old and comes from Denmark.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Ellen Louise H\u00f8jgaard and Nielsen tied the knot in 1998. Ellen and Nielsen have 2 children, named Josephine and Louise.",
+        "Education Background": "Ellen finished secondary school at Haderslev Katedralskole in 1986.\nEllen completed her university education at Copenhagen Business School in 1991.\n",
+        "Occupation History": "Ellen Louise H\u00f8jgaard is a 56 year old Art Advisor from Denmark. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nEllen Louise H\u00f8jgaard began her professional journey as a Art Dealer at National Gallery of Denmark in 1993, laying the foundation for future success.\nIn 1996, she moved to Louisiana Museum of Modern Art to work as a Gallery Owner, applying her knowledge to achieve outstanding performance.\nFrom 2000 till now, she served as a Art Advisor at Louisiana Museum of Modern Art, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "She managed to save approximately 7860000 DKK from her earnings at all companies.\nShe owns townhouse in Randers, where she resides. It is worth 1778000 DKK.\n\nIn addition to her primary residence, she owns flat in Svendborg worth 1020000 DKK.\n\nOn top of that she inherited a beautiful condo in Hiller\u00f8d, which could be used as a weekend getaway. It is valued at 1070000 DKK.\nShe inherited a significant sum of 13180000 DKK from her mother, a respected Tech Entrepreneur, in 2007, which she has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Ellen as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

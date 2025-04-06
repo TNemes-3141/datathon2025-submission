@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Emanuela",
+        "middle_name": "Francesca",
+        "last_name": "Conti",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1969-05-07",
+        "passport_number": "SH9144599",
+        "passport_mrz": [
+            "P<ITACONTI<<EMANUELA<FRANCESCA<<<<<<<<<<<<<<<",
+            "SH9144599ITA690507<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-05-13",
+        "passport_expiry_date": "2031-05-12"
+    },
+    "client_profile": {
+        "name": "Emanuela Francesca Conti",
+        "address": {
+            "city": "Modena",
+            "street name": "Piazza Maggiore",
+            "street number": 98,
+            "postal code": "44012"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1969-05-07",
+        "nationality": "Italian",
+        "passport_number": "SH9144599",
+        "passport_issue_date": "2021-05-13",
+        "passport_expiry_date": "2031-05-12",
+        "gender": "F",
+        "phone_number": "347 0669749",
+        "email_address": "emanuela.conti@libero.it",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Liceo Classico Giambattista Vico Napoli",
+            "graduation_year": 1987
+        },
+        "higher_education": [
+            {
+                "university": "University of Turin",
+                "graduation_year": 1992
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "Costa Crociere S.p.A.",
+                "position": "Ship Broker",
+                "salary": 26000
+            },
+            {
+                "start_year": 2000,
+                "end_year": null,
+                "company": "Grimaldi Group S.p.A.",
+                "position": "Shipping Company Owner",
+                "salary": 195000
+            }
+        ],
+        "aum": {
+            "savings": 340000,
+            "inheritance": 270000,
+            "real_estate_value": 1230000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1230000,
+                "property location": "Modena"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Emanuela Francesca Conti",
+        "first_name": "Emanuela",
+        "middle_name": "Francesca",
+        "last_name": "Conti",
+        "passport_number": "SH9144599",
+        "currency": "EUR",
+        "address": {
+            "city": "Modena",
+            "street name": "Piazza Maggiore",
+            "street number": 98,
+            "postal code": "44012"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "347 0669749",
+        "email_address": "emanuela.conti@libero.it"
+    },
+    "client_description": {
+        "Summary Note": "Emanuela Francesca Conti and the RM crossed paths at a tech conference in Rome. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nEmanuela Francesca Conti is a seasoned professional with over 31 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Emanuela Francesca Conti is currently widowed. She does not have any children.",
+        "Education Background": "Emanuela finished secondary school at Liceo Classico Giambattista Vico Napoli in 1987.\nEmanuela completed her university studies at University of Turin in 1992.\n",
+        "Occupation History": "Emanuela Francesca Conti is a 55 year old Shipping Company Owner from Italy.\nIn 1994, Emanuela Francesca Conti started working as a Ship Broker at Costa Crociere S.p.A., marking the beginning of her successful career.\nHer subsequent role was as a Shipping Company Owner at Grimaldi Group S.p.A., where she continued to grow professionally from 2000 till now.\n",
+        "Wealth Summary": "She managed to save approximately 340000 EUR from her earnings at all companies.\nShe owns house in Modena, where she resides. It is worth 1230000 EUR.\n\nShe inherited 270000 EUR from her grandmother, a well-known Neurosurgeon, in 2015, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

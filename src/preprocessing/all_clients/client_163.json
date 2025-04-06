@@ -1,0 +1,111 @@
+{
+    "passport": {
+        "first_name": "Cl\u00e9mence",
+        "middle_name": "Romane",
+        "last_name": "Van den Berghe",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1989-11-07",
+        "passport_number": "EN8164942",
+        "passport_mrz": [
+            "P<BELVAN DEN BERGHE<<CL\u00c9MENCE<ROMANE<<<<<<<<<",
+            "EN8164942BEL891107<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-01-10",
+        "passport_expiry_date": "2028-01-09"
+    },
+    "client_profile": {
+        "name": "Cl\u00e9mence Romane Van den Berghe",
+        "address": {
+            "city": "Hasselt",
+            "street name": "Rue de l'\u00c9glise",
+            "street number": 66,
+            "postal code": "8507"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1989-11-07",
+        "nationality": "Belgian",
+        "passport_number": "EN8164942",
+        "passport_issue_date": "2021-01-10",
+        "passport_expiry_date": "2028-01-09",
+        "gender": "F",
+        "phone_number": "+32 0405 729 225",
+        "email_address": "clemence.vandenberghe@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Atheneum Antwerpen Linkeroever",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "Universit\u00e9 catholique de Louvain",
+                "graduation_year": 2014
+            },
+            {
+                "university": "Vrije Universiteit Brussel",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": 2024,
+                "company": "Gimv NV",
+                "position": "Analyst",
+                "salary": 97000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 100000,
+            "real_estate_value": 860000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 860000,
+                "property location": "Hasselt"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Cl\u00e9mence Romane Van den Berghe",
+        "first_name": "Cl\u00e9mence",
+        "middle_name": "Romane",
+        "last_name": "Van den Berghe",
+        "passport_number": "EN8164942",
+        "currency": "EUR",
+        "address": {
+            "city": "Hasselt",
+            "street name": "Rue de l'\u00c9glise",
+            "street number": 66,
+            "postal code": "8507"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0405 729 225",
+        "email_address": "clemence.vandenberghe@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Cl\u00e9mence Romane Van den Berghe and the RM met at a financial seminar in Brussels. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nCl\u00e9mence Romane Van den Berghe is a 35 year old Analyst from Belgium.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Cl\u00e9mence Romane Van den Berghe is married to Simons. They do not have any children.",
+        "Education Background": "Cl\u00e9mence finished secondary school at Atheneum Antwerpen Linkeroever in 2009.\nCl\u00e9mence completed her university studies at Universit\u00e9 catholique de Louvain in 2014.\nIn 2017, she received extra education and graduated from Vrije Universiteit Brussel with an additional degree.\n",
+        "Occupation History": "Cl\u00e9mence Romane Van den Berghe is a 35 year old and comes from Belgium.\nCl\u00e9mence Romane Van den Berghe began her professional journey as a Analyst at Gimv NV in 2013, laying the foundation for future success.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 110000 EUR.\nShe has townhouse located in Hasselt, worth 860000 EUR.\n\nShe inherited 100000 EUR from her grandfather, a well-known Investment Banker, in 2018, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have Cl\u00e9mence as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

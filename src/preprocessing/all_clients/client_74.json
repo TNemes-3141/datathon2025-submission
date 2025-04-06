@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Mart\u00ednez",
+        "middle_name": "Fern\u00e1ndez",
+        "last_name": "Ruiz",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1971-01-07",
+        "passport_number": "IX0242942",
+        "passport_mrz": [
+            "P<ESPRUIZ<<MART\u00cdNEZ<FERN\u00c1NDEZ<<<<<<<<<<<<<<<<",
+            "IX0242942ESP710107<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-05-27",
+        "passport_expiry_date": "2034-05-26"
+    },
+    "client_profile": {
+        "name": "Mart\u00ednez Fern\u00e1ndez Ruiz",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Turia Gardens",
+            "street number": 90,
+            "postal code": "11941"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1971-01-07",
+        "nationality": "Spanish",
+        "passport_number": "IX0242942",
+        "passport_issue_date": "2024-05-27",
+        "passport_expiry_date": "2034-05-26",
+        "gender": "M",
+        "phone_number": "+34 605 940 606",
+        "email_address": "martinez.ruiz@icloud.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Virgen del Carmen M\u00e1laga",
+            "graduation_year": 1988
+        },
+        "higher_education": [
+            {
+                "university": "University of Granada",
+                "graduation_year": 1995
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 1998,
+                "company": "Fidelity International (Spain)",
+                "position": "Stockbroker",
+                "salary": 25000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2002,
+                "company": "BlackRock Hispanic Markets S.A.",
+                "position": "Portfolio Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2007,
+                "company": "Fidelity International (Spain)",
+                "position": "Hedge Fund Manager",
+                "salary": 64000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "BlackRock Hispanic Markets S.A.",
+                "position": "Private Equity Investor",
+                "salary": 366000
+            }
+        ],
+        "aum": {
+            "savings": 640000,
+            "inheritance": 1220000,
+            "real_estate_value": 1180000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2005,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1180000,
+                "property location": "Almer\u00eda"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mart\u00ednez Fern\u00e1ndez Ruiz",
+        "first_name": "Mart\u00ednez",
+        "middle_name": "Fern\u00e1ndez",
+        "last_name": "Ruiz",
+        "passport_number": "IX0242942",
+        "currency": "EUR",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Turia Gardens",
+            "street number": 90,
+            "postal code": "11941"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 605 940 606",
+        "email_address": "martinez.ruiz@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Mart\u00ednez Fern\u00e1ndez Ruiz and the RM met at a networking event in Madrid. They quickly realized they had complementary skills and decided to collaborate on several projects.\nHaving worked for over 30 years, Mart\u00ednez Fern\u00e1ndez Ruiz brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Mart\u00ednez Fern\u00e1ndez Ruiz is currently divorced. His child is named Gil.",
+        "Education Background": "Mart\u00ednez completed his secondary education at IES Virgen del Carmen M\u00e1laga in 1988.\nMart\u00ednez completed his university education at University of Granada in 1995.\n",
+        "Occupation History": "Mart\u00ednez Fern\u00e1ndez Ruiz is a 54 year old Private Equity Investor from Spain.\nIn 1995, Mart\u00ednez Fern\u00e1ndez Ruiz started working as a Stockbroker at Fidelity International (Spain), marking the beginning of his successful career.\nIn 2000, he moved to BlackRock Hispanic Markets S.A. to work as a Portfolio Manager, applying his knowledge to achieve outstanding performance.\nHe spent 4 years working as a Hedge Fund Manager at Fidelity International (Spain), refining his expertise and building a strong network.\nAfter 12 years of dedication, he assumed the role of Private Equity Investor at BlackRock Hispanic Markets S.A. in 2009, spearheading high-profile projects and mentoring junior colleagues.\n",
+        "Wealth Summary": "He managed to save approximately 640000 EUR from his earnings at all companies.\nHe owns condo in Almer\u00eda, where he resides. It is worth 1180000 EUR.\n\nHe inherited a significant sum of 1220000 EUR from his father, a respected Stock Trader, in 2005, which he has wisely invested.\n",
+        "Client Summary": "In summary, Mart\u00ednez has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "passport": {
+        "first_name": "Riedo",
+        "middle_name": "",
+        "last_name": "B\u00fchler",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1977-03-12",
+        "passport_number": "HM4843763",
+        "passport_mrz": [
+            "P<CHEB\u00dcHLER<<RIEDO<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "HM4843763CHE770312<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-05-02",
+        "passport_expiry_date": "2034-05-01"
+    },
+    "client_profile": {
+        "name": "Riedo B\u00fchler",
+        "address": {
+            "city": "Bienna",
+            "street name": "Waisenhausplatz",
+            "street number": 66,
+            "postal code": "7622"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1977-03-12",
+        "nationality": "Swiss",
+        "passport_number": "HM4843763",
+        "passport_issue_date": "2024-05-02",
+        "passport_expiry_date": "2034-05-01",
+        "gender": "M",
+        "phone_number": "+41 067 003 49 70",
+        "email_address": "riedo.buhler@swisscom.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium Leonhard Winterthur",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "University of Geneva",
+                "graduation_year": 2000
+            },
+            {
+                "university": "EPFL",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2003,
+                "company": "Lombard Odier Darier Hentsch & Cie",
+                "position": "Family Office Manager",
+                "salary": 64000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2010,
+                "company": "Credit Suisse AG",
+                "position": "Investment Director",
+                "salary": 116000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2016,
+                "company": "Credit Suisse AG",
+                "position": "CFO",
+                "salary": 115000
+            },
+            {
+                "start_year": 2018,
+                "end_year": 2023,
+                "company": "Julius Baer Gruppe AG",
+                "position": "COO",
+                "salary": 466000
+            },
+            {
+                "start_year": 2025,
+                "end_year": null,
+                "company": "Julius Baer Gruppe AG",
+                "position": "CEO",
+                "salary": 282000
+            }
+        ],
+        "aum": {
+            "savings": 560000,
+            "inheritance": 5740000,
+            "real_estate_value": 10110000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2014,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 4400000,
+                "property location": "Bienna"
+            },
+            {
+                "property type": "villa",
+                "property value": 5710000,
+                "property location": "Basel"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Riedo B\u00fchler",
+        "first_name": "Riedo",
+        "middle_name": "",
+        "last_name": "B\u00fchpler",
+        "passport_number": "HM4843763",
+        "currency": "CHF",
+        "address": {
+            "city": "Bienna",
+            "street name": "Waisenhausplatz",
+            "street number": 66,
+            "postal code": "7622"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 067 003 49 70",
+        "email_address": "riedo.buhler@swisscom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Riedo B\u00fchler on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nRiedo B\u00fchler is a 48 year old CEO from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Riedo B\u00fchler and Larissa have been married since 2011. Together they have 3 kids called Schneider, Lehmann and Corinne.",
+        "Education Background": "Riedo completed his secondary education at Gymnasium Leonhard Winterthur in 1996.\nRiedo received his degree from University of Geneva in 2000.\nMoreover he completed his extra university education at EPFL in 2004.\n",
+        "Occupation History": "With a career spanning nearly 24 years, Riedo B\u00fchler has established himself as a key player in the industry.\nAt Lombard Odier Darier Hentsch & Cie, Riedo B\u00fchler held the position of Family Office Manager from 2001 to 2003, developing essential skills in the field.\nIn 2005, he moved to Credit Suisse AG to work as a Investment Director, applying his knowledge to achieve outstanding performance.\nHis tenure as a CFO at Credit Suisse AG from 2012 to 2016 was marked by significant achievements and a deepening understanding of the field.\nHe worked as a COO at Julius Baer Gruppe AG from 2018 to 2023, playing a pivotal role in shaping the company's vision and strategy.\nHe has been a CEO at Julius Baer Gruppe AG since 2025, consistently demonstrating his ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "While working, he saved 560000 CHF, which he used to build a diversified investment portfolio.\nHe has villa located in Bienna, worth 4400000 CHF.\n\nIn addition to his primary residence, he owns villa in Basel worth 5710000 CHF.\n\nHe inherited 5740000 CHF from his grandmother, a well-known Stock Trader, in 2014, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

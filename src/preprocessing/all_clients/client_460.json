@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "P\u00e9rez",
+        "middle_name": "Navarro",
+        "last_name": "L\u00f3pez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1956-01-29",
+        "passport_number": "VO7922475",
+        "passport_mrz": [
+            "P<ESPL\u00d3PEZ<<P\u00c9REZ<NAVARRO<<<<<<<<<<<<<<<<<<<<",
+            "VO7922475ESP560129<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-09-05",
+        "passport_expiry_date": "2033-09-04"
+    },
+    "client_profile": {
+        "name": "P\u00e9rez Navarro L\u00f3pez",
+        "address": {
+            "city": "Vigo",
+            "street name": "Calle de San Vicente M\u00e1rtir",
+            "street number": 77,
+            "postal code": "64999"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1956-01-29",
+        "nationality": "Spanish",
+        "passport_number": "VO7922475",
+        "passport_issue_date": "2023-09-05",
+        "passport_expiry_date": "2033-09-04",
+        "gender": "M",
+        "phone_number": "+34 659 507 513",
+        "email_address": "perez.lopez@yahoo.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Instituto de Bachillerato Art\u00edstico IES Reina Sofia Tenerife",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "IE University",
+                "graduation_year": 1978
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1982,
+                "company": "KKR Iberia Asesoramiento S.A.",
+                "position": "Analyst",
+                "salary": 26000
+            },
+            {
+                "start_year": 1982,
+                "end_year": 1984,
+                "company": "KKR Iberia Asesoramiento S.A.",
+                "position": "Associate",
+                "salary": 41000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1986,
+                "company": "ProA Capital de Inversi\u00f3n SGEIC S.A.",
+                "position": "Investment Director",
+                "salary": 54000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 2016,
+                "company": "ProA Capital de Inversi\u00f3n SGEIC S.A.",
+                "position": "Partner",
+                "salary": 1061000
+            }
+        ],
+        "aum": {
+            "savings": 1990000,
+            "inheritance": 0,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {},
+        "real_estate_details": [],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "P\u00e9rez Navarro L\u00f3pez",
+        "first_name": "P\u00e9rez",
+        "middle_name": "Navarro",
+        "last_name": "L\u00f3pez",
+        "passport_number": "VO7922475",
+        "currency": "EUR",
+        "address": {
+            "city": "Vigo",
+            "street name": "Calle de San Vicente M\u00e1rtir",
+            "street number": 77,
+            "postal code": "64999"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 659 507 513",
+        "email_address": "perez.lopez@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met P\u00e9rez Navarro L\u00f3pez during a business conference in Madrid. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nP\u00e9rez Navarro L\u00f3pez is a 69 year old and comes from Spain.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "P\u00e9rez Navarro L\u00f3pez is currently divorced. His child is named Cayetana.",
+        "Education Background": "P\u00e9rez received his secondary school diploma from Instituto de Bachillerato Art\u00edstico IES Reina Sofia Tenerife in 1974.\nHe then attended IE University, which he graduated in 1978.\n",
+        "Occupation History": "P\u00e9rez Navarro L\u00f3pez is a 69 year old retired Partner from Spain.\nIn 1979, P\u00e9rez Navarro L\u00f3pez started working as a Analyst at KKR Iberia Asesoramiento S.A., marking the beginning of his successful career.\nAt KKR Iberia Asesoramiento S.A., he held the position of Associate from 1982 to 1984, making significant contributions to the organization.\nHis tenure as a Investment Director at ProA Capital de Inversi\u00f3n SGEIC S.A. from 1984 to 1986 was marked by significant achievements and a deepening understanding of the field.\nHe appointment as a Partner at ProA Capital de Inversi\u00f3n SGEIC S.A. in 1986 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "Throughout his career, he saved 1990000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.He does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

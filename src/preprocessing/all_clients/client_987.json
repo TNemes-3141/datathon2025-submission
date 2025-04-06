@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "Guti\u00e9rrez",
+        "last_name": "Mart\u00edn",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1991-01-24",
+        "passport_number": "VN6314821",
+        "passport_mrz": [
+            "P<ESPMART\u00cdN<<MU\u00d1OZ<GUTI\u00c9RREZ<<<<<<<<<<<<<<<<<",
+            "VN6314821ESP910124<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-09-14",
+        "passport_expiry_date": "2030-09-13"
+    },
+    "client_profile": {
+        "name": "Mu\u00f1oz Guti\u00e9rrez Mart\u00edn",
+        "address": {
+            "city": "C\u00f3rdoba",
+            "street name": "Calle de San Vicente M\u00e1rtir",
+            "street number": 66,
+            "postal code": "60559"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1991-01-24",
+        "nationality": "Spanish",
+        "passport_number": "VN6314821",
+        "passport_issue_date": "2020-09-14",
+        "passport_expiry_date": "2030-09-13",
+        "gender": "M",
+        "phone_number": "+34 673 022 014",
+        "email_address": "munoz.martin@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Federico Garc\u00eda Lorca Granada",
+            "graduation_year": 2008
+        },
+        "higher_education": [
+            {
+                "university": "Pompeu Fabra University",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": 2018,
+                "company": "CaixaBank S.A.",
+                "position": "Family Office Manager",
+                "salary": 27000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Banco Santander S.A.",
+                "position": "Investment Director",
+                "salary": 43000
+            }
+        ],
+        "aum": {
+            "savings": 50000,
+            "inheritance": 1790000,
+            "real_estate_value": 3052000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 792000,
+                "property location": "C\u00f3rdoba"
+            },
+            {
+                "property type": "villa",
+                "property value": 2260000,
+                "property location": "Guadalajara"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mu\u00f1oz Guti\u00e9rrez Mart\u00edn",
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "Guti\u00e9rrez",
+        "last_name": "Mart\u00edn",
+        "passport_number": "VN6314821",
+        "currency": "EUR",
+        "address": {
+            "city": "C\u00f3rdoba",
+            "street name": "Calle de San Vicente M\u00e1rtir",
+            "street number": 66,
+            "postal code": "60559"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 673 022 014",
+        "email_address": "munoz.martin@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Mu\u00f1oz Guti\u00e9rrez Mart\u00edn on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nMu\u00f1oz Guti\u00e9rrez Mart\u00edn is a 34 year old Investment Director from Spain. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Mu\u00f1oz Guti\u00e9rrez Mart\u00edn is currently single. He does not have any children.",
+        "Education Background": "Mu\u00f1oz completed his secondary education at IES Federico Garc\u00eda Lorca Granada in 2008.\nMu\u00f1oz received his degree from Pompeu Fabra University in 2015.\n",
+        "Occupation History": "Mu\u00f1oz Guti\u00e9rrez Mart\u00edn is a seasoned professional with over 11 years of experience.\nAt CaixaBank S.A., Mu\u00f1oz Guti\u00e9rrez Mart\u00edn held the position of Family Office Manager from 2014 to 2018, developing essential skills in the field.\nAfter gaining experience, he took on the role of Investment Director at Banco Santander S.A. in 2020, further expanding his skill set.\n",
+        "Wealth Summary": "While working, he saved 50000 EUR, which he used to build a diversified investment portfolio.\nHe owns townhouse in C\u00f3rdoba, where he resides. It is worth 792000 EUR.\n\nIn addition to his primary residence, he owns villa in Guadalajara worth 2260000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1790000 EUR from his late grandfather, a renowned Investment Banker, in 2020.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

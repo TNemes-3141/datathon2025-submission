@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Van der Meer",
+        "middle_name": "Teunissen",
+        "last_name": "Krol",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1971-12-18",
+        "passport_number": "GV6713320",
+        "passport_mrz": [
+            "P<NLDKROL<<VAN DER MEER<TEUNISSEN<<<<<<<<<<<<",
+            "GV6713320NLD711218<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-05-03",
+        "passport_expiry_date": "2033-05-02"
+    },
+    "client_profile": {
+        "name": "Van der Meer Teunissen Krol",
+        "address": {
+            "city": "The Hague",
+            "street name": "PC Hoofdstraat",
+            "street number": 38,
+            "postal code": "2448 87"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1971-12-18",
+        "nationality": "Dutch",
+        "passport_number": "GV6713320",
+        "passport_issue_date": "2023-05-03",
+        "passport_expiry_date": "2033-05-02",
+        "gender": "M",
+        "phone_number": "+31 06 85775392",
+        "email_address": "vandermeer.krol@home.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Montessori Lyceum Rotterdam",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "Tio University of Applied Sciences",
+                "graduation_year": 1981
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 2000,
+                "company": "Victor & Rolf B.V.",
+                "position": "Assistant Designer",
+                "salary": 43000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "Victor & Rolf B.V.",
+                "position": "Senior Designer",
+                "salary": 85000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2009,
+                "company": "Blueblood B.V.",
+                "position": "Creative Director",
+                "salary": 78000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2015,
+                "company": "G-Star Raw C.V.",
+                "position": "Founder/Designer",
+                "salary": 307000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Blueblood B.V.",
+                "position": "Luxury Brand Owner",
+                "salary": 333000
+            }
+        ],
+        "aum": {
+            "savings": 760000,
+            "inheritance": 7150000,
+            "real_estate_value": 1730000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2012,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1730000,
+                "property location": "The Hague"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands"
+        ],
+        "currency": "PPT"
+    },
+    "account_form": {
+        "name": "Van der Meer Teunissen Krol",
+        "first_name": "Van der Meer",
+        "middle_name": "Teunissen",
+        "last_name": "Krol",
+        "passport_number": "GV6713320",
+        "currency": "EUR",
+        "address": {
+            "city": "The Hague",
+            "street name": "PC Hoofdstraat",
+            "street number": 38,
+            "postal code": "2448 87"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 85775392",
+        "email_address": "vandermeer.krol@home.nl"
+    },
+    "client_description": {
+        "Summary Note": "Van der Meer Teunissen Krol and the RM met at a networking event in Amsterdam. They quickly realized they had complementary skills and decided to collaborate on several projects.\nHaving worked for over 29 years, Van der Meer Teunissen Krol brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Van der Meer Teunissen Krol is married to Daantje. Together they have 1 kid called Teunissen.",
+        "Education Background": "Van der Meer graduated from Montessori Lyceum Rotterdam in 1989.\nVan der Meer completed his university education at Tio University of Applied Sciences in 1995.\n",
+        "Occupation History": "Van der Meer Teunissen Krol is a 53 year old Luxury Brand Owner from Netherlands.\nVan der Meer Teunissen Krol began his professional journey as a Assistant Designer at Victor & Rolf B.V. in 1996, laying the foundation for future success.\nHe then transitioned to Victor & Rolf B.V. as a Senior Designer, leveraging his expertise to drive results from 2002 to 2007.\nFrom 2008 to 2009, he served as a Creative Director at Blueblood B.V., solidifying his position as a leader in the industry.\nAfter 13 years of dedication, he assumed the role of Founder/Designer at G-Star Raw C.V. in 2010, spearheading high-profile projects and mentoring junior colleagues.\nHis current role as a Luxury Brand Owner at Blueblood B.V., which he has held since 2015, reflects his enduring passion for the field and his unwavering dedication to making a lasting impact.",
+        "Wealth Summary": "He managed to save approximately 760000 EUR from his earnings at all companies.\nHe has house located in The Hague, worth 1730000 EUR.\n\n\nFollowing the passing of his grandmother, a successful Venture Capitalist, he received an inheritance of 7150000 EUR in 2012, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Van der Meer as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

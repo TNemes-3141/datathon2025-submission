@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Huber",
+        "middle_name": "Weber",
+        "last_name": "Rieder",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1998-05-27",
+        "passport_number": "MR4513076",
+        "passport_mrz": [
+            "P<AUTRIEDER<<HUBER<WEBER<<<<<<<<<<<<<<<<<<<<<",
+            "MR4513076AUT980527<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-12-22",
+        "passport_expiry_date": "2029-12-21"
+    },
+    "client_profile": {
+        "name": "Huber Weber Rieder",
+        "address": {
+            "city": "Linz",
+            "street name": "Blutgasse",
+            "street number": 32,
+            "postal code": "6316"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1998-05-27",
+        "nationality": "Austrian",
+        "passport_number": "MR4513076",
+        "passport_issue_date": "2019-12-22",
+        "passport_expiry_date": "2029-12-21",
+        "gender": "M",
+        "phone_number": "",
+        "email_address": "huber.rieder@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium Sacr\u00e9 Coeur Pressbaum",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Mozarteum University Salzburg",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": 2024,
+                "company": "Kunsthistorisches Museum",
+                "position": "Art Dealer",
+                "salary": 30000
+            },
+            {
+                "start_year": 2024,
+                "end_year": null,
+                "company": "Kunsthistorisches Museum",
+                "position": "Gallery Owner",
+                "salary": 49000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1210000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Huber Weber Rieder",
+        "first_name": "Rieder",
+        "middle_name": "Weber",
+        "last_name": "Huber",
+        "passport_number": "MR4513076",
+        "currency": "EUR",
+        "address": {
+            "city": "Linz",
+            "street name": "Blutgasse",
+            "street number": 32,
+            "postal code": "6316"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "012 588 9748",
+        "email_address": "huber.rieder@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Huber Weber Rieder and the RM crossed paths at a mutual friend's dinner party in Vienna. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHuber Weber Rieder is a 26 year old Gallery Owner from Austria.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Huber Weber Rieder and Heidi tied the knot in 2025. They do not have any children.",
+        "Education Background": "In 2016, Huber finished his secondary school education at Gymnasium Sacr\u00e9 Coeur Pressbaum.\nHuber completed his university education at Mozarteum University Salzburg in 2021.\n",
+        "Occupation History": "Huber Weber Rieder is a 26 year old Gallery Owner from Austria.\nHuber Weber Rieder began his professional journey as a Art Dealer at Kunsthistorisches Museum in 2023, laying the foundation for future success.\nAfter gaining experience, he took on the role of Gallery Owner at Kunsthistorisches Museum in 2024, further expanding his skill set.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 10000 EUR.\nClient does not have any properties.\nFollowing the passing of his grandfather, a successful Stock Trader, he received an inheritance of 1210000 EUR in 2018, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

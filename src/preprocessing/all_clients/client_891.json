@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Gabriella",
+        "middle_name": "Costanza",
+        "last_name": "Ferrari",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1975-03-01",
+        "passport_number": "QN1894998",
+        "passport_mrz": [
+            "P<ITAFERRARI<<GABRIELLA<COSTANZA<<<<<<<<<<<<<",
+            "QN1894998ITA750301<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-09-22",
+        "passport_expiry_date": "2030-09-21"
+    },
+    "client_profile": {
+        "name": "Gabriella Costanza Ferrari",
+        "address": {
+            "city": "Tuusula",
+            "street name": "Katariinankatu",
+            "street number": 74,
+            "postal code": "50889"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1975-03-01",
+        "nationality": "Italian",
+        "passport_number": "QN1894998",
+        "passport_issue_date": "2020-09-22",
+        "passport_expiry_date": "2030-09-21",
+        "gender": "F",
+        "phone_number": "+358 045 175 00 96",
+        "email_address": "gabriella.ferrari@dnainternet.fi",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "Academy of Fine Arts of Rome",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "Ateneum Art Museum",
+                "position": "Art Dealer",
+                "salary": 27000
+            },
+            {
+                "start_year": 1998,
+                "end_year": null,
+                "company": "Ateneum Art Museum",
+                "position": "Gallery Owner",
+                "salary": 193000
+            }
+        ],
+        "aum": {
+            "savings": 360000,
+            "inheritance": 4350000,
+            "real_estate_value": 1930000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2010,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1120000,
+                "property location": "Tuusula"
+            },
+            {
+                "property type": "condo",
+                "property value": 810000,
+                "property location": "Rome"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gabriella Costanza Ferrari",
+        "first_name": "Gabriella",
+        "middle_name": "Costanza",
+        "last_name": "Ferrari",
+        "passport_number": "QN1894998",
+        "currency": "EUR",
+        "address": {
+            "city": "Tuusula",
+            "street name": "Katariinankatu",
+            "street number": 74,
+            "postal code": "50889"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 045 175 00 96",
+        "email_address": "gabriella.ferrari@dnainternet.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Gabriella Costanza Ferrari at a luxury car show in Helsinki. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nGabriella Costanza Ferrari is a 50 year old Gallery Owner from Finland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Gabriella Costanza Ferrari is currently divorced. She does not have any children.",
+        "Education Background": "In 1993, Gabriella finished her secondary school education at Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia.\nAfter that, she went on to study at Academy of Fine Arts of Rome until 1998.\n",
+        "Occupation History": "Having worked for over 27 years, Gabriella Costanza Ferrari brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nGabriella Costanza Ferrari began her professional journey as a Art Dealer at Ateneum Art Museum in 1998, laying the foundation for future success.\nIn 2002, she moved to Ateneum Art Museum to work as a Gallery Owner, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 360000 EUR.\nShe owns 2 exceptional properties: townhouse located in Tuusula, valued at approximately 1,120,000.00 EUR, condo located in Rome, valued at approximately 810,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Rome and Tuusula.\nShe inherited 4350000 EUR from her father, a well-known Hedge Fund Manager, in 2010, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "J\u00e4rvinen",
+        "middle_name": "Niemi",
+        "last_name": "Mustonen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1973-05-18",
+        "passport_number": "FQ4204739",
+        "passport_mrz": [
+            "P<FINMUSTONEN<<J\u00c4RVINEN<NIEMI<<<<<<<<<<<<<<<<",
+            "FQ4204739FIN730518<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-07-15",
+        "passport_expiry_date": "2027-07-14"
+    },
+    "client_profile": {
+        "name": "J\u00e4rvinen Niemi Mustonen",
+        "address": {
+            "city": "Kerava",
+            "street name": "Telakkakatu",
+            "street number": 64,
+            "postal code": "62774"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1973-05-18",
+        "nationality": "Finnish",
+        "passport_number": "FQ4204739",
+        "passport_issue_date": "2017-07-15",
+        "passport_expiry_date": "2027-07-14",
+        "gender": "M",
+        "phone_number": "+358 048 881 40 40",
+        "email_address": "jarvinen.mustonen@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lappeenranta Lyceum",
+            "graduation_year": 1983
+        },
+        "higher_education": [
+            {
+                "university": "JAMK University of Applied Sciences",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2001,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "Research Scientist",
+                "salary": 38000
+            },
+            {
+                "start_year": 2002,
+                "end_year": null,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "Clinical Trials Manager",
+                "salary": 280000
+            }
+        ],
+        "aum": {
+            "savings": 430000,
+            "inheritance": 2230000,
+            "real_estate_value": 1460000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1460000,
+                "property location": "Kerava"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "J\u00e4rvinen Niemi Mustonen",
+        "first_name": "J\u00e4rvinen",
+        "middle_name": "Niemi",
+        "last_name": "Mustonen",
+        "passport_number": "FQ4204739",
+        "currency": "EUR",
+        "address": {
+            "city": "Kerava",
+            "street name": "Telakkakatu",
+            "street number": 64,
+            "postal code": "62774"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 048 881 40 40",
+        "email_address": "jarvinen.mustonen@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "J\u00e4rvinen Niemi Mustonen and the RM were introduced at a charity run in Helsinki. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nJ\u00e4rvinen Niemi Mustonen is a 51 year old Clinical Trials Manager from Finland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "J\u00e4rvinen Niemi Mustonen is married to Vilma. Their children are named Lehtinen, Tiainen and Ella.",
+        "Education Background": "J\u00e4rvinen received his secondary school diploma from Lappeenranta Lyceum in 1992.\nIn 1997, J\u00e4rvinen graduated from JAMK University of Applied Sciences with a degree.\n",
+        "Occupation History": "Having worked for over 27 years, J\u00e4rvinen Niemi Mustonen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJ\u00e4rvinen Niemi Mustonen began his professional journey as a Research Scientist at Finnish Red Cross Blood Service in 1998, laying the foundation for future success.\nHis subsequent role was as a Clinical Trials Manager at Finnish Red Cross Blood Service, where he continued to grow professionally from 2002 till now.\n",
+        "Wealth Summary": "While working, he saved 430000 EUR, which he used to build a diversified investment portfolio.\nHe has house located in Kerava, worth 1460000 EUR.\n\nHe inherited 2230000 EUR from his grandfather, a well-known Real Estate Developer, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have J\u00e4rvinen as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

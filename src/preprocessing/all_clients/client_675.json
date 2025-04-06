@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Ana\u00efs",
+        "middle_name": "",
+        "last_name": "Peeters",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "2000-12-20",
+        "passport_number": "VD8766809",
+        "passport_mrz": [
+            "P<BELPEETERS<<ANA\u00cfS<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "VD8766809BEL001220<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-11-27",
+        "passport_expiry_date": "2026-11-26"
+    },
+    "client_profile": {
+        "name": "Ana\u00efs Peeters",
+        "address": {
+            "city": "Brussels",
+            "street name": "Rue Neuve",
+            "street number": 93,
+            "postal code": "1299"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "2000-12-20",
+        "nationality": "Belgian",
+        "passport_number": "VD8766809",
+        "passport_issue_date": "2019-11-27",
+        "passport_expiry_date": "2026-11-26",
+        "gender": "F",
+        "phone_number": "0442 822 886",
+        "email_address": "anais.peeters@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Moli\u00e8re",
+            "graduation_year": 2020
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2190000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ana\u00efs Peeters",
+        "first_name": "Ana\u00efs",
+        "middle_name": "",
+        "last_name": "Peeters",
+        "passport_number": "VD8766809",
+        "currency": "EUR",
+        "address": {
+            "city": "Brussels",
+            "street name": "Rue Neuve",
+            "street number": 93,
+            "postal code": "1299"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0442 822 886",
+        "email_address": "anais.peeters@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Ana\u00efs Peeters at a yacht party in Brussels. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nAna\u00efs Peeters is a 24 year old and comes from Belgium.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Ana\u00efs Peeters is currently single. She does not have any children.",
+        "Education Background": "Ana\u00efs finished secondary school at Lyc\u00e9e Moli\u00e8re in 2020.\nIn 2024, Ana\u00efs graduated from Vesalius College with a degree.\n",
+        "Occupation History": "Ana\u00efs Peeters is a 24 year old and comes from Belgium.\nAna\u00efs Peeters did not start her professional career yet.",
+        "Wealth Summary": "She did not manage to save any money during her career.\nClient does not have any properties.\nFollowing the passing of her grandmother, a successful Tech Entrepreneur, she received an inheritance of 2190000 EUR in 2016, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is committed to helping Ana\u00efs achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

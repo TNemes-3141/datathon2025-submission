@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Helga",
+        "middle_name": "Anna",
+        "last_name": "Schreider",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1994-06-10",
+        "passport_number": "JJ1981761",
+        "passport_mrz": [
+            "P<DEUSCHNEIDER<<HELGA<ANNA<<<<<<<<<<<<<<<<<<<",
+            "JJ1981761DEU940610<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-09-17",
+        "passport_expiry_date": "2030-09-16"
+    },
+    "client_profile": {
+        "name": "Helga Anna Schneider",
+        "address": {
+            "city": "Frankfurt am Main",
+            "street name": "Potsdamer Platz",
+            "street number": 70,
+            "postal code": "74324"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1994-06-10",
+        "nationality": "German",
+        "passport_number": "JJ1981761",
+        "passport_issue_date": "2020-09-17",
+        "passport_expiry_date": "2030-09-16",
+        "gender": "F",
+        "phone_number": "+49 8097 640561",
+        "email_address": "helga.schneider@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Pestalozzi-Gymnasium N\u00fcrnberg",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "Heidelberg University of Education",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": 2020,
+                "company": "Credit Suisse (Deutschland) AG",
+                "position": "Financial Advisor",
+                "salary": 37000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "UBS Deutschland AG",
+                "position": "Portfolio Manager",
+                "salary": 84000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 0,
+            "real_estate_value": 6020000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2470000,
+                "property location": "Frankfurt am Main"
+            },
+            {
+                "property type": "villa",
+                "property value": 2560000,
+                "property location": "Hamburg"
+            },
+            {
+                "property type": "flat",
+                "property value": 990000,
+                "property location": "Hamburg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Helga Anna Schneider",
+        "first_name": "Helga",
+        "middle_name": "Anna",
+        "last_name": "Schneider",
+        "passport_number": "JJ1981761",
+        "currency": "EUR",
+        "address": {
+            "city": "Frankfurt am Main",
+            "street name": "Potsdamer Platz",
+            "street number": 70,
+            "postal code": "74324"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 8097 640561",
+        "email_address": "helga.schneider@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Helga Anna Schneider at a charity gala in Berlin. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nHelga Anna Schneider is a 30 year old and comes from Germany.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Helga Anna Schneider and Fischer have been married since 2021. Their child is  named Lina.",
+        "Education Background": "Helga obtained her secondary school diploma from Pestalozzi-Gymnasium N\u00fcrnberg in 2012.\nHelga graduated from Heidelberg University of Education in 2017, completing her higher education.\n",
+        "Occupation History": "Helga Anna Schneider is a 30 year old and comes from Germany.\nHelga Anna Schneider began her professional journey as a Financial Advisor at Credit Suisse (Deutschland) AG in 2019, laying the foundation for future success.\nAfter gaining experience, she took on the role of Portfolio Manager at UBS Deutschland AG in 2020, further expanding her skill set.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 70000 EUR.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 6020000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

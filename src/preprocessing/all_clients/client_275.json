@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Matilda",
+        "middle_name": "Heta",
+        "last_name": "Tolvanen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "2003-03-19",
+        "passport_number": "TU6626590",
+        "passport_mrz": [
+            "P<FINTOLVANEN<<MATILDA<HETA<<<<<<<<<<<<<<<<<<",
+            "TU6626590FIN030319<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-10-10",
+        "passport_expiry_date": "2034-10-09"
+    },
+    "client_profile": {
+        "name": "Matilda Heta Tolvanen",
+        "address": {
+            "city": "Vantaa",
+            "street name": "Meritullinkatu",
+            "street number": 26,
+            "postal code": "83035"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "2003-03-19",
+        "nationality": "Finnish",
+        "passport_number": "TU6626590",
+        "passport_issue_date": "2024-10-10",
+        "passport_expiry_date": "2034-10-09",
+        "gender": "F",
+        "phone_number": "047 586 58 70",
+        "email_address": "matilda.tolvanen@dnainternet.fi",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Varkauden lukio",
+            "graduation_year": 2013
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2100000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Matilda Heta Tolvanen",
+        "first_name": "Matilda",
+        "middle_name": "Heta",
+        "last_name": "Tolvanen",
+        "passport_number": "TU6626590",
+        "currency": "EUR",
+        "address": {
+            "city": "Vantaa",
+            "street name": "Meritullinkatu",
+            "street number": 26,
+            "postal code": "83035"
+        },
+        "country_of_domicile": "Finland,Germany",
+        "phone_number": "047 586 58 70",
+        "email_address": "matilda.tolvanen@dnainternet.fi"
+    },
+    "client_description": {
+        "Summary Note": "Matilda Heta Tolvanen and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nMatilda Heta Tolvanen is a 22 year old and comes from Finland.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Matilda Heta Tolvanen is currently single. She does not have any children.",
+        "Education Background": "Matilda obtained her secondary school diploma from Varkauden lukio in 2022.\n",
+        "Occupation History": "Matilda Heta Tolvanen is a 22 year old and comes from Finland.\nMatilda Heta Tolvanen did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.She inherited a significant sum of 2100000 EUR from her grandmother, a respected Oil and Gas Executive, in 2016, which she has wisely invested.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

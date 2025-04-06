@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Riedo",
+        "middle_name": "Gm\u00fcr",
+        "last_name": "Weber",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1979-04-04",
+        "passport_number": "OL4401004",
+        "passport_mrz": [
+            "P<CHEWEBER<<RIEDO<GM\u00dcR<<<<<<<<<<<<<<<<<<<<<<<",
+            "OL4401004CHE790404<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-25",
+        "passport_expiry_date": "2027-08-24"
+    },
+    "client_profile": {
+        "name": "Riedo Gm\u00fcr Weber",
+        "address": {
+            "city": "Thun",
+            "street name": "Gerberngasse",
+            "street number": 94,
+            "postal code": "0114"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1979-04-04",
+        "nationality": "Swiss",
+        "passport_number": "OL4401004",
+        "passport_issue_date": "2017-08-25",
+        "passport_expiry_date": "2027-08-24",
+        "gender": "M",
+        "phone_number": "+41 069 706 66 02",
+        "email_address": "riedo.weber@sunrise.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Liceo di Lugano Lugano",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "Geneva Business School",
+                "graduation_year": 2002
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2006,
+                "company": " Implenia AG",
+                "position": "Property Manager",
+                "salary": 69000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2009,
+                "company": "Swiss Prime Site AG",
+                "position": "Developer",
+                "salary": 94000
+            }
+        ],
+        "aum": {
+            "savings": 660000,
+            "inheritance": 6440000,
+            "real_estate_value": 8640000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2006,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 4190000,
+                "property location": "Thun"
+            },
+            {
+                "property type": "villa",
+                "property value": 4450000,
+                "property location": "Aarau"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Finland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Riedo Gm\u00fcr Weber",
+        "first_name": "Riedo",
+        "middle_name": "Gm\u00fcr",
+        "last_name": "Weber",
+        "passport_number": "OL4401004",
+        "currency": "CHF",
+        "address": {
+            "city": "Thun",
+            "street name": "Gerberngasse",
+            "street number": 94,
+            "postal code": "0114"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 069 706 66 02",
+        "email_address": "riedo.weber@sunrise.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Riedo Gm\u00fcr Weber at a luxury car show in Z\u00fcrich. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nRiedo Gm\u00fcr Weber is a 45 year old and comes from Switzerland.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Riedo Gm\u00fcr Weber is currently single. He does not have any children.",
+        "Education Background": "Riedo earned his secondary school diploma from Liceo di Lugano Lugano in 1999.\nRiedo attended Geneva Business School and graduated in 2002.\n",
+        "Occupation History": "With a career spanning nearly 21 years, Riedo Gm\u00fcr Weber has established himself as a key player in the industry.\nIn 2004, Riedo Gm\u00fcr Weber started working as a Property Manager at  Implenia AG, marking the beginning of his successful career.\nHe then transitioned to Swiss Prime Site AG as a Developer, leveraging his expertise to drive results from 2008 to 2009.\nAt Swiss Prime Site AG, he worked as a Construction Company Owner from 2010 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, he saved 660000 CHF, which he used to build a diversified investment portfolio.\nHe owns villa in Thun, where he resides. It is worth 4190000 CHF.\n\nHe purchased villa in Aarau, where he spends his holidays. It is valued at 4450000 CHF.\nHe inherited 6440000 CHF from his mother, a well-known Hedge Fund Manager, in 2006, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

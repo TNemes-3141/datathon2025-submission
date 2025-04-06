@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Chiara",
+        "middle_name": "Evelyne",
+        "last_name": "Huber",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1976-11-09",
+        "passport_number": "WF0609852",
+        "passport_mrz": [
+            "P<CHEHUBER<<CHIARA<EVELYNE<<<<<<<<<<<<<<<<<<<",
+            "WF0609852CHE761109<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-19",
+        "passport_expiry_date": "2033-02-18"
+    },
+    "client_profile": {
+        "name": "Chiara Evelyne Huber",
+        "address": {
+            "city": "Bellinzona",
+            "street name": "Quai du G\u00e9n\u00e9ral-Guisan",
+            "street number": 39,
+            "postal code": "8898"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1976-11-09",
+        "nationality": "Swiss",
+        "passport_number": "WF0609852",
+        "passport_issue_date": "2023-02-19",
+        "passport_expiry_date": "2033-02-18",
+        "gender": "F",
+        "phone_number": "081 305 48 96",
+        "email_address": "chiara.huber@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Liceo di Lugano Lugano",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "ETH Zurich",
+                "graduation_year": 2001
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2005,
+                "company": "Actelion Pharmaceuticals Ltd.",
+                "position": "Research Scientist",
+                "salary": 69000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2009,
+                "company": "Novartis AG",
+                "position": "Biotech Startup Founder",
+                "salary": 86000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Johnson & Johnson Switzerland",
+                "position": "CEO",
+                "salary": 404000
+            }
+        ],
+        "aum": {
+            "savings": 640000,
+            "inheritance": 1620000,
+            "real_estate_value": 3290000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 3290000,
+                "property location": "Bellinzona"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Austria"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Chiara Evelyne Huber",
+        "first_name": "Chiara",
+        "middle_name": "Evelyne",
+        "last_name": "Huber",
+        "passport_number": "WF0609852",
+        "currency": "CHF",
+        "address": {
+            "city": "Bellinzona",
+            "street name": "Quai du G\u00e9n\u00e9ral-Guisan",
+            "street number": 39,
+            "postal code": "8898"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "081 305 48 96",
+        "email_address": "chiara.huber@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Chiara Evelyne Huber and the RM met at a networking event in Z\u00fcrich. They quickly realized they had complementary skills and decided to collaborate on several projects.\nChiara Evelyne Huber is a 48 year old CEO from Switzerland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Chiara Evelyne Huber and Weber have been married since 2011. They do not have any children.",
+        "Education Background": "Chiara received her secondary school diploma from Liceo di Lugano Lugano in 1994.\nChiara earned her degree from ETH Zurich in 2001.\n",
+        "Occupation History": "Chiara Evelyne Huber is a 48 year old and comes from Switzerland.\nChiara Evelyne Huber began her professional journey as a Research Scientist at Actelion Pharmaceuticals Ltd. in 2001, laying the foundation for future success.\nHer subsequent role was as a Biotech Startup Founder at Novartis AG, where she continued to grow professionally from 2007 to 2009.\nFrom 2011 till now, she served as a CEO at Johnson & Johnson Switzerland, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "She managed to save approximately 640000 CHF from her earnings at all companies.\nShe has house located in Bellinzona, worth 3290000 CHF.\n\nShe inherited a significant sum of 1620000 CHF from her grandfather, a respected Real Estate Developer, in 2009, which she has wisely invested.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

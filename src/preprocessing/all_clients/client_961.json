@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Heikkinen",
+        "middle_name": "J\u00e4rvinen",
+        "last_name": "Miettinen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1982-07-14",
+        "passport_number": "PE3049813",
+        "passport_mrz": [
+            "P<FINMIETTINEN<<HEIKKINEN<J\u00c4RVINEN<<<<<<<<<<<",
+            "PE3049813FIN820714<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-05-09",
+        "passport_expiry_date": "2028-05-08"
+    },
+    "client_profile": {
+        "name": "Heikkinen J\u00e4rvinen Miettinen",
+        "address": {
+            "city": "Kauniainen",
+            "street name": "L\u00f6nnrotinkatu",
+            "street number": 8,
+            "postal code": "31691"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1982-07-14",
+        "nationality": "Finnish",
+        "passport_number": "PE3049813",
+        "passport_issue_date": "2018-05-09",
+        "passport_expiry_date": "2028-05-08",
+        "gender": "M",
+        "phone_number": "+358 046 188 49 04",
+        "email_address": "heikkinen.miettinen@suomi24.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lappeenranta Lyceum",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "University of Turku",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2011,
+                "company": "Valmet Oyj",
+                "position": "Plant Manager",
+                "salary": 38000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2023,
+                "company": "Valmet Oyj",
+                "position": "Operations Director",
+                "salary": 72000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 4100000,
+            "real_estate_value": 2113000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2007,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1133000,
+                "property location": "Kauniainen"
+            },
+            {
+                "property type": "condo",
+                "property value": 980000,
+                "property location": "Joensuu"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Heikkinen J\u00e4rvinen Miettinen",
+        "first_name": "Heikkinen",
+        "middle_name": "J\u00e4rvinen",
+        "last_name": "Miettinen",
+        "passport_number": "PE3049813",
+        "currency": "EUR",
+        "address": {
+            "city": "",
+            "street name": "L\u00f6nnrotinkatu",
+            "street number": 8,
+            "postal code": "31691"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 046 188 49 04",
+        "email_address": "heikkinen.miettinen@suomi24.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Heikkinen J\u00e4rvinen Miettinen at a luxury car show in Helsinki. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nHeikkinen J\u00e4rvinen Miettinen is a seasoned professional with over 18 years of experience.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Heikkinen J\u00e4rvinen Miettinen and Ella have been married since 2012. They do not have any children.",
+        "Education Background": "Heikkinen obtained his secondary school diploma from Lappeenranta Lyceum in 2000.\nHeikkinen received his degree from University of Turku in 2005.\n",
+        "Occupation History": "Heikkinen J\u00e4rvinen Miettinen is a 42 year old Operations Director from Finland.\nHeikkinen J\u00e4rvinen Miettinen's first role was as a Plant Manager at Valmet Oyj, where he worked diligently from 2007 to 2011 to establish a strong reputation.\nIn 2013, he moved to Valmet Oyj to work as a Operations Director, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "He managed to save approximately 110000 EUR from his earnings at all companies.\nHe owns townhouse in Kauniainen, where he resides. It is worth 1133000 EUR.\n\nIn addition to his primary residence, he owns condo in Joensuu worth 980000 EUR.\n\nIn 2007, he received an inheritance of 4100000 EUR from his late father, who was a prominent Neurosurgeon, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

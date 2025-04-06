@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "J\u00f8rgensen",
+        "middle_name": "Mikkelsen",
+        "last_name": "Kristensen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1997-06-17",
+        "passport_number": "SS6613734",
+        "passport_mrz": [
+            "P<DNKKRISTENSEN<<J\u00d8RGENSEN<MIKKELSEN<<<<<<<<<",
+            "SS6613734DNK970617<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-05-18",
+        "passport_expiry_date": "2030-05-17"
+    },
+    "client_profile": {
+        "name": "J\u00f8rgensen Mikkelsen Kristensen",
+        "address": {
+            "city": "Gentofte",
+            "street name": "Gammel Torv",
+            "street number": 24,
+            "postal code": "6216"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1997-06-17",
+        "nationality": "Danish",
+        "passport_number": "SS6613734",
+        "passport_issue_date": "2020-05-18",
+        "passport_expiry_date": "2030-05-17",
+        "gender": "M",
+        "phone_number": "+45 39 35 27 82",
+        "email_address": "jrgensen.kristensen@yousee.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Birker\u00f8d Gymnasium",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Total E&P Danmark A/S",
+                "position": "Drilling Engineer",
+                "salary": 294000
+            }
+        ],
+        "aum": {
+            "savings": 130000,
+            "inheritance": 11500000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "J\u00f8rgensen Mikkelsen Kristensen",
+        "first_name": "J\u00f8rgensen",
+        "middle_name": "Mikkelsen",
+        "last_name": "Kristensen",
+        "passport_number": "SS6613734",
+        "currency": "DKK",
+        "address": {
+            "city": "Gentofte",
+            "street name": "Gammel Torv",
+            "street number": 24,
+            "postal code": "6216"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 39 35 27 82",
+        "email_address": "jrgensen.kristensen@yousee.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to J\u00f8rgensen Mikkelsen Kristensen at a corporate retreat in Copenhagen. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nJ\u00f8rgensen Mikkelsen Kristensen is a 27 year old Drilling Engineer from Denmark.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "J\u00f8rgensen Mikkelsen Kristensen is currently single. He does not have any children.",
+        "Education Background": "J\u00f8rgensen graduated from Birker\u00f8d Gymnasium in 2017.\nJ\u00f8rgensen completed his university education at Copenhagen Business School in 2022.\n",
+        "Occupation History": "J\u00f8rgensen Mikkelsen Kristensen is a 27 year old Drilling Engineer from Denmark.\nJ\u00f8rgensen Mikkelsen Kristensen launched his career as a Drilling Engineer at Total E&P Danmark A/S, where he gained valuable experience from 2022 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 130000 DKK, investing in various assets to grow his wealth.\nClient does not have any properties.He inherited a significant sum of 11500000 DKK from his grandmother, a respected Corporate Lawyer, in 2017, which he has wisely invested.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

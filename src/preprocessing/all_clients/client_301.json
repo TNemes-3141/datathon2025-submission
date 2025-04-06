@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Zbinden",
+        "middle_name": "Riedo",
+        "last_name": "K\u00e4gi",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1981-11-28",
+        "passport_number": "JD3983084",
+        "passport_mrz": [
+            "P<CHEK\u00c4GI<<ZBINDEN<RIEDO<<<<<<<<<<<<<<<<<<<<<",
+            "JD3983084CHE811128<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-03-17",
+        "passport_expiry_date": "2034-03-16"
+    },
+    "client_profile": {
+        "name": "Zbinden Riedo K\u00e4gi",
+        "address": {
+            "city": "Geneva",
+            "street name": "Gerberngasse",
+            "street number": 49,
+            "postal code": "9658"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1981-11-28",
+        "nationality": "Swiss",
+        "passport_number": "JD3983084",
+        "passport_issue_date": "2024-03-17",
+        "passport_expiry_date": "2034-03-16",
+        "gender": "M",
+        "phone_number": "031 431 79 36",
+        "email_address": "zbinden.kagi@swisscom.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium Hofwil Bern",
+            "graduation_year": 2001
+        },
+        "higher_education": [
+            {
+                "university": "University of Bern",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2009,
+                "company": "Credit Suisse Asset Management",
+                "position": "Stockbroker",
+                "salary": 66000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2011,
+                "company": "Julius Baer Asset Management",
+                "position": "Portfolio Manager",
+                "salary": 90000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "Pictet Asset Management SA",
+                "position": "Hedge Fund Manager",
+                "salary": 407000
+            }
+        ],
+        "aum": {
+            "savings": 550000,
+            "inheritance": 7460000,
+            "real_estate_value": 2330000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2010,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 2330000,
+                "property location": "Geneva"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Zbinden Riedo K\u00e4gi",
+        "first_name": "Zbinden",
+        "middle_name": "Riedo",
+        "last_name": "K\u00e4gi",
+        "passport_number": "JD3983084",
+        "currency": "CHF",
+        "address": {
+            "city": "Geneva",
+            "street name": "Gerberngasse",
+            "street number": 49,
+            "postal code": "9658"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "031 431 79 36",
+        "email_address": "zbinden.kagi@swisscom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Zbinden Riedo K\u00e4gi at a wine tasting event in Z\u00fcrich. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nWith a career spanning nearly 20 years, Zbinden Riedo K\u00e4gi has established himself as a key player in the industry.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Zbinden Riedo K\u00e4gi is married to Gabriela. Zbinden and Gabriela have 1 child, named Keller.",
+        "Education Background": "Zbinden graduated from Gymnasium Hofwil Bern in 2001.\nZbinden earned his degree from University of Bern in 2006.\n",
+        "Occupation History": "Having worked for over 20 years, Zbinden Riedo K\u00e4gi brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nZbinden Riedo K\u00e4gi began his professional journey as a Stockbroker at Credit Suisse Asset Management in 2005, laying the foundation for future success.\nAfter gaining experience, he took on the role of Portfolio Manager at Julius Baer Asset Management in 2010, further expanding his skill set.\nFrom 2012 till now, he served as a Hedge Fund Manager at Pictet Asset Management SA, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "While working, he saved 550000 CHF, which he used to build a diversified investment portfolio.\nHe has flat located in Geneva, worth 2330000 CHF.\n\nIn 2010, he received an inheritance of 7460000 CHF from his late grandmother, who was a prominent Neurosurgeon, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

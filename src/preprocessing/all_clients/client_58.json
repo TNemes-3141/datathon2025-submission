@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Bauer",
+        "middle_name": "Schnell",
+        "last_name": "Steiner",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1984-01-17",
+        "passport_number": "BS4887732",
+        "passport_mrz": [
+            "P<AUTSTEINER<<BAUER<SCHNELL<<<<<<<<<<<<<<<<<<",
+            "BS4887732AUT840117<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-01-18",
+        "passport_expiry_date": "2031-01-17"
+    },
+    "client_profile": {
+        "name": "Bauer Schnell Steiner",
+        "address": {
+            "city": "Tours",
+            "street name": "Rue de Vaugirard",
+            "street number": 81,
+            "postal code": "48789"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1984-01-17",
+        "nationality": "Austrian",
+        "passport_number": "BS4887732",
+        "passport_issue_date": "2021-01-18",
+        "passport_expiry_date": "2031-01-17",
+        "gender": "M",
+        "phone_number": "+33 09 94 08 17 23",
+        "email_address": "bauer.steiner@free.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "HTL M\u00f6dling",
+            "graduation_year": 2001
+        },
+        "higher_education": [
+            {
+                "university": "Vienna University of Economics and Business",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "EDF S.A.",
+                "position": "Drilling Engineer",
+                "salary": 32000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "Total S.A.",
+                "position": "Reservoir Engineer",
+                "salary": 114000
+            }
+        ],
+        "aum": {
+            "savings": 170000,
+            "inheritance": 1660000,
+            "real_estate_value": 3943000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2008,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1618000,
+                "property location": "Tours"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1135000,
+                "property location": "Rosenheim"
+            },
+            {
+                "property type": "house",
+                "property value": 1190000,
+                "property location": "Krems an der Donau"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria",
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Bauer Schnell Steiner",
+        "first_name": "Bauer",
+        "middle_name": "Schnell",
+        "last_name": "Steiner",
+        "passport_number": "BS4887732",
+        "currency": "EUR",
+        "address": {
+            "city": "Tours",
+            "street name": "Rue de Vaugirard",
+            "street number": 81,
+            "postal code": "48789"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 09 94 08 17 23",
+        "email_address": "bauer.steiner@free.fr"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Bauer Schnell Steiner at a charity gala in Paris. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nBauer Schnell Steiner is a 41 year old Reservoir Engineer from France. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Bauer Schnell Steiner is married to Josefine. Their children are named Renate, Wagner and Miriam.",
+        "Education Background": "In 2001, Bauer graduated from HTL M\u00f6dling with a secondary school diploma.\nBauer completed his university studies at Vienna University of Economics and Business in 1993.\n",
+        "Occupation History": "Having worked for over 17 years, Bauer Schnell Steiner brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nBauer Schnell Steiner began his professional journey as a Drilling Engineer at EDF S.A. in 2008, laying the foundation for future success.\nHe then transitioned to Total S.A. as a Reservoir Engineer, leveraging his expertise to drive results from 2012 till now.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 170000 EUR.\nHe has flat located in Tours, worth 1618000 EUR.\n\nIn addition to his primary residence, he owns townhouse in Rosenheim worth 1135000 EUR.\n\nOn top of that he inherited a beautiful house in Krems an der Donau, which could be used as a weekend getaway. It is valued at 1190000 EUR.\n\nIn addition to his career success, he also received an inheritance of 1660000 EUR from his late grandmother, a renowned Neurosurgeon, in 2008.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Fournier",
+        "middle_name": "Gauthier",
+        "last_name": "Boucher",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2001-12-07",
+        "passport_number": "VU8419145",
+        "passport_mrz": [
+            "P<FRABOUCHER<<FOURNIER<GAUTHIER<<<<<<<<<<<<<<",
+            "VU8419145FRA011207<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-04-12",
+        "passport_expiry_date": "2029-04-11"
+    },
+    "client_profile": {
+        "name": "Fournier Gauthier Boucher",
+        "address": {
+            "city": "Mannheim",
+            "street name": "Holstenwall",
+            "street number": 60,
+            "postal code": "05793"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "2001-12-07",
+        "nationality": "French",
+        "passport_number": "VU8419145",
+        "passport_issue_date": "2019-04-12",
+        "passport_expiry_date": "2029-04-11",
+        "gender": "M",
+        "phone_number": "+49 5817 568112",
+        "email_address": "fournier.boucher@vodafone.de",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Janson-de-Sailly",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "ESSEC Business School",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1160000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fournier Gauthier Boucher",
+        "first_name": "Fournier",
+        "middle_name": "Gauthier",
+        "last_name": "Boucher",
+        "passport_number": "VU8419145",
+        "currency": "EUR",
+        "address": {
+            "city": "Mannheim",
+            "street name": "Holstenwall",
+            "street number": 60,
+            "postal code": "05793"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 5817 568112",
+        "email_address": "fournier.boucher@vodafone.de"
+    },
+    "client_description": {
+        "Summary Note": "Fournier Gauthier Boucher and the RM were introduced at a gourmet food festival in Berlin. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nFournier Gauthier Boucher is a 23 year old and comes from Germany.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Fournier Gauthier Boucher is currently single. He does not have any children.",
+        "Education Background": "Fournier obtained his secondary school diploma from Lyc\u00e9e Janson-de-Sailly in 2019.\nHe then attended ESSEC Business School, which he graduated in 2024.\n",
+        "Occupation History": "Fournier Gauthier Boucher is a 23 year old and comes from Germany.\nFournier Gauthier Boucher did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.\nFollowing the passing of his grandmother, a successful Hedge Fund Manager, he received an inheritance of 1160000 EUR in 2016, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is committed to helping Fournier achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

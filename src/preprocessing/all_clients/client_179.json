@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Koch",
+        "middle_name": "M\u00fcller",
+        "last_name": "Hoffmann",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1956-07-19",
+        "passport_number": "QT2037722",
+        "passport_mrz": [
+            "P<DEUHOFFMANN<<KOCH<M\u00dcLLER<<<<<<<<<<<<<<<<<<<",
+            "QT2037722DEU560719<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-11-23",
+        "passport_expiry_date": "2027-11-22"
+    },
+    "client_profile": {
+        "name": "Koch M\u00fcller Hoffmann",
+        "address": {
+            "city": "H\u00e4meenlinna",
+            "street name": "Korkeavuorenkatu",
+            "street number": 39,
+            "postal code": "31194"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1956-07-19",
+        "nationality": "German",
+        "passport_number": "QT2037722",
+        "passport_issue_date": "2017-11-23",
+        "passport_expiry_date": "2027-11-22",
+        "gender": "M",
+        "phone_number": "+358 046 087 31 05",
+        "email_address": "koch.hoffmann@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+            "graduation_year": 1967
+        },
+        "higher_education": [
+            {
+                "university": "Technical University of Munich",
+                "graduation_year": 1979
+            },
+            {
+                "university": "Heidelberg University of Education",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1980,
+                "end_year": 1984,
+                "company": "Rovio Entertainment Oy",
+                "position": "Software Developer",
+                "salary": 45000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 2017,
+                "company": "Rovio Entertainment Oy",
+                "position": "Startup Founder",
+                "salary": 424000
+            }
+        ],
+        "aum": {
+            "savings": 820000,
+            "inheritance": 0,
+            "real_estate_value": 4680000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2300000,
+                "property location": "H\u00e4meenlinna"
+            },
+            {
+                "property type": "villa",
+                "property value": 2380000,
+                "property location": "D\u00fcsseldorf"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "France",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Koch M\u00fcller Hoffmann",
+        "first_name": "Koch",
+        "middle_name": "M\u00fcller",
+        "last_name": "Hoffmann",
+        "passport_number": "QT2037722",
+        "currency": "EUR",
+        "address": {
+            "city": "H\u00e4meenlinna",
+            "street name": "Korkeavuorenkatu",
+            "street number": 39,
+            "postal code": "31194"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 046 087 31 05",
+        "email_address": "koch.hoffmann@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Koch M\u00fcller Hoffmann at a yacht party in Helsinki. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nKoch M\u00fcller Hoffmann is a 68 year old retired Startup Founder from Finland.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Koch M\u00fcller Hoffmann is currently divorced. He has 2 kids called Koch and Elisabeth.",
+        "Education Background": "Koch earned his secondary school diploma from Wilhelm-von-Humboldt-Gymnasium Berlin in 1975.\nKoch completed his university education at Technical University of Munich in 1979.\nIn 1985, he received extra education and graduated from Heidelberg University of Education with an additional degree.\n",
+        "Occupation History": "Koch M\u00fcller Hoffmann is a 68 year old retired Startup Founder from Finland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nKoch M\u00fcller Hoffmann began his professional journey as a Software Developer at Rovio Entertainment Oy in 1980, laying the foundation for future success.\nIn 1985, he moved to Rovio Entertainment Oy to work as a Startup Founder, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 820000 EUR, which he used to build a diversified investment portfolio.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across H\u00e4meenlinna and D\u00fcsseldorf, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Koch as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

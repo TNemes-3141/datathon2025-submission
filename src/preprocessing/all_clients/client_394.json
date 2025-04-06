@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Consuelo",
+        "middle_name": "\u00c1frica",
+        "last_name": "V\u00e1zquez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1962-06-16",
+        "passport_number": "BC9033627",
+        "passport_mrz": [
+            "P<ESPV\u00c1ZQUEZ<<CONSUELO<\u00c1FRICA<<<<<<<<<<<<<<<<",
+            "BC9033627ESP620616<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-25",
+        "passport_expiry_date": "2029-08-24"
+    },
+    "client_profile": {
+        "name": "Consuelo \u00c1frica V\u00e1zquez",
+        "address": {
+            "city": "Cuenca",
+            "street name": "Calle de la Princesa",
+            "street number": 35,
+            "postal code": "93048"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1962-06-16",
+        "nationality": "Spanish",
+        "passport_number": "BC9033627",
+        "passport_issue_date": "2019-08-25",
+        "passport_expiry_date": "2029-08-24",
+        "gender": "F",
+        "phone_number": "+34 608 395 713",
+        "email_address": "consuelo.vazquez@yahoo.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Instituto de Bachillerato Cient\u00edfico-T\u00e9cnico IES Juan Sebasti\u00e1n Elcano Bilbao",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Universidad Pontificia Comillas",
+                "graduation_year": 1987
+            },
+            {
+                "university": "University of Barcelona",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1991,
+                "company": "BBVA S.A.",
+                "position": "Financial Advisor",
+                "salary": 27000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 2023,
+                "company": "Banco Santander S.A.",
+                "position": "Portfolio Manager",
+                "salary": 210000
+            }
+        ],
+        "aum": {
+            "savings": 420000,
+            "inheritance": 0,
+            "real_estate_value": 4310000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1050000,
+                "property location": "Cuenca"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1220000,
+                "property location": "C\u00f3rdoba"
+            },
+            {
+                "property type": "villa",
+                "property value": 2040000,
+                "property location": "Toledo"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Consuelo \u00c1frica V\u00e1zquez",
+        "first_name": "Consuelo",
+        "middle_name": "\u00c1frica",
+        "last_name": "V\u00e1zquez",
+        "passport_number": "BC9033627",
+        "currency": "EUR",
+        "address": {
+            "city": "Cuenca",
+            "street name": "Calle de la Princesa",
+            "street number": 35,
+            "postal code": "93048"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 608 395 713",
+        "email_address": "consuelo.vazquez@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Consuelo \u00c1frica V\u00e1zquez and the RM crossed paths at a mutual friend's dinner party in Madrid. They discovered they had many common acquaintances and decided to explore business opportunities together.\nWith a career spanning nearly 39 years, Consuelo \u00c1frica V\u00e1zquez has established herself as a key player in the industry.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Consuelo \u00c1frica V\u00e1zquez is currently divorced. Her children are named Rodr\u00edguez and Luc\u00eda.",
+        "Education Background": "In 1981, Consuelo finished her secondary school education at Instituto de Bachillerato Cient\u00edfico-T\u00e9cnico IES Juan Sebasti\u00e1n Elcano Bilbao.\nConsuelo finished her studies at Universidad Pontificia Comillas in 1987.\nMoreover she completed her extra university education at University of Barcelona in 1991.\n",
+        "Occupation History": "Consuelo \u00c1frica V\u00e1zquez is a 62 year old retired Portfolio Manager from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nConsuelo \u00c1frica V\u00e1zquez launched her career as a Financial Advisor at BBVA S.A., where she gained valuable experience from 1986 to 1991.\nHer subsequent role was as a Portfolio Manager at Banco Santander S.A., where she continued to grow professionally from 1993 till retirement.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 420000 EUR.\nShe has house located in Cuenca, worth 1050000 EUR.\n\nIn addition to her primary residence, she owns townhouse in C\u00f3rdoba worth 1220000 EUR.\n\nOn top of that she inherited a beautiful villa in Toledo, which could be used as a weekend getaway. It is valued at 2040000 EUR.\nShe does not have any inheritances.",
+        "Client Summary": "In summary, Consuelo has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

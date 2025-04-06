@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Verhoeven",
+        "middle_name": "Teunissen",
+        "last_name": "Meijer",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1971-03-24",
+        "passport_number": "HM8707187",
+        "passport_mrz": [
+            "P<NLDMEIJER<<VERHOEVEN<TEUNISSEN<<<<<<<<<<<<<",
+            "HM8707187NLD710324<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-01-29",
+        "passport_expiry_date": "2031-01-28"
+    },
+    "client_profile": {
+        "name": "Verhoeven Teunissen Meijer",
+        "address": {
+            "city": "Tilburg",
+            "street name": "Beethovenstraat",
+            "street number": 69,
+            "postal code": "8758 88"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1971-03-24",
+        "nationality": "Dutch",
+        "passport_number": "HM8707187",
+        "passport_issue_date": "2021-01-29",
+        "passport_expiry_date": "2031-01-28",
+        "gender": "M",
+        "phone_number": "06 68456846",
+        "email_address": "verhoeven.meijer@tele2.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Westfriesgymnasium Hoorn",
+            "graduation_year": 1988
+        },
+        "higher_education": [
+            {
+                "university": "Utrecht University",
+                "graduation_year": 1995
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "ING Group N.V.",
+                "position": "Investment Banker",
+                "salary": 45000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2024,
+                "company": "SNS Bank N.V.",
+                "position": "Private Equity Investor",
+                "salary": 316000
+            }
+        ],
+        "aum": {
+            "savings": 540000,
+            "inheritance": 2400000,
+            "real_estate_value": 1450000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2005,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1450000,
+                "property location": "Tilburg"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Verhoeven Teunissen Meijer",
+        "first_name": "Verhoeven",
+        "middle_name": "Teunissen",
+        "last_name": "Meijer",
+        "passport_number": "HM8707187",
+        "currency": "EUR",
+        "address": {
+            "city": "Tilburg",
+            "street name": "Beethovenstraat",
+            "street number": 69,
+            "postal code": "8758 88"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 68456846",
+        "email_address": "verhoeven.meijer@tele2.nl"
+    },
+    "client_description": {
+        "Summary Note": "Verhoeven Teunissen Meijer and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nVerhoeven Teunissen Meijer is a seasoned professional with over 30 years of experience.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Verhoeven Teunissen Meijer is married to Astrid. Together they have 3 kids called Charlotte, Brinkman and Eva.",
+        "Education Background": "Verhoeven earned his secondary school diploma from Westfriesgymnasium Hoorn in 1988.\nVerhoeven graduated from Utrecht University in 1995, completing his higher education.\n",
+        "Occupation History": "Verhoeven Teunissen Meijer is a 54 year old Private Equity Investor from Netherlands.\nVerhoeven Teunissen Meijer began his professional journey as a Investment Banker at ING Group N.V. in 1995, laying the foundation for future success.\nHis subsequent role was as a Private Equity Investor at SNS Bank N.V., where he continued to grow professionally from 1998 to 2024.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 540000 EUR.\nHe has condo located in Tilburg, worth 1450000 EUR.\n\nHe inherited 2400000 EUR from his grandmother, a well-known Venture Capitalist, in 2005, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

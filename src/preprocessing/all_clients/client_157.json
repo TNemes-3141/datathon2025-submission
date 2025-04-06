@@ -1,0 +1,116 @@
+{
+    "passport": {
+        "first_name": "M\u00f8ller",
+        "middle_name": "Jespersen",
+        "last_name": "Kristensen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1983-12-19",
+        "passport_number": "DE3817044",
+        "passport_mrz": [
+            "P<DNKKRISTENSEN<<M\u00d8LLER<JESPERSEN<<<<<<<<<<<<",
+            "DE3817044DNK831219<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-06-07",
+        "passport_expiry_date": "2031-06-06"
+    },
+    "client_profile": {
+        "name": "M\u00f8ller Jespersen Kristensen",
+        "address": {
+            "city": "",
+            "street name": "Linnemannsgade",
+            "street number": 60,
+            "postal code": "4178"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1983-12-19",
+        "nationality": "Danish",
+        "passport_number": "DE3817044",
+        "passport_issue_date": "2021-06-07",
+        "passport_expiry_date": "2031-06-06",
+        "gender": "M",
+        "phone_number": "+45 27 97 56 74",
+        "email_address": "mller.kristensen@yousee.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "\u00c5lborg Katedralskole",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2011,
+                "company": "Novo Nordisk A/S",
+                "position": "Research Scientist",
+                "salary": 278000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2018,
+                "company": "Lundbeck A/S",
+                "position": "Clinical Trials Manager",
+                "salary": 370000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Leo Pharma A/S",
+                "position": "Regulatory Affairs Director",
+                "salary": 930000
+            }
+        ],
+        "aum": {
+            "savings": 1080000,
+            "inheritance": 39810000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2009,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Netherlands"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "M\u00f8ller Jespersen Kristensen",
+        "first_name": "M\u00f8ller",
+        "middle_name": "Jespersen",
+        "last_name": "Kristensen",
+        "passport_number": "DE3817044",
+        "currency": "DKK",
+        "address": {
+            "city": "Randers",
+            "street name": "Linnemannsgade",
+            "street number": 60,
+            "postal code": "4178"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 27 97 56 7",
+        "email_address": "mller.kristensen@yousee.dk"
+    },
+    "client_description": {
+        "Summary Note": "M\u00f8ller Jespersen Kristensen and the RM are cousins, having grown up together in Copenhagen. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nWith a career spanning nearly 18 years, M\u00f8ller Jespersen Kristensen has established himself as a key player in the industry.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "M\u00f8ller Jespersen Kristensen is currently single. He does not have any children.",
+        "Education Background": "M\u00f8ller received his secondary school diploma from \u00c5lborg Katedralskole in 1990.\nM\u00f8ller finished his studies at Copenhagen Business School in 2007.\n",
+        "Occupation History": "With a career spanning nearly 18 years, M\u00f8ller Jespersen Kristensen has established himself as a key player in the industry.\nM\u00f8ller Jespersen Kristensen launched his career as a Research Scientist at Novo Nordisk A/S, where he gained valuable experience from 2007 to 2011.\nHe then transitioned to Lundbeck A/S as a Clinical Trials Manager, leveraging his expertise to drive results from 2013 to 2018.\nAt Leo Pharma A/S, he worked as a Regulatory Affairs Director from 2020 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, he saved 1080000 DKK, which he used to build a diversified investment portfolio.\nClient does not have any properties.He inherited 39810000 DKK from his father, a well-known Corporate Lawyer, in 2009, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have M\u00f8ller as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

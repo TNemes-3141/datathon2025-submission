@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Florine",
+        "middle_name": "Barbara",
+        "last_name": "Ackermann",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1993-01-21",
+        "passport_number": "MC5811207",
+        "passport_mrz": [
+            "P<CHEACKERMANN<<FLORINE<BARBARA<<<<<<<<<<<<<<",
+            "MC5811207CHE930121<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-05-22",
+        "passport_expiry_date": "2031-05-21"
+    },
+    "client_profile": {
+        "name": "Florine Barbara Ackermann",
+        "address": {
+            "city": "Sion",
+            "street name": "Altstadt",
+            "street number": 51,
+            "postal code": "9857"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1993-01-21",
+        "nationality": "Swiss",
+        "passport_number": "MC5811207",
+        "passport_issue_date": "2021-05-22",
+        "passport_expiry_date": "2031-05-21",
+        "gender": "F",
+        "phone_number": "+41 083 205 49 50",
+        "email_address": "florine.ackermann@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Liceo scientifico Giovanni Polli Lugano",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 2017
+            },
+            {
+                "university": "Hotel Institute Montreux",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": 2017,
+                "company": "Trafigura Beheer B.V. (Swiss branch)",
+                "position": "Junior Trader",
+                "salary": 67000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Mercuria Energy Trading SA",
+                "position": "Senior Trader",
+                "salary": 116000
+            }
+        ],
+        "aum": {
+            "savings": 120000,
+            "inheritance": 200000,
+            "real_estate_value": 8940000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2480000,
+                "property location": "Sion"
+            },
+            {
+                "property type": "villa",
+                "property value": 4020000,
+                "property location": "Locarno"
+            },
+            {
+                "property type": "house",
+                "property value": 2440000,
+                "property location": "Locarno"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Netherlands"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Florine Barbara Ackermann",
+        "first_name": "Florine",
+        "middle_name": "Barbara",
+        "last_name": "Ackermann",
+        "passport_number": "MC5811207",
+        "currency": "CHF",
+        "address": {
+            "city": "Sion",
+            "street name": "Altstadt",
+            "street number": 51,
+            "postal code": "9857"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 083 205 49 50",
+        "email_address": "florine.ackermann@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Florine Barbara Ackermann on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nFlorine Barbara Ackermann is a 32 year old Senior Trader from Switzerland.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Florine Barbara Ackermann and Riedo tied the knot in 2025. Together they have 1 kid called Schmid.",
+        "Education Background": "Florine finished secondary school at Liceo scientifico Giovanni Polli Lugano in 2012.\nFlorine pursued higher education at Suffolk University in Geneva, graduating in 2017.\nFlorine earned her additionally degree from Hotel Institute Montreux in 2019.\n",
+        "Occupation History": "Florine Barbara Ackermann is a 32 year old and comes from Switzerland.\nIn 2016, Florine Barbara Ackermann started working as a Junior Trader at Trafigura Beheer B.V. (Swiss branch), marking the beginning of her successful career.\nAfter gaining experience, she took on the role of Senior Trader at Mercuria Energy Trading SA in 2018, further expanding her skill set.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 120000 CHF.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Locarno and Sion, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe inherited 200000 CHF from her grandmother, a well-known Hedge Fund Manager, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

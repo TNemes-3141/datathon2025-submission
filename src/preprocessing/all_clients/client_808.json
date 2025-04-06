@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Caroline",
+        "middle_name": "Camilla",
+        "last_name": "Knudsen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DK",
+        "nationality": "Danish",
+        "birth_date": "2003-06-03",
+        "passport_number": "SN8898051",
+        "passport_mrz": [
+            "P<DNKKNUDSEN<<CAROLINE<CAMILLA<<<<<<<<<<<<<<<",
+            "SN8898051DNK030603<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-12-29",
+        "passport_expiry_date": "2032-12-28"
+    },
+    "client_profile": {
+        "name": "Caroline Camilla Knudsen",
+        "address": {
+            "city": "Greve",
+            "street name": "\u00d8sterbrogade",
+            "street number": 70,
+            "postal code": "9830"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "2003-06-03",
+        "nationality": "Danish",
+        "passport_number": "SN8898051",
+        "passport_issue_date": "2022-12-29",
+        "passport_expiry_date": "2032-12-28",
+        "gender": "F",
+        "phone_number": "+45 88 75 34 96",
+        "email_address": "caroline.knudsen@telenor.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Holstebro Gymnasium",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 18500000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Caroline Camilla Knudsen",
+        "first_name": "Caroline",
+        "middle_name": "Camilla",
+        "last_name": "Knudsen",
+        "passport_number": "SN8898051",
+        "currency": "DKK",
+        "address": {
+            "city": "Greve",
+            "street name": "\u00d8sterbrogade",
+            "street number": 70,
+            "postal code": "9830"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 88 75 34 96",
+        "email_address": "caroline.knudsen@telenor.dk"
+    },
+    "client_description": {
+        "Summary Note": "Caroline Camilla Knudsen and the RM were introduced at a charity run in Copenhagen. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nCaroline Camilla Knudsen is a 21 year old and comes from Denmark.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Caroline Camilla Knudsen is currently single. She does not have any children.",
+        "Education Background": "Caroline finished secondary school at Holstebro Gymnasium in 2021.\n",
+        "Occupation History": "Caroline Camilla Knudsen is a 21 year old and comes from Denmark.\nCaroline Camilla Knudsen did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.\nFollowing the passing of her grandfather, a successful Oil and Gas Executive, she received an inheritance of 18500000 DKK in 2017, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is excited to help Caroline navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Alejandra",
+        "middle_name": "Almudena",
+        "last_name": "Soto",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1960-04-16",
+        "passport_number": "QQ8932187",
+        "passport_mrz": [
+            "P<ESPSOTO<<ALEJANDRA<ALMUDENA<<<<<<<<<<<<<<<<",
+            "QQ8932187ESP600416<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-01-13",
+        "passport_expiry_date": "2028-01-12"
+    },
+    "client_profile": {
+        "name": "Alejandra Almudena Soto",
+        "address": {
+            "city": "Barcelona",
+            "street name": "Calle de las Huertas",
+            "street number": 36,
+            "postal code": "57906"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1960-04-16",
+        "nationality": "Spanish",
+        "passport_number": "QQ8932187",
+        "passport_issue_date": "2018-01-13",
+        "passport_expiry_date": "2028-01-12",
+        "gender": "F",
+        "phone_number": "674 745 109",
+        "email_address": "alejandra.soto@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Jorge Guill\u00e9n Salamanca",
+            "graduation_year": 1980
+        },
+        "higher_education": [
+            {
+                "university": "Complutense University of Madrid",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1984,
+                "end_year": 1986,
+                "company": "Merlin Properties SOCIMI S.A.",
+                "position": "Property Manager",
+                "salary": 26000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 2021,
+                "company": "Inmobiliaria Colonial S.A.",
+                "position": "Developer",
+                "salary": 242000
+            }
+        ],
+        "aum": {
+            "savings": 490000,
+            "inheritance": 0,
+            "real_estate_value": 1788000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 728000,
+                "property location": "Barcelona"
+            },
+            {
+                "property type": "condo",
+                "property value": 1060000,
+                "property location": "Cadiz"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Alejandra Almudena Soto",
+        "first_name": "Alejandra",
+        "middle_name": "Almudena",
+        "last_name": "Soto",
+        "passport_number": "QQ8932187",
+        "currency": "EUR",
+        "address": {
+            "city": "Barcelona",
+            "street name": "Calle de las Huertas",
+            "street number": 36,
+            "postal code": "57906"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "674 745 109",
+        "email_address": "alejandra.soto@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Alejandra Almudena Soto at a yacht party in Madrid. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nWith a career spanning nearly 41 years, Alejandra Almudena Soto has established herself as a key player in the industry.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Alejandra Almudena Soto has been happily married to Guti\u00e9rrez since 1986. Alejandra and Guti\u00e9rrez have 3 children, named Blanca, Gil and Hern\u00e1ndez.",
+        "Education Background": "Alejandra graduated from IES Jorge Guill\u00e9n Salamanca in 1980.\nAlejandra received her degree from Complutense University of Madrid in 1985.\n",
+        "Occupation History": "Having worked for over 41 years, Alejandra Almudena Soto brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAlejandra Almudena Soto's first role was as a Property Manager at Merlin Properties SOCIMI S.A., where she worked diligently from 1984 to 1986 to establish a strong reputation.\nAt Inmobiliaria Colonial S.A., she held the position of Developer from 1986 till retirement, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout her career, she saved 490000 EUR, investing in various assets to grow her wealth.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 1788000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In summary, Alejandra has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

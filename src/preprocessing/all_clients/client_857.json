@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Keller",
+        "middle_name": "Riedo",
+        "last_name": "Werner",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1995-01-20",
+        "passport_number": "YS7802475",
+        "passport_mrz": [
+            "P<CHEWERNER<<KELLER<RIEDO<<<<<<<<<<<<<<<<<<<<",
+            "YS7802475CHE950120<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-08-31",
+        "passport_expiry_date": "2031-08-30"
+    },
+    "client_profile": {
+        "name": "Keller Riedo Werner",
+        "address": {
+            "city": "Winterthur",
+            "street name": "B\u00e4renplatz",
+            "street number": 94,
+            "postal code": "7679"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1995-01-20",
+        "nationality": "Swiss",
+        "passport_number": "YS7802475",
+        "passport_issue_date": "2021-08-31",
+        "passport_expiry_date": "2031-08-30",
+        "gender": "M",
+        "phone_number": "+41 021 615 17 77",
+        "email_address": "keller.werner@upc.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Coll\u00e8ge Calvin Gen\u00e8ve",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "EPFL",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2018,
+                "end_year": 2021,
+                "company": "Ringier AG",
+                "position": "Journalist",
+                "salary": 64000
+            },
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Ringier AG",
+                "position": "Editor",
+                "salary": 96000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 790000,
+            "real_estate_value": 2790000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2790000,
+                "property location": "Winterthur"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Keller Riedo Werner",
+        "first_name": "Keller",
+        "middle_name": "Riedo",
+        "last_name": "Werner",
+        "passport_number": "YS7802475",
+        "currency": "CHF",
+        "address": {
+            "city": "Winterthur",
+            "street name": "B\u00e4renplatz",
+            "street number": 94,
+            "postal code": "7679"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 021 615 17 77",
+        "email_address": "keller.werner@upc.ch"
+    },
+    "client_description": {
+        "Summary Note": "Keller Riedo Werner and the RM crossed paths at a tech conference in Z\u00fcrich. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nKeller Riedo Werner is a 30 year old and comes from Switzerland.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Keller Riedo Werner is currently single. He does not have any children.",
+        "Education Background": "In 2013, Keller graduated from Coll\u00e8ge Calvin Gen\u00e8ve with a secondary school diploma.\nKeller graduated from EPFL in 2019, completing his higher education.\n",
+        "Occupation History": "Keller Riedo Werner is a 30 year old and comes from Switzerland.\nIn 2018, Keller Riedo Werner started working as a Journalist at Ringier AG, marking the beginning of his successful career.\nIn 2022, he moved to Ringier AG to work as a Editor, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "Throughout his career, he saved 70000 CHF, investing in various assets to grow his wealth.\nHe owns condo in Winterthur, where he resides. It is worth 2790000 CHF.\n\n\nFollowing the passing of his grandfather, a successful Real Estate Developer, he received an inheritance of 790000 CHF in 2015, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

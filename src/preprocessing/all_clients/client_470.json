@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Hortense",
+        "middle_name": "",
+        "last_name": "Vandenberghe",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1965-02-12",
+        "passport_number": "TF0450921",
+        "passport_mrz": [
+            "P<BELVANDENBERGHE<<HORTENSE<<<<<<<<<<<<<<<<<<",
+            "TF0450921BEL650212<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-04-07",
+        "passport_expiry_date": "2024-04-06"
+    },
+    "client_profile": {
+        "name": "Hortense Vandenberghe",
+        "address": {
+            "city": "Namur",
+            "street name": "Rue des Chartreux",
+            "street number": 93,
+            "postal code": "4429"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1965-02-12",
+        "nationality": "Belgian",
+        "passport_number": "TF0450921",
+        "passport_issue_date": "2017-04-07",
+        "passport_expiry_date": "2024-04-06",
+        "gender": "F",
+        "phone_number": "0449 828 286",
+        "email_address": "hortense.vandenberghe@edpnet.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Institut Saint-Louis",
+            "graduation_year": 1983
+        },
+        "higher_education": [
+            {
+                "university": "ERASMUSHOGESCHOOL BRUSSEL - RITS/RITCS",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1992,
+                "company": "TotalEnergies Belgium NV",
+                "position": "Drilling Engineer",
+                "salary": 38000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1995,
+                "company": "TotalEnergies Belgium NV",
+                "position": "Reservoir Engineer",
+                "salary": 59000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2002,
+                "company": "Shell Belgium NV",
+                "position": "Operations Manager",
+                "salary": 119000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2008,
+                "company": "Shell Belgium NV",
+                "position": "VP of Exploration",
+                "salary": 179000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2025,
+                "company": "Shell Belgium NV",
+                "position": "CEO",
+                "salary": 517000
+            }
+        ],
+        "aum": {
+            "savings": 1010000,
+            "inheritance": 7490000,
+            "real_estate_value": 1750000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2011,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1750000,
+                "property location": "Namur"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hortense Vandenberghe",
+        "first_name": "Hortense",
+        "middle_name": "",
+        "last_name": "Vandenberghe",
+        "passport_number": "TF0450921",
+        "currency": "EUR",
+        "address": {
+            "city": "Namur",
+            "street name": "Rue des Chartreux",
+            "street number": 93,
+            "postal code": "4429"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0449 828 286",
+        "email_address": "hortense.vandenberghe@edpnet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Hortense Vandenberghe on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHortense Vandenberghe is a 60 year old retired CEO from Belgium.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Hortense Vandenberghe and Michiels tied the knot in 1995. Their children are named Lucas, Peiren and Am\u00e9lie.",
+        "Education Background": "Hortense obtained her secondary school diploma from Institut Saint-Louis in 1983.\nAfter that, she went on to study at Odisee University College until 1977.\n",
+        "Occupation History": "With a career spanning nearly 37 years, Hortense Vandenberghe has established herself as a key player in the industry.\nHortense Vandenberghe began her professional journey as a Drilling Engineer at TotalEnergies Belgium NV in 1988, laying the foundation for future success.\nShe then transitioned to TotalEnergies Belgium NV as a Reservoir Engineer, leveraging her expertise to drive results from 1993 to 1995.\nAt Shell Belgium NV, she worked as a Operations Manager from 1997 to 2002, focusing on strategic initiatives and team collaboration.\nShe appointment as a VP of Exploration at Shell Belgium NV in 2003 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\nHortense Vandenberghe concluded her career as a CEO at Shell Belgium NV, where she worked from 2009 until retirement.",
+        "Wealth Summary": "While working, she saved 1010000 EUR, which she used to build a diversified investment portfolio.\nShe has house located in Namur, worth 1750000 EUR.\n\nShe inherited a significant sum of 7490000 EUR from her grandmother, a respected Corporate Lawyer, in 2011, which she has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

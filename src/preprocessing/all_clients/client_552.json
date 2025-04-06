@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Joris",
+        "middle_name": "Simons",
+        "last_name": " Jacobs",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BE",
+        "nationality": "Belgian",
+        "birth_date": "1991-10-12",
+        "passport_number": "SY0403109",
+        "passport_mrz": [
+            "P<BEL JACOBS<<JORIS<SIMONS<<<<<<<<<<<<<<<<<<<",
+            "SY0403109BEL911012<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-09-14",
+        "passport_expiry_date": "2031-09-13"
+    },
+    "client_profile": {
+        "name": "Joris Simons Jacobs",
+        "address": {
+            "city": "Genk",
+            "street name": "Avenue Franklin Roosevelt",
+            "street number": 22,
+            "postal code": "3125"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1991-10-12",
+        "nationality": "Belgian",
+        "passport_number": "SY0403109",
+        "passport_issue_date": "2024-09-14",
+        "passport_expiry_date": "2031-09-13",
+        "gender": "M",
+        "phone_number": "+32 0447 520 703",
+        "email_address": "joris.jacobs@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Onze-Lieve-Vrouwe-Wavercollege",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "University of Mons",
+                "graduation_year": 2015
+            },
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": 2021,
+                "company": "Gimv NV",
+                "position": "Analyst",
+                "salary": 53000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Sofina SA",
+                "position": "Associate",
+                "salary": 59000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 1160000,
+            "real_estate_value": 3758000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1040000,
+                "property location": "Genk"
+            },
+            {
+                "property type": "villa",
+                "property value": 1938000,
+                "property location": "Li\u00e8ge"
+            },
+            {
+                "property type": "flat",
+                "property value": 780000,
+                "property location": "Ostend"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Joris Simons Jacobs",
+        "first_name": " Jacobs",
+        "middle_name": "Simons",
+        "last_name": "Joris",
+        "passport_number": "SY0403109",
+        "currency": "EUR",
+        "address": {
+            "city": "Genk",
+            "street name": "Avenue Franklin Roosevelt",
+            "street number": 22,
+            "postal code": "3125"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0447 520 703",
+        "email_address": "joris.jacobs@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Joris Simons Jacobs and the RM were introduced at a charity run in Brussels. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nJoris Simons Jacobs is a 33 year old Associate from Belgium.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Joris Simons Jacobs and Manon have been married since 2016. Joris and Manon have 2 children, named Janssens and Jos\u00e9phine.",
+        "Education Background": "Joris completed his secondary education at Onze-Lieve-Vrouwe-Wavercollege in 2009.\nJoris pursued higher education at University of Mons, graduating in 2015.\nHe pursued addtionally further eduaction by attending Vesalius College and graduating in 2019.\n",
+        "Occupation History": "Joris Simons Jacobs is a 33 year old and comes from Belgium.\nAt Gimv NV, Joris Simons Jacobs held the position of Analyst from 2016 to 2021, developing essential skills in the field.\nHis subsequent role was as a Associate at Sofina SA, where he continued to grow professionally from 2021 till now.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 70000 EUR.\nHe owns 3 exceptional properties: flat located in Genk, valued at approximately 1,040,000.00 EUR, villa located in Li\u00e8ge, valued at approximately 1,938,000.00 EUR, flat located in Ostend, valued at approximately 780,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Li\u00e8ge, Genk and Ostend.\nHe inherited a significant sum of 1160000 EUR from his , a respected , in 2015, which he has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

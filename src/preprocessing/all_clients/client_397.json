@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Livi",
+        "middle_name": "Lotti",
+        "last_name": "Silvestri",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1954-12-16",
+        "passport_number": "BQ3924907",
+        "passport_mrz": [
+            "P<ITASILVESTRI<<LIVI<LOTTI<<<<<<<<<<<<<<<<<<<",
+            "BQ3924907ITA541216<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-02-03",
+        "passport_expiry_date": "2031-02-02"
+    },
+    "client_profile": {
+        "name": "Livi Lotti Silvestri",
+        "address": {
+            "city": "Verona",
+            "street name": "Piazza Maggiore",
+            "street number": 28,
+            "postal code": "98798"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1954-12-16",
+        "nationality": "Italian",
+        "passport_number": "BQ3924907",
+        "passport_issue_date": "2021-02-03",
+        "passport_expiry_date": "2031-02-02",
+        "gender": "M",
+        "phone_number": "+39 365 2952556",
+        "email_address": "livi.silvestri@virgilio.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Liceo Artistico Statale Mario Sironi Sassari",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "University of Milan",
+                "graduation_year": 1977
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1981,
+                "company": "Fondo Italiano d'Investimento SGR S.p.A.",
+                "position": "Analyst",
+                "salary": 24000
+            },
+            {
+                "start_year": 1982,
+                "end_year": 2015,
+                "company": "Syntegra SGR S.p.A.",
+                "position": "Associate",
+                "salary": 253000
+            }
+        ],
+        "aum": {
+            "savings": 470000,
+            "inheritance": 0,
+            "real_estate_value": 3800000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 580000,
+                "property location": "Verona"
+            },
+            {
+                "property type": "villa",
+                "property value": 2410000,
+                "property location": "Vicenza"
+            },
+            {
+                "property type": "flat",
+                "property value": 810000,
+                "property location": "Milan"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Livi Lotti Silvestri",
+        "first_name": "Livi",
+        "middle_name": "Lotti",
+        "last_name": "Silvestri",
+        "passport_number": "BQ3924907",
+        "currency": "EUR",
+        "address": {
+            "city": "Verona",
+            "street name": "Piazza Maggiore",
+            "street number": 28,
+            "postal code": "98798"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 365 2952556",
+        "email_address": "livi.silvestri@virgilio.it"
+    },
+    "client_description": {
+        "Summary Note": "Livi Lotti Silvestri and the RM are cousins, having grown up together in Rome. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nLivi Lotti Silvestri is a seasoned professional with over 46 years of experience.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Livi Lotti Silvestri and Giulia tied the knot in 1987. Livi and Giulia have 1 child, named Moretti.",
+        "Education Background": "In 1974, Livi finished his secondary school education at Liceo Artistico Statale Mario Sironi Sassari.\nLivi pursued higher education at University of Milan, graduating in 1977.\n",
+        "Occupation History": "Livi Lotti Silvestri is a 70 year old retired Associate from Italy. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLivi Lotti Silvestri launched his career as a Analyst at Fondo Italiano d'Investimento SGR S.p.A., where he gained valuable experience from 1979 to 1981.\nHis subsequent role was as a Associate at Syntegra SGR S.p.A., where he continued to grow professionally from 1982 till retirement.\n",
+        "Wealth Summary": "While working, he saved 470000 EUR, which he used to build a diversified investment portfolio.\nHe owns flat in Verona, where he resides. It is worth 580000 EUR.\n\nIn addition to his primary residence, he owns villa in Vicenza worth 2410000 EUR.\n\nOn top of that he inherited a beautiful flat in Milan, which could be used as a weekend getaway. It is valued at 810000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

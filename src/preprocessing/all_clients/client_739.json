@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Giovanna",
+        "middle_name": "Martina",
+        "last_name": "Marini",
+        "gender": "",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1999-07-15",
+        "passport_number": "FT5346757",
+        "passport_mrz": [
+            "P<ITAMARINI<<GIOVANNA<MARTINA<<<<<<<<<<<<<<<<",
+            "FT5346757ITA990715<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-06-04",
+        "passport_expiry_date": "2033-06-03"
+    },
+    "client_profile": {
+        "name": "Giovanna Martina Marini",
+        "address": {
+            "city": "Reggio Calabria",
+            "street name": "Via del Tritone",
+            "street number": 42,
+            "postal code": "16881"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1999-07-15",
+        "nationality": "Italian",
+        "passport_number": "FT5346757",
+        "passport_issue_date": "2023-06-04",
+        "passport_expiry_date": "2033-06-03",
+        "gender": "F",
+        "phone_number": "+39 345 9690582",
+        "email_address": "giovanna.marini@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "University of Milan",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Research Scientist",
+                "salary": 25000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1320000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Giovanna Martina Marini",
+        "first_name": "Giovanna",
+        "middle_name": "Martina",
+        "last_name": "Marini",
+        "passport_number": "FT5346757",
+        "currency": "EUR",
+        "address": {
+            "city": "Reggio Calabria",
+            "street name": "Via del Tritone",
+            "street number": 42,
+            "postal code": "16881"
+        },
+        "country_of_domicile": "Italy,Switzerland",
+        "phone_number": "+39 345 9690582",
+        "email_address": "giovanna.marini@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Giovanna Martina Marini since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nGiovanna Martina Marini is a 25 year old Research Scientist from Italy.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Giovanna Martina Marini and Giordano tied the knot in 2024. They do not have any children.",
+        "Education Background": "Giovanna obtained her secondary school diploma from Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma in 2017.\nGiovanna completed her university education at University of Milan in 2023.\n",
+        "Occupation History": "Giovanna Martina Marini is a 25 year old Research Scientist from Italy.\nGiovanna Martina Marini began her professional journey as a Research Scientist at Novartis Farma S.p.A. in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 10000 EUR.\nClient does not have any properties.She inherited 1320000 EUR from her grandfather, a well-known Hedge Fund Manager, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

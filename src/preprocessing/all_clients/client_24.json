@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Guti\u00e9rrez",
+        "middle_name": "",
+        "last_name": "Castro",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1986-11-30",
+        "passport_number": "QH8138254",
+        "passport_mrz": [
+            "P<ESPCASTRO<<GUTI\u00c9RREZ<<<<<<<<<<<<<<<<<<<<<<<",
+            "QH8138254ESP861130<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-08-16",
+        "passport_expiry_date": "2034-08-15"
+    },
+    "client_profile": {
+        "name": "Guti\u00e9rrez Castro",
+        "address": {
+            "city": "Madrid",
+            "street name": "Calle de la Reina Cristina",
+            "street number": 81,
+            "postal code": "33060"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1986-11-30",
+        "nationality": "Spanish",
+        "passport_number": "QH8138254",
+        "passport_issue_date": "2024-08-16",
+        "passport_expiry_date": "2034-08-15",
+        "gender": "M",
+        "phone_number": "663 791 687",
+        "email_address": "gutierrez.castro@terra.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Luis Vives Zaragoza",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "University of Valencia",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2012,
+                "company": "Airbus Espa\u00f1a S.L.",
+                "position": "Aerospace Engineer",
+                "salary": 23000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "Airbus Espa\u00f1a S.L.",
+                "position": "Program Manager",
+                "salary": 85000
+            }
+        ],
+        "aum": {
+            "savings": 100000,
+            "inheritance": 1910000,
+            "real_estate_value": 2975000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1315000,
+                "property location": "Madrid"
+            },
+            {
+                "property type": "house",
+                "property value": 1660000,
+                "property location": "Teruel"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Guti\u00e9rrez Castro",
+        "first_name": "Guti\u00e9rrez",
+        "middle_name": "",
+        "last_name": "Castro",
+        "passport_number": "QH8138254",
+        "currency": "EUR",
+        "address": {
+            "city": "Madrid",
+            "street name": "Calle de la Reina Cristina",
+            "street number": 81,
+            "postal code": "33060"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "663 791 687",
+        "email_address": "gutierrez.castro@terra.es"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Guti\u00e9rrez Castro at a charity gala in Madrid. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nGuti\u00e9rrez Castro is a 38 year old and comes from Spain.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Guti\u00e9rrez Castro has been happily married to Clara since 2013. Their children are named Marta and D\u00e1cil.",
+        "Education Background": "In 2004, Guti\u00e9rrez graduated from IES Luis Vives Zaragoza with a secondary school diploma.\nIn 2011, Guti\u00e9rrez graduated from University of Valencia with a degree.\n",
+        "Occupation History": "Guti\u00e9rrez Castro is a 38 year old Program Manager from Spain. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nGuti\u00e9rrez Castro launched his career as a Aerospace Engineer at Airbus Espa\u00f1a S.L., where he gained valuable experience from 2010 to 2012.\nAt Airbus Espa\u00f1a S.L., he held the position of Program Manager from 2012 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 100000 EUR.\nHe owns 2 exceptional properties: house located in Madrid, valued at approximately 1,315,000.00 EUR, house located in Teruel, valued at approximately 1,660,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Teruel and Madrid.\nIn 2016, he received an inheritance of 1910000 EUR from his late grandmother, who was a prominent Private Equity Manager, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Guti\u00e9rrez has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

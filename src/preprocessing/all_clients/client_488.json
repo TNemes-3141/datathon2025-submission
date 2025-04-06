@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Gis\u00e8le",
+        "middle_name": "",
+        "last_name": "Weber",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1995-03-20",
+        "passport_number": "IN3185363",
+        "passport_mrz": [
+            "P<CHEWEBER<<GIS\u00c8LE<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "IN3185363CHE950320<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-03-14",
+        "passport_expiry_date": "2033-03-13"
+    },
+    "client_profile": {
+        "name": "Gis\u00e8le Weber",
+        "address": {
+            "city": "Lugano",
+            "street name": "Rathausgasse",
+            "street number": 22,
+            "postal code": "3772"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1995-03-20",
+        "nationality": "Swiss",
+        "passport_number": "IN3185363",
+        "passport_issue_date": "2023-03-14",
+        "passport_expiry_date": "2033-03-13",
+        "gender": "F",
+        "phone_number": "007 134 96 98",
+        "email_address": "gisele.weber@teli.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e cantonal de Porrentruy Jura",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "University of Lucerne",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": 2023,
+                "company": "Tamedia AG",
+                "position": "Journalist",
+                "salary": 69000
+            },
+            {
+                "start_year": 2025,
+                "end_year": 2025,
+                "company": "NZZ Mediengruppe",
+                "position": "Editor",
+                "salary": 85000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 1650000,
+            "real_estate_value": 4940000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2320000,
+                "property location": "Lugano"
+            },
+            {
+                "property type": "condo",
+                "property value": 2620000,
+                "property location": "Neuchatel"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Gis\u00e8le Weber",
+        "first_name": "Gis\u00e8le",
+        "middle_name": "",
+        "last_name": "Weber",
+        "passport_number": "IN3185363",
+        "currency": "CHF",
+        "address": {
+            "city": "Lugano",
+            "street name": "Rathausgasse",
+            "street number": 22,
+            "postal code": "3772"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "007 134 96 98",
+        "email_address": "gisele.weber@teli.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Gis\u00e8le Weber during a business conference in Z\u00fcrich. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nGis\u00e8le Weber is a 30 year old Editor from Switzerland.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Gis\u00e8le Weber is currently single. She does not have any children.",
+        "Education Background": "In 2014, Gis\u00e8le graduated from Lyc\u00e9e cantonal de Porrentruy Jura with a secondary school diploma.\nGis\u00e8le completed her university studies at University of Lucerne in 2019.\n",
+        "Occupation History": "Gis\u00e8le Weber is a 30 year old and comes from Switzerland.\nGis\u00e8le Weber launched her career as a Journalist at Tamedia AG, where she gained valuable experience from 2019 to 2023.\nAt NZZ Mediengruppe, she held the position of Editor from 2025 to 2025, making significant contributions to the organization.\n",
+        "Wealth Summary": "While working, she saved 40000 CHF, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Neuchatel and Lugano, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2015, she received an inheritance of 1650000 CHF from her late grandfather, who was a prominent Private Equity Manager, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "passport": {
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "D\u00edaz",
+        "last_name": "L\u00f3pez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1969-11-14",
+        "passport_number": "WQ8876500",
+        "passport_mrz": [
+            "P<ESPL\u00d3PEZ<<MU\u00d1OZ<D\u00cdAZ<<<<<<<<<<<<<<<<<<<<<<<",
+            "W8Q876500ESP691114<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-06-25",
+        "passport_expiry_date": "2029-06-24"
+    },
+    "client_profile": {
+        "name": "Mu\u00f1oz D\u00edaz L\u00f3pez",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Calle de la Victoria",
+            "street number": 60,
+            "postal code": "02197"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1969-11-14",
+        "nationality": "Spanish",
+        "passport_number": "WQ8876500",
+        "passport_issue_date": "2019-06-25",
+        "passport_expiry_date": "2029-06-24",
+        "gender": "M",
+        "phone_number": "+34 691 614 558",
+        "email_address": "munoz.lopez@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Gin\u00e9s Mart\u00ednez de Aranda Albacete",
+            "graduation_year": 1988
+        },
+        "higher_education": [
+            {
+                "university": "Ram\u00f3n Llull University",
+                "graduation_year": 1994
+            },
+            {
+                "university": "Valencia School of Fine Arts",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "Mediaset Espa\u00f1a Comunicaci\u00f3n S.A.",
+                "position": "Journalist",
+                "salary": 29000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2003,
+                "company": "Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A.",
+                "position": "Editor",
+                "salary": 38000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2007,
+                "company": "Mediaset Espa\u00f1a Comunicaci\u00f3n S.A.",
+                "position": "Publisher",
+                "salary": 58000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2025,
+                "company": "PRISA Noticias S.A.",
+                "position": "TV/Radio Host",
+                "salary": 405000
+            }
+        ],
+        "aum": {
+            "savings": 690000,
+            "inheritance": 660000,
+            "real_estate_value": 3510000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2270000,
+                "property location": "Almer\u00eda"
+            },
+            {
+                "property type": "house",
+                "property value": 1240000,
+                "property location": "Logro\u00f1o"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mu\u00f1oz D\u00edaz L\u00f3pez",
+        "first_name": "Mu\u00f1oz",
+        "middle_name": "D\u00edaz",
+        "last_name": "L\u00f3pez",
+        "passport_number": "WQ8876500",
+        "currency": "EUR",
+        "address": {
+            "city": "Almer\u00eda",
+            "street name": "Calle de la Victoria",
+            "street number": 60,
+            "postal code": "02197"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 691 614 558",
+        "email_address": "munoz.lopez@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Mu\u00f1oz D\u00edaz L\u00f3pez's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nWith a career spanning nearly 31 years, Mu\u00f1oz D\u00edaz L\u00f3pez has established himself as a key player in the industry.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Mu\u00f1oz D\u00edaz L\u00f3pez is married to Clara. Mu\u00f1oz and Clara have 2 children, named Ruiz and Ib\u00e1\u00f1ez.",
+        "Education Background": "In 1988, Mu\u00f1oz finished his secondary school education at IES Gin\u00e9s Mart\u00ednez de Aranda Albacete.\nHe then attended Ram\u00f3n Llull University, which he graduated in 1994.\nHe pursued addtionally further eduaction by attending Valencia School of Fine Arts and graduating in 1998.\n",
+        "Occupation History": "Having worked for over 31 years, Mu\u00f1oz D\u00edaz L\u00f3pez brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAt Mediaset Espa\u00f1a Comunicaci\u00f3n S.A., Mu\u00f1oz D\u00edaz L\u00f3pez held the position of Journalist from 1994 to 1999, developing essential skills in the field.\nHe then transitioned to Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A. as a Editor, leveraging his expertise to drive results from 2000 to 2003.\nHis tenure as a Publisher at Mediaset Espa\u00f1a Comunicaci\u00f3n S.A. from 2005 to 2007 was marked by significant achievements and a deepening understanding of the field.\nHe worked as a TV/Radio Host at PRISA Noticias S.A. from 2009 to 2025, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "While working, he saved 690000 EUR, which he used to build a diversified investment portfolio.\nHe owns villa in Almer\u00eda, where he resides. It is worth 2270000 EUR.\n\nHe purchased house in Logro\u00f1o, where he spends his holidays. It is valued at 1240000 EUR.\n\nIn addition to his career success, he also received an inheritance of 660000 EUR from his late mother, a renowned Hedge Fund Manager, in 2012.\n",
+        "Client Summary": "In summary, Mu\u00f1oz has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

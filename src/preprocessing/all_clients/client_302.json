@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "Mart\u00edn",
+        "last_name": "Rodr\u00edguez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "2000-10-12",
+        "passport_number": "LK2963301",
+        "passport_mrz": [
+            "P<ESPRODR\u00cdGUEZ<<FERN\u00c1NDEZ<MART\u00cdN<<<<<<<<<<<<<",
+            "LK2963301ESP001012<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-05-05",
+        "passport_expiry_date": "2026-05-04"
+    },
+    "client_profile": {
+        "name": "Fern\u00e1ndez Mart\u00edn Rodr\u00edguez",
+        "address": {
+            "city": "Seville",
+            "street name": "Calle de San Andr\u00e9s",
+            "street number": 85,
+            "postal code": "04691"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "2000-10-12",
+        "nationality": "Spanish",
+        "passport_number": "LK2963301",
+        "passport_issue_date": "2021-05-05",
+        "passport_expiry_date": "2026-05-04",
+        "gender": "M",
+        "phone_number": "+34 615 702 389",
+        "email_address": "fernandez.rodriguez@orange.es",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Mar\u00eda Zambrano Sevilla",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Complutense University of Madrid",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1640000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fern\u00e1ndez Mart\u00edn Rodr\u00edguez",
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "Mart\u00edn",
+        "last_name": "Rodr\u00edguez",
+        "passport_number": "LK2963301",
+        "currency": "EUR",
+        "address": {
+            "city": "Seville",
+            "street name": "Calle de San Andr\u00e9s",
+            "street number": 85,
+            "postal code": "04691"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 615 702 389",
+        "email_address": "fernandez.rodriguez@orange.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Fern\u00e1ndez Mart\u00edn Rodr\u00edguez since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nFern\u00e1ndez Mart\u00edn Rodr\u00edguez is a 24 year old and comes from Spain.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Fern\u00e1ndez Mart\u00edn Rodr\u00edguez is currently single. He does not have any children.",
+        "Education Background": "In 2019, Fern\u00e1ndez finished his secondary school education at IES Mar\u00eda Zambrano Sevilla.\nFern\u00e1ndez pursued higher education at Complutense University of Madrid, graduating in 2023.\n",
+        "Occupation History": "Fern\u00e1ndez Mart\u00edn Rodr\u00edguez is a 24 year old and comes from Spain.\nFern\u00e1ndez Mart\u00edn Rodr\u00edguez did not start his professional career yet.",
+        "Wealth Summary": "He did not save any money from his earnings.\nClient does not have any properties.\nFollowing the passing of his grandfather, a successful Neurosurgeon, he received an inheritance of 1640000 EUR in 2016, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is committed to helping Fern\u00e1ndez achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

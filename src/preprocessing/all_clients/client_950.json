@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Marini",
+        "middle_name": "Bianchi",
+        "last_name": "Lotti",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1981-06-26",
+        "passport_number": "QF2460987",
+        "passport_mrz": [
+            "P<ITALOTTI<<MARINI<BIANCHI<<<<<<<<<<<<<<<<<<<",
+            "QF2460987ITA810626<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-04-01",
+        "passport_expiry_date": "2033-03-31"
+    },
+    "client_profile": {
+        "name": "Marini Bianchi Lotti",
+        "address": {
+            "city": "Siena",
+            "street name": "Via Po",
+            "street number": 94,
+            "postal code": "26252"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1981-06-26",
+        "nationality": "Italian",
+        "passport_number": "QF2460987",
+        "passport_issue_date": "2023-04-01",
+        "passport_expiry_date": "2033-03-31",
+        "gender": "M",
+        "phone_number": "+39 337 2039077",
+        "email_address": "marini.lotti@infinito.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "Italian Institute of Nuclear Physics (INFN)",
+                "graduation_year": 2006
+            },
+            {
+                "university": "IMT Institute for Advanced Studies Lucca",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2010,
+                "company": "Edison S.p.A.",
+                "position": "Drilling Engineer",
+                "salary": 38000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "ERGA S.p.A.",
+                "position": "Reservoir Engineer",
+                "salary": 97000
+            }
+        ],
+        "aum": {
+            "savings": 150000,
+            "inheritance": 6990000,
+            "real_estate_value": 1130000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2009,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1130000,
+                "property location": "Siena"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Marini Bianchi Lotti",
+        "first_name": "Marini",
+        "middle_name": "Bianchi",
+        "last_name": "Lotti",
+        "passport_number": "QF2460987",
+        "currency": "EUR",
+        "address": {
+            "city": "Siena",
+            "street name": "Via Po",
+            "street number": 94,
+            "postal code": "26252"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 337 2039077",
+        "email_address": "marini.lotti@infinito.it"
+    },
+    "client_description": {
+        "Summary Note": "Marini Bianchi Lotti and the RM are cousins, having grown up together in Rome. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nMarini Bianchi Lotti is a 43 year old Reservoir Engineer from Italy.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Marini Bianchi Lotti has been happily married to Costanza since 2015. Marini and Costanza have 3 children, named Conti, Beatrice and Bianchi.",
+        "Education Background": "In 2000, Marini graduated from Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia with a secondary school diploma.\nAfter that, he went on to study at Italian Institute of Nuclear Physics (INFN) until 2006.\nAdditionally, he went on to study at IMT Institute for Advanced Studies Lucca until 2008.\n",
+        "Occupation History": "Marini Bianchi Lotti is a 43 year old and comes from Italy.\nMarini Bianchi Lotti launched his career as a Drilling Engineer at Edison S.p.A., where he gained valuable experience from 2005 to 2010.\nHe then transitioned to ERGA S.p.A. as a Reservoir Engineer, leveraging his expertise to drive results from 2012 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 150000 EUR, investing in various assets to grow his wealth.\nHe has townhouse located in Siena, worth 1130000 EUR.\n\n\nFollowing the passing of his mother, a successful Stock Trader, he received an inheritance of 6990000 EUR in 2009, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In summary, Marini has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

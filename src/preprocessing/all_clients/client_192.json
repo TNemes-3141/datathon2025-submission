@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Isabella",
+        "middle_name": "Idun",
+        "last_name": "J\u00f8rgensen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1985-05-04",
+        "passport_number": "WY2940777",
+        "passport_mrz": [
+            "P<DNKJ\u00d8RGENSEN<<ISABELLA<IDUN<<<<<<<<<<<<<<<<",
+            "WY2940777DNK850504<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-11-17",
+        "passport_expiry_date": "2033-11-16"
+    },
+    "client_profile": {
+        "name": "Isabella Idun J\u00f8rgensen",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Kongens Nytorv",
+            "street number": 50,
+            "postal code": "8901"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1985-05-04",
+        "nationality": "Danish",
+        "passport_number": "WY2940777",
+        "passport_issue_date": "2023-11-17",
+        "passport_expiry_date": "2033-11-16",
+        "gender": "F",
+        "phone_number": "",
+        "email_address": "isabella.jrgensen@gmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Randers Statsskole",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "The National Film School of Denmark",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2011,
+                "company": "Vestas Wind Systems A/S",
+                "position": "Plant Manager",
+                "salary": 243000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Velux A/S",
+                "position": "Operations Director",
+                "salary": 927000
+            }
+        ],
+        "aum": {
+            "savings": 1080000,
+            "inheritance": 37830000,
+            "real_estate_value": 5513000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1883000,
+                "property location": "\u00c5rhus N"
+            },
+            {
+                "property type": "house",
+                "property value": 1600000,
+                "property location": "Horsens"
+            },
+            {
+                "property type": "house",
+                "property value": 2030000,
+                "property location": "K\u00f8ge"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Isabella Idun J\u00f8rgensen",
+        "first_name": "Isabella",
+        "middle_name": "Idun",
+        "last_name": "J\u00f8rgensen",
+        "passport_number": "WY2940777",
+        "currency": "DKK",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Kongens Nytorv",
+            "street number": 50,
+            "postal code": "8901"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 79 10 32 30",
+        "email_address": "isabella.jrgensen@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Isabella Idun J\u00f8rgensen and the RM crossed paths at a mutual friend's dinner party in Copenhagen. They discovered they had many common acquaintances and decided to explore business opportunities together.\nIsabella Idun J\u00f8rgensen is a 39 year old Operations Director from Denmark.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Isabella Idun J\u00f8rgensen is currently single. She does not have any children.",
+        "Education Background": "Isabella completed her secondary education at Randers Statsskole in 2003.\nIsabella graduated from Aalborg University in 2008, completing her higher education.\n",
+        "Occupation History": "Isabella Idun J\u00f8rgensen is a seasoned professional with over 15 years of experience.\nIn 2010, Isabella Idun J\u00f8rgensen started working as a Plant Manager at Vestas Wind Systems A/S, marking the beginning of her successful career.\nShe then transitioned to Velux A/S as a Operations Director, leveraging her expertise to drive results from 2013 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1080000 DKK.\nShe owns 3 exceptional properties: villa located in \u00c5rhus N, valued at approximately 1,883,000.00 DKK, house located in Horsens, valued at approximately 1,600,000.00 DKK, house located in K\u00f8ge, valued at approximately 2,030,000.00 DKK. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Horsens, \u00c5rhus N and K\u00f8ge.\n\nIn addition to her career success, she also received an inheritance of 37830000 DKK from her late grandmother, a renowned Neurosurgeon, in 2015.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

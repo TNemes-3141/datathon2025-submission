@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Floriane",
+        "middle_name": "Capucine",
+        "last_name": "Boucher",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1983-08-19",
+        "passport_number": "KH5464590",
+        "passport_mrz": [
+            "P<FRABOUCHER<<FLORIANE<CAPUCINE<<<<<<<<<<<<<<",
+            "KH5464590FRA830819<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-06-09",
+        "passport_expiry_date": "2033-06-08"
+    },
+    "client_profile": {
+        "name": "Floriane Capucine Boucher",
+        "address": {
+            "city": "Saint-Denis",
+            "street name": "Avenue d'Italie",
+            "street number": 52,
+            "postal code": "61193"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1983-08-19",
+        "nationality": "French",
+        "passport_number": "KH5464590",
+        "passport_issue_date": "2023-06-09",
+        "passport_expiry_date": "2033-06-08",
+        "gender": "F",
+        "phone_number": "+33 05 07 43 10 93",
+        "email_address": "floriane.boucher@bbox.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Ren\u00e9 Descartes",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Nationale d'Administration (ENA)",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2011,
+                "company": "Louvre Museum",
+                "position": "Art Dealer",
+                "salary": 28000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2017,
+                "company": "Mus\u00e9e d'Orsay",
+                "position": "Gallery Owner",
+                "salary": 45000
+            }
+        ],
+        "aum": {
+            "savings": 130000,
+            "inheritance": 640000,
+            "real_estate_value": 6830000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2013,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 3180000,
+                "property location": "Saint-Denis"
+            },
+            {
+                "property type": "house",
+                "property value": 2150000,
+                "property location": "Saint-Denis"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1500000,
+                "property location": "Montpellier"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Floriane Capucine Boucher",
+        "first_name": "Floriane",
+        "middle_name": "Capucine",
+        "last_name": "Boucher",
+        "passport_number": "KH5464590",
+        "currency": "EUR",
+        "address": {
+            "city": "Saint-Denis",
+            "street name": "Avenue d'Italie",
+            "street number": 52,
+            "postal code": "61193"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 05 07 43 10 93",
+        "email_address": "floriane.boucher@bbox.fr"
+    },
+    "client_description": {
+        "Summary Note": "Floriane Capucine Boucher and the RM were introduced at an art auction in Paris. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nWith a career spanning nearly 18 years, Floriane Capucine Boucher has established herself as a key player in the industry.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Floriane Capucine Boucher is married to Lefebvre. Floriane and Lefebvre have 3 children, named Bertrand, Garance and Laetitia.",
+        "Education Background": "In 2003, Floriane graduated from Lyc\u00e9e Ren\u00e9 Descartes with a secondary school diploma.\nShe then attended \u00c9cole Nationale d'Administration (ENA), which she graduated in 2006.\n",
+        "Occupation History": "Floriane Capucine Boucher is a 41 year old and comes from France.\nFloriane Capucine Boucher launched her career as a Art Dealer at Louvre Museum, where she gained valuable experience from 2007 to 2011.\nHer subsequent role was as a Gallery Owner at Mus\u00e9e d'Orsay, where she continued to grow professionally from 2013 to 2017.\nAt Mus\u00e9e Rodin, she worked as a Art Advisor from 2018 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "She managed to save approximately 130000 EUR from her earnings at all companies.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Montpellier and Saint-Denis, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe inherited 640000 EUR from her grandmother, a well-known Investment Banker, in 2013, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Floriane has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

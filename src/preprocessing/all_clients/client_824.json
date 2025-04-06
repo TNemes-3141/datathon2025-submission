@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Laurent",
+        "middle_name": "Nicolas",
+        "last_name": "Boucher",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1985-05-06",
+        "passport_number": "PM0411270",
+        "passport_mrz": [
+            "P<FRABOUCHER<<LAURENT<NICOLAS<<<<<<<<<<<<<<<<",
+            "PM0411270FRA850506<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-31",
+        "passport_expiry_date": "2029-03-30"
+    },
+    "client_profile": {
+        "name": "Laurent Nicolas Boucher",
+        "address": {
+            "city": "Metz",
+            "street name": "Avenue Parmentier",
+            "street number": 87,
+            "postal code": "80350"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1958-05-06",
+        "nationality": "French",
+        "passport_number": "PM0411270",
+        "passport_issue_date": "2019-03-31",
+        "passport_expiry_date": "2029-03-30",
+        "gender": "M",
+        "phone_number": "+33 05 37 57 15 39",
+        "email_address": "laurent.boucher@laposte.net",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Amp\u00e8re",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "HEC Paris",
+                "graduation_year": 2010
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2015,
+                "company": "BNP Paribas S.A.",
+                "position": "Family Office Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2016,
+                "end_year": 2020,
+                "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A.",
+                "position": "Investment Director",
+                "salary": 46000
+            },
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "BNP Paribas S.A.",
+                "position": "CFO",
+                "salary": 65000
+            }
+        ],
+        "aum": {
+            "savings": 90000,
+            "inheritance": 4170000,
+            "real_estate_value": 1640000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1640000,
+                "property location": "Metz"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Laurent Nicolas Boucher",
+        "first_name": "Laurent",
+        "middle_name": "Nicolas",
+        "last_name": "Boucher",
+        "passport_number": "PM0411270",
+        "currency": "EUR",
+        "address": {
+            "city": "Metz",
+            "street name": "Avenue Parmentier",
+            "street number": 87,
+            "postal code": "80350"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 05 37 57 15 39",
+        "email_address": "laurent.boucher@laposte.net"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Laurent Nicolas Boucher since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nLaurent Nicolas Boucher is a 39 year old and comes from France.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Laurent Nicolas Boucher is married to Louna.",
+        "Education Background": "Laurent completed his secondary education at Lyc\u00e9e Amp\u00e8re in 2004.\nLaurent received his degree from HEC Paris in 2010.\n",
+        "Occupation History": "With a career spanning nearly 15 years, Laurent Nicolas Boucher has established himself as a key player in the industry.\nLaurent Nicolas Boucher began his professional journey as a Family Office Manager at BNP Paribas S.A. in 2010, laying the foundation for future success.\nAt Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A., he held the position of Investment Director from 2016 to 2020, making significant contributions to the organization.\nIn 2022, he joined BNP Paribas S.A. as a CFO, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "He managed to save approximately 90000 EUR from his earnings at all companies.\nHe owns townhouse in Metz, where he resides. It is worth 1640000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 4170000 EUR from his late grandmother, a renowned Private Equity Manager, in 2018.\n",
+        "Client Summary": "The RM is very happy to have Laurent as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

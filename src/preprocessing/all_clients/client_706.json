@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Ida",
+        "middle_name": "Ellen",
+        "last_name": "Andersen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1971-08-20",
+        "passport_number": "RL7071937",
+        "passport_mrz": [
+            "P<DNKANDERSEN<<IDA<ELLEN<<<<<<<<<<<<<<<<<<<<<",
+            "RL7071937DNK710820<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-09",
+        "passport_expiry_date": "2029-05-08"
+    },
+    "client_profile": {
+        "name": "Ida Ellen Andersen",
+        "address": {
+            "city": "Vejle",
+            "street name": "Gammel Torv",
+            "street number": 36,
+            "postal code": "8521"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1971-08-20",
+        "nationality": "Danish",
+        "passport_number": "RL7071937",
+        "passport_issue_date": "2019-05-09",
+        "passport_expiry_date": "2029-05-08",
+        "gender": "F",
+        "phone_number": "76 84 94 25",
+        "email_address": "ida.andersen@telia.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Holstebro Gymnasium",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "Zealand Institute of Business and Technology",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "NCC Danmark A/S",
+                "position": "Property Manager",
+                "salary": 262000
+            },
+            {
+                "start_year": 1996,
+                "end_year": null,
+                "company": "Skanska Danmark A/S",
+                "position": "Developer",
+                "salary": 2035000
+            }
+        ],
+        "aum": {
+            "savings": 3540000,
+            "inheritance": 22300000,
+            "real_estate_value": 4710000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2012,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 950000,
+                "property location": "Vejle"
+            },
+            {
+                "property type": "villa",
+                "property value": 2050000,
+                "property location": "Odense"
+            },
+            {
+                "property type": "house",
+                "property value": 1710000,
+                "property location": "Esbjerg \u00d8"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Netherlands"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Ida Ellen Andersen",
+        "first_name": "Ida",
+        "middle_name": "Ellen",
+        "last_name": "Andersen",
+        "passport_number": "RL7071937",
+        "currency": "DKK",
+        "address": {
+            "city": "Vejle",
+            "street name": "Gammel Torv",
+            "street number": 36,
+            "postal code": "8521"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "76 84 94 25",
+        "email_address": "ida.andersen@telia.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Ida Ellen Andersen's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nIda Ellen Andersen is a 53 year old Developer from Denmark.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Ida Ellen Andersen is currently single. She does not have any children.",
+        "Education Background": "In 1991, Ida graduated from Holstebro Gymnasium with a secondary school diploma.\nIda received her degree from Zealand Institute of Business and Technology in 1994.\n",
+        "Occupation History": "With a career spanning nearly 30 years, Ida Ellen Andersen has established herself as a key player in the industry.\nIda Ellen Andersen launched her career as a Property Manager at NCC Danmark A/S, where she gained valuable experience from 1995 to 1996.\nIn 1996, she moved to Skanska Danmark A/S to work as a Developer, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "She managed to save approximately 3540000 DKK from her earnings at all companies.\nShe has flat located in Vejle, worth 950000 DKK.\n\nIn addition to her primary residence, she owns villa in Odense worth 2050000 DKK.\n\nOn top of that she inherited a beautiful house in Esbjerg \u00d8, which could be used as a weekend getaway. It is valued at 1710000 DKK.\nIn 2012, she received an inheritance of 22300000 DKK from her late father, who was a prominent Private Equity Manager, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Ida has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

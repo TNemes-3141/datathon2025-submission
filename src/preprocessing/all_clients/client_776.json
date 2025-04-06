@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Sofia",
+        "middle_name": "Katrine",
+        "last_name": "Larsen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1972-01-13",
+        "passport_number": "IE3686356",
+        "passport_mrz": [
+            "P<DNKLARSEN<<SOFIA<KATRINE<<<<<<<<<<<<<<<<<<<",
+            "IE3686356DNK720113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-01-24",
+        "passport_expiry_date": "2029-01-23"
+    },
+    "client_profile": {
+        "name": "Sofia Katrine Larsen",
+        "address": {
+            "city": "Holb\u00e6k",
+            "street name": "Sortedams Dossering",
+            "street number": 1,
+            "postal code": "2138"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1972-01-13",
+        "nationality": "Danish",
+        "passport_number": "IE3686356",
+        "passport_issue_date": "2019-01-24",
+        "passport_expiry_date": "2029-01-23",
+        "gender": "F",
+        "phone_number": "+45 27 05 38 62",
+        "email_address": "sofia.larsen@outlook.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Odense Katedralskole",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "The National Film School of Denmark",
+                "graduation_year": 1996
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "IC Group A/S",
+                "position": "Assistant Designer",
+                "salary": 273000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 1999,
+                "company": "Won Hundred A/S",
+                "position": "Senior Designer",
+                "salary": 417000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2004,
+                "company": "Ganni A/S",
+                "position": "Creative Director",
+                "salary": 509000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2011,
+                "company": "Bestseller A/S",
+                "position": "Founder/Designer",
+                "salary": 1610000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Won Hundred A/S",
+                "position": "Luxury Brand Owner",
+                "salary": 4678000
+            }
+        ],
+        "aum": {
+            "savings": 8360000,
+            "inheritance": 17290000,
+            "real_estate_value": 2074000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2008,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 894000,
+                "property location": "Holb\u00e6k"
+            },
+            {
+                "property type": "condo",
+                "property value": 1180000,
+                "property location": "Roskilde"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Belgium"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Sofia Katrine Larsen",
+        "first_name": "Sofia",
+        "middle_name": "Katrine",
+        "last_name": "Larsen",
+        "passport_number": "IE3686356",
+        "currency": "DKK",
+        "address": {
+            "city": "Holb\u00e6k",
+            "street name": "Sortedams Dossering",
+            "street number": 1,
+            "postal code": "2138"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 27 05 38 62",
+        "email_address": "sofia.larsen@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Sofia Katrine Larsen and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nSofia Katrine Larsen is a 53 year old Luxury Brand Owner from Denmark.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Sofia Katrine Larsen is currently divorced. Her child is named Bjerregaard.",
+        "Education Background": "Sofia completed her secondary education at Odense Katedralskole in 1989.\nSofia completed her university education at The National Film School of Denmark in 1996.\n",
+        "Occupation History": "With a career spanning nearly 30 years, Sofia Katrine Larsen has established herself as a key player in the industry.\nSofia Katrine Larsen's first role was as a Assistant Designer at IC Group A/S, where she worked diligently from 1995 to 1996 to establish a strong reputation.\nIn 1998, she moved to Won Hundred A/S to work as a Senior Designer, applying her knowledge to achieve outstanding performance.\nIn 2001, she joined Ganni A/S as a Creative Director, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nHer next role was as a Founder/Designer at Bestseller A/S, where she applied her extensive experience to drive innovation from 2006 to 2011.\nSince joining Won Hundred A/S as a Luxury Brand Owner in 2011, she has established herself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "Throughout her career, she saved 8360000 DKK, investing in various assets to grow her wealth.\nShe owns 2 exceptional properties: condo located in Holb\u00e6k, valued at approximately 894,000.00 DKK, condo located in Roskilde, valued at approximately 1,180,000.00 DKK. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Roskilde and Holb\u00e6k.\nShe inherited a significant sum of 17290000 DKK from her father, a respected Corporate Lawyer, in 2008, which she has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

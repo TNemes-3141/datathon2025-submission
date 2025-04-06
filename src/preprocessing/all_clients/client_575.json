@@ -1,0 +1,123 @@
+{
+    "passport": {
+        "first_name": "Isabella",
+        "middle_name": "Gaia",
+        "last_name": "Fantini",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1967-05-26",
+        "passport_number": "UM1368457",
+        "passport_mrz": [
+            "P<ITAFANTINI<<ISABELLA<GAIA<<<<<<<<<<<<<<<<<<",
+            "UM1368457ITA670526<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-06-25",
+        "passport_expiry_date": "2029-06-24"
+    },
+    "client_profile": {
+        "name": "Isabella Gaia Fantini",
+        "address": {
+            "city": "Verona",
+            "street name": "Via Dante Alighieri",
+            "street number": 18,
+            "postal code": "84701"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1967-05-26",
+        "nationality": "Italian",
+        "passport_number": "UM1368457",
+        "passport_issue_date": "2019-06-25",
+        "passport_expiry_date": "2029-06-24",
+        "gender": "F",
+        "phone_number": "+39 315 7675736",
+        "email_address": "isabella.fantini@wind.it",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Scuola Media Statale Antonio Meucci Firenze",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "University of Turin",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1992,
+                "end_year": 1996,
+                "company": "Alcedo SGR S.p.A.",
+                "position": "Analyst",
+                "salary": 27000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2000,
+                "company": "Syntegra SGR S.p.A.",
+                "position": "Associate",
+                "salary": 37000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2002,
+                "company": "Clessidra SGR S.p.A.",
+                "position": "Investment Director",
+                "salary": 61000
+            },
+            {
+                "start_year": 2002,
+                "end_year": null,
+                "company": "Fondo Italiano d'Investimento SGR S.p.A.",
+                "position": "Partner",
+                "salary": 773000
+            }
+        ],
+        "aum": {
+            "savings": 1410000,
+            "inheritance": 800000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2011,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Isabella Gaia Fantini",
+        "first_name": "Isabella",
+        "middle_name": "Gaia",
+        "last_name": "Fantini",
+        "passport_number": "UM1368457",
+        "currency": "EUR",
+        "address": {
+            "city": "Verona",
+            "street name": "Via Dante Alighieri",
+            "street number": 18,
+            "postal code": "84701"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 315 7675736",
+        "email_address": "isabella.fantini@wind.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Isabella Gaia Fantini during a business conference in Rome. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nIsabella Gaia Fantini is a 57 year old Partner from Italy. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Isabella Gaia Fantini is currently divorced. She does not have any children.",
+        "Education Background": "Isabella received her secondary school diploma from Scuola Media Statale Antonio Meucci Firenze in 1986.\nIsabella earned her degree from University of Turin in 1991.\n",
+        "Occupation History": "Having worked for over 33 years, Isabella Gaia Fantini brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIsabella Gaia Fantini's first role was as a Analyst at Alcedo SGR S.p.A., where she worked diligently from 1992 to 1996 to establish a strong reputation.\nShe then transitioned to Syntegra SGR S.p.A. as a Associate, leveraging her expertise to drive results from 1997 to 2000.\nIn 2000, she joined Clessidra SGR S.p.A. as a Investment Director, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nShe worked as a Partner at Fondo Italiano d'Investimento SGR S.p.A. from 2002 till now, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1410000 EUR.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 800000 EUR from her late grandfather, a renowned Real Estate Developer, in 2011.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

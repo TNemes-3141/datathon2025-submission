@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Hern\u00e1ndez",
+        "middle_name": "V\u00e1zquez",
+        "last_name": "Morales",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1998-12-22",
+        "passport_number": "QB5997759",
+        "passport_mrz": [
+            "P<ESPMORALES<<HERN\u00c1NDEZ<V\u00c1ZQUEZ<<<<<<<<<<<<<<",
+            "QB5997759ESP981222<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-01-22",
+        "passport_expiry_date": "2026-01-21"
+    },
+    "client_profile": {
+        "name": "Hern\u00e1ndez V\u00e1zquez Morales",
+        "address": {
+            "city": "Valladolid",
+            "street name": "Plaza de la Independencia",
+            "street number": 75,
+            "postal code": "02216"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1998-12-22",
+        "nationality": "Spanish",
+        "passport_number": "QB5997759",
+        "passport_issue_date": "2021-01-22",
+        "passport_expiry_date": "2026-01-21",
+        "gender": "M",
+        "phone_number": "+34 646 362 240",
+        "email_address": "hernandez.morales@vodafone.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Rafael Alberti C\u00e1diz",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Navarra University",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Esteve Teijin Healthcare S.L.",
+                "position": "Research Scientist",
+                "salary": 25000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2680000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hern\u00e1ndez V\u00e1zquez Morales",
+        "first_name": "Hern\u00e1ndez",
+        "middle_name": "V\u00e1zquez",
+        "last_name": "Morales",
+        "passport_number": "QB5997759",
+        "currency": "EUR",
+        "address": {
+            "city": "Valladolid",
+            "street name": "Plaza de la Independencia",
+            "street number": 75,
+            "postal code": "02216"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 646 362 240",
+        "email_address": "hernandez.morales@vodafone.es"
+    },
+    "client_description": {
+        "Summary Note": "Hern\u00e1ndez V\u00e1zquez Morales and the RM crossed paths at a mutual friend's dinner party in Madrid. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHern\u00e1ndez V\u00e1zquez Morales is a 26 year old Research Scientist from Spain.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Hern\u00e1ndez V\u00e1zquez Morales has been happily married to Araceli since 2025. They do not have any children.",
+        "Education Background": "In 2016, Hern\u00e1ndez graduated from IES Rafael Alberti C\u00e1diz with a secondary school diploma.\nHern\u00e1ndez attended Navarra University and graduated in 2022.\n",
+        "Occupation History": "Hern\u00e1ndez V\u00e1zquez Morales is a 26 year old and comes from Spain.\nHern\u00e1ndez V\u00e1zquez Morales's first role was as a Research Scientist at Esteve Teijin Healthcare S.L., where he worked diligently from 2022 till now to establish a strong reputation.\n",
+        "Wealth Summary": "While working, he saved 10000 EUR, which he used to build a diversified investment portfolio.\nClient does not have any properties.\nFollowing the passing of his grandfather, a successful Tech Entrepreneur, he received an inheritance of 2680000 EUR in 2017, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Torres",
+        "middle_name": "Jim\u00e9nez",
+        "last_name": "Su\u00e1rez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "E",
+        "nationality": "Spanish",
+        "birth_date": "1989-06-16",
+        "passport_number": "ZC1971781",
+        "passport_mrz": [
+            "P<ESPSU\u00c1REZ<<TORRES<JIM\u00c9NEZ<<<<<<<<<<<<<<<<<<",
+            "ZC1971781ESP890616<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-07-02",
+        "passport_expiry_date": "2026-07-01"
+    },
+    "client_profile": {
+        "name": "Torres Jim\u00e9nez Su\u00e1rez",
+        "address": {
+            "city": "Zaragoza",
+            "street name": "Calle de Alcal\u00e1",
+            "street number": 64,
+            "postal code": "56389"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1989-06-16",
+        "nationality": "Spanish",
+        "passport_number": "ZC1971781",
+        "passport_issue_date": "2016-07-02",
+        "passport_expiry_date": "2026-07-01",
+        "gender": "M",
+        "phone_number": "+34 644 211 178",
+        "email_address": "torres.suarez@yahoo.es",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "IES Jorge Guill\u00e9n Salamanca",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "Valencia School of Fine Arts",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A.",
+                "position": "Journalist",
+                "salary": 60000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 9150000,
+            "real_estate_value": 880000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 880000,
+                "property location": "Zaragoza"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Torres Jim\u00e9nez Su\u00e1rez",
+        "first_name": "Torres",
+        "middle_name": "Jim\u00e9nez",
+        "last_name": "Su\u00e1rez",
+        "passport_number": "ZC1971781",
+        "currency": "EUR",
+        "address": {
+            "city": "Zaragoza",
+            "street name": "Calle de Alcal\u00e1",
+            "street number": 64,
+            "postal code": "56389"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 644 211 178",
+        "email_address": "torres.suarez@yahoo.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Torres Jim\u00e9nez Su\u00e1rez during a business conference in Madrid. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nTorres Jim\u00e9nez Su\u00e1rez is a 35 year old and comes from Spain.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Torres Jim\u00e9nez Su\u00e1rez is currently single. He does not have any children.",
+        "Education Background": "In 2007, Torres finished his secondary school education at IES Jorge Guill\u00e9n Salamanca.\nTorres attended Valencia School of Fine Arts and graduated in 2014.\n",
+        "Occupation History": "Torres Jim\u00e9nez Su\u00e1rez is a 35 year old and comes from Spain.\nAt Atresmedia Corporaci\u00f3n de Medios de Comunicaci\u00f3n S.A., Torres Jim\u00e9nez Su\u00e1rez held the position of Journalist from 2014 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "He managed to save approximately 60000 EUR from his earnings at all companies.\nHe owns flat in Zaragoza, where he resides. It is worth 8000000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 9150000 EUR from his late grandfather, a renowned Neurosurgeon, in 2020.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

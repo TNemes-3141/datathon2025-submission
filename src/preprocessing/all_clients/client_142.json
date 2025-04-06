@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Lucas",
+        "middle_name": "Louna",
+        "last_name": "Lecomte",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1961-10-23",
+        "passport_number": "QG3408553",
+        "passport_mrz": [
+            "P<BELLECOMTE<<LUCAS<LOUNA<<<<<<<<<<<<<<<<<<<<",
+            "QG3408553BEL611023<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-04-19",
+        "passport_expiry_date": "2024-04-18"
+    },
+    "client_profile": {
+        "name": "Lucas Louna Lecomte",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue du Houblon",
+            "street number": 39,
+            "postal code": "4739"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1961-10-23",
+        "nationality": "Belgian",
+        "passport_number": "QG3408553",
+        "passport_issue_date": "2017-04-19",
+        "passport_expiry_date": "2024-04-18",
+        "gender": "F",
+        "phone_number": "0422 694 560",
+        "email_address": "lucas.lecomte@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Onze-Lieve-Vrouwe-Wavercollege",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Universit\u00e9 libre de Bruxelles",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "The Hotel Brussels",
+                "position": "Hotel Manager",
+                "salary": 42000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 1993,
+                "company": "IHG Hotels & Resorts Belgium",
+                "position": "General Manager",
+                "salary": 63000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1996,
+                "company": "Accor Hospitality Belgium",
+                "position": "Regional Vice President",
+                "salary": 68000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 1999,
+                "company": "IHG Hotels & Resorts Belgium",
+                "position": "CEO",
+                "salary": 122000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2022,
+                "company": "Accor Hospitality Belgium",
+                "position": "Hospitality Industry Leader",
+                "salary": 1208000
+            }
+        ],
+        "aum": {
+            "savings": 1930000,
+            "inheritance": 0,
+            "real_estate_value": 2769000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1039000,
+                "property location": "Herstal"
+            },
+            {
+                "property type": "flat",
+                "property value": 770000,
+                "property location": "Ghent"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 960000,
+                "property location": "Lokeren"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lucas Louna Lecomte",
+        "first_name": "Lucas",
+        "middle_name": "Louna",
+        "last_name": "Lecomte",
+        "passport_number": "QG3408553",
+        "currency": "EUR",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue du Houblon",
+            "street number": 39,
+            "postal code": "4739"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0422 694 560",
+        "email_address": "lucas.lecomte@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Lucas Louna Lecomte at a charity gala in Brussels. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nLucas Louna Lecomte is a 63 year old retired Hospitality Industry Leader from Belgium. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Lucas Louna Lecomte and Lemaire have been married since 1997. Together they have 2 kids called Oph\u00e9lie and Goossens.",
+        "Education Background": "Lucas earned her secondary school diploma from Onze-Lieve-Vrouwe-Wavercollege in 1981.\nLucas earned her degree from Universit\u00e9 libre de Bruxelles in 1985.\n",
+        "Occupation History": "Lucas Louna Lecomte is a seasoned professional with over 40 years of experience.\nAt The Hotel Brussels, Lucas Louna Lecomte held the position of Hotel Manager from 1985 to 1987, developing essential skills in the field.\nIn 1988, she moved to IHG Hotels & Resorts Belgium to work as a General Manager, applying her knowledge to achieve outstanding performance.\nShe spent 3 years working as a Regional Vice President at Accor Hospitality Belgium, refining her expertise and building a strong network.\nHer next role was as a CEO at IHG Hotels & Resorts Belgium, where she applied her extensive experience to drive innovation from 1996 to 1999.\nLucas Louna Lecomte retired after holding the position of Hospitality Industry Leader at Accor Hospitality Belgium from 1999 to 2022.",
+        "Wealth Summary": "Throughout her career, she saved 1930000 EUR, investing in various assets to grow her wealth.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Lokeren, Herstal and Ghent, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

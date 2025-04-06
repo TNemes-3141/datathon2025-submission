@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Mathilde",
+        "middle_name": "Emilie",
+        "last_name": "Rasmussen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1956-05-07",
+        "passport_number": "SG4673068",
+        "passport_mrz": [
+            "P<DNKRASMUSSEN<<MATHILDE<EMILIE<<<<<<<<<<<<<<",
+            "SG4673068DNK560507<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1953-05-21",
+        "passport_expiry_date": "1963-05-20"
+    },
+    "client_profile": {
+        "name": "Mathilde Emilie Rasmussen",
+        "address": {
+            "city": "Hiller\u00f8d",
+            "street name": "S\u00f8lvgade",
+            "street number": 7,
+            "postal code": "1696"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1956-05-07",
+        "nationality": "Danish",
+        "passport_number": "SG4673068",
+        "passport_issue_date": "2023-05-21",
+        "passport_expiry_date": "2033-05-20",
+        "gender": "F",
+        "phone_number": "",
+        "email_address": "mathilde.rasmussen@tiscali.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Slagelse Gymnasium",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "CBS International Business School",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1980,
+                "end_year": 1982,
+                "company": "Jyske Bank A/S",
+                "position": "Family Office Manager",
+                "salary": 292000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 1984,
+                "company": "Sydbank A/S",
+                "position": "Investment Director",
+                "salary": 378000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "Danske Bank A/S",
+                "position": "CFO",
+                "salary": 530000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1994,
+                "company": "Danske Bank A/S",
+                "position": "COO",
+                "salary": 982000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2017,
+                "company": "Jyske Bank A/S",
+                "position": "CEO",
+                "salary": 6281000
+            }
+        ],
+        "aum": {
+            "savings": 10490000,
+            "inheritance": 199000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2008,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Mathilde Emilie Rasmussen",
+        "first_name": "Mathilde",
+        "middle_name": "Emilie",
+        "last_name": "Rasmussen",
+        "passport_number": "SG4673068",
+        "currency": "DKK",
+        "address": {
+            "city": "Hiller\u00f8d",
+            "street name": "S\u00f8lvgade",
+            "street number": 7,
+            "postal code": "1696"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "69 56 01 82",
+        "email_address": "mathilde.rasmussen@tiscali.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Mathilde Emilie Rasmussen's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nMathilde Emilie Rasmussen is a 68 year old retired CEO from Denmark. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Mathilde Emilie Rasmussen is currently divorced. Her child is named Krog.",
+        "Education Background": "In 1974, Mathilde finished her secondary school education at Slagelse Gymnasium.\nMathilde completed her university education at CBS International Business School in 1980.\n",
+        "Occupation History": "With a career spanning nearly 45 years, Mathilde Emilie Rasmussen has established herself as a key player in the industry.\nAt Jyske Bank A/S, Mathilde Emilie Rasmussen held the position of Family Office Manager from 1980 to 1982, developing essential skills in the field.\nHer subsequent role was as a Investment Director at Sydbank A/S, where she continued to grow professionally from 1983 to 1984.\nIn 1985, she joined Danske Bank A/S as a CFO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nHer next role was as a COO at Danske Bank A/S, where she applied her extensive experience to drive innovation from 1990 to 1994.\nUntil retiring, Mathilde Emilie Rasmussen served as a CEO at Jyske Bank A/S, contributing significantly from 1995 to 2017.",
+        "Wealth Summary": "She managed to save approximately 10490000 DKK from her earnings at all companies.\nClient does not have any properties.\nFollowing the passing of her mother, a successful Real Estate Developer, she received an inheritance of 199000 DKK in 2008, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

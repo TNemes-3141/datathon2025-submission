@@ -1,0 +1,133 @@
+{
+    "passport": {
+        "first_name": "Daniela",
+        "middle_name": "Ellen",
+        "last_name": "S\u00f8rensen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1985-01-13",
+        "passport_number": "BJ1855147",
+        "passport_mrz": [
+            "P<DNKS\u00d8RENSEN<<DANIELA<ELLEN<<<<<<<<<<<<<<<<<",
+            "BJ1855147DNK850113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-07-05",
+        "passport_expiry_date": "2028-07-04"
+    },
+    "client_profile": {
+        "name": "Daniela Ellen S\u00f8rensen",
+        "address": {
+            "city": "Braunschweig",
+            "street name": "Brandenburgische Stra\u00dfe",
+            "street number": 54,
+            "postal code": "00664"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1985-01-13",
+        "nationality": "Danish",
+        "passport_number": "BJ1855147",
+        "passport_issue_date": "2018-07-05",
+        "passport_expiry_date": "2028-07-04",
+        "gender": "F",
+        "phone_number": "5047 926443",
+        "email_address": "daniela.srensen@vodafone.de",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Herning Gymnasium",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "Roskilde University",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "DB Schenker",
+                "position": "Ship Broker",
+                "salary": 286000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2014,
+                "company": "DSV Air & Sea GmbH",
+                "position": "Shipping Company Owner",
+                "salary": 390000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "K\u00fchne + Nagel (Deutschland) GmbH",
+                "position": "Fleet Manager",
+                "salary": 1050000
+            }
+        ],
+        "aum": {
+            "savings": 1410000,
+            "inheritance": 1520000,
+            "real_estate_value": 4560000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2470000,
+                "property location": "Braunschweig"
+            },
+            {
+                "property type": "flat",
+                "property value": 904000,
+                "property location": "Kolding"
+            },
+            {
+                "property type": "flat",
+                "property value": 1186000,
+                "property location": "Vejle"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "France",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Daniela Ellen S\u00f8rensen",
+        "first_name": "Daniela",
+        "middle_name": "Ellen",
+        "last_name": "S\u00f8rensen",
+        "passport_number": "BJ1855147",
+        "currency": "EUR",
+        "address": {
+            "city": "Braunschweig",
+            "street name": "Brandenburgische Stra\u00dfe",
+            "street number": 54,
+            "postal code": "00664"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "5047 926443",
+        "email_address": "daniela.srensen@vodafone.de"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Daniela Ellen S\u00f8rensen on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nDaniela Ellen S\u00f8rensen is a 40 year old and comes from Germany.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Daniela Ellen S\u00f8rensen is currently single. She does not have any children.",
+        "Education Background": "In 2004, Daniela graduated from Herning Gymnasium with a secondary school diploma.\nAfter that, she went on to study at Roskilde University until 2009.\n",
+        "Occupation History": "Daniela Ellen S\u00f8rensen is a 40 year old Fleet Manager from Germany. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nDaniela Ellen S\u00f8rensen began her professional journey as a Ship Broker at DB Schenker in 2008, laying the foundation for future success.\nAfter gaining experience, she took on the role of Shipping Company Owner at DSV Air & Sea GmbH in 2012, further expanding her skill set.\nAt K\u00fchne + Nagel (Deutschland) GmbH, she worked as a Fleet Manager from 2016 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, she saved 1410000 EUR, which she used to build a diversified investment portfolio.\nShe has villa located in Braunschweig, worth 2470000 EUR.\n\nShe purchased flat in Kolding, where she spends her holidays. It is valued at 904000 EUR.\nMoreover, she has invested in additional property in Vejle, giving possiblity for generating additional income. The flat is valued at 1186000 EUR.\n\nIn 2015, she received an inheritance of 1520000 EUR from her late grandmother, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

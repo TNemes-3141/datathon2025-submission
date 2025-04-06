@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Colombe",
+        "middle_name": "Louna",
+        "last_name": "Lambert",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1995-04-27",
+        "passport_number": "WJ9855079",
+        "passport_mrz": [
+            "P<FRALAMBERT<<COLOMBE<LOUNA<<<<<<<<<<<<<<<<<<",
+            "WJ9855079FRA950427<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-12-30",
+        "passport_expiry_date": "2028-12-29"
+    },
+    "client_profile": {
+        "name": "Colombe Louna Lambert",
+        "address": {
+            "city": "Lille",
+            "street name": "Pont des Arts",
+            "street number": 35,
+            "postal code": "02781"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1995-04-27",
+        "nationality": "French",
+        "passport_number": "WJ9855079",
+        "passport_issue_date": "2018-12-30",
+        "passport_expiry_date": "2028-12-29",
+        "gender": "F",
+        "phone_number": "+33 01 28 98 74 60",
+        "email_address": "colombe.lambert@numericable.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Claude Debussy",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Normale Sup\u00e9rieure (ENS) Paris",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": 2021,
+                "company": "BNP Paribas S.A.",
+                "position": "Investment Banker",
+                "salary": 33000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Natixis S.A.",
+                "position": "Private Equity Investor",
+                "salary": 47000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 2480000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Colombe Louna Lambert",
+        "first_name": "Colombe",
+        "middle_name": "Louna",
+        "last_name": "Lambert",
+        "passport_number": "WJ9855079",
+        "currency": "EUR",
+        "address": {
+            "city": "Lille",
+            "street name": "Pont des Arts",
+            "street number": 35,
+            "postal code": "02781"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 01 28 98 74 60",
+        "email_address": "colombe.lambert@numericable.fr"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Colombe Louna Lambert at a charity gala in Paris. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nColombe Louna Lambert is a 29 year old and comes from France.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Colombe Louna Lambert is currently single. She does not have any children.",
+        "Education Background": "Colombe finished secondary school at Lyc\u00e9e Claude Debussy in 2014.\nColombe finished her studies at \u00c9cole Normale Sup\u00e9rieure (ENS) Paris in 2018.\n",
+        "Occupation History": "Colombe Louna Lambert is a 29 year old Private Equity Investor from France.\nAt BNP Paribas S.A., Colombe Louna Lambert held the position of Investment Banker from 2020 to 2021, developing essential skills in the field.\nHer subsequent role was as a Private Equity Investor at Natixis S.A., where she continued to grow professionally from 2021 till now.\n",
+        "Wealth Summary": "While working, she saved 30000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.She inherited a significant sum of 2480000 EUR from her grandmother, a respected Venture Capitalist, in 2017, which she has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "passport": {
+        "first_name": "Su\u00e1rez",
+        "middle_name": "Mu\u00f1oz",
+        "last_name": "Romero",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "2003-06-20",
+        "passport_number": "KU1034339",
+        "passport_mrz": [
+            "P<ESPSU\u00c1REZ<<ROMERO<MU\u00d1OZ<<<<<<<<<<<<<<<<<<<<",
+            "KU1034339ESP030620<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-01-19",
+        "passport_expiry_date": "2028-01-18"
+    },
+    "client_profile": {
+        "name": "Su\u00e1rez Mu\u00f1oz Romero",
+        "address": {
+            "city": "Steinbach am Attersee",
+            "street name": "Graben",
+            "street number": 21,
+            "postal code": "8758"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "2003-06-20",
+        "nationality": "Spanish",
+        "passport_number": "KU1034339",
+        "passport_issue_date": "2023-01-19",
+        "passport_expiry_date": "2028-01-18",
+        "gender": "M",
+        "phone_number": "321 383 3957",
+        "email_address": "suarez.romero@magenta.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Colegio La Inmaculada C\u00f3rdoba",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1080000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Italy",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Su\u00e1rez Mu\u00f1oz Romero",
+        "first_name": "Su\u00e1rez",
+        "middle_name": "Mu\u00f1oz",
+        "last_name": "Romero",
+        "passport_number": "KU1034339",
+        "currency": "EUR",
+        "address": {
+            "city": "Steinbach am Attersee",
+            "street name": "Graben",
+            "street number": 21,
+            "postal code": "8758"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "321 383 3957",
+        "email_address": "suarez.romero@magenta.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Su\u00e1rez Mu\u00f1oz Romero at a wine tasting event in Vienna. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nSu\u00e1rez Mu\u00f1oz Romero is a 21 year old and comes from Austria.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Su\u00e1rez Mu\u00f1oz Romero is currently single. He does not have any children.",
+        "Education Background": "Su\u00e1rez earned his secondary school diploma from Colegio La Inmaculada C\u00f3rdoba in 2021.\n",
+        "Occupation History": "Su\u00e1rez Mu\u00f1oz Romero is a 21 year old and comes from Austria.\nSu\u00e1rez Mu\u00f1oz Romero did not start his professional career yet.",
+        "Wealth Summary": "He did not have any savings to invest in financial markets.\nClient does not have any properties.He inherited 1080000 EUR from his grandmother, a well-known Private Equity Manager, in 2016, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

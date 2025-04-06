@@ -1,0 +1,138 @@
+{
+    "passport": {
+        "first_name": "Olivia",
+        "middle_name": "Ad\u00e8le",
+        "last_name": "Dupont",
+        "gender": "",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1977-08-19",
+        "passport_number": "GZ5774343",
+        "passport_mrz": [
+            "P<BELDUPONT<<OLIVIA<AD\u00c8LE<<<<<<<<<<<<<<<<<<<<",
+            "GZ5774343BEL770819<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-09-21",
+        "passport_expiry_date": "2027-09-20"
+    },
+    "client_profile": {
+        "name": "Olivia Ad\u00e8le Dupont",
+        "address": {
+            "city": "Aalst",
+            "street name": "Rue de la Croix-Rouge",
+            "street number": 68,
+            "postal code": "7853"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1977-08-19",
+        "nationality": "Belgian",
+        "passport_number": "GZ5774343",
+        "passport_issue_date": "2020-09-21",
+        "passport_expiry_date": "2027-09-20",
+        "gender": "F",
+        "phone_number": "+32 0493 383 144",
+        "email_address": "olivia.dupont@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Institut Saint-Joseph",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "Hasselt University",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2002,
+                "company": "ING Belgium SA/NV",
+                "position": "Family Office Manager",
+                "salary": 42000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2006,
+                "company": "ING Belgium SA/NV",
+                "position": "Investment Director",
+                "salary": 56000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2007,
+                "company": "ING Belgium SA/NV",
+                "position": "CFO",
+                "salary": 75000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "",
+                "position": "COO",
+                "salary": 661000
+            }
+        ],
+        "aum": {
+            "savings": 980000,
+            "inheritance": 660000,
+            "real_estate_value": 4439000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2014,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1369000,
+                "property location": "Aalst"
+            },
+            {
+                "property type": "villa",
+                "property value": 2160000,
+                "property location": "Tournai"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 910000,
+                "property location": "La Louvi\u00e8re"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Olivia Ad\u00e8le Dupont",
+        "first_name": "Olivia",
+        "middle_name": "Ad\u00e8le",
+        "last_name": "Dupont",
+        "passport_number": "GZ5774343",
+        "currency": "EUR",
+        "address": {
+            "city": "Aalst",
+            "street name": "Rue de la Croix-Rouge",
+            "street number": 68,
+            "postal code": "7853"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0493 383 144",
+        "email_address": "olivia.dupont@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Olivia Ad\u00e8le Dupont at a wine tasting event in Brussels. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nOlivia Ad\u00e8le Dupont is a seasoned professional with over 24 years of experience.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Olivia Ad\u00e8le Dupont is married to  Jacobs. They do not have any children.",
+        "Education Background": "In 1995, Olivia finished her secondary school education at Institut Saint-Joseph.\nOlivia pursued higher education at Hasselt University, graduating in 2002.\n",
+        "Occupation History": "With a career spanning nearly 24 years, Olivia Ad\u00e8le Dupont has established herself as a key player in the industry.\nOlivia Ad\u00e8le Dupont's first role was as a Family Office Manager at ING Belgium SA/NV, where she worked diligently from 2001 to 2002 to establish a strong reputation.\nIn 2003, she moved to ING Belgium SA/NV to work as a Investment Director, applying her knowledge to achieve outstanding performance.\nFrom 2006 to 2007, she served as a CFO at ING Belgium SA/NV, solidifying her position as a leader in the industry.\nShe worked as a COO at Belfius Bank SA from 2007 till now, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "While working, she saved 980000 EUR, which she used to build a diversified investment portfolio.\nShe owns townhouse in Aalst, where she resides. It is worth 1369000 EUR.\n\nShe purchased villa in Tournai, where she spends her holidays. It is valued at 2160000 EUR.\nMoreover, she has invested in additional property in La Louvi\u00e8re, giving possiblity for generating additional income. The townhouse is valued at 910000 EUR.\n\nIn 2014, she received an inheritance of 660000 EUR from her late grandfather, who was a prominent Hedge Fund Manager, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Olivia as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

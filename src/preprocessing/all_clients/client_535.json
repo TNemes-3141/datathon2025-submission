@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Piirainen",
+        "middle_name": "",
+        "last_name": "Tolvanen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1964-03-08",
+        "passport_number": "BJ3695840",
+        "passport_mrz": [
+            "P<FINTOLVANEN<<PIIRAINEN<<<<<<<<<<<<<<<<<<<<<",
+            "BJ3695840FIN640308<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-30",
+        "passport_expiry_date": "2029-05-29"
+    },
+    "client_profile": {
+        "name": "Piirainen Tolvanen",
+        "address": {
+            "city": "Vaasa",
+            "street name": "Tyynenmerenkatu",
+            "street number": 93,
+            "postal code": "75101"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1964-03-08",
+        "nationality": "Finnish",
+        "passport_number": "BJ3695840",
+        "passport_issue_date": "2019-05-30",
+        "passport_expiry_date": "2029-05-29",
+        "gender": "M",
+        "phone_number": "+358 044 486 37 96",
+        "email_address": "piirainen.tolvanen@saunalahti.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Pieks\u00e4m\u00e4ki lukio",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "Centria University of Applied Sciences",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1991,
+                "company": "St1 Oy",
+                "position": "Drilling Engineer",
+                "salary": 39000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1998,
+                "company": "Gasum Oy",
+                "position": "Reservoir Engineer",
+                "salary": 84000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2002,
+                "company": "St1 Oy",
+                "position": "Operations Manager",
+                "salary": 81000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2024,
+                "company": "St1 Oy",
+                "position": "VP of Exploration",
+                "salary": 642000
+            }
+        ],
+        "aum": {
+            "savings": 1070000,
+            "inheritance": 0,
+            "real_estate_value": 2570000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1810000,
+                "property location": "Vaasa"
+            },
+            {
+                "property type": "condo",
+                "property value": 760000,
+                "property location": "Helsinki"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Piirainen Tolvanen",
+        "first_name": "Piirainen",
+        "middle_name": "",
+        "last_name": "Tolvanen",
+        "passport_number": "BJ3695840",
+        "currency": "EUR",
+        "address": {
+            "city": "Vaasa",
+            "street name": "Tyynenmerenkatu",
+            "street number": 93,
+            "postal code": "75101"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 044 486 37 96",
+        "email_address": "piirainen.tolvanen@saunalahti.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Piirainen Tolvanen at a wine tasting event in Helsinki. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nPiirainen Tolvanen is a 61 year old retired VP of Exploration from Finland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Piirainen Tolvanen and Hanna tied the knot in 1996. They are proud parents of 3 children: Kristiina, Virtanen and Lehtinen.",
+        "Education Background": "Piirainen obtained his secondary school diploma from Pieks\u00e4m\u00e4ki lukio in 1982.\nPiirainen pursued higher education at Centria University of Applied Sciences, graduating in 1986.\n",
+        "Occupation History": "Piirainen Tolvanen is a seasoned professional with over 37 years of experience.\nIn 1988, Piirainen Tolvanen started working as a Drilling Engineer at St1 Oy, marking the beginning of his successful career.\nHis subsequent role was as a Reservoir Engineer at Gasum Oy, where he continued to grow professionally from 1993 to 1998.\nIn 2000, he joined St1 Oy as a Operations Manager, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHis next role was as a VP of Exploration at St1 Oy, where he applied his extensive experience to drive innovation from 2002 till retirement.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1070000 EUR.\nHe has villa located in Vaasa, worth 1810000 EUR.\n\nHe purchased condo in Helsinki, where he spends his holidays. It is valued at 760000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

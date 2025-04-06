@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Ackermann",
+        "middle_name": "Riedo",
+        "last_name": "Kuhn",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1970-09-15",
+        "passport_number": "TV5823842",
+        "passport_mrz": [
+            "P<CHEKUHN<<ACKERMANN<RIEDO<<<<<<<<<<<<<<<<<<<",
+            "TV5823842CHE700915<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-11-17",
+        "passport_expiry_date": "2031-11-16"
+    },
+    "client_profile": {
+        "name": "Ackermann Riedo Kuhn",
+        "address": {
+            "city": "Zurich",
+            "street name": "Gerberngasse",
+            "street number": 97,
+            "postal code": "1253"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1970-09-15",
+        "nationality": "Swiss",
+        "passport_number": "TV5823842",
+        "passport_issue_date": "2021-11-17",
+        "passport_expiry_date": "2031-11-16",
+        "gender": "M",
+        "phone_number": "077 815 95 34",
+        "email_address": "ackermann.kuhn@bluewin.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kantonsschule Liestal Basel-Landschaft",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "EPFL",
+                "graduation_year": 1993
+            },
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1995,
+                "company": "Microsoft Schweiz GmbH",
+                "position": "Software Developer",
+                "salary": 62000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "IBM Switzerland Ltd.",
+                "position": "Startup Founder",
+                "salary": 98000
+            },
+            {
+                "start_year": 1996,
+                "end_year": null,
+                "company": "Swisscom AG",
+                "position": "CEO",
+                "salary": 1203000
+            }
+        ],
+        "aum": {
+            "savings": 2010000,
+            "inheritance": 450000,
+            "real_estate_value": 3490000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2005,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 3490000,
+                "property location": "Zurich"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Ackermann Riedo Kuhn",
+        "first_name": "Ackermann",
+        "middle_name": "Riedo",
+        "last_name": "Kuhn",
+        "passport_number": "TV5823842",
+        "currency": "CHF",
+        "address": {
+            "city": "Zurich",
+            "street name": "Gerberngasse",
+            "street number": 97,
+            "postal code": "1253"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "077 815 95 34",
+        "email_address": "ackermann.kuhn@bluewin.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Ackermann Riedo Kuhn at a yacht party in Z\u00fcrich. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nAckermann Riedo Kuhn is a 54 year old and comes from Switzerland.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Ackermann Riedo Kuhn and Julia tied the knot in 2002. They do not have any children.",
+        "Education Background": "In 1990, Ackermann finished his secondary school education at Kantonsschule Liestal Basel-Landschaft.\nAckermann completed his university studies at EPFL in 1993.\nHe pursued addtionally further eduaction by attending Suffolk University in Geneva and graduating in 1999.\n",
+        "Occupation History": "Having worked for over 31 years, Ackermann Riedo Kuhn brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nIn 1994, Ackermann Riedo Kuhn started working as a Software Developer at Microsoft Schweiz GmbH, marking the beginning of his successful career.\nHis subsequent role was as a Startup Founder at IBM Switzerland Ltd., where he continued to grow professionally from 1995 to 1996.\nAt Swisscom AG, he worked as a CEO from 1996 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "He managed to save approximately 2010000 CHF from his earnings at all companies.\nHe has house located in Zurich, worth 3490000 CHF.\n\nHe inherited 450000 CHF from his father, a well-known Private Equity Manager, in 2005, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

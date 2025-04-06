@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "\u00d8stergaard",
+        "middle_name": "Petersen",
+        "last_name": "Gundersen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1957-12-30",
+        "passport_number": "WD6474048",
+        "passport_mrz": [
+            "P<DNKGUNDERSEN<<\u00d8STERGAARD<PETERSEN<<<<<<<<<<",
+            "WD6474048DNK571230<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-28",
+        "passport_expiry_date": "2029-09-27"
+    },
+    "client_profile": {
+        "name": "\u00d8stergaard Petersen Gundersen",
+        "address": {
+            "city": "Odense",
+            "street name": "Vestergade",
+            "street number": 32,
+            "postal code": "0253"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1957-12-30",
+        "nationality": "Danish",
+        "passport_number": "WD6474048",
+        "passport_issue_date": "2019-09-28",
+        "passport_expiry_date": "2029-09-27",
+        "gender": "M",
+        "phone_number": "33 80 36 46",
+        "email_address": "stergaard.gundersen@cybercity.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Herning Gymnasium",
+            "graduation_year": 1976
+        },
+        "higher_education": [
+            {
+                "university": "University of Southern Denmark - Faculty of Engineering",
+                "graduation_year": 1981
+            },
+            {
+                "university": "Technical University of Denmark (DTU)",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1986,
+                "company": " Zealand Pharma A/S",
+                "position": "Research Scientist",
+                "salary": 345000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 2018,
+                "company": "",
+                "position": "CRO",
+                "salary": 2396000
+            }
+        ],
+        "aum": {
+            "savings": 4200000,
+            "inheritance": 0,
+            "real_estate_value": 3015000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 830000,
+                "property location": "Odense"
+            },
+            {
+                "property type": "condo",
+                "property value": 925000,
+                "property location": "S\u00f8nderborg"
+            },
+            {
+                "property type": "condo",
+                "property value": 1260000,
+                "property location": "Skanderborg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "France"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "\u00d8stergaard Petersen Gundersen",
+        "first_name": "\u00d8stergaard",
+        "middle_name": "Petersen",
+        "last_name": "Kristensen",
+        "passport_number": "WD6474048",
+        "currency": "DKK",
+        "address": {
+            "city": "Odense",
+            "street name": "Vestergade",
+            "street number": 32,
+            "postal code": "0253"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "33 80 36 46",
+        "email_address": "stergaard.gundersen@cybercity.dk"
+    },
+    "client_description": {
+        "Summary Note": "\u00d8stergaard Petersen Gundersen and the RM are cousins, having grown up together in Copenhagen. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nWith a career spanning nearly 44 years, \u00d8stergaard Petersen Gundersen has established himself as a key player in the industry.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "\u00d8stergaard Petersen Gundersen has been happily married to Agnes since 1991. They do not have any children.",
+        "Education Background": "\u00d8stergaard graduated from Herning Gymnasium in 1976.\n\u00d8stergaard attended University of Southern Denmark - Faculty of Engineering and graduated in 1981.\nHe also pursued further higher education at Technical University of Denmark (DTU), graduating in 1986.\n",
+        "Occupation History": "With a career spanning nearly 44 years, \u00d8stergaard Petersen Gundersen has established himself as a key player in the industry.\n\u00d8stergaard Petersen Gundersen's first role was as a Research Scientist at  Zealand Pharma A/S, where he worked diligently from 1981 to 1986 to establish a strong reputation.\nHis subsequent role was as a Biotech Startup Founder at  Zealand Pharma A/S, where he continued to grow professionally from 1988 till retirement.\n",
+        "Wealth Summary": "While working, he saved 4200000 DKK, which he used to build a diversified investment portfolio.\nHe owns flat in Odense, where he resides. It is worth 830000 DKK.\n\nHe purchased condo in S\u00f8nderborg, where he spends his holidays. It is valued at 925000 DKK.\nOn top of that he inherited a beautiful condo in Skanderborg, which could be used as a weekend getaway. It is valued at 1260000 DKK.\nHe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

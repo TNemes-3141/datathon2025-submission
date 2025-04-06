@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Araceli",
+        "middle_name": "Valeria",
+        "last_name": "Romero",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1984-05-27",
+        "passport_number": "JI6173292",
+        "passport_mrz": [
+            "P<ESPROMERO<<VALERIA<ARACELI<<<<<<<<<<<<<<<<<",
+            "JI6173292ESP840527<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-09-22",
+        "passport_expiry_date": "2034-09-21"
+    },
+    "client_profile": {
+        "name": "Araceli Valeria Romero",
+        "address": {
+            "city": "Las Palmas de Gran Canaria",
+            "street name": "Puerta del Sol",
+            "street number": 64,
+            "postal code": "21436"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1984-05-27",
+        "nationality": "Spanish",
+        "passport_number": "JI6173292",
+        "passport_issue_date": "2024-09-22",
+        "passport_expiry_date": "2034-09-21",
+        "gender": "F",
+        "phone_number": "+34 605 963 926",
+        "email_address": "araceli.romero@wanadoo.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Vicente Aleixandre Santander",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "Pompeu Fabra University",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2009,
+                "company": "Fidelity International (Spain)",
+                "position": "Stockbroker",
+                "salary": 28000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2013,
+                "company": "The Vanguard Group Inc.",
+                "position": "Portfolio Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Fidelity International (Spain)",
+                "position": "Hedge Fund Manager",
+                "salary": 96000
+            }
+        ],
+        "aum": {
+            "savings": 120000,
+            "inheritance": 5930000,
+            "real_estate_value": 1810000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1020000,
+                "property location": "Las Palmas de Gran Canaria"
+            },
+            {
+                "property type": "flat",
+                "property value": 790000,
+                "property location": "Cuenca"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Araceli Valeria Romero",
+        "first_name": "Araceli",
+        "middle_name": "Valeria",
+        "last_name": "Romero",
+        "passport_number": "JI6173292",
+        "currency": "EUR",
+        "address": {
+            "city": "Las Palmas de Gran Canaria",
+            "street name": "Puerta del Sol",
+            "street number": 64,
+            "postal code": "21436"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 605 963 926",
+        "email_address": "araceli.romero@wanadoo.es"
+    },
+    "client_description": {
+        "Summary Note": "Araceli Valeria Romero and the RM crossed paths at a tech conference in Madrid. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nAraceli Valeria Romero is a 40 year old Hedge Fund Manager from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Araceli Valeria Romero has been happily married to Navarro since 2017. Together they have 2 kids called L\u00f3pez and Angela.",
+        "Education Background": "In 2003, Araceli graduated from IES Vicente Aleixandre Santander with a secondary school diploma.\nAraceli finished her studies at Pompeu Fabra University in 2008.\n",
+        "Occupation History": "With a career spanning nearly 17 years, Araceli Valeria Romero has established herself as a key player in the industry.\nIn 2008, Araceli Valeria Romero started working as a Stockbroker at Fidelity International (Spain), marking the beginning of her successful career.\nHer subsequent role was as a Portfolio Manager at The Vanguard Group Inc., where she continued to grow professionally from 2009 to 2013.\nAt Fidelity International (Spain), she worked as a Hedge Fund Manager from 2015 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, she saved 120000 EUR, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Cuenca and Las Palmas de Gran Canaria, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe inherited 5930000 EUR from her grandmother, a well-known Oil and Gas Executive, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

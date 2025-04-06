@@ -1,0 +1,112 @@
+{
+    "passport": {
+        "first_name": "Sof\u00eda",
+        "middle_name": "D\u00e1cil",
+        "last_name": "G\u00f3mez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1991-02-17",
+        "passport_number": "XF0434769",
+        "passport_mrz": [
+            "P<ESPG\u00d3MEZ<<SOF\u00cdA<D\u00c1CIL<<<<<<<<<<<<<<<<<<<<<<",
+            "XF0434769ESP910217<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-05-11",
+        "passport_expiry_date": "2030-05-10"
+    },
+    "client_profile": {
+        "name": "Sof\u00eda D\u00e1cil G\u00f3mez",
+        "address": {
+            "city": "Jerez de la Frontera",
+            "street name": "Calle de Serranos",
+            "street number": 33,
+            "postal code": "93426"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1991-02-17",
+        "nationality": "Spanish",
+        "passport_number": "XF0434769",
+        "passport_issue_date": "2020-05-11",
+        "passport_expiry_date": "2030-05-10",
+        "gender": "F",
+        "phone_number": "672 911 432",
+        "email_address": "sofia.gomez@vodafone.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Instituto de Bachillerato Art\u00edstico IES Reina Sofia Tenerife",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "University of Seville",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "CaixaBank S.A.",
+                "position": "Family Office Manager",
+                "salary": 23000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 2710000,
+            "real_estate_value": 2190000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1440000,
+                "property location": "Jerez de la Frontera"
+            },
+            {
+                "property type": "flat",
+                "property value": 750000,
+                "property location": "Gij\u00f3n"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sof\u00eda D\u00e1cil G\u00f3mez",
+        "first_name": "Sof\u00eda",
+        "middle_name": "D\u00e1cil",
+        "last_name": "G\u00f3mez",
+        "passport_number": "XF0434769",
+        "currency": "EUR",
+        "address": {
+            "city": "Jerez de la Frontera",
+            "street name": "Calle de Serranos",
+            "street number": 33,
+            "postal code": "93426"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "672 911 432",
+        "email_address": "sofia.gomez@vodafone.es"
+    },
+    "client_description": {
+        "Summary Note": "Sof\u00eda D\u00e1cil G\u00f3mez and the RM were introduced at a gourmet food festival in Madrid. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nSof\u00eda D\u00e1cil G\u00f3mez is a 34 year old Family Office Manager from Spain.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Sof\u00eda D\u00e1cil G\u00f3mez and D\u00edaz tied the knot in 2025. They do not have any children.",
+        "Education Background": "Sof\u00eda completed her secondary education at Instituto de Bachillerato Art\u00edstico IES Reina Sofia Tenerife in 2010.\nSof\u00eda completed her university studies at University of Seville in 2013.\n",
+        "Occupation History": "Sof\u00eda D\u00e1cil G\u00f3mez is a 34 year old and comes from Spain.\nAt CaixaBank S.A., Sof\u00eda D\u00e1cil G\u00f3mez held the position of Family Office Manager from 2015 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 30000 EUR.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Jerez de la Frontera and Gij\u00f3n, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of her grandmother, a successful Corporate Lawyer, she received an inheritance of 2710000 EUR in 2017, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

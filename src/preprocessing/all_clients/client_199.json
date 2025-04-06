@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Hanna",
+        "middle_name": "Henriette",
+        "last_name": "Fischer",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1964-05-07",
+        "passport_number": "JC2338579",
+        "passport_mrz": [
+            "P<DEUFISCHER<<HANNA<HENRIETTE<<<<<<<<<<<<<<<<",
+            "JC2338579DEU640507<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-09-12",
+        "passport_expiry_date": "2027-09-11"
+    },
+    "client_profile": {
+        "name": "Hanna Henriette Fischer",
+        "address": {
+            "city": "Braunschweig",
+            "street name": "Europa-Center",
+            "street number": 99,
+            "postal code": "18085"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1964-05-07",
+        "nationality": "German",
+        "passport_number": "JC2338579",
+        "passport_issue_date": "2017-09-12",
+        "passport_expiry_date": "2027-09-11",
+        "gender": "F",
+        "phone_number": "9368 293996",
+        "email_address": "hanna.fischer@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Heisenberg-Gymnasium L\u00fcneburg",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "Bucerius Law School",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1992,
+                "company": "Deutsche Bank AG",
+                "position": "Family Office Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1994,
+                "company": "Dresdner Bank AG",
+                "position": "Investment Director",
+                "salary": 60000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "Dresdner Bank AG",
+                "position": "CFO",
+                "salary": 87000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2001,
+                "company": "Berliner Sparkasse",
+                "position": "COO",
+                "salary": 162000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2025,
+                "company": "Deutsche Bank AG",
+                "position": "CEO",
+                "salary": 970000
+            }
+        ],
+        "aum": {
+            "savings": 1530000,
+            "inheritance": 780000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2012,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "PPT"
+    },
+    "account_form": {
+        "name": "Hanna Henriette Fischer",
+        "first_name": "Henriette",
+        "middle_name": "Hanna",
+        "last_name": "Fischer",
+        "passport_number": "JC2338579",
+        "currency": "EUR",
+        "address": {
+            "city": "",
+            "street name": "Europa-Center",
+            "street number": 99,
+            "postal code": "18085"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "9368 293996",
+        "email_address": "hanna.fischer@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Hanna Henriette Fischer's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nHanna Henriette Fischer is a seasoned professional with over 37 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Hanna Henriette Fischer and M\u00fcller have been married since 1990. Hanna and M\u00fcller have 1 child, named Becker.",
+        "Education Background": "Hanna graduated from Heisenberg-Gymnasium L\u00fcneburg in 1982.\nShe then attended Bucerius Law School, which she graduated in 1988.\n",
+        "Occupation History": "Hanna Henriette Fischer is a 60 year old retired CEO from Germany.\nHanna Henriette Fischer's first role was as a Family Office Manager at Deutsche Bank AG, where she worked diligently from 1988 to 1992 to establish a strong reputation.\nShe then transitioned to Dresdner Bank AG as a Investment Director, leveraging her expertise to drive results from 1992 to 1994.\nFrom 1995 to 1996, she served as a CFO at Dresdner Bank AG, solidifying her position as a leader in the industry.\nShe appointment as a COO at Berliner Sparkasse in 1998 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\nBefore retiring, Hanna Henriette Fischer worked as a CEO at Deutsche Bank AG from 2003 to 2025.",
+        "Wealth Summary": "While working, she saved 1530000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.She inherited 780000 EUR from her father, a well-known Real Estate Developer, in 2012, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Hanna has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

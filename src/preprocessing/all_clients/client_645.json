@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Lykke",
+        "middle_name": "M\u00f8ller",
+        "last_name": "Kristensen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1974-07-12",
+        "passport_number": "NA9393456",
+        "passport_mrz": [
+            "P<DNKKRISTENSEN<<LYKKE<M\u00d8LLER<<<<<<<<<<<<<<<<",
+            "NA9393456DNK740712<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-07-02",
+        "passport_expiry_date": "2027-07-01"
+    },
+    "client_profile": {
+        "name": "Lykke M\u00f8ller Kristensen",
+        "address": {
+            "city": "Lugano",
+            "street name": "Kirchgasse",
+            "street number": 50,
+            "postal code": "8946"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1974-07-12",
+        "nationality": "Danish",
+        "passport_number": "NA9393456",
+        "passport_issue_date": "2017-07-02",
+        "passport_expiry_date": "2027-07-01",
+        "gender": "M",
+        "phone_number": "+41 088 691 59 33",
+        "email_address": "lykke.kristensen@swissonline.ch",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Middelfart Gymnasium",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "University College Lilleb\u00e6lt",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 1999,
+                "company": "Partners Group Holding AG",
+                "position": "Analyst",
+                "salary": 265000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2002,
+                "company": "Capvis Equity Partners AG",
+                "position": "Associate",
+                "salary": 371000
+            },
+            {
+                "start_year": 2004,
+                "end_year": null,
+                "company": "Invision Private Equity AG",
+                "position": "Investment Director",
+                "salary": 2613000
+            }
+        ],
+        "aum": {
+            "savings": 4310000,
+            "inheritance": 260000,
+            "real_estate_value": 1680000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2012,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1680000,
+                "property location": "Lugano"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Denmark"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Lykke M\u00f8ller Kristensen",
+        "first_name": "Lykke",
+        "middle_name": "M\u00f8ller",
+        "last_name": "Kristensen",
+        "passport_number": "NA9393456",
+        "currency": "CHF",
+        "address": {
+            "city": "Lugano",
+            "street name": "Kirchgasse",
+            "street number": 50,
+            "postal code": "8946"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 088 691 59 33",
+        "email_address": "lykke.kristensen@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Lykke M\u00f8ller Kristensen at a yacht party in Z\u00fcrich. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nLykke M\u00f8ller Kristensen is a 50 year old Investment Director from Switzerland.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Lykke M\u00f8ller Kristensen is currently widowed. He does not have any children.",
+        "Education Background": "Lykke earned his secondary school diploma from Middelfart Gymnasium in 1992.\nLykke finished his studies at University College Lilleb\u00e6lt in 1999.\n",
+        "Occupation History": "Having worked for over 27 years, Lykke M\u00f8ller Kristensen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nIn 1998, Lykke M\u00f8ller Kristensen started working as a Analyst at Partners Group Holding AG, marking the beginning of his successful career.\nHe then transitioned to Capvis Equity Partners AG as a Associate, leveraging his expertise to drive results from 2000 to 2002.\nHe spent 21 years working as a Investment Director at Invision Private Equity AG, refining his expertise and building a strong network.\n",
+        "Wealth Summary": "Throughout his career, he saved 4310000 CHF, investing in various assets to grow his wealth.\nHe owns flat in Lugano, where he resides. It is worth 1680000 CHF.\n\nHe inherited a significant sum of 260000 CHF from his grandmother, a respected Private Equity Manager, in 2012, which he has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

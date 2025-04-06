@@ -1,0 +1,107 @@
+{
+    "passport": {
+        "first_name": "Clara",
+        "middle_name": "Luc\u00eda",
+        "last_name": "Castro",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1990-05-11",
+        "passport_number": "SD4310572",
+        "passport_mrz": [
+            "P<ESPCASTRO<<CLARA<LUC\u00cdA<<<<<<<<<<<<<<<<<<<<<",
+            "SD4310572ESP900511<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-10-25",
+        "passport_expiry_date": "2027-10-24"
+    },
+    "client_profile": {
+        "name": "Clara Luc\u00eda Castro",
+        "address": {
+            "city": "Logro\u00f1o",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 80,
+            "postal code": "47508"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1990-05-11",
+        "nationality": "Spanish",
+        "passport_number": "SD4310572",
+        "passport_issue_date": "2017-10-25",
+        "passport_expiry_date": "2027-10-24",
+        "gender": "F",
+        "phone_number": "604 298 751",
+        "email_address": "clara.castro@yahoo.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Jorge Guill\u00e9n Salamanca",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "Universidad Comercial de Deusto",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "CaixaBank S.A.",
+                "position": "Financial Advisor",
+                "salary": 31000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 6890000,
+            "real_estate_value": 710000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 710000,
+                "property location": "Logro\u00f1o"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Clara Luc\u00eda Castro",
+        "first_name": "Clara",
+        "middle_name": "Luc\u00eda",
+        "last_name": "Castro",
+        "passport_number": "SD4310572",
+        "currency": "EUR",
+        "address": {
+            "city": "Logro\u00f1o",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 80,
+            "postal code": "47508"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "604 298 751",
+        "email_address": "clara.castro@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Clara Luc\u00eda Castro and the RM are cousins, having grown up together in Madrid. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nClara Luc\u00eda Castro is a 34 year old Financial Advisor from Spain.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Clara Luc\u00eda Castro is currently divorced. She has 1 kid called Ruiz.",
+        "Education Background": "Clara received her secondary school diploma from IES Jorge Guill\u00e9n Salamanca in 2010.\nClara earned her degree from Universidad Comercial de Deusto in 2015.\n",
+        "Occupation History": "Clara Luc\u00eda Castro is a 34 year old and comes from Spain.\nAt CaixaBank S.A., Clara Luc\u00eda Castro held the position of Financial Advisor from 2015 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "While working, she saved 30000 EUR, which she used to build a diversified investment portfolio.\nShe has flat located in Logro\u00f1o, worth 710000 EUR.\n\nIn 2019, she received an inheritance of 6890000 EUR from her late grandfather, who was a prominent Neurosurgeon, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Clara as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

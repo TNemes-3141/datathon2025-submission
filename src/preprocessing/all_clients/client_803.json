@@ -1,0 +1,103 @@
+{
+    "passport": {
+        "first_name": "Sofia",
+        "middle_name": "Eva",
+        "last_name": "Bjerregaard",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1997-04-18",
+        "passport_number": "CZ1986044",
+        "passport_mrz": [
+            "P<DNKBJERREGAARD<<SOFIA<EVA<<<<<<<<<<<<<<<<<<",
+            "CZ1986044DNK970418<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-11-21",
+        "passport_expiry_date": "2033-11-20"
+    },
+    "client_profile": {
+        "name": "Sofia Eva Bjerregaard",
+        "address": {
+            "city": "Ancona",
+            "street name": "Via dei Tribunali",
+            "street number": 48,
+            "postal code": "57516"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1997-04-18",
+        "nationality": "Danish",
+        "passport_number": "CZ1986044",
+        "passport_issue_date": "2023-11-21",
+        "passport_expiry_date": "2033-11-20",
+        "gender": "F",
+        "phone_number": "+39 301 9747908",
+        "email_address": "sofia.bjerregaard@tiscali.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "\u00c5lborg Katedralskole",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "University College Lilleb\u00e6lt",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "Research Scientist",
+                "salary": 273000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 2580000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Italy",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sofia Eva Bjerregaard",
+        "first_name": "Sofia",
+        "middle_name": "Eva",
+        "last_name": "Bjerregaard",
+        "passport_number": "CZ1986044",
+        "currency": "EUR",
+        "address": {
+            "city": "Ancona",
+            "street name": "Via dei Tribunali",
+            "street number": 48,
+            "postal code": "57516"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 301 9747908",
+        "email_address": "sofia.bjerregaard@tiscali.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Sofia Eva Bjerregaard since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nSofia Eva Bjerregaard is a 27 year old and comes from Italy.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Sofia Eva Bjerregaard and J\u00f8rgensen have been married since 2024. They do not have any children.",
+        "Education Background": "Sofia finished secondary school at \u00c5lborg Katedralskole in 2015.\nSofia completed her university education at University College Lilleb\u00e6lt in 2022.\n",
+        "Occupation History": "Sofia Eva Bjerregaard is a 27 year old Research Scientist from Italy.\nSofia Eva Bjerregaard's first role was as a Research Scientist at Menarini Industrie Farmaceutiche Riunite S.r.l., where she worked diligently from 2022 till now to establish a strong reputation.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 110000 EUR.\nClient does not have any properties.\nFollowing the passing of her grandmother, a successful Tech Entrepreneur, she received an inheritance of 2580000 EUR in 2019, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

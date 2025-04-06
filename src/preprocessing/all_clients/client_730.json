@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Goossens",
+        "middle_name": "Lemaire",
+        "last_name": "Thiry",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1999-09-18",
+        "passport_number": "YU6756588",
+        "passport_mrz": [
+            "P<BELTHIRY<<GOOSSENS<LEMAIRE<<<<<<<<<<<<<<<<<",
+            "YU6756588BEL990918<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-26",
+        "passport_expiry_date": "2026-08-25"
+    },
+    "client_profile": {
+        "name": "Goossens Lemaire Thiry",
+        "address": {
+            "city": "Ghent",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": 96,
+            "postal code": "4297"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1999-09-18",
+        "nationality": "Belgian",
+        "passport_number": "YU6756588",
+        "passport_issue_date": "2019-08-26",
+        "passport_expiry_date": "2026-08-25",
+        "gender": "M",
+        "phone_number": "+32 0445 596 108",
+        "email_address": "goossens.thiry@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut Saint-Stanislas",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Universit\u00e9 catholique de Louvain",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "UCB Pharma SA",
+                "position": "Research Scientist",
+                "salary": 35000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2880000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Goossens Lemaire Thiry",
+        "first_name": "Goossens",
+        "middle_name": "Lemaire",
+        "last_name": "Thiry",
+        "passport_number": "YU6756588",
+        "currency": "EUR",
+        "address": {
+            "city": "Ghent",
+            "street name": "Rue des S\u0153urs Noires",
+            "street number": 96,
+            "postal code": "4297"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0445 596 108",
+        "email_address": "goossens.thiry@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Goossens Lemaire Thiry and the RM met at a networking event in Brussels. They quickly realized they had complementary skills and decided to collaborate on several projects.\nGoossens Lemaire Thiry is a 25 year old and comes from Belgium.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Goossens Lemaire Thiry is currently single. He does not have any children.",
+        "Education Background": "In 2019, Goossens graduated from Institut Saint-Stanislas with a secondary school diploma.\nGoossens finished his studies at Universit\u00e9 catholique de Louvain in 2023.\n",
+        "Occupation History": "Goossens Lemaire Thiry is a 25 year old and comes from Belgium.\nGoossens Lemaire Thiry began his professional journey as a Research Scientist at UCB Pharma SA in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "Throughout his career, he saved 10000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.He inherited 2880000 EUR from his grandfather, a well-known Corporate Lawyer, in 2017, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

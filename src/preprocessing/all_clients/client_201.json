@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Verhoeven",
+        "middle_name": "",
+        "last_name": "Vogel",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "N",
+        "nationality": "Dutch",
+        "birth_date": "1972-07-18",
+        "passport_number": "LN2936978",
+        "passport_mrz": [
+            "P<NLDVOGEL<<VERHOEVEN<<<<<<<<<<<<<<<<<<<<<<<<",
+            "LN2936978NLD720718<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-03",
+        "passport_expiry_date": "2033-02-02"
+    },
+    "client_profile": {
+        "name": "Verhoeven Vogel",
+        "address": {
+            "city": "Gij\u00f3n",
+            "street name": "Gran V\u00eda",
+            "street number": 96,
+            "postal code": "81427"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1972-07-18",
+        "nationality": "Dutch",
+        "passport_number": "LN2936978",
+        "passport_issue_date": "2023-02-03",
+        "passport_expiry_date": "2033-02-02",
+        "gender": "M",
+        "phone_number": "+34 617 603 936",
+        "email_address": "verhoeven.vogel@yahoo.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Stedelijk Gymnasium Arnhem",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "TNO - Netherlands Organisation for Applied Scientific Research",
+                "graduation_year": 1996
+            },
+            {
+                "university": "Leiden University",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 2000,
+                "company": "Almirall S.A.",
+                "position": "Research Scientist",
+                "salary": 41000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2004,
+                "company": "Laboratorios Farmac\u00e9uticos ROVI S.A.",
+                "position": "Clinical Trials Manager",
+                "salary": 62000
+            },
+            {
+                "start_year": 2005,
+                "end_year": null,
+                "company": "Almirall S.A.",
+                "position": "Regulatory Affairs Director",
+                "salary": 534000
+            }
+        ],
+        "aum": {
+            "savings": 850000,
+            "inheritance": 970000,
+            "real_estate_value": 970000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2006,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 970000,
+                "property location": "Gij\u00f3n"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Netherlands",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Verhoeven Vogel",
+        "first_name": "Verhoeven",
+        "middle_name": "",
+        "last_name": "Vogel",
+        "passport_number": "LN2936978",
+        "currency": "EUR",
+        "address": {
+            "city": "Gij\u00f3n",
+            "street name": "Gran V\u00eda",
+            "street number": 96,
+            "postal code": "81427"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 617 603 936",
+        "email_address": "verhoeven.vogel@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Verhoeven Vogel and the RM met at a financial seminar in Madrid. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nVerhoeven Vogel is a 52 year old and comes from Spain.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Verhoeven Vogel is currently widowed. He does not have any children.",
+        "Education Background": "Verhoeven completed his secondary education at Stedelijk Gymnasium Arnhem in 1992.\nVerhoeven completed his university education at TNO - Netherlands Organisation for Applied Scientific Research in 1996.\nHe pursued addtionally further eduaction by attending Leiden University and graduating in 2000.\n",
+        "Occupation History": "Verhoeven Vogel is a 52 year old Regulatory Affairs Director from Spain. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Almirall S.A., Verhoeven Vogel held the position of Research Scientist from 1996 to 2000, developing essential skills in the field.\nHis subsequent role was as a Clinical Trials Manager at Laboratorios Farmac\u00e9uticos ROVI S.A., where he continued to grow professionally from 2001 to 2004.\nAt Almirall S.A., he worked as a Regulatory Affairs Director from 2005 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, he saved 850000 EUR, which he used to build a diversified investment portfolio.\nHe owns flat in Gij\u00f3n, where he resides. It is worth 970000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 970000 EUR from his late father, a renowned Tech Entrepreneur, in 2006.\n",
+        "Client Summary": "In summary, Verhoeven has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

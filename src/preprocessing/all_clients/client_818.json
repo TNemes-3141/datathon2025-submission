@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Ackermann",
+        "middle_name": "Egli",
+        "last_name": "Burkart",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1997-08-19",
+        "passport_number": "CK0679421",
+        "passport_mrz": [
+            "P<CHEBURKART<<ACKERMANN<EGLI<<<<<<<<<<<<<<<<<",
+            "CK0679421CHE970819<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-09-19",
+        "passport_expiry_date": "2028-09-18"
+    },
+    "client_profile": {
+        "name": "Ackermann Egli Burkart",
+        "address": {
+            "city": "Baden",
+            "street name": "M\u00fcnstergasse",
+            "street number": 10,
+            "postal code": "1643"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1997-08-19",
+        "nationality": "Swiss",
+        "passport_number": "CK0679421",
+        "passport_issue_date": "2018-09-19",
+        "passport_expiry_date": "2028-09-18",
+        "gender": "M",
+        "phone_number": "+41 084 522 81 99",
+        "email_address": "ackermann.burkart@sunrise.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Gymnasium K\u00f6niz Bern",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Geneva Business School",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Mediterranean Shipping Company (MSC) SA",
+                "position": "Ship Broker",
+                "salary": 64000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 1910000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Denmark"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Ackermann Egli Burkart",
+        "first_name": "Ackermann",
+        "middle_name": "Egli",
+        "last_name": "Burkart",
+        "passport_number": "CK0679421",
+        "currency": "CHF",
+        "address": {
+            "city": "Baden",
+            "street name": "M\u00fcnstergasse",
+            "street number": 10,
+            "postal code": "1643"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 084 522 81 99",
+        "email_address": "ackermann.burkart@sunrise.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Ackermann Egli Burkart at a luxury car show in Z\u00fcrich. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nAckermann Egli Burkart is a 27 year old and comes from Switzerland.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Ackermann Egli Burkart is currently single. He does not have any children.",
+        "Education Background": "Ackermann completed his secondary education at Gymnasium K\u00f6niz Bern in 2016.\nHe then attended Geneva Business School, which he graduated in 2022.\n",
+        "Occupation History": "Ackermann Egli Burkart is a 27 year old and comes from Switzerland.\nAt Mediterranean Shipping Company (MSC) SA, Ackermann Egli Burkart held the position of Ship Broker from 2022 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "Throughout his career, he saved 30000 CHF, investing in various assets to grow his wealth.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1910000 CHF from his late grandmother, a renowned Hedge Fund Manager, in 2020.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

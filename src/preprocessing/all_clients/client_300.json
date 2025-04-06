@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Maier",
+        "middle_name": "",
+        "last_name": "Meier",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1964-04-01",
+        "passport_number": "HF3223562",
+        "passport_mrz": [
+            "P<DEUMEIER<<MAIER<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "HF3223562DEU640401<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-10-12",
+        "passport_expiry_date": "2031-10-11"
+    },
+    "client_profile": {
+        "name": "Maier Meier",
+        "address": {
+            "city": "Hanover",
+            "street name": "Bahnhofsplatz",
+            "street number": 56,
+            "postal code": "68006"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1964-04-01",
+        "nationality": "German",
+        "passport_number": "HF3223562",
+        "passport_issue_date": "2021-10-12",
+        "passport_expiry_date": "2031-10-11",
+        "gender": "M",
+        "phone_number": "",
+        "email_address": "maier.meier@yahoo.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Otto-Hahn-Gymnasium Karlsruhe",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "Ludwigsburg University of Education",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1992,
+                "company": "Hilton Worldwide Deutschland GmbH",
+                "position": "Hotel Manager",
+                "salary": 50000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1996,
+                "company": "Hilton Worldwide Deutschland GmbH",
+                "position": "General Manager",
+                "salary": 57000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 1999,
+                "company": "Marriott International GmbH",
+                "position": "Regional Vice President",
+                "salary": 92000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2024,
+                "company": "Accor Hotels Deutschland GmbH",
+                "position": "CEO",
+                "salary": 1119000
+            }
+        ],
+        "aum": {
+            "savings": 2080000,
+            "inheritance": 0,
+            "real_estate_value": 2030000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1040000,
+                "property location": "Hanover"
+            },
+            {
+                "property type": "flat",
+                "property value": 990000,
+                "property location": "Stuttgart"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Maier Meier",
+        "first_name": "Maier",
+        "middle_name": "",
+        "last_name": "Meier",
+        "passport_number": "HF3223562",
+        "currency": "EUR",
+        "address": {
+            "city": "Hanover",
+            "street name": "Bahnhofsplatz",
+            "street number": 56,
+            "postal code": "68006"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 9510 0372741",
+        "email_address": "maier.meier@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Maier Meier during a business conference in Berlin. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nMaier Meier is a 61 year old retired CEO from Germany.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Maier Meier is currently widowed. He does not have any children.",
+        "Education Background": "Maier finished secondary school at Otto-Hahn-Gymnasium Karlsruhe in 1982.\nMaier finished his studies at Ludwigsburg University of Education in 1986.\n",
+        "Occupation History": "With a career spanning nearly 38 years, Maier Meier has established himself as a key player in the industry.\nIn 1987, Maier Meier started working as a Hotel Manager at Hilton Worldwide Deutschland GmbH, marking the beginning of his successful career.\nHe then transitioned to Hilton Worldwide Deutschland GmbH as a General Manager, leveraging his expertise to drive results from 1993 to 1996.\nIn 1998, he joined Marriott International GmbH as a Regional Vice President, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nIn 2000, he transitioned to Accor Hotels Deutschland GmbH to take on the position of CEO, capitalizing on his expertise to propel business growth.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 2080000 EUR.\nHe owns flat in Hanover, where he resides. It is worth 1040000 EUR.\n\nHe purchased flat in Stuttgart, where he spends his holidays. It is valued at 990000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

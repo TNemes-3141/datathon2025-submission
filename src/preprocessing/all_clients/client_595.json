@@ -1,0 +1,117 @@
+{
+    "passport": {
+        "first_name": "Lena",
+        "middle_name": "Petra",
+        "last_name": "Hinterleitner",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1973-05-31",
+        "passport_number": "JL9041621",
+        "passport_mrz": [
+            "P<AUTHINTERLEITNER<<LENA<PETRA<<<<<<<<<<<<<<<",
+            "JL9041621AUT730531<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-10-20",
+        "passport_expiry_date": "2034-10-19"
+    },
+    "client_profile": {
+        "name": "Lena Petra Hinterleitner",
+        "address": {
+            "city": "Bregenz",
+            "street name": "Leopoldstra\u00dfe",
+            "street number": 25,
+            "postal code": "9467"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1973-05-31",
+        "nationality": "Austrian",
+        "passport_number": "JL9041621",
+        "passport_issue_date": "2024-10-20",
+        "passport_expiry_date": "2034-10-19",
+        "gender": "F",
+        "phone_number": "+43 299 916 1975",
+        "email_address": "lena.hinterleitner@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Theresianum",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "University of Vienna",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 2002,
+                "company": "Krone Multimedia GmbH & Co KG",
+                "position": "Journalist",
+                "salary": 41000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2004,
+                "company": "ORF (Austrian Broadcasting Corporation)",
+                "position": "Editor",
+                "salary": 49000
+            },
+            {
+                "start_year": 2006,
+                "end_year": null,
+                "company": "Krone Multimedia GmbH & Co KG",
+                "position": "Publisher",
+                "salary": 405000
+            }
+        ],
+        "aum": {
+            "savings": 680000,
+            "inheritance": 0,
+            "real_estate_value": 950000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 950000,
+                "property location": "Bregenz"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lena Petra Hinterleitner",
+        "first_name": "Lena",
+        "middle_name": "Petra",
+        "last_name": "Hinterleitner",
+        "passport_number": "JL9041621",
+        "currency": "EUR",
+        "address": {
+            "city": "Bregenz",
+            "street name": "Leopoldstra\u00dfe",
+            "street number": 25,
+            "postal code": "9467"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 299 916 1975",
+        "email_address": "lena.hinterleitner@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Lena Petra Hinterleitner and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nWith a career spanning nearly 28 years, Lena Petra Hinterleitner has established herself as a key player in the industry.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Lena Petra Hinterleitner and Rieder have been married since 2003. They are proud parents of 1 child: Brandstetter.",
+        "Education Background": "Lena finished secondary school at Theresianum in 1993.\nLena graduated from University of Vienna in 1998, completing her higher education.\n",
+        "Occupation History": "Lena Petra Hinterleitner is a 51 year old Publisher from Austria. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 1997, Lena Petra Hinterleitner started working as a Journalist at Krone Multimedia GmbH & Co KG, marking the beginning of her successful career.\nAfter gaining experience, she took on the role of Editor at ORF (Austrian Broadcasting Corporation) in 2003, further expanding her skill set.\nFrom 2006 till now, she served as a Publisher at Krone Multimedia GmbH & Co KG, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "While working, she saved 680000 EUR, which she used to build a diversified investment portfolio.\nShe has townhouse located in Bregenz, worth 950000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

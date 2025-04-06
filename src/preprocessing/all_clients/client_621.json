@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Salo",
+        "middle_name": "Turunen",
+        "last_name": "Peltola",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1995-06-21",
+        "passport_number": "HR4572803",
+        "passport_mrz": [
+            "P<FINPELTOLA<<SALO<TURUNEN<<<<<<<<<<<<<<<<<<<",
+            "HR4572803FIN950621<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-05-28",
+        "passport_expiry_date": "2027-05-27"
+    },
+    "client_profile": {
+        "name": "Salo Turunen Peltola",
+        "address": {
+            "city": "Porvoo",
+            "street name": "Tehtaankatu",
+            "street number": 41,
+            "postal code": "47196"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1995-06-21",
+        "nationality": "Finnish",
+        "passport_number": "HR4572803",
+        "passport_issue_date": "2017-05-28",
+        "passport_expiry_date": "2027-05-27",
+        "gender": "M",
+        "phone_number": "047 251 07 40",
+        "email_address": "salo.peltola@telia.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Ilomantsin lukio",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "\u00c5bo Akademi University School of Economics",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Danske Bank Wealth Management",
+                "position": "Financial Advisor",
+                "salary": 45000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 1850000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Salo Turunen Peltola",
+        "first_name": "Salo",
+        "middle_name": "Turunen",
+        "last_name": "Peltola",
+        "passport_number": "HR4572803",
+        "currency": "EUR",
+        "address": {
+            "city": "Porvoo",
+            "street name": "Tehtaankatu",
+            "street number": 41,
+            "postal code": "47196"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "047 251 07 40",
+        "email_address": "salo.peltola@telia.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Salo Turunen Peltola on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nSalo Turunen Peltola is a 29 year old and comes from Finland.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Salo Turunen Peltola has been happily married to Emilia since 2024. They do not have any children.",
+        "Education Background": "In 2015, Salo finished his secondary school education at Ilomantsin lukio.\nSalo pursued higher education at \u00c5bo Akademi University School of Economics, graduating in 2018.\n",
+        "Occupation History": "Salo Turunen Peltola is a 29 year old Financial Advisor from Finland.\nSalo Turunen Peltola's first role was as a Financial Advisor at Danske Bank Wealth Management, where he worked diligently from 2019 till now to establish a strong reputation.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 30000 EUR.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1850000 EUR from his late grandfather, a renowned Oil and Gas Executive, in 2017.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

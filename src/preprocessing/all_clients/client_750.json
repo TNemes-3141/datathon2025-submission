@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Ingrid",
+        "middle_name": "Chlo\u00e9",
+        "last_name": "Legrand",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1987-01-10",
+        "passport_number": "DZ7700791",
+        "passport_mrz": [
+            "P<FRALEGRAND<<INGRID<CHLO\u00c9<<<<<<<<<<<<<<<<<<<",
+            "DZ7700791FRA870110<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-25",
+        "passport_expiry_date": "2030-10-24"
+    },
+    "client_profile": {
+        "name": "Ingrid Chlo\u00e9 Legrand",
+        "address": {
+            "city": "Strasbourg",
+            "street name": "Boulevard Auguste Blanqui",
+            "street number": 30,
+            "postal code": "47104"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1987-01-10",
+        "nationality": "French",
+        "passport_number": "DZ7700791",
+        "passport_issue_date": "2020-10-25",
+        "passport_expiry_date": "2030-10-24",
+        "gender": "F",
+        "phone_number": "04 17 26 59 98",
+        "email_address": "ingrid.legrand@orange.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Blaise Pascal",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "Skema Business School",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2011,
+                "company": "CNP Assurances S.A.",
+                "position": "Stockbroker",
+                "salary": 28000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Amundi S.A.",
+                "position": "Portfolio Manager",
+                "salary": 101000
+            }
+        ],
+        "aum": {
+            "savings": 130000,
+            "inheritance": 900000,
+            "real_estate_value": 4570000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2470000,
+                "property location": "Strasbourg"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2100000,
+                "property location": "Montpellier"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ingrid Chlo\u00e9 Legrand",
+        "first_name": "Ingrid",
+        "middle_name": "Chlo\u00e9",
+        "last_name": "Legrand",
+        "passport_number": "DZ7700791",
+        "currency": "EUR",
+        "address": {
+            "city": "Strasbourg",
+            "street name": "Boulevard Auguste Blanqui",
+            "street number": 30,
+            "postal code": "47104"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "04 17 26 59 98",
+        "email_address": "ingrid.legrand@orange.fr"
+    },
+    "client_description": {
+        "Summary Note": "Ingrid Chlo\u00e9 Legrand and the RM met at a financial seminar in Paris. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nHaving worked for over 15 years, Ingrid Chlo\u00e9 Legrand brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Ingrid Chlo\u00e9 Legrand and Bonnet tied the knot in 2021. Their children are named Emma and Gabrielle.",
+        "Education Background": "Ingrid received her secondary school diploma from Lyc\u00e9e Blaise Pascal in 2005.\nIngrid completed her university studies at Skema Business School in 2009.\n",
+        "Occupation History": "Having worked for over 15 years, Ingrid Chlo\u00e9 Legrand brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIngrid Chlo\u00e9 Legrand launched her career as a Stockbroker at CNP Assurances S.A., where she gained valuable experience from 2010 to 2011.\nIn 2013, she moved to Amundi S.A. to work as a Portfolio Manager, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "Throughout her career, she saved 130000 EUR, investing in various assets to grow her wealth.\nShe has villa located in Strasbourg, worth 2470000 EUR.\n\nIn addition to her primary residence, she owns townhouse in Montpellier worth 2100000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 900000 EUR from her late grandfather, a renowned Private Equity Manager, in 2020.\n",
+        "Client Summary": "In summary, Ingrid has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

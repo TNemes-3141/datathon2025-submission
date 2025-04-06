@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Delphine",
+        "middle_name": "Alice",
+        "last_name": "Marchand",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1975-07-15",
+        "passport_number": "AC3364823",
+        "passport_mrz": [
+            "P<FRAMARCHAND<<DELPHINE<ALICE<<<<<<<<<<<<<<<<",
+            "AC3364823FRA750715<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-01-06",
+        "passport_expiry_date": "2032-01-05"
+    },
+    "client_profile": {
+        "name": "Delphine Alice Marchand",
+        "address": {
+            "city": "Rouen",
+            "street name": "Rue de Bretagne",
+            "street number": 59,
+            "postal code": "18585"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1975-07-15",
+        "nationality": "French",
+        "passport_number": "AC3364823",
+        "passport_issue_date": "2022-01-06",
+        "passport_expiry_date": "2032-01-05",
+        "gender": "F",
+        "phone_number": "04 22 17 54 72",
+        "email_address": "delphine.marchand@outlook.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Jean-Baptiste Say",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Nationale d'Administration (ENA)",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2002,
+                "company": "Louvre Museum",
+                "position": "Art Dealer",
+                "salary": 29000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2003,
+                "company": "Mus\u00e9e Rodin",
+                "position": "Gallery Owner",
+                "salary": 50000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2007,
+                "company": "Centre Pompidou",
+                "position": "Art Advisor",
+                "salary": 71000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2010,
+                "company": "Mus\u00e9e Rodin",
+                "position": "Curator",
+                "salary": 89000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2023,
+                "company": "Mus\u00e9e Rodin",
+                "position": "Museum Director",
+                "salary": 534000
+            }
+        ],
+        "aum": {
+            "savings": 800000,
+            "inheritance": 1340000,
+            "real_estate_value": 1690000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2005,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1690000,
+                "property location": "Rouen"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Delphine Alice Marchand",
+        "first_name": "Delphine",
+        "middle_name": "Alice",
+        "last_name": "Marchand",
+        "passport_number": "AC3364823",
+        "currency": "EUR",
+        "address": {
+            "city": "Rouen",
+            "street name": "Rue de Bretagne",
+            "street number": 59,
+            "postal code": "18585"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "04 22 17 54 72",
+        "email_address": "delphine.marchand@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Delphine Alice Marchand at a yacht party in Paris. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nDelphine Alice Marchand is a seasoned professional with over 26 years of experience.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Delphine Alice Marchand is currently divorced. Her children are named Garcia, Bernard and Flore.",
+        "Education Background": "In 1993, Delphine graduated from Lyc\u00e9e Jean-Baptiste Say with a secondary school diploma.\nDelphine earned her degree from \u00c9cole Nationale d'Administration (ENA) in 1999.\n",
+        "Occupation History": "Having worked for over 26 years, Delphine Alice Marchand brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nDelphine Alice Marchand's first role was as a Art Dealer at Louvre Museum, where she worked diligently from 1999 to 2002 to establish a strong reputation.\nHer subsequent role was as a Gallery Owner at Mus\u00e9e Rodin, where she continued to grow professionally from 2002 to 2003.\nShe spent 4 years working as a Art Advisor at Centre Pompidou, refining her expertise and building a strong network.\nHer next role was as a Curator at Mus\u00e9e Rodin, where she applied her extensive experience to drive innovation from 2007 to 2010.\nCurrently, she serves as a Museum Director at Mus\u00e9e Rodin, continuing to make meaningful contributions to the industry since 2011.",
+        "Wealth Summary": "While working, she saved 800000 EUR, which she used to build a diversified investment portfolio.\nShe owns townhouse in Rouen, where she resides. It is worth 1690000 EUR.\n\nIn 2005, she received an inheritance of 1340000 EUR from her late grandmother, who was a prominent Corporate Lawyer, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

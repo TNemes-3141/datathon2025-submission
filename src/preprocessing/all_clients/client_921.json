@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Smeets",
+        "middle_name": "Verhoeven",
+        "last_name": "De Jong",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "NLD",
+        "nationality": "Belgian",
+        "birth_date": "1987-12-12",
+        "passport_number": "KN1600201",
+        "passport_mrz": [
+            "P<NLDDE JONG<<SMEETS<VERHOEVEN<<<<<<<<<<<<<<<",
+            "KN1600201NLD871212<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-12-13",
+        "passport_expiry_date": "2028-12-12"
+    },
+    "client_profile": {
+        "name": "Smeets Verhoeven De Jong",
+        "address": {
+            "city": "Helmond",
+            "street name": "IJsselkade",
+            "street number": 32,
+            "postal code": "3976 11"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1987-12-12",
+        "nationality": "Dutch",
+        "passport_number": "KN1600201",
+        "passport_issue_date": "2018-12-13",
+        "passport_expiry_date": "2028-12-12",
+        "gender": "M",
+        "phone_number": "06 55784134",
+        "email_address": "smeets.dejong@chello.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "RSG Magister Almelo",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "Tilburg School of Economics and Management",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2013,
+                "company": "ING Private Banking",
+                "position": "Financial Advisor",
+                "salary": 46000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2019,
+                "company": "Stater Nederland N.V.",
+                "position": "Portfolio Manager",
+                "salary": 61000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Stater Nederland N.V.",
+                "position": "Wealth Manager",
+                "salary": 86000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 1320000,
+            "real_estate_value": 4550000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2880000,
+                "property location": "Helmond"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1670000,
+                "property location": "Almere"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Smeets Verhoeven De Jong",
+        "first_name": "Smeets",
+        "middle_name": "Verhoeven",
+        "last_name": "De Jong",
+        "passport_number": "KN1600201",
+        "currency": "EUR",
+        "address": {
+            "city": "Helmond",
+            "street name": "IJsselkade",
+            "street number": 32,
+            "postal code": "3976 11"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 55784134",
+        "email_address": "smeets.dejong@chello.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Smeets Verhoeven De Jong during a business conference in Amsterdam. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nSmeets Verhoeven De Jong is a seasoned professional with over 14 years of experience.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Smeets Verhoeven De Jong is married to Janneke. Smeets and Janneke have 1 child, named Snijders.",
+        "Education Background": "Smeets obtained his secondary school diploma from RSG Magister Almelo in 2005.\nSmeets pursued higher education at Tilburg School of Economics and Management, graduating in 2012.\n",
+        "Occupation History": "Smeets Verhoeven De Jong is a 37 year old and comes from Netherlands.\nSmeets Verhoeven De Jong's first role was as a Financial Advisor at ING Private Banking, where he worked diligently from 2011 to 2013 to establish a strong reputation.\nHe then transitioned to Stater Nederland N.V. as a Portfolio Manager, leveraging his expertise to drive results from 2015 to 2019.\nIn 2021, he joined Stater Nederland N.V. as a Wealth Manager, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "While working, he saved 110000 EUR, which he used to build a diversified investment portfolio.\nHe owns villa in Helmond, where he resides. It is worth 25000000 EUR.\n\nIn addition to his primary residence, he owns townhouse in Almere worth 1670000 EUR.\n\nHe inherited a significant sum of 1320000 EUR from his grandfather, a respected Corporate Lawyer, in 2018, which he has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

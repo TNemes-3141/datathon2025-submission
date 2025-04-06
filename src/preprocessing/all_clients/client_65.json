@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Dubois",
+        "middle_name": "Bernard",
+        "last_name": "Garcia",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1979-07-08",
+        "passport_number": "LR8576608",
+        "passport_mrz": [
+            "P<FRAGARCIA<<DUBOIS<BERNARD<<<<<<<<<<<<<<<<<<",
+            "LR8576608FRA790708<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-11-30",
+        "passport_expiry_date": "2030-11-29"
+    },
+    "client_profile": {
+        "name": "Dubois Bernard Garcia",
+        "address": {
+            "city": "Caen",
+            "street name": "Rue de l'Abb\u00e9 Gr\u00e9goire",
+            "street number": 6,
+            "postal code": "83496"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1979-07-08",
+        "nationality": "French",
+        "passport_number": "LR8576608",
+        "passport_issue_date": "2020-11-30",
+        "passport_expiry_date": "2030-11-29",
+        "gender": "M",
+        "phone_number": "+33 09 97 50 15 14",
+        "email_address": "dubois.garcia@wanadoo.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Louis-le-Grand",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "American Graduate School of Business in Paris",
+                "graduation_year": 2003
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2004,
+                "company": "Unibail-Rodamco-Westfield SE",
+                "position": "Property Manager",
+                "salary": 29000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2024,
+                "company": "Compagnie de Phalsbourg",
+                "position": "Developer",
+                "salary": 172000
+            }
+        ],
+        "aum": {
+            "savings": 290000,
+            "inheritance": 4750000,
+            "real_estate_value": 1670000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2010,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1670000,
+                "property location": "Caen"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Dubois Bernard Garcia",
+        "first_name": "Dubois",
+        "middle_name": "Bernard",
+        "last_name": "Garcia",
+        "passport_number": "LR8576608",
+        "currency": "EUR",
+        "address": {
+            "city": "Caen",
+            "street name": "Rue de l'Abb\u00e9 Gr\u00e9goire",
+            "street number": 6,
+            "postal code": "83496"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 09 97 50 15 14",
+        "email_address": "dubois.garcia@wanadoo.fr"
+    },
+    "client_description": {
+        "Summary Note": "Dubois Bernard Garcia and the RM crossed paths at a mutual friend's dinner party in Paris. They discovered they had many common acquaintances and decided to explore business opportunities together.\nDubois Bernard Garcia is a 45 year old Developer from France.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Dubois Bernard Garcia is currently single. He does not have any children.",
+        "Education Background": "Dubois earned his secondary school diploma from Lyc\u00e9e Louis-le-Grand in 1997.\nDubois earned his degree from American Graduate School of Business in Paris in 2003.\n",
+        "Occupation History": "Dubois Bernard Garcia is a 45 year old Developer from France. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nDubois Bernard Garcia's first role was as a Property Manager at Unibail-Rodamco-Westfield SE, where he worked diligently from 2003 to 2004 to establish a strong reputation.\nHis subsequent role was as a Developer at Compagnie de Phalsbourg, where he continued to grow professionally from 2005 to 2024.\n",
+        "Wealth Summary": "He managed to save approximately 290000 EUR from his earnings at all companies.\nHe owns condo in Caen, where he resides. It is worth 1670000 EUR.\n\nHe inherited 4750000 EUR from his father, a well-known Hedge Fund Manager, in 2010, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

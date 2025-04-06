@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Luc\u00eda",
+        "middle_name": "Angela",
+        "last_name": "Ruiz",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1994-09-16",
+        "passport_number": "OV6019912",
+        "passport_mrz": [
+            "P<ESPRUIZ<<LUC\u00cdA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "OV6019912ESP940916<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-05-26",
+        "passport_expiry_date": "2034-05-25"
+    },
+    "client_profile": {
+        "name": "Luc\u00eda Angela Ruiz",
+        "address": {
+            "city": "Murcia",
+            "street name": "Plaza de la Libertad",
+            "street number": 10,
+            "postal code": "22468"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1994-09-16",
+        "nationality": "Spanish",
+        "passport_number": "OV6019912",
+        "passport_issue_date": "2024-05-26",
+        "passport_expiry_date": "2034-05-25",
+        "gender": "F",
+        "phone_number": "661 397 931",
+        "email_address": "lucia.ruiz@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Vicente Aleixandre Santander",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "University of Granada",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2018,
+                "end_year": 2019,
+                "company": "Fidelity International (Spain)",
+                "position": "Stockbroker",
+                "salary": 27000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "BlackRock Hispanic Markets S.A.",
+                "position": "Portfolio Manager",
+                "salary": 47000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 2800000,
+            "real_estate_value": 1240000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1240000,
+                "property location": "Murcia"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Luc\u00eda Angela Ruiz",
+        "first_name": "Luc\u00eda",
+        "middle_name": "Angela",
+        "last_name": "Ruiz",
+        "passport_number": "OV6019912",
+        "currency": "EUR",
+        "address": {
+            "city": "Murcia",
+            "street name": "Plaza de la Libertad",
+            "street number": 10,
+            "postal code": "22468"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "++39661 397 931",
+        "email_address": "lucia.ruiz@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Luc\u00eda Angela Ruiz on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nLuc\u00eda Angela Ruiz is a 30 year old Portfolio Manager from Spain.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Luc\u00eda Angela Ruiz is currently single. She does not have any children.",
+        "Education Background": "In 2014, Luc\u00eda finished her secondary school education at IES Vicente Aleixandre Santander.\nLuc\u00eda earned her degree from University of Granada in 2017.\n",
+        "Occupation History": "Luc\u00eda Angela Ruiz is a 30 year old Portfolio Manager from Spain.\nLuc\u00eda Angela Ruiz launched her career as a Stockbroker at Fidelity International (Spain), where she gained valuable experience from 2018 to 2019.\nAfter gaining experience, she took on the role of Portfolio Manager at BlackRock Hispanic Markets S.A. in 2019, further expanding her skill set.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 40000 EUR.\nShe owns house in Murcia, where she resides. It is worth 15000000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 2800000 EUR from her late grandfather, a renowned Neurosurgeon, in 2017.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

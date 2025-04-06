@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Hortense",
+        "middle_name": "Romane",
+        "last_name": "Thiry",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1978-05-16",
+        "passport_number": "GQ9175607",
+        "passport_mrz": [
+            "P<BELTHIRY<<HORTENSE<ROMANE<<<<<<<<<<<<<<<<<<",
+            "GQ9175607BEL780516<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-03-21",
+        "passport_expiry_date": "2030-03-20"
+    },
+    "client_profile": {
+        "name": "Hortense Romane Thiry",
+        "address": {
+            "city": "Ostend",
+            "street name": "Rue des Bouchers",
+            "street number": 39,
+            "postal code": "5857"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1978-05-16",
+        "nationality": "Belgian",
+        "passport_number": "GQ9175607",
+        "passport_issue_date": "2023-03-21",
+        "passport_expiry_date": "2030-03-20",
+        "gender": "F",
+        "phone_number": "+32 0464 906 993",
+        "email_address": "hortense.thiry@base.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Onze-Lieve-Vrouwe-Wavercollege",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "Thomas More University of Applied Sciences",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2006,
+                "company": "CMB NV",
+                "position": "Ship Broker",
+                "salary": 36000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2011,
+                "company": "Wallenius Wilhelmsen Logistics Belgium NV",
+                "position": "Shipping Company Owner",
+                "salary": 54000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "NYK Line (Belgium) NV",
+                "position": "Fleet Manager",
+                "salary": 268000
+            }
+        ],
+        "aum": {
+            "savings": 400000,
+            "inheritance": 3420000,
+            "real_estate_value": 2951000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2006,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1059000,
+                "property location": "Ostend"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1002000,
+                "property location": "Wavre"
+            },
+            {
+                "property type": "flat",
+                "property value": 890000,
+                "property location": "Roeselare"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hortense Romane Thiry",
+        "first_name": "Hortense",
+        "middle_name": "Romane",
+        "last_name": "Thiry",
+        "passport_number": "GQ9175607",
+        "currency": "EUR",
+        "address": {
+            "city": "Ostend",
+            "street name": "Rue des Bouchers",
+            "street number": 39,
+            "postal code": "5857"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0464 906 993",
+        "email_address": "hortense.thiry@base.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Hortense Romane Thiry at a corporate retreat in Brussels. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nHortense Romane Thiry is a 46 year old and comes from Belgium.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Hortense Romane Thiry has been happily married to Peeters since 2014. Together they have 2 kids called Jos\u00e9phine and Ad\u00e8le.",
+        "Education Background": "Hortense graduated from Onze-Lieve-Vrouwe-Wavercollege in 1998.\nHortense completed her university education at Thomas More University of Applied Sciences in 2002.\n",
+        "Occupation History": "Hortense Romane Thiry is a 46 year old Fleet Manager from Belgium. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHortense Romane Thiry's first role was as a Ship Broker at CMB NV, where she worked diligently from 2003 to 2006 to establish a strong reputation.\nIn 2008, she moved to Wallenius Wilhelmsen Logistics Belgium NV to work as a Shipping Company Owner, applying her knowledge to achieve outstanding performance.\nIn 2012, she joined NYK Line (Belgium) NV as a Fleet Manager, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "While working, she saved 400000 EUR, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Roeselare, Wavre and Ostend, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2006, she received an inheritance of 3420000 EUR from her late mother, who was a prominent Oil and Gas Executive, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

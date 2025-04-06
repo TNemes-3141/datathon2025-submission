@@ -1,0 +1,145 @@
+{
+    "passport": {
+        "first_name": "Wouters",
+        "middle_name": "Maes",
+        "last_name": "Moens",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "BEL",
+        "nationality": "Dutch",
+        "birth_date": "1974-04-20",
+        "passport_number": "VR0408890",
+        "passport_mrz": [
+            "P<BELMOENS<<WOUTERS<MAES<<<<<<<<<<<<<<<<<<<<<",
+            "VR0408890BEL740420<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-03",
+        "passport_expiry_date": "2026-09-02"
+    },
+    "client_profile": {
+        "name": "Wouters Maes Moens",
+        "address": {
+            "city": "Leuven",
+            "street name": "Rue des \u00c9tuves",
+            "street number": 11,
+            "postal code": "5385"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1974-04-20",
+        "nationality": "Belgian",
+        "passport_number": "VR0408890",
+        "passport_issue_date": "2019-09-03",
+        "passport_expiry_date": "2026-09-02",
+        "gender": "M",
+        "phone_number": "+32 0464 291 844",
+        "email_address": "wouters.moens@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Koninklijk Atheneum Anderlecht",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "KU Leuven",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 1999,
+                "company": "Sonaca SA",
+                "position": "Aerospace Engineer",
+                "salary": 35000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2006,
+                "company": "Thales Alenia Space Belgium",
+                "position": "Program Manager",
+                "salary": 63000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2007,
+                "company": "Asco Industries NV",
+                "position": "Director of Operations",
+                "salary": 71000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2012,
+                "company": "Sonaca SA",
+                "position": "VP of Business Development",
+                "salary": 150000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Sabca SA",
+                "position": "CEO",
+                "salary": 652000
+            }
+        ],
+        "aum": {
+            "savings": 920000,
+            "inheritance": 1270000,
+            "real_estate_value": 4800000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2480000,
+                "property location": "Leuven"
+            },
+            {
+                "property type": "house",
+                "property value": 1420000,
+                "property location": "Geel"
+            },
+            {
+                "property type": "condo",
+                "property value": 900000,
+                "property location": "Tournai"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Wouters Maes Moens",
+        "first_name": "Wouters",
+        "middle_name": "Maes",
+        "last_name": "Moens",
+        "passport_number": "VR0408890",
+        "currency": "EUR",
+        "address": {
+            "city": "Leuven",
+            "street name": "Rue des \u00c9tuves",
+            "street number": 11,
+            "postal code": "5385"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0464 291 844",
+        "email_address": "wouters.moens@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Wouters Maes Moens and the RM crossed paths at a mutual friend's dinner party in Brussels. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHaving worked for over 27 years, Wouters Maes Moens brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Wouters Maes Moens is currently single. He does not have any children.",
+        "Education Background": "In 1993, Wouters graduated from Koninklijk Atheneum Anderlecht with a secondary school diploma.\nWouters attended KU Leuven and graduated in 1997.\n",
+        "Occupation History": "With a career spanning nearly 27 years, Wouters Maes Moens has established himself as a key player in the industry.\nAt Sonaca SA, Wouters Maes Moens held the position of Aerospace Engineer from 1998 to 1999, developing essential skills in the field.\nHe then transitioned to Thales Alenia Space Belgium as a Program Manager, leveraging his expertise to drive results from 2001 to 2006.\nFrom 2006 to 2007, he served as a Director of Operations at Asco Industries NV, solidifying his position as a leader in the industry.\nHe appointment as a VP of Business Development at Sonaca SA in 2009 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\nAs a CEO at Sabca SA since 2014, he remains committed to excellence, driving progress and inspiring others through his remarkable leadership.",
+        "Wealth Summary": "While working, he saved 920000 EUR, which he used to build a diversified investment portfolio.\nHe owns 3 exceptional properties: villa located in Leuven, valued at approximately 2,480,000.00 EUR, house located in Geel, valued at approximately 1,420,000.00 EUR, condo located in Tournai, valued at approximately 900,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Geel, Leuven and Tournai.\nHe inherited 1270000 EUR from his mother, a well-known Real Estate Developer, in 2012, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

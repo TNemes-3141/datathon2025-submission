@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "\u00c9milie",
+        "middle_name": "Laetitia",
+        "last_name": "Boucher",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1979-02-28",
+        "passport_number": "BG4617404",
+        "passport_mrz": [
+            "P<FRA\u00c9MILIE<<BOUCHER<LAETITIA<<<<<<<<<<<<<<<<",
+            "BG4617404FRA790228<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-05-24",
+        "passport_expiry_date": "2026-05-23"
+    },
+    "client_profile": {
+        "name": "\u00c9milie Laetitia Boucher",
+        "address": {
+            "city": "Rennes",
+            "street name": "Place Vend\u00f4me",
+            "street number": 70,
+            "postal code": "37353"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1979-02-28",
+        "nationality": "French",
+        "passport_number": "BG4617404",
+        "passport_issue_date": "2016-05-24",
+        "passport_expiry_date": "2026-05-23",
+        "gender": "F",
+        "phone_number": "+33 08 12 51 96 86",
+        "email_address": "emilie.boucher@numericable.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e du Parc",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Nationale d'Administration (ENA)",
+                "graduation_year": 1990
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2005,
+                "company": "Compagnie de Phalsbourg",
+                "position": "Property Manager",
+                "salary": 30000
+            },
+            {
+                "start_year": 2005,
+                "end_year": null,
+                "company": "Groupe Casino",
+                "position": "Developer",
+                "salary": 184000
+            }
+        ],
+        "aum": {
+            "savings": 330000,
+            "inheritance": 2290000,
+            "real_estate_value": 3430000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2130000,
+                "property location": "Rennes"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1300000,
+                "property location": "Limoges"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "\u00c9milie Laetitia Boucher",
+        "first_name": "\u00c9milie",
+        "middle_name": "Laetitia",
+        "last_name": "Boucher",
+        "passport_number": "BG4617404",
+        "currency": "EUR",
+        "address": {
+            "city": "Rennes",
+            "street name": "Place Vend\u00f4me",
+            "street number": 70,
+            "postal code": "37353"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 08 12 51 96 86",
+        "email_address": "emilie.boucher@numericable.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered \u00c9milie Laetitia Boucher on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 23 years, \u00c9milie Laetitia Boucher brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "\u00c9milie Laetitia Boucher and Bonnet tied the knot in 2009. \u00c9milie and Bonnet have 1 child, named Garcia.",
+        "Education Background": "In 1996, \u00c9milie finished her secondary school education at Lyc\u00e9e du Parc.\n\u00c9milie completed her university studies at \u00c9cole Nationale d'Administration (ENA) in 2001.\n",
+        "Occupation History": "\u00c9milie Laetitia Boucher is a 46 year old and comes from France.\nAt Compagnie de Phalsbourg, \u00c9milie Laetitia Boucher held the position of Property Manager from 2002 to 2005, developing essential skills in the field.\nIn 2005, she moved to Groupe Casino to work as a Developer, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 330000 EUR.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 3430000 EUR.\n\nShe inherited 2290000 EUR from her grandfather, a well-known Oil and Gas Executive, in 2009, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "passport": {
+        "first_name": "V\u00e1zquez",
+        "middle_name": "Torres",
+        "last_name": "S\u00e1nchez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1995-02-16",
+        "passport_number": "GD7221315",
+        "passport_mrz": [
+            "P<ESPS\u00c1NCHEZ<<V\u00c1ZQUEZ<TORRES<<<<<<<<<<<<<<<<<",
+            "GD7221315ESP950216<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-10-02",
+        "passport_expiry_date": "2028-10-01"
+    },
+    "client_profile": {
+        "name": "V\u00e1zquez Torres S\u00e1nchez",
+        "address": {
+            "city": "Santa Cruz de Tenerife",
+            "street name": "Plaza de la Independencia",
+            "street number": 56,
+            "postal code": "32269"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1995-02-16",
+        "nationality": "Spanish",
+        "passport_number": "GD7221315",
+        "passport_issue_date": "2018-10-02",
+        "passport_expiry_date": "2028-10-01",
+        "gender": "M",
+        "phone_number": "683 962 861",
+        "email_address": "vazquez.sanchez@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Colegio San Ignacio de Loyola Valencia",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "Valencia School of Fine Arts",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Mediaset Espa\u00f1a Comunicaci\u00f3n S.A.",
+                "position": "Journalist",
+                "salary": 28000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 0,
+            "real_estate_value": 1880000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1880000,
+                "property location": "Santa Cruz de Tenerife"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "V\u00e1zquez Torres S\u00e1nchez",
+        "first_name": "V\u00e1zquez",
+        "middle_name": "Torres",
+        "last_name": "S\u00e1nchez",
+        "passport_number": "GD7221315",
+        "currency": "EUR",
+        "address": {
+            "city": "Santa Cruz de Tenerife",
+            "street name": "Plaza de la Independencia",
+            "street number": 56,
+            "postal code": "32269"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "683 962 861",
+        "email_address": "vazquez.sanchez@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met V\u00e1zquez Torres S\u00e1nchez at a wine tasting event in Madrid. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nV\u00e1zquez Torres S\u00e1nchez is a 30 year old and comes from Spain.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "V\u00e1zquez Torres S\u00e1nchez is married to Ana\u00eds. They are proud parents of 1 child: Garc\u00eda.",
+        "Education Background": "V\u00e1zquez finished secondary school at Colegio San Ignacio de Loyola Valencia in 2012.\nV\u00e1zquez attended Valencia School of Fine Arts and graduated in 2017.\n",
+        "Occupation History": "V\u00e1zquez Torres S\u00e1nchez is a 30 year old and comes from Spain.\nV\u00e1zquez Torres S\u00e1nchez began his professional journey as a Journalist at Mediaset Espa\u00f1a Comunicaci\u00f3n S.A. in 2018, laying the foundation for future success.\n",
+        "Wealth Summary": "While working, he saved 30000 EUR, which he used to build a diversified investment portfolio.\nHe owns villa in Santa Cruz de Tenerife, where he resides. It is worth 1880000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

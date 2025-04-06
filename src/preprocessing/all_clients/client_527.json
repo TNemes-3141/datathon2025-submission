@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Lotti",
+        "middle_name": "Landi",
+        "last_name": "Marini",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1963-02-01",
+        "passport_number": "CJ7097826",
+        "passport_mrz": [
+            "P<ITAMARINI<<LOTTI<LANDI<<<<<<<<<<<<<<<<<<<<<",
+            "CJ7097826ITA630201<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-02-01",
+        "passport_expiry_date": "2030-01-31"
+    },
+    "client_profile": {
+        "name": "Lotti Landi Marini",
+        "address": {
+            "city": "Palermo",
+            "street name": "Via XX Settembre",
+            "street number": 87,
+            "postal code": "25376"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1963-02-01",
+        "nationality": "Italian",
+        "passport_number": "CJ7097826",
+        "passport_issue_date": "2020-02-01",
+        "passport_expiry_date": "2030-01-31",
+        "gender": "M",
+        "phone_number": "+39 309 3463196",
+        "email_address": "lotti.marini@unidata.it",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Scuola Media Statale Antonio Meucci Firenze",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "European University of Rome",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1992,
+                "company": "Fondo Atlante SGR S.p.A.",
+                "position": "Property Manager",
+                "salary": 24000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1996,
+                "company": "Risanamento S.p.A.",
+                "position": "Developer",
+                "salary": 39000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2023,
+                "company": "Coima RES S.p.A.",
+                "position": "Construction Company Owner",
+                "salary": 390000
+            }
+        ],
+        "aum": {
+            "savings": 700000,
+            "inheritance": 0,
+            "real_estate_value": 3387000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1917000,
+                "property location": "Palermo"
+            },
+            {
+                "property type": "flat",
+                "property value": 710000,
+                "property location": "Messina"
+            },
+            {
+                "property type": "condo",
+                "property value": 760000,
+                "property location": "Treviso"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lotti Landi Marini",
+        "first_name": "Lotti",
+        "middle_name": "Landi",
+        "last_name": "Marini",
+        "passport_number": "CJ7097826",
+        "currency": "EUR",
+        "address": {
+            "city": "Palermo",
+            "street name": "Via XX Settembre",
+            "street number": 87,
+            "postal code": "25376"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 309 3463196",
+        "email_address": "lotti.marini@unidata.it"
+    },
+    "client_description": {
+        "Summary Note": "Lotti Landi Marini and the RM met at a financial seminar in Rome. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nLotti Landi Marini is a 62 year old and comes from Italy.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Lotti Landi Marini is currently divorced. He does not have any children.",
+        "Education Background": "Lotti received his secondary school diploma from Scuola Media Statale Antonio Meucci Firenze in 1981.\nLotti received his degree from European University of Rome in 1985.\n",
+        "Occupation History": "Lotti Landi Marini is a seasoned professional with over 38 years of experience.\nLotti Landi Marini began his professional journey as a Property Manager at Fondo Atlante SGR S.p.A. in 1987, laying the foundation for future success.\nAt Risanamento S.p.A., he held the position of Developer from 1994 to 1996, making significant contributions to the organization.\nIn 1998, he joined Coima RES S.p.A. as a Construction Company Owner, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 700000 EUR.\nHe has villa located in Palermo, worth 1917000 EUR.\n\nIn addition to his primary residence, he owns flat in Messina worth 710000 EUR.\n\nMoreover, he has invested in additional property in Treviso, giving possiblity for generating additional income. The condo is valued at 760000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

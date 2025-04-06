@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Krog",
+        "middle_name": "S\u00f8rensen",
+        "last_name": "Lykke",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1963-08-28",
+        "passport_number": "TQ3563384",
+        "passport_mrz": [
+            "P<DNKLYKKE<<KROG<S\u00d8RENSEN<<<<<<<<<<<<<<<<<<<<",
+            "TQ3563384DNK630828<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-04-23",
+        "passport_expiry_date": "2027-04-22"
+    },
+    "client_profile": {
+        "name": "Krog S\u00f8rensen Lykke",
+        "address": {
+            "city": "Ikast",
+            "street name": "Str\u00f8get",
+            "street number": 14,
+            "postal code": "0030"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1963-08-28",
+        "nationality": "Danish",
+        "passport_number": "TQ3563384",
+        "passport_issue_date": "2017-04-23",
+        "passport_expiry_date": "2027-04-22",
+        "gender": "M",
+        "phone_number": "+45 08 32 85 68",
+        "email_address": "krog.lykke@wanadoo.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Slagelse Gymnasium",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "CBS International Business School",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1992,
+                "company": "Radisson Hotel Group Danmark A/S",
+                "position": "Hotel Manager",
+                "salary": 352000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 2024,
+                "company": "Radisson Hotel Group Danmark A/S",
+                "position": "General Manager",
+                "salary": 2020000
+            }
+        ],
+        "aum": {
+            "savings": 3620000,
+            "inheritance": 0,
+            "real_estate_value": 4227000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2340000,
+                "property location": "Ikast"
+            },
+            {
+                "property type": "condo",
+                "property value": 907000,
+                "property location": "Skanderborg"
+            },
+            {
+                "property type": "flat",
+                "property value": 980000,
+                "property location": "N\u00e6stved"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Krog S\u00f8rensen Lykke",
+        "first_name": "Krog",
+        "middle_name": "S\u00f8rensen",
+        "last_name": "Lykke",
+        "passport_number": "TQ3563384",
+        "currency": "DKK",
+        "address": {
+            "city": "Ikast",
+            "street name": "Str\u00f8get",
+            "street number": 14,
+            "postal code": "0030"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 08 32 85 68",
+        "email_address": "krog.lykke@wanadoo.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Krog S\u00f8rensen Lykke's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nKrog S\u00f8rensen Lykke is a seasoned professional with over 38 years of experience.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Krog S\u00f8rensen Lykke has been happily married to Idun since 1988. Together they have 3 kids called Rasmussen, Idun and Sofia.",
+        "Education Background": "In 1981, Krog graduated from Slagelse Gymnasium with a secondary school diploma.\nKrog completed his university studies at CBS International Business School in 1986.\n",
+        "Occupation History": "Krog S\u00f8rensen Lykke is a 61 year old and comes from Denmark.\nIn 1987, Krog S\u00f8rensen Lykke started working as a Hotel Manager at Radisson Hotel Group Danmark A/S, marking the beginning of his successful career.\nIn 1994, he moved to Radisson Hotel Group Danmark A/S to work as a General Manager, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 3620000 DKK, which he used to build a diversified investment portfolio.\nHe has house located in Ikast, worth 2340000 DKK.\n\nIn addition to his primary residence, he owns condo in Skanderborg worth 907000 DKK.\n\nMoreover, he has invested in additional property in N\u00e6stved, giving possiblity for generating additional income. The flat is valued at 980000 DKK.\n\nHe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

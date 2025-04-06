@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Laur\u00e8ne",
+        "middle_name": "L\u00e9a",
+        "last_name": "Bonnet",
+        "gender": "F",
+        "country": "France",
+        "country_code": "F",
+        "nationality": "French",
+        "birth_date": "1969-10-17",
+        "passport_number": "PB5593342",
+        "passport_mrz": [
+            "P<FRABONNET<<LAUR\u00c8NE<L\u00c9A<<<<<<<<<<<<<<<<<<<<<",
+            "PB5593342FRA691017<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-25",
+        "passport_expiry_date": "2029-03-24"
+    },
+    "client_profile": {
+        "name": "Laur\u00e8ne L\u00e9a Bonnet",
+        "address": {
+            "city": "Orl\u00e9ans",
+            "street name": "Avenue de la Grande Arm\u00e9e",
+            "street number": 31,
+            "postal code": "90004"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1969-10-17",
+        "nationality": "French",
+        "passport_number": "PB5593342",
+        "passport_issue_date": "2019-03-25",
+        "passport_expiry_date": "2029-03-24",
+        "gender": "F",
+        "phone_number": "+33 02 15 05 73 72",
+        "email_address": "laurene.bonnet@wanadoo.fr",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Victor Hugo",
+            "graduation_year": 1988
+        },
+        "higher_education": [
+            {
+                "university": "University of Lyon",
+                "graduation_year": 1992
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1997,
+                "company": "Unibail-Rodamco-Westfield SE",
+                "position": "Property Manager",
+                "salary": 29000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2004,
+                "company": "Groupe Bouygues",
+                "position": "Developer",
+                "salary": 63000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2008,
+                "company": "Groupe Bouygues",
+                "position": "Construction Company Owner",
+                "salary": 64000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": "Groupe Casino",
+                "position": "Real Estate Investment Trust (REIT) CEO",
+                "salary": 141000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2025,
+                "company": "Unibail-Rodamco-Westfield SE",
+                "position": "Landlord",
+                "salary": 219000
+            }
+        ],
+        "aum": {
+            "savings": 400000,
+            "inheritance": 3440000,
+            "real_estate_value": 3370000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2013,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2300000,
+                "property location": "Orl\u00e9ans"
+            },
+            {
+                "property type": "flat",
+                "property value": 1070000,
+                "property location": "Tours"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Laur\u00e8ne L\u00e9a Bonnet",
+        "first_name": "Laur\u00e8ne",
+        "middle_name": "L\u00e9a",
+        "last_name": "Bonnet",
+        "passport_number": "PB5593342",
+        "currency": "EUR",
+        "address": {
+            "city": "Orl\u00e9ans",
+            "street name": "Avenue de la Grande Arm\u00e9e",
+            "street number": 31,
+            "postal code": "90004"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 02 15 05 73 72",
+        "email_address": "laurene.bonnet@wanadoo.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Laur\u00e8ne L\u00e9a Bonnet at a corporate retreat in Paris. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nWith a career spanning nearly 32 years, Laur\u00e8ne L\u00e9a Bonnet has established herself as a key player in the industry.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Laur\u00e8ne L\u00e9a Bonnet is currently widowed. She has 2 kids called  Jos\u00e9phine and Legrand.",
+        "Education Background": "Laur\u00e8ne received her secondary school diploma from Lyc\u00e9e Victor Hugo in 1988.\nLaur\u00e8ne attended University of Lyon and graduated in 1992.\n",
+        "Occupation History": "Having worked for over 32 years, Laur\u00e8ne L\u00e9a Bonnet brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLaur\u00e8ne L\u00e9a Bonnet's first role was as a Property Manager at Unibail-Rodamco-Westfield SE, where she worked diligently from 1993 to 1997 to establish a strong reputation.\nHer subsequent role was as a Developer at Groupe Bouygues, where she continued to grow professionally from 1999 to 2004.\nShe spent 4 years working as a Construction Company Owner at Groupe Bouygues, refining her expertise and building a strong network.\nIn 2010, she transitioned to Groupe Casino to take on the position of Real Estate Investment Trust (REIT) CEO, capitalizing on her expertise to propel business growth.\nAs a Landlord at Unibail-Rodamco-Westfield SE since 2015, she remains committed to excellence, driving progress and inspiring others through her remarkable leadership.",
+        "Wealth Summary": "While working, she saved 400000 EUR, which she used to build a diversified investment portfolio.\nShe owns 2 exceptional properties: house located in Orl\u00e9ans, valued at approximately 2,300,000.00 EUR, flat located in Tours, valued at approximately 1,070,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Orl\u00e9ans and Tours.\n\nFollowing the passing of her grandfather, a successful Real Estate Developer, she received an inheritance of 3440000 EUR in 2013, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Monika",
+        "middle_name": "Hannah",
+        "last_name": "Bauer",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "2000-10-25",
+        "passport_number": "QB0244404",
+        "passport_mrz": [
+            "P<AUTBAUER<<MONIKA<HANNAH<<<<<<<<<<<<<<<<<<<<",
+            "QB0244404AUT001025<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-05-22",
+        "passport_expiry_date": "2026-05-21"
+    },
+    "client_profile": {
+        "name": "Monika Hannah Bauer",
+        "address": {
+            "city": "Kitzb\u00fchel",
+            "street name": "Franz-Josef-Kai",
+            "street number": 79,
+            "postal code": "4934"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "2000-10-25",
+        "nationality": "Austrian",
+        "passport_number": "QB0244404",
+        "passport_issue_date": "2016-05-22",
+        "passport_expiry_date": "2026-05-21",
+        "gender": "F",
+        "phone_number": "+43 516 933 7027",
+        "email_address": "monika.bauer@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "BRG/BORG Marchfeldstra\u00dfe",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Danube Private University Krems",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1840000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Monika Hannah Bauer",
+        "first_name": "Monika",
+        "middle_name": "Hannah",
+        "last_name": "Bauer",
+        "passport_number": "QB0244404",
+        "currency": "EUR",
+        "address": {
+            "city": "Kitzb\u00fchel",
+            "street name": "Franz-Josef-Kai",
+            "street number": 79,
+            "postal code": "4934"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 516 933 7027",
+        "email_address": "monika.bauer@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Monika Hannah Bauer and the RM met at a financial seminar in Vienna. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nMonika Hannah Bauer is a 24 year old and comes from Austria.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Monika Hannah Bauer is currently single. She does not have any children.",
+        "Education Background": "Monika received her secondary school diploma from BRG/BORG Marchfeldstra\u00dfe in 2019.\nMonika graduated from Danube Private University Krems in 2025, completing her higher education.\n",
+        "Occupation History": "Monika Hannah Bauer is a 24 year old and comes from Austria.\nMonika Hannah Bauer did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 1840000 EUR from her late grandmother, a renowned Corporate Lawyer, in 2016.\n",
+        "Client Summary": "The RM is committed to helping Monika achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

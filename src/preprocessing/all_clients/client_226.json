@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Saar",
+        "middle_name": "Tess",
+        "last_name": "Visser",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1974-01-24",
+        "passport_number": "ZF4549913",
+        "passport_mrz": [
+            "P<NLDVISSER<<SAAR<TESS<<<<<<<<<<<<<<<<<<<<<<<",
+            "ZF4549913NLD740124<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-06-01",
+        "passport_expiry_date": "2027-05-31"
+    },
+    "client_profile": {
+        "name": "Saar Tess Visser",
+        "address": {
+            "city": "The Hague",
+            "street name": "Spoorweghaven",
+            "street number": 59,
+            "postal code": "2333 91"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1974-01-24",
+        "nationality": "Dutch",
+        "passport_number": "ZF4549913",
+        "passport_issue_date": "2017-06-01",
+        "passport_expiry_date": "2027-05-31",
+        "gender": "F",
+        "phone_number": "+31 06 21473022",
+        "email_address": "saar.visser@upcmail.nl",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Scholengroep Carmel Maastricht",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "Amsterdam Business School",
+                "graduation_year": 1996
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2003,
+                "company": "NIBC Private Equity B.V.",
+                "position": "Analyst",
+                "salary": 51000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2006,
+                "company": "NIBC Private Equity B.V.",
+                "position": "Associate",
+                "salary": 64000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2012,
+                "company": "NIBC Private Equity B.V.",
+                "position": "Investment Director",
+                "salary": 135000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2017,
+                "company": "Alpinvest Partners B.V.",
+                "position": "Partner",
+                "salary": 138000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Gilde Buy Out Partners B.V.",
+                "position": "Fund Manager",
+                "salary": 385000
+            }
+        ],
+        "aum": {
+            "savings": 610000,
+            "inheritance": 3300000,
+            "real_estate_value": 1430000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1430000,
+                "property location": "The Hague"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Saar Tess Visser",
+        "first_name": "Saar",
+        "middle_name": "Tess",
+        "last_name": "Visser",
+        "passport_number": "ZF4549913",
+        "currency": "EUR",
+        "address": {
+            "city": "The Hague",
+            "street name": "Spoorweghaven",
+            "street number": 59,
+            "postal code": "2333 91"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 21473022",
+        "email_address": "saar.visser@upcmail.nl"
+    },
+    "client_description": {
+        "Summary Note": "Saar Tess Visser and the RM crossed paths at a mutual friend's dinner party in Amsterdam. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHaving worked for over 27 years, Saar Tess Visser brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Saar Tess Visser is currently widowed. She has 1 kid called Astrid.",
+        "Education Background": "Saar earned her secondary school diploma from Scholengroep Carmel Maastricht in 1991.\nSaar pursued higher education at Amsterdam Business School, graduating in 1996.\n",
+        "Occupation History": "Saar Tess Visser is a 51 year old Fund Manager from Netherlands. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSaar Tess Visser began her professional journey as a Analyst at NIBC Private Equity B.V. in 1998, laying the foundation for future success.\nAfter gaining experience, she took on the role of Associate at NIBC Private Equity B.V. in 2003, further expanding her skill set.\nShe spent 5 years working as a Investment Director at NIBC Private Equity B.V., refining her expertise and building a strong network.\nAfter 14 years of dedication, she assumed the role of Partner at Alpinvest Partners B.V. in 2014, spearheading high-profile projects and mentoring junior colleagues.\nSince joining Gilde Buy Out Partners B.V. as a Fund Manager in 2018, she has established herself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "While working, she saved 610000 EUR, which she used to build a diversified investment portfolio.\nShe has condo located in The Hague, worth 1430000 EUR.\n\nShe inherited a significant sum of 3300000 EUR from her grandmother, a respected Real Estate Developer, in 2007, which she has wisely invested.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

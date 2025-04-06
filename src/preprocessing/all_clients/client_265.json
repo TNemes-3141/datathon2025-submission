@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Antonia",
+        "middle_name": "Daniela",
+        "last_name": "Mart\u00ednez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1981-01-27",
+        "passport_number": "XQ0442654",
+        "passport_mrz": [
+            "P<ESPMART\u00cdNEZ<<ANTONIA<DANIELA<<<<<<<<<<<<<<<",
+            "XQ0442654ESP810127<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-11-06",
+        "passport_expiry_date": "2034-11-05"
+    },
+    "client_profile": {
+        "name": "Antonia Daniela Mart\u00ednez",
+        "address": {
+            "city": "San Sebasti\u00e1n",
+            "street name": "Plaza de la Encarnaci\u00f3n",
+            "street number": 80,
+            "postal code": "46070"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1981-01-27",
+        "nationality": "Spanish",
+        "passport_number": "XQ0442654",
+        "passport_issue_date": "2024-11-06",
+        "passport_expiry_date": "2034-11-05",
+        "gender": "F",
+        "phone_number": "+34 676 168 609",
+        "email_address": "antonia.martinez@wanadoo.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Jos\u00e9 Manuel Blecua Pamplona",
+            "graduation_year": 1999
+        },
+        "higher_education": [
+            {
+                "university": "University of Barcelona",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Pe\u00f1arroya Shipping S.A.",
+                "position": "Ship Broker",
+                "salary": 23000
+            },
+            {
+                "start_year": 2006,
+                "end_year": null,
+                "company": "Pe\u00f1arroya Shipping S.A.",
+                "position": "Shipping Company Owner",
+                "salary": 126000
+            }
+        ],
+        "aum": {
+            "savings": 210000,
+            "inheritance": 4110000,
+            "real_estate_value": 910000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2007,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 910000,
+                "property location": "San Sebasti\u00e1n"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Antonia Daniela Mart\u00ednez",
+        "first_name": "Antonia",
+        "middle_name": "Daniela",
+        "last_name": "Mart\u00ednez",
+        "passport_number": "XQ0442654",
+        "currency": "EUR",
+        "address": {
+            "city": "San Sebasti\u00e1n",
+            "street name": "Plaza de la Encarnaci\u00f3n",
+            "street number": 80,
+            "postal code": "46070"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 676 168 609",
+        "email_address": "antonia.martinez@wanadoo.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Antonia Daniela Mart\u00ednez's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nAntonia Daniela Mart\u00ednez is a seasoned professional with over 20 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Antonia Daniela Mart\u00ednez and Hern\u00e1ndez have been married since 2005. They do not have any children.",
+        "Education Background": "Antonia completed her secondary education at IES Jos\u00e9 Manuel Blecua Pamplona in 1999.\nIn 2004, Antonia graduated from University of Barcelona with a degree.\n",
+        "Occupation History": "Having worked for over 20 years, Antonia Daniela Mart\u00ednez brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAntonia Daniela Mart\u00ednez's first role was as a Ship Broker at Pe\u00f1arroya Shipping S.A., where she worked diligently from 2005 to 2006 to establish a strong reputation.\nAfter gaining experience, she took on the role of Shipping Company Owner at Pe\u00f1arroya Shipping S.A. in 2006, further expanding her skill set.\n",
+        "Wealth Summary": "While working, she saved 210000 EUR, which she used to build a diversified investment portfolio.\nShe has townhouse located in San Sebasti\u00e1n, worth 910000 EUR.\n\n\nFollowing the passing of her grandfather, a successful Tech Entrepreneur, she received an inheritance of 4110000 EUR in 2007, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Antonia as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

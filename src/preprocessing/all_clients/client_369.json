@@ -1,0 +1,107 @@
+{
+    "passport": {
+        "first_name": "Van der Meer",
+        "middle_name": "Jansen",
+        "last_name": "Mulders",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1989-07-28",
+        "passport_number": "EM6210094",
+        "passport_mrz": [
+            "P<NLDMULDERS<<VAN DER MEER<JANSEN<<<<<<<<<<<<",
+            "EM6210094NLD890728<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-02-02",
+        "passport_expiry_date": "2034-02-01"
+    },
+    "client_profile": {
+        "name": "Van der Meer Jansen Mulders",
+        "address": {
+            "city": "Boxtel",
+            "street name": "PC Hoofdstraat",
+            "street number": 84,
+            "postal code": "2748 02"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1989-07-28",
+        "nationality": "Dutch",
+        "passport_number": "EM6210094",
+        "passport_issue_date": "2024-02-02",
+        "passport_expiry_date": "2034-02-01",
+        "gender": "M",
+        "phone_number": "+31 06 25559019",
+        "email_address": "vandermeer.mulders@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Bonaventura College Leiden",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "University of Amsterdam",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Evergreen Marine Corporation (Netherlands) B.V.",
+                "position": "Ship Broker",
+                "salary": 118000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 8390000,
+            "real_estate_value": 1540000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1540000,
+                "property location": "Boxtel"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Van der Meer Jansen Mulders",
+        "first_name": "Van der Meer",
+        "middle_name": "Jansen",
+        "last_name": "Mulders",
+        "passport_number": "EM6210094",
+        "currency": "EUR",
+        "address": {
+            "city": "Boxtel",
+            "street name": "PC Hoofdstraat",
+            "street number": 84,
+            "postal code": "2748 02"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 25559019",
+        "email_address": "vandermeer.mulders@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Van der Meer Jansen Mulders at a luxury car show in Amsterdam. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nVan der Meer Jansen Mulders is a 35 year old and comes from Netherlands.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Van der Meer Jansen Mulders is married to Britt. Van der Meer and Britt have 3 children, named Voorn, Dekkers and Friso.",
+        "Education Background": "Van der Meer finished secondary school at Bonaventura College Leiden in 2007.\nVan der Meer completed his university studies at University of Amsterdam in 2013.\n",
+        "Occupation History": "Van der Meer Jansen Mulders is a 35 year old and comes from Netherlands.\nVan der Meer Jansen Mulders's first role was as a Ship Broker at Evergreen Marine Corporation (Netherlands) B.V., where he worked diligently from 2013 till now to establish a strong reputation.\n",
+        "Wealth Summary": "He managed to save approximately 140000 EUR from his earnings at all companies.\nHe owns townhouse in Boxtel, where he resides. It is worth 1540000 EUR.\n\nIn 2020, he received an inheritance of 8390000 EUR from his late grandfather, who was a prominent Neurosurgeon, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Van der Meer as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Oph\u00e9lie",
+        "middle_name": "L\u00e9a",
+        "last_name": "Dubois",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2001-08-15",
+        "passport_number": "FF7157040",
+        "passport_mrz": [
+            "P<FRADUBOIS<<OPH\u00c9LIE<L\u00c9A<<<<<<<<<<<<<<<<<<<<<",
+            "FF7157040FRA010815<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-09-30",
+        "passport_expiry_date": "2028-09-29"
+    },
+    "client_profile": {
+        "name": "Oph\u00e9lie L\u00e9a Dubois",
+        "address": {
+            "city": "Le Havre",
+            "street name": "Rue de la Huchette",
+            "street number": 50,
+            "postal code": "00936"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2001-08-15",
+        "nationality": "French",
+        "passport_number": "FF7157040",
+        "passport_issue_date": "2018-09-30",
+        "passport_expiry_date": "2028-09-29",
+        "gender": "F",
+        "phone_number": "+33 06 34 72 06 34",
+        "email_address": "ophelie.dubois@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Chaptal",
+            "graduation_year": 2021
+        },
+        "higher_education": [
+            {
+                "university": "University of Toulouse",
+                "graduation_year": 2024
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2280000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Oph\u00e9lie L\u00e9a Dubois",
+        "first_name": "Oph\u00e9lie",
+        "middle_name": "L\u00e9a",
+        "last_name": "Dubois",
+        "passport_number": "FF7157040",
+        "currency": "EUR",
+        "address": {
+            "city": "Le Havre",
+            "street name": "Rue de la Huchette",
+            "street number": 50,
+            "postal code": "00936"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 06 34 72 06 34",
+        "email_address": "ophelie.dubois@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Oph\u00e9lie L\u00e9a Dubois at a golf tournament in Paris. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nOph\u00e9lie L\u00e9a Dubois is a 23 year old and comes from France.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Oph\u00e9lie L\u00e9a Dubois is currently single. She does not have any children.",
+        "Education Background": "Oph\u00e9lie finished secondary school at Lyc\u00e9e Chaptal in 2021.\nOph\u00e9lie completed her university education at University of Toulouse in 2024.\n",
+        "Occupation History": "Oph\u00e9lie L\u00e9a Dubois is a 23 year old and comes from France.\nOph\u00e9lie L\u00e9a Dubois did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 2280000 EUR from her late grandfather, a renowned Real Estate Developer, in 2018.\n",
+        "Client Summary": "The RM is excited to help Oph\u00e9lie navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

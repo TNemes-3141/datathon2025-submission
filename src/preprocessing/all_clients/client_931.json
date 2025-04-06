@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Charlotte",
+        "middle_name": "Hedwig",
+        "last_name": "Koch",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1964-08-01",
+        "passport_number": "IE6254871",
+        "passport_mrz": [
+            "P<DEUKOCH<<CHARLOTTE<HEDWIG<<<<<<<<<<<<<<<<<<",
+            "IE6254871DEU640801<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-02-19",
+        "passport_expiry_date": "2028-02-18"
+    },
+    "client_profile": {
+        "name": "Charlotte Hedwig Koch",
+        "address": {
+            "city": "Leipzig",
+            "street name": "Bismarckallee",
+            "street number": 40,
+            "postal code": "03844"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1964-08-01",
+        "nationality": "German",
+        "passport_number": "IE6254871",
+        "passport_issue_date": "2018-02-19",
+        "passport_expiry_date": "2028-02-18",
+        "gender": "F",
+        "phone_number": "+49 4670 795499",
+        "email_address": "charlotte.koch@versatel.de",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Augusta-Gymnasium Koblenz",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "Ludwigsburg University of Education",
+                "graduation_year": 1989
+            },
+            {
+                "university": "University of Heidelberg",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1993,
+                "company": "Boehringer Ingelheim GmbH",
+                "position": "Research Scientist",
+                "salary": 46000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1996,
+                "company": "Fresenius SE & Co. KGaA",
+                "position": "Clinical Trials Manager",
+                "salary": 62000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2025,
+                "company": "Boehringer Ingelheim GmbH",
+                "position": "Regulatory Affairs Director",
+                "salary": 630000
+            }
+        ],
+        "aum": {
+            "savings": 1260000,
+            "inheritance": 0,
+            "real_estate_value": 2750000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2750000,
+                "property location": "Leipzig"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Charlotte Hedwig Koch",
+        "first_name": "Charlotte",
+        "middle_name": "Hedwig",
+        "last_name": "Koch",
+        "passport_number": "IE6254871",
+        "currency": "EUR",
+        "address": {
+            "city": "Leipzig",
+            "street name": "Bismarckallee",
+            "street number": 40,
+            "postal code": "03844"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 4670 795499",
+        "email_address": "charlotte.koch@versatel.de"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Charlotte Hedwig Koch since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nWith a career spanning nearly 37 years, Charlotte Hedwig Koch has established herself as a key player in the industry.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Charlotte Hedwig Koch is currently widowed. She has 1 kid called Scholz.",
+        "Education Background": "Charlotte finished secondary school at Augusta-Gymnasium Koblenz in 1982.\nCharlotte completed her university studies at Ludwigsburg University of Education in 1989.\nAdditionally, she went on to study at University of Heidelberg until 1993.\n",
+        "Occupation History": "With a career spanning nearly 37 years, Charlotte Hedwig Koch has established herself as a key player in the industry.\nCharlotte Hedwig Koch's first role was as a Research Scientist at Boehringer Ingelheim GmbH, where she worked diligently from 1988 to 1993 to establish a strong reputation.\nIn 1995, she moved to Fresenius SE & Co. KGaA to work as a Clinical Trials Manager, applying her knowledge to achieve outstanding performance.\nFrom 1996 till retirement, she served as a Regulatory Affairs Director at Boehringer Ingelheim GmbH, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1260000 EUR.\nShe has villa located in Leipzig, worth 2750000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Charlotte as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

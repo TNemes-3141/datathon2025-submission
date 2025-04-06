@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Gabriella",
+        "middle_name": "Emanuela",
+        "last_name": "Lotti",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1996-02-27",
+        "passport_number": "HR1200895",
+        "passport_mrz": [
+            "P<ITALOTTI<<GABRIELLA<EMANUELA<<<<<<<<<<<<<<<",
+            "HR1200895ITA960227<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-05-21",
+        "passport_expiry_date": "2033-05-20"
+    },
+    "client_profile": {
+        "name": "Gabriella Emanuela Lotti",
+        "address": {
+            "city": "Genoa",
+            "street name": "Galleria Vittorio Emanuele II",
+            "street number": 71,
+            "postal code": "69450"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1996-02-27",
+        "nationality": "Italian",
+        "passport_number": "HR1200895",
+        "passport_issue_date": "2023-05-21",
+        "passport_expiry_date": "2033-05-20",
+        "gender": "F",
+        "phone_number": "+39 393 8296912",
+        "email_address": "gabriella.lotti@wind.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "International School for Advanced Studies (SISSA)",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": 2022,
+                "company": "Roche S.p.A.",
+                "position": "Research Scientist",
+                "salary": 25000
+            },
+            {
+                "start_year": 2024,
+                "end_year": null,
+                "company": "Roche S.p.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 39000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 990000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gabriella Emanuela Lotti",
+        "first_name": "Gabriella",
+        "middle_name": "Emanuela",
+        "last_name": "Lotti",
+        "passport_number": "HR1200895",
+        "currency": "EUR",
+        "address": {
+            "city": "Genoa",
+            "street name": "Galleria Vittorio Emanuele II",
+            "street number": 71,
+            "postal code": "69450"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 393 8296912",
+        "email_address": "gabriella.lotti@wind.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Gabriella Emanuela Lotti at a corporate retreat in Rome. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nGabriella Emanuela Lotti is a 29 year old Biotech Startup Founder from Italy.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Gabriella Emanuela Lotti has been happily married to  Marino since 2021. They do not have any children.",
+        "Education Background": "In 2014, Gabriella graduated from Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma with a secondary school diploma.\nGabriella pursued higher education at International School for Advanced Studies (SISSA), graduating in 2020.\n",
+        "Occupation History": "Gabriella Emanuela Lotti is a 29 year old and comes from Italy.\nGabriella Emanuela Lotti's first role was as a Research Scientist at Roche S.p.A., where she worked diligently from 2019 to 2022 to establish a strong reputation.\nHer subsequent role was as a Biotech Startup Founder at Roche S.p.A., where she continued to grow professionally from 2024 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 20000 EUR.\nClient does not have any properties.In 2018, she received an inheritance of 990000 EUR from her late grandmother, who was a prominent Oil and Gas Executive, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

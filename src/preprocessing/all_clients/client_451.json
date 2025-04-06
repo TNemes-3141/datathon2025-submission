@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Heidi",
+        "middle_name": "Sarah",
+        "last_name": "Wagner",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1959-04-19",
+        "passport_number": "XN8403498",
+        "passport_mrz": [
+            "P<AUTWAGNER<<HEIDI<SARAH<<<<<<<<<<<<<<<<<<<<<",
+            "XN8403498AUT590419<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-04-30",
+        "passport_expiry_date": "2033-04-29"
+    },
+    "client_profile": {
+        "name": "Heidi Sarah Wagner",
+        "address": {
+            "city": "Amstetten",
+            "street name": "W\u00e4hringer Stra\u00dfe",
+            "street number": 59,
+            "postal code": "7430"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1959-04-19",
+        "nationality": "Austrian",
+        "passport_number": "XN8403498",
+        "passport_issue_date": "2023-04-30",
+        "passport_expiry_date": "2033-04-29",
+        "gender": "F",
+        "phone_number": "+43 328 684 5679",
+        "email_address": "heidi.wagner@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium St. Gilgen",
+            "graduation_year": 1977
+        },
+        "higher_education": [
+            {
+                "university": "University of Vienna",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1983,
+                "end_year": 1984,
+                "company": "Gerry Weber International AG",
+                "position": "Assistant Designer",
+                "salary": 29000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1986,
+                "company": "Gerry Weber International AG",
+                "position": "Senior Designer",
+                "salary": 50000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 1991,
+                "company": "Gerry Weber International AG",
+                "position": "Creative Director",
+                "salary": 66000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1997,
+                "company": "Swarovski AG",
+                "position": "Founder/Designer",
+                "salary": 245000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2020,
+                "company": "Gerry Weber International AG",
+                "position": "Luxury Brand Owner",
+                "salary": 1167000
+            }
+        ],
+        "aum": {
+            "savings": 2030000,
+            "inheritance": 0,
+            "real_estate_value": 3600000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1020000,
+                "property location": "Amstetten"
+            },
+            {
+                "property type": "villa",
+                "property value": 1830000,
+                "property location": "Tulln an der Donau"
+            },
+            {
+                "property type": "flat",
+                "property value": 750000,
+                "property location": "Spittal an der Drau"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Heidi Sarah Wagner",
+        "first_name": "Heidi",
+        "middle_name": "Sarah",
+        "last_name": "Wagner",
+        "passport_number": "XN8403498",
+        "currency": "EUR",
+        "address": {
+            "city": "Amstetten",
+            "street name": "W\u00e4hringer Stra\u00dfe",
+            "street number": 59,
+            "postal code": "7430"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 328 684 5679",
+        "email_address": "heidi.wagner@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Heidi Sarah Wagner and the RM were introduced at a gourmet food festival in Vienna. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nHeidi Sarah Wagner is a 65 year old and comes from Austria.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Heidi Sarah Wagner and Graf tied the knot in 1995. They are proud parents of 2 children: Luisa and Karoline.",
+        "Education Background": "Heidi obtained her secondary school diploma from Gymnasium St. Gilgen in 1977.\nHeidi completed her university studies at University of Vienna in 1982.\n",
+        "Occupation History": "Having worked for over 42 years, Heidi Sarah Wagner brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAt Gerry Weber International AG, Heidi Sarah Wagner held the position of Assistant Designer from 1983 to 1984, developing essential skills in the field.\nAfter gaining experience, she took on the role of Senior Designer at Gerry Weber International AG in 1984, further expanding her skill set.\nIn 1988, she joined Gerry Weber International AG as a Creative Director, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nHer next role was as a Founder/Designer at Swarovski AG, where she applied her extensive experience to drive innovation from 1992 to 1997.\nHeidi Sarah Wagner retired after holding the position of Luxury Brand Owner at Gerry Weber International AG from 1997 to 2020.",
+        "Wealth Summary": "She managed to save approximately 2030000 EUR from her earnings at all companies.\nShe owns 3 exceptional properties: condo located in Amstetten, valued at approximately 1,020,000.00 EUR, villa located in Tulln an der Donau, valued at approximately 1,830,000.00 EUR, flat located in Spittal an der Drau, valued at approximately 750,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Amstetten, Tulln an der Donau and Spittal an der Drau.\nShe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Olsen",
+        "middle_name": "Krog",
+        "last_name": "Pedersen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1962-03-13",
+        "passport_number": "AN0276475",
+        "passport_mrz": [
+            "P<DNKPEDERSEN<<OLSEN<KROG<<<<<<<<<<<<<<<<<<<<",
+            "AN0276475DNK620313<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-05-31",
+        "passport_expiry_date": "2034-05-30"
+    },
+    "client_profile": {
+        "name": "Olsen Krog Pedersen",
+        "address": {
+            "city": "Roskilde",
+            "street name": "Store Kongensgade",
+            "street number": 10,
+            "postal code": "2167"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1962-03-13",
+        "nationality": "Danish",
+        "passport_number": "AN0276475",
+        "passport_issue_date": "2024-05-31",
+        "passport_expiry_date": "2034-05-30",
+        "gender": "M",
+        "phone_number": "+45 40 70 33 54",
+        "email_address": "olsen.pedersen@webspace.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Nyborg Gymnasium",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "Jyske Bank Private Banking",
+                "position": "Financial Advisor",
+                "salary": 251000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1992,
+                "company": "Nykur Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 410000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1996,
+                "company": "Danske Bank Wealth Management",
+                "position": "Wealth Manager",
+                "salary": 551000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2001,
+                "company": "Nordea Private Banking Danmark",
+                "position": "Family Office Executive",
+                "salary": 1011000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2022,
+                "company": "Nykur Private Banking",
+                "position": "Private Banker",
+                "salary": 5784000
+            }
+        ],
+        "aum": {
+            "savings": 10460000,
+            "inheritance": 0,
+            "real_estate_value": 6170000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2850000,
+                "property location": "Roskilde"
+            },
+            {
+                "property type": "house",
+                "property value": 1930000,
+                "property location": "Randers"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1390000,
+                "property location": "Skanderborg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Olsen Krog Pedersen",
+        "first_name": "Olsen",
+        "middle_name": "Krog",
+        "last_name": "Pedersen",
+        "passport_number": "AN0276475",
+        "currency": "DKK",
+        "address": {
+            "city": "Roskilde",
+            "street name": "Store Kongensgade",
+            "street number": 10,
+            "postal code": "2167"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 40 70 33 54",
+        "email_address": "olsen.pedersen@webspace.dk"
+    },
+    "client_description": {
+        "Summary Note": "Olsen Krog Pedersen and the RM were introduced at an art auction in Copenhagen. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nOlsen Krog Pedersen is a 63 year old retired Private Banker from Denmark. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Olsen Krog Pedersen and Alma tied the knot in 1992. Olsen and Alma have 1 child, named Bjerregaard.",
+        "Education Background": "In 1981, Olsen graduated from Nyborg Gymnasium with a secondary school diploma.\nHe then attended University of Copenhagen, which he graduated in 1985.\n",
+        "Occupation History": "Olsen Krog Pedersen is a 63 year old retired Private Banker from Denmark. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nOlsen Krog Pedersen began his professional journey as a Financial Advisor at Jyske Bank Private Banking in 1985, laying the foundation for future success.\nHis subsequent role was as a Portfolio Manager at Nykur Private Banking, where he continued to grow professionally from 1989 to 1992.\nFrom 1992 to 1996, he served as a Wealth Manager at Danske Bank Wealth Management, solidifying his position as a leader in the industry.\nHe appointment as a Family Office Executive at Nordea Private Banking Danmark in 1998 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\nOlsen Krog Pedersen retired after holding the position of Private Banker at Nykur Private Banking from 2001 to 2022.",
+        "Wealth Summary": "While working, he saved 10460000 DKK, which he used to build a diversified investment portfolio.\nHe owns villa in Roskilde, where he resides. It is worth 2850000 DKK.\n\nIn addition to his primary residence, he owns house in Randers worth 1930000 DKK.\n\nMoreover, he has invested in additional property in Skanderborg, giving possiblity for generating additional income. The townhouse is valued at 1390000 DKK.\n\nHe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have Olsen as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

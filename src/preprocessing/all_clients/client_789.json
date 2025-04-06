@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Giulia",
+        "middle_name": "Daniela",
+        "last_name": "Bianchi",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1961-08-17",
+        "passport_number": "OL1802814",
+        "passport_mrz": [
+            "P<ITABIANCHI<<GIULIA<DANIELA<<<<<<<<<<<<<<<<<",
+            "OL1802814ITA610817<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-11-24",
+        "passport_expiry_date": "2028-11-23"
+    },
+    "client_profile": {
+        "name": "Giulia Daniela Bianchi",
+        "address": {
+            "city": "Perugia",
+            "street name": "Piazza Castello",
+            "street number": 83,
+            "postal code": "43079"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1961-08-17",
+        "nationality": "Italian",
+        "passport_number": "OL1802814",
+        "passport_issue_date": "2018-11-24",
+        "passport_expiry_date": "2028-11-23",
+        "gender": "F",
+        "phone_number": "+39 370 4920799",
+        "email_address": "giulia.bianchi@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "European University of Rome",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "Studio Legale Associato",
+                "position": "Associate Attorney",
+                "salary": 29000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 2022,
+                "company": "Chiomenti Studio Legale",
+                "position": "Senior Associate",
+                "salary": 261000
+            }
+        ],
+        "aum": {
+            "savings": 570000,
+            "inheritance": 0,
+            "real_estate_value": 3360000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1340000,
+                "property location": "Perugia"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1010000,
+                "property location": "Venice"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1010000,
+                "property location": "Trieste"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Giulia Daniela Bianchi",
+        "first_name": "Giulia",
+        "middle_name": "Daniela",
+        "last_name": "Bianchi",
+        "passport_number": "OL1802814",
+        "currency": "EUR",
+        "address": {
+            "city": "Perugia",
+            "street name": "Piazza Castello",
+            "street number": 83,
+            "postal code": "43079"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 370 4920799",
+        "email_address": "giulia.bianchi@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Giulia Daniela Bianchi since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nHaving worked for over 40 years, Giulia Daniela Bianchi brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Giulia Daniela Bianchi is married to Conti. Giulia and Conti have 1 child, named Daniela.",
+        "Education Background": "Giulia graduated from Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia in 1979.\nGiulia attended European University of Rome and graduated in 1984.\n",
+        "Occupation History": "Giulia Daniela Bianchi is a seasoned professional with over 40 years of experience.\nGiulia Daniela Bianchi's first role was as a Associate Attorney at Studio Legale Associato, where she worked diligently from 1985 to 1988 to establish a strong reputation.\nHer subsequent role was as a Senior Associate at Chiomenti Studio Legale, where she continued to grow professionally from 1988 till retirement.\n",
+        "Wealth Summary": "While working, she saved 570000 EUR, which she used to build a diversified investment portfolio.\nShe has house located in Perugia, worth 1340000 EUR.\n\nShe purchased townhouse in Venice, where she spends her holidays. It is valued at 1010000 EUR.\nMoreover, she has invested in additional property in Trieste, giving possiblity for generating additional income. The townhouse is valued at 1010000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

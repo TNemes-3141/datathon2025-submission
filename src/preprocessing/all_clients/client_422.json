@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Floriane",
+        "middle_name": "Delphine",
+        "last_name": "Lambert",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1992-12-16",
+        "passport_number": "KF5149323",
+        "passport_mrz": [
+            "P<FRALAMBERT<<FLORIANE<DELPHINE<<<<<<<<<<<<<<",
+            "KF5149323FRA921216<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-11-10",
+        "passport_expiry_date": "2028-11-09"
+    },
+    "client_profile": {
+        "name": "Floriane Delphine Lambert",
+        "address": {
+            "city": "Aix-en-Provence",
+            "street name": "Rue de la Paix",
+            "street number": 65,
+            "postal code": "76210"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1992-12-16",
+        "nationality": "French",
+        "passport_number": "KF5149323",
+        "passport_issue_date": "2018-11-10",
+        "passport_expiry_date": "2028-11-09",
+        "gender": "F",
+        "phone_number": "+33 02 60 00 25 64",
+        "email_address": "floriane.lambert@neuf.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Fr\u00e9d\u00e9ric Chopin",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "American Graduate School of Business in Paris",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "Apax Partners SAS",
+                "position": "Analyst",
+                "salary": 41000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 1600000,
+            "real_estate_value": 1510000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1510000,
+                "property location": "Aix-en-Provence"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Floriane Delphine Lambert",
+        "first_name": "Floriane",
+        "middle_name": "Delphine",
+        "last_name": "Lambert",
+        "passport_number": "KF5149323",
+        "currency": "EUR",
+        "address": {
+            "city": "Aix-en-Provence",
+            "street name": "Rue de la Paix",
+            "street number": 65,
+            "postal code": "76210"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 02 60 00 25 64",
+        "email_address": "floriane.lambert@neuf.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Floriane Delphine Lambert at a luxury car show in Paris. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nFloriane Delphine Lambert is a 32 year old and comes from France.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Floriane Delphine Lambert and Moreau tied the knot in 2017. Floriane and Moreau have 2 children, named Marchand and Lema\u00eetre.",
+        "Education Background": "Floriane earned her secondary school diploma from Lyc\u00e9e Fr\u00e9d\u00e9ric Chopin in 2010.\nShe then attended American Graduate School of Business in Paris, which she graduated in 2017.\n",
+        "Occupation History": "Floriane Delphine Lambert is a 32 year old Analyst from France.\nIn 2017, Floriane Delphine Lambert started working as a Analyst at Apax Partners SAS, marking the beginning of her successful career.\n",
+        "Wealth Summary": "She managed to save approximately 40000 EUR from her earnings at all companies.\nShe owns flat in Aix-en-Provence, where she resides. It is worth 1510000 EUR.\n\nShe inherited 1600000 EUR from her grandmother, a well-known Oil and Gas Executive, in 2019, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, Floriane has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

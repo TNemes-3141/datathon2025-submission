@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Schneider",
+        "middle_name": "Kr\u00e4mer",
+        "last_name": "Lechner",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1957-03-17",
+        "passport_number": "CV5033669",
+        "passport_mrz": [
+            "P<AUTLECHNER<<SCHNEIDER<KR\u00c4MER<<<<<<<<<<<<<<<",
+            "CV5033669AUT570317<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-07-30",
+        "passport_expiry_date": "2028-07-29"
+    },
+    "client_profile": {
+        "name": "Schneider Kr\u00e4mer Lechner",
+        "address": {
+            "city": "Gmunden",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 67,
+            "postal code": "6568"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1957-03-17",
+        "nationality": "Austrian",
+        "passport_number": "CV5033669",
+        "passport_issue_date": "2018-07-30",
+        "passport_expiry_date": "2028-07-29",
+        "gender": "M",
+        "phone_number": "+43 814 612 0938",
+        "email_address": "schneider.lechner@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Bundesgymnasium und Bundesrealgymnasium Wien I",
+            "graduation_year": 1975
+        },
+        "higher_education": [
+            {
+                "university": "New Design University St. P\u00f6lten",
+                "graduation_year": 1981
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1984,
+                "company": "Cisco Systems Austria GmbH",
+                "position": "Software Developer",
+                "salary": 30000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 1989,
+                "company": "Microsoft Austria GmbH",
+                "position": "Startup Founder",
+                "salary": 50000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1993,
+                "company": "Cisco Systems Austria GmbH",
+                "position": "CEO",
+                "salary": 64000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1995,
+                "company": "Ubitricity GesmbH",
+                "position": "Venture Capitalist",
+                "salary": 103000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2017,
+                "company": "SAP Austria GmbH",
+                "position": "Tech Industry Leader",
+                "salary": 778000
+            }
+        ],
+        "aum": {
+            "savings": 1370000,
+            "inheritance": 0,
+            "real_estate_value": 3200000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1200000,
+                "property location": "Gmunden"
+            },
+            {
+                "property type": "condo",
+                "property value": 1140000,
+                "property location": "Salzburg"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 860000,
+                "property location": "Bregenz"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schneider Kr\u00e4mer Lechner",
+        "first_name": "Schneider",
+        "middle_name": "Kr\u00e4mer",
+        "last_name": "Lechner",
+        "passport_number": "CV5033669",
+        "currency": "EUR",
+        "address": {
+            "city": "Gmunden",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 67,
+            "postal code": "6568"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 814 612 0938",
+        "email_address": "schneider.lechner@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Schneider Kr\u00e4mer Lechner and the RM crossed paths at a mutual friend's dinner party in Vienna. They discovered they had many common acquaintances and decided to explore business opportunities together.\nSchneider Kr\u00e4mer Lechner is a 68 year old retired Tech Industry Leader from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Schneider Kr\u00e4mer Lechner and Renate have been married since 1981. They are proud parents of 3 children: Andrea, Petra and Brandstetter.",
+        "Education Background": "Schneider finished secondary school at Bundesgymnasium und Bundesrealgymnasium Wien I in 1975.\nHe then attended New Design University St. P\u00f6lten, which he graduated in 1981.\n",
+        "Occupation History": "Schneider Kr\u00e4mer Lechner is a seasoned professional with over 44 years of experience.\nSchneider Kr\u00e4mer Lechner launched his career as a Software Developer at Cisco Systems Austria GmbH, where he gained valuable experience from 1981 to 1984.\nHis subsequent role was as a Startup Founder at Microsoft Austria GmbH, where he continued to grow professionally from 1986 to 1989.\nHis tenure as a CEO at Cisco Systems Austria GmbH from 1989 to 1993 was marked by significant achievements and a deepening understanding of the field.\nAfter 12 years of dedication, he assumed the role of Venture Capitalist at Ubitricity GesmbH in 1994, spearheading high-profile projects and mentoring junior colleagues.\nHe held the position of Tech Industry Leader at SAP Austria GmbH from 1996 until his retirement.",
+        "Wealth Summary": "Throughout his career, he saved 1370000 EUR, investing in various assets to grow his wealth.\nHe owns house in Gmunden, where he resides. It is worth 1200000 EUR.\n\nIn addition to his primary residence, he owns condo in Salzburg worth 1140000 EUR.\n\nOn top of that he inherited a beautiful townhouse in Bregenz, which could be used as a weekend getaway. It is valued at 860000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

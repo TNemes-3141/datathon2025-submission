@@ -1,0 +1,138 @@
+{
+    "passport": {
+        "first_name": "Karen",
+        "middle_name": "Caroline",
+        "last_name": "Hansen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1969-07-30",
+        "passport_number": "SM5383297",
+        "passport_mrz": [
+            "P<DNKHANSEN<<KAREN<CAROLINE<<<<<<<<<<<<<<<<<<",
+            "SM5383297DNK690730<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1956-12-29",
+        "passport_expiry_date": "1966-12-28"
+    },
+    "client_profile": {
+        "name": "Karen Caroline Hansen",
+        "address": {
+            "city": "Skanderborg",
+            "street name": "\u00d8rsteds Park",
+            "street number": 68,
+            "postal code": "4198"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1969-07-30",
+        "nationality": "Danish",
+        "passport_number": "SM5383297",
+        "passport_issue_date": "2016-12-29",
+        "passport_expiry_date": "2026-12-28",
+        "gender": "F",
+        "phone_number": "07 92 69 12",
+        "email_address": "karen.hansen@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Middelfart Gymnasium",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "University College Lilleb\u00e6lt",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1998,
+                "company": "National Gallery of Denmark",
+                "position": "Art Dealer",
+                "salary": 297000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2004,
+                "company": "Louisiana Museum of Modern Art",
+                "position": "Gallery Owner",
+                "salary": 560000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2005,
+                "company": "Arken Museum of Modern Art",
+                "position": "Art Advisor",
+                "salary": 514000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "Arken Museum of Modern Art",
+                "position": "Curator",
+                "salary": 5217000
+            }
+        ],
+        "aum": {
+            "savings": 7680000,
+            "inheritance": 9180000,
+            "real_estate_value": 4527000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2014,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1427000,
+                "property location": "Skanderborg"
+            },
+            {
+                "property type": "flat",
+                "property value": 950000,
+                "property location": "Horsens"
+            },
+            {
+                "property type": "villa",
+                "property value": 2150000,
+                "property location": "Esbjerg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Karen Caroline Hansen",
+        "first_name": "Karen",
+        "middle_name": "Caroline",
+        "last_name": "Hansen",
+        "passport_number": "SM5383297",
+        "currency": "DKK",
+        "address": {
+            "city": "Skanderborg",
+            "street name": "\u00d8rsteds Park",
+            "street number": 68,
+            "postal code": "4198"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "07 92 69 12",
+        "email_address": "karen.hansen@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Karen Caroline Hansen and the RM met at a financial seminar in Copenhagen. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nWith a career spanning nearly 31 years, Karen Caroline Hansen has established herself as a key player in the industry.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Karen Caroline Hansen has been happily married to Madsen since 1999. Together they have 2 kids called M\u00f8ller and Madsen.",
+        "Education Background": "Karen obtained her secondary school diploma from Middelfart Gymnasium in 1989.\nAfter that, she went on to study at University College Lilleb\u00e6lt until 1993.\n",
+        "Occupation History": "Karen Caroline Hansen is a seasoned professional with over 31 years of experience.\nKaren Caroline Hansen's first role was as a Art Dealer at National Gallery of Denmark, where she worked diligently from 1994 to 1998 to establish a strong reputation.\nHer subsequent role was as a Gallery Owner at Louisiana Museum of Modern Art, where she continued to grow professionally from 1999 to 2004.\nAt Arken Museum of Modern Art, she worked as a Art Advisor from 2004 to 2005, focusing on strategic initiatives and team collaboration.\nShe worked as a Curator at Arken Museum of Modern Art from 2007 till now, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "She managed to save approximately 7680000 DKK from her earnings at all companies.\nShe has condo located in Skanderborg, worth 1427000 DKK.\n\nShe purchased flat in Horsens, where she spends her holidays. It is valued at 950000 DKK.\nMoreover, she has invested in additional property in Esbjerg, giving possiblity for generating additional income. The villa is valued at 2150000 DKK.\n\nShe inherited a significant sum of 9180000 DKK from her grandfather, a respected Oil and Gas Executive, in 2014, which she has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

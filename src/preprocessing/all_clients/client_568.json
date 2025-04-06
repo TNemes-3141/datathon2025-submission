@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Essi",
+        "middle_name": "Laura",
+        "last_name": "Salo",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1973-10-25",
+        "passport_number": "HZ3157996",
+        "passport_mrz": [
+            "P<FINSALO<<ESSI<LAURA<<<<<<<<<<<<<<<<<<<<<<<<",
+            "HZ3157996FIN731025<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-06-17",
+        "passport_expiry_date": "2032-06-16"
+    },
+    "client_profile": {
+        "name": "Essi Laura Salo",
+        "address": {
+            "city": "F\u00fcrth",
+            "street name": "Prager Stra\u00dfe",
+            "street number": 52,
+            "postal code": "48654"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1973-10-25",
+        "nationality": "Finnish",
+        "passport_number": "HZ3157996",
+        "passport_issue_date": "2022-06-17",
+        "passport_expiry_date": "2032-06-16",
+        "gender": "F",
+        "phone_number": "+49 3144 637085",
+        "email_address": "essi.salo@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Hyvink\u00e4\u00e4n Sveitsin lukio",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "Oulu University of Applied Science",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 1998,
+                "company": "Merck KGaA",
+                "position": "Research Scientist",
+                "salary": 37000
+            },
+            {
+                "start_year": 1998,
+                "end_year": null,
+                "company": "Boehringer Ingelheim GmbH",
+                "position": "Clinical Trials Manager",
+                "salary": 304000
+            }
+        ],
+        "aum": {
+            "savings": 570000,
+            "inheritance": 4230000,
+            "real_estate_value": 3860000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2009,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2260000,
+                "property location": "F\u00fcrth"
+            },
+            {
+                "property type": "house",
+                "property value": 1600000,
+                "property location": "H\u00e4meenlinna"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Essi Laura Salo",
+        "first_name": "Essi",
+        "middle_name": "Laura",
+        "last_name": "Salo",
+        "passport_number": "HZ3157996",
+        "currency": "EUR",
+        "address": {
+            "city": "F\u00fcrth",
+            "street name": "Prager Stra\u00dfe",
+            "street number": 52,
+            "postal code": "48654"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 3144 637085",
+        "email_address": "essi.salo@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Essi Laura Salo and the RM crossed paths at a tech conference in Berlin. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nEssi Laura Salo is a 51 year old Clinical Trials Manager from Germany.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Essi Laura Salo is married to Savolainen. They are proud parents of 3 children: Koskinen, Anniina and Iiris.",
+        "Education Background": "In 1992, Essi finished her secondary school education at Hyvink\u00e4\u00e4n Sveitsin lukio.\nEssi earned her degree from Oulu University of Applied Science in 1997.\n",
+        "Occupation History": "Essi Laura Salo is a 51 year old and comes from Germany.\nEssi Laura Salo's first role was as a Research Scientist at Merck KGaA, where she worked diligently from 1997 to 1998 to establish a strong reputation.\nAfter gaining experience, she took on the role of Clinical Trials Manager at Boehringer Ingelheim GmbH in 1998, further expanding her skill set.\n",
+        "Wealth Summary": "While working, she saved 570000 EUR, which she used to build a diversified investment portfolio.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across H\u00e4meenlinna and F\u00fcrth, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2009, she received an inheritance of 4230000 EUR from her late mother, who was a prominent Private Equity Manager, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

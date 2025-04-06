@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Freja",
+        "middle_name": "Eva",
+        "last_name": "Pedersen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1981-02-23",
+        "passport_number": "EQ9803792",
+        "passport_mrz": [
+            "P<DNKPEDERSEN<<FREJA<EVA<<<<<<<<<<<<<<<<<<<<<",
+            "EQ9803792DNK810223<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-01",
+        "passport_expiry_date": "2030-09-30"
+    },
+    "client_profile": {
+        "name": "Freja Eva Pedersen",
+        "address": {
+            "city": "Helsing\u00f8r",
+            "street name": "Vandkunsten",
+            "street number": 41,
+            "postal code": "2175"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1981-02-23",
+        "nationality": "Danish",
+        "passport_number": "EQ9803792",
+        "passport_issue_date": "2020-10-01",
+        "passport_expiry_date": "2030-09-30",
+        "gender": "F",
+        "phone_number": "+45 94 17 14 61",
+        "email_address": "freja.pedersen@webspace.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Aarhus Katedralskole",
+            "graduation_year": 1998
+        },
+        "higher_education": [
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 2003
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2008,
+                "company": "Nykur Private Banking",
+                "position": "Financial Advisor",
+                "salary": 273000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "Nykur Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 371000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Jyske Bank Private Banking",
+                "position": "Wealth Manager",
+                "salary": 2244000
+            }
+        ],
+        "aum": {
+            "savings": 2990000,
+            "inheritance": 21280000,
+            "real_estate_value": 3460000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2010,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1271000,
+                "property location": "Helsing\u00f8r"
+            },
+            {
+                "property type": "house",
+                "property value": 2189000,
+                "property location": "Hiller\u00f8d"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Belgium"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Freja Eva Pedersen",
+        "first_name": "Freja",
+        "middle_name": "Eva",
+        "last_name": "Pedersen",
+        "passport_number": "EQ9803792",
+        "currency": "DKK",
+        "address": {
+            "city": "Helsing\u00f8r",
+            "street name": "Vandkunsten",
+            "street number": 41,
+            "postal code": "2175"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "++31 94 17 14 61",
+        "email_address": "freja.pedersen@webspace.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Freja Eva Pedersen at a yacht party in Copenhagen. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nFreja Eva Pedersen is a 44 year old Wealth Manager from Denmark. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Freja Eva Pedersen is currently single. She does not have any children.",
+        "Education Background": "Freja completed her secondary education at Aarhus Katedralskole in 1998.\nFreja completed her university studies at University of Copenhagen in 2003.\n",
+        "Occupation History": "Having worked for over 21 years, Freja Eva Pedersen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAt Nykur Private Banking, Freja Eva Pedersen held the position of Financial Advisor from 2004 to 2008, developing essential skills in the field.\nHer subsequent role was as a Portfolio Manager at Nykur Private Banking, where she continued to grow professionally from 2008 to 2012.\nFrom 2014 till now, she served as a Wealth Manager at Jyske Bank Private Banking, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "Throughout her career, she saved 2990000 DKK, investing in various assets to grow her wealth.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 3460000 DKK.\n\n\nFollowing the passing of her mother, a successful Oil and Gas Executive, she received an inheritance of 21280000 DKK in 2010, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Tiainen",
+        "middle_name": "Lehtinen",
+        "last_name": "Tolvanen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1979-03-05",
+        "passport_number": "ID1733000",
+        "passport_mrz": [
+            "P<FINTOLVANEN<<TIAINEN<LEHTINEN<<<<<<<<<<<<<<",
+            "ID1733000FIN790305<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-11-25",
+        "passport_expiry_date": "2031-11-24"
+    },
+    "client_profile": {
+        "name": "Tiainen Lehtinen Tolvanen",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue de la R\u00e9publique",
+            "street number": 62,
+            "postal code": "5170"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1979-03-05",
+        "nationality": "Finnish",
+        "passport_number": "ID1733000",
+        "passport_issue_date": "2021-11-25",
+        "passport_expiry_date": "2031-11-24",
+        "gender": "M",
+        "phone_number": "0464 400 002",
+        "email_address": "tiainen.tolvanen@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kiteen lukio",
+            "graduation_year": 1998
+        },
+        "higher_education": [
+            {
+                "university": "University of Oulu",
+                "graduation_year": 2002
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2007,
+                "company": "Stella McCartney Belgium",
+                "position": "Assistant Designer",
+                "salary": 43000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2013,
+                "company": "Walter Van Beirendonck BVBA",
+                "position": "Senior Designer",
+                "salary": 60000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2018,
+                "company": "Walter Van Beirendonck BVBA",
+                "position": "Creative Director",
+                "salary": 86000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Stella McCartney Belgium",
+                "position": "Founder/Designer",
+                "salary": 262000
+            }
+        ],
+        "aum": {
+            "savings": 310000,
+            "inheritance": 460000,
+            "real_estate_value": 1050000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2010,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1050000,
+                "property location": "Herstal"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Tiainen Lehtinen Tolvanen",
+        "first_name": "Tiainen",
+        "middle_name": "Lehtinen",
+        "last_name": "Tolvanen",
+        "passport_number": "ID1733000",
+        "currency": "EUR",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue de la R\u00e9publique",
+            "street number": 62,
+            "postal code": "5170"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0464 400 002",
+        "email_address": "tiainen.tolvanen@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Tiainen Lehtinen Tolvanen at a corporate retreat in Brussels. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nTiainen Lehtinen Tolvanen is a 46 year old Founder/Designer from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Tiainen Lehtinen Tolvanen and Vilma tied the knot in 2006. Together they have 3 kids called Peltola, Niemi and Salo.",
+        "Education Background": "Tiainen graduated from Kiteen lukio in 1998.\nAfter that, he went on to study at University of Oulu until 2002.\n",
+        "Occupation History": "With a career spanning nearly 22 years, Tiainen Lehtinen Tolvanen has established himself as a key player in the industry.\nIn 2003, Tiainen Lehtinen Tolvanen started working as a Assistant Designer at Stella McCartney Belgium, marking the beginning of his successful career.\nHis subsequent role was as a Senior Designer at Walter Van Beirendonck BVBA, where he continued to grow professionally from 2009 to 2013.\nHis tenure as a Creative Director at Walter Van Beirendonck BVBA from 2014 to 2018 was marked by significant achievements and a deepening understanding of the field.\nHe worked as a Founder/Designer at Stella McCartney Belgium from 2020 till now, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 310000 EUR.\nHe owns condo in Herstal, where he resides. It is worth 1050000 EUR.\n\nHe inherited 460000 EUR from his grandmother, a well-known Corporate Lawyer, in 2010, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

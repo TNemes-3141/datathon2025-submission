@@ -1,0 +1,146 @@
+{
+    "passport": {
+        "first_name": "Anna",
+        "middle_name": "Giulia",
+        "last_name": "Bruno",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1969-03-04",
+        "passport_number": "UY8705652",
+        "passport_mrz": [
+            "P<ITABRUNO<<ANNA<GIULIA<<<<<<<<<<<<<<<<<<<<<<",
+            "UY8705652ITA690304<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-12-22",
+        "passport_expiry_date": "2027-12-21"
+    },
+    "client_profile": {
+        "name": "Anna Giulia Bruno",
+        "address": {
+            "city": "Verona",
+            "street name": "Via Dante",
+            "street number": 14,
+            "postal code": "48911"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1969-03-04",
+        "nationality": "Italian",
+        "passport_number": "UY8705652",
+        "passport_issue_date": "2017-12-22",
+        "passport_expiry_date": "2027-12-21",
+        "gender": "F",
+        "phone_number": "+39 307 2442441",
+        "email_address": "anna.bruno@gmail.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Liceo Scientifico Niccol\u00f2 Copernico Padova",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "John Cabot University",
+                "graduation_year": 1992
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1998,
+                "company": "Reply S.p.A.",
+                "position": "Software Developer",
+                "salary": 35000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 2002,
+                "company": "Selex ES S.p.A.",
+                "position": "Startup Founder",
+                "salary": 38000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2003,
+                "company": "Selex ES S.p.A.",
+                "position": "CEO",
+                "salary": 57000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2008,
+                "company": "Selex ES S.p.A.",
+                "position": "Venture Capitalist",
+                "salary": 122000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "Selex ES S.p.A.",
+                "position": "Tech Industry Leader",
+                "salary": 536000
+            }
+        ],
+        "aum": {
+            "savings": 920000,
+            "inheritance": 4360000,
+            "real_estate_value": 2957000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2006,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1427000,
+                "property location": "Verona"
+            },
+            {
+                "property type": "flat",
+                "property value": 640000,
+                "property location": "Taranto"
+            },
+            {
+                "property type": "condo",
+                "property value": 890000,
+                "property location": "Padua"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Anna Giulia Bruno",
+        "first_name": "Anna",
+        "middle_name": "Giulia",
+        "last_name": "Bruno",
+        "passport_number": "UY8705652",
+        "currency": "EUR",
+        "address": {
+            "city": "Verona",
+            "street name": "Via Dante",
+            "street number": 14,
+            "postal code": "48911"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 307 2442441",
+        "email_address": "anna.bruno@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Anna Giulia Bruno and the RM crossed paths at a tech conference in Rome. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nAnna Giulia Bruno is a 56 year old Tech Industry Leader from Italy.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Anna Giulia Bruno is currently widowed. Her children are named Bianchi and Benedetta.",
+        "Education Background": "In 1979, Anna finished her secondary school education at Liceo Scientifico Niccol\u00f2 Copernico Padova.\nAnna completed her university education at John Cabot University in 1992.\n",
+        "Occupation History": "With a career spanning nearly 32 years, Anna Giulia Bruno has established herself as a key player in the industry.\nIn 1993, Anna Giulia Bruno started working as a Software Developer at Reply S.p.A., marking the beginning of her successful career.\nAt Selex ES S.p.A., she held the position of Startup Founder from 1998 to 2002, making significant contributions to the organization.\nIn 2002, she joined Selex ES S.p.A. as a CEO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nHer next role was as a Venture Capitalist at Selex ES S.p.A., where she applied her extensive experience to drive innovation from 2005 to 2008.\nAs a Tech Industry Leader at Selex ES S.p.A. since 2009, she remains committed to excellence, driving progress and inspiring others through her remarkable leadership.",
+        "Wealth Summary": "Throughout her career, she saved 920000 EUR, investing in various assets to grow her wealth.\nShe has house located in Verona, worth 1427000 EUR.\n\nIn addition to her primary residence, she owns flat in Taranto worth 640000 EUR.\n\nOn top of that she inherited a beautiful condo in Padua, which could be used as a weekend getaway. It is valued at 890000 EUR.\n\nIn addition to her career success, she also received an inheritance of 4360000 EUR from her late father, a renowned Tech Entrepreneur, in 2006.\n",
+        "Client Summary": "The RM is very happy to have Anna as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

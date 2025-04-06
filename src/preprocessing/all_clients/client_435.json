@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Daniela",
+        "middle_name": "Consuelo",
+        "last_name": "Ramos",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1999-02-23",
+        "passport_number": "WJ1888361",
+        "passport_mrz": [
+            "P<ESPRAMOS<<DANIELA<CONSUELO<<<<<<<<<<<<<<<<<",
+            "WJ1888361ESP990223<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-06-02",
+        "passport_expiry_date": "2021-06-01"
+    },
+    "client_profile": {
+        "name": "Daniela Consuelo Ramos",
+        "address": {
+            "city": "Barcelona",
+            "street name": "Plaza de Espa\u00f1a",
+            "street number": 2,
+            "postal code": "62358"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1999-02-23",
+        "nationality": "Spanish",
+        "passport_number": "WJ1888361",
+        "passport_issue_date": "2016-06-02",
+        "passport_expiry_date": "2021-06-01",
+        "gender": "F",
+        "phone_number": "697 749 493",
+        "email_address": "daniela.ramos@gmail.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Salvador Espriu Barcelona",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "Universidad Pontificia Comillas",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": 2025,
+                "company": "CaixaBank S.A.",
+                "position": "Investment Banker",
+                "salary": 26000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2440000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Daniela Consuelo Ramos",
+        "first_name": "Daniela",
+        "middle_name": "Consuelo",
+        "last_name": "Ramos",
+        "passport_number": "WJ1888361",
+        "currency": "EUR",
+        "address": {
+            "city": "Barcelona",
+            "street name": "Plaza de Espa\u00f1a",
+            "street number": 2,
+            "postal code": "62358"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "697 749 493",
+        "email_address": "daniela.ramos@gmail.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Daniela Consuelo Ramos on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nDaniela Consuelo Ramos is a 26 year old Investment Banker from Spain.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Daniela Consuelo Ramos is married to Ruiz. They do not have any children.",
+        "Education Background": "In 2018, Daniela finished her secondary school education at IES Salvador Espriu Barcelona.\nDaniela completed her university studies at Universidad Pontificia Comillas in 2022.\n",
+        "Occupation History": "Daniela Consuelo Ramos is a 26 year old and comes from Spain.\nAt CaixaBank S.A., Daniela Consuelo Ramos held the position of Investment Banker from 2023 to 2025, developing essential skills in the field.\n",
+        "Wealth Summary": "Throughout her career, she saved 10000 EUR, investing in various assets to grow her wealth.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 2440000 EUR from her late grandmother, a renowned Private Equity Manager, in 2017.\n",
+        "Client Summary": "In summary, Daniela has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

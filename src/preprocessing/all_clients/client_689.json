@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "M\u00e4kinen",
+        "middle_name": "Koskinen",
+        "last_name": "Lehtinen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1964-10-06",
+        "passport_number": "AH8698031",
+        "passport_mrz": [
+            "P<FINLEHTINEN<<M\u00c4KINEN<KOSKINEN<<<<<<<<<<<<<<",
+            "AH8698031FIN641006<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-05",
+        "passport_expiry_date": "2029-08-04"
+    },
+    "client_profile": {
+        "name": "M\u00e4kinen Koskinen Lehtinen",
+        "address": {
+            "city": "Chur",
+            "street name": "Obere Hauptgasse",
+            "street number": 80,
+            "postal code": "8323"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1964-10-06",
+        "nationality": "Finnish",
+        "passport_number": "AH8698031",
+        "passport_issue_date": "2019-08-05",
+        "passport_expiry_date": "2029-08-04",
+        "gender": "M",
+        "phone_number": "094 656 21 56",
+        "email_address": "makinen.lehtinen@gmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lahti Christian Institute",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "University of Helsinki",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1989,
+                "company": "Equity4u AG",
+                "position": "Analyst",
+                "salary": 41000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1994,
+                "company": "Equity4u AG",
+                "position": "Associate",
+                "salary": 59000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1999,
+                "company": "Capvis Equity Partners AG",
+                "position": "Investment Director",
+                "salary": 78000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2025,
+                "company": "Partners Group Holding AG",
+                "position": "Partner",
+                "salary": 965000
+            }
+        ],
+        "aum": {
+            "savings": 1830000,
+            "inheritance": 860000,
+            "real_estate_value": 2420000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2013,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2420000,
+                "property location": "Chur"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Finland",
+            "Italy"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "M\u00e4kinen Koskinen Lehtinen",
+        "first_name": "M\u00e4kinen",
+        "middle_name": "Koskinen",
+        "last_name": "Lehtinen",
+        "passport_number": "AH8698031",
+        "currency": "CHF",
+        "address": {
+            "city": "Chur",
+            "street name": "Obere Hauptgasse",
+            "street number": 80,
+            "postal code": "8323"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "094 656 21 56",
+        "email_address": "makinen.lehtinen@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "M\u00e4kinen Koskinen Lehtinen and the RM met at a financial seminar in Z\u00fcrich. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nM\u00e4kinen Koskinen Lehtinen is a 60 year old retired Partner from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "M\u00e4kinen Koskinen Lehtinen is currently single. He does not have any children.",
+        "Education Background": "In 1982, M\u00e4kinen graduated from Lahti Christian Institute with a secondary school diploma.\nAfter that, he went on to study at University of Helsinki until 1988.\n",
+        "Occupation History": "M\u00e4kinen Koskinen Lehtinen is a seasoned professional with over 37 years of experience.\nAt Equity4u AG, M\u00e4kinen Koskinen Lehtinen held the position of Analyst from 1988 to 1989, developing essential skills in the field.\nAt Equity4u AG, he held the position of Associate from 1990 to 1994, making significant contributions to the organization.\nIn 1995, he joined Capvis Equity Partners AG as a Investment Director, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nAfter 11 years of dedication, he assumed the role of Partner at Partners Group Holding AG in 2000, spearheading high-profile projects and mentoring junior colleagues.\n",
+        "Wealth Summary": "Throughout his career, he saved 1830000 CHF, investing in various assets to grow his wealth.\nHe has townhouse located in Chur, worth 2420000 CHF.\n\n\nFollowing the passing of his mother, a successful Venture Capitalist, he received an inheritance of 860000 CHF in 2013, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is very happy to have M\u00e4kinen as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

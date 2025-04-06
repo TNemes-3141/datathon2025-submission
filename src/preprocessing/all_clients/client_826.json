@@ -1,0 +1,111 @@
+{
+    "passport": {
+        "first_name": "Juliane",
+        "middle_name": "",
+        "last_name": "Schmitz",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1957-06-15",
+        "passport_number": "PZ3189286",
+        "passport_mrz": [
+            "P<DEUSCHMITZ<<JULIANE<<<<<<<<<<<<<<<<<<<<<<<<",
+            "PZ3189286DEU570615<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-03-03",
+        "passport_expiry_date": "2027-03-02"
+    },
+    "client_profile": {
+        "name": "Juliane Schmitz",
+        "address": {
+            "city": "Oviedo",
+            "street name": "Plaza de la Magdalena",
+            "street number": 74,
+            "postal code": "13246"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1957-06-15",
+        "nationality": "German",
+        "passport_number": "PZ3189286",
+        "passport_issue_date": "2017-03-03",
+        "passport_expiry_date": "2027-03-02",
+        "gender": "F",
+        "phone_number": "625 584 388",
+        "email_address": "juliane.schmitz@vodafone.es",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Wilhelm-von-Humboldt-Gymnasium Berlin",
+            "graduation_year": 1967
+        },
+        "higher_education": [
+            {
+                "university": "Hamburg University of Music and Drama",
+                "graduation_year": 1981
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1985,
+                "company": "Cepsa Trading S.A.U.",
+                "position": "Junior Trader",
+                "salary": 39000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 2018,
+                "company": "Repsol S.A.",
+                "position": "Trading Desk Manager",
+                "salary": 507000
+            }
+        ],
+        "aum": {
+            "savings": 960000,
+            "inheritance": 0,
+            "real_estate_value": 790000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 790000,
+                "property location": "Oviedo"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Juliane Schmitz",
+        "first_name": "Juliane",
+        "middle_name": "",
+        "last_name": "Schmitz",
+        "passport_number": "PZ3189286",
+        "currency": "EUR",
+        "address": {
+            "city": "Oviedo",
+            "street name": "Plaza de la Magdalena",
+            "street number": 74,
+            "postal code": "13246"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "625 584 388",
+        "email_address": "juliane.schmitz@vodafone.es"
+    },
+    "client_description": {
+        "Summary Note": "Juliane Schmitz and the RM were introduced at a charity run in Madrid. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nJuliane Schmitz is a 67 year old retired Trading Desk Manager from Spain. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Juliane Schmitz is currently divorced. She has 2 kids called Schulze and Herrmann.",
+        "Education Background": "In 1976, Juliane finished her secondary school education at Wilhelm-von-Humboldt-Gymnasium Berlin.\nJuliane completed her university education at Heidelberg University of Education in 1981.\n",
+        "Occupation History": "Juliane Schmitz is a seasoned professional with over 44 years of experience.\nJuliane Schmitz began her professional journey as a Junior Trader at Cepsa Trading S.A.U. in 1981, laying the foundation for future success.\nAt Repsol S.A., she held the position of Senior Trader from 1987 to 1992, making significant contributions to the organization.\nFrom 1993 till retirement, she served as a Trading Desk Manager at Repsol S.A., solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "She managed to save approximately 960000 EUR from her earnings at all companies.\nShe owns townhouse in Oviedo, where she resides. It is worth 790000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

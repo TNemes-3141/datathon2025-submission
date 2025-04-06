@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Mustonen",
+        "middle_name": "Koskinen",
+        "last_name": "Sepp\u00e4l\u00e4",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1970-12-09",
+        "passport_number": "HK8206760",
+        "passport_mrz": [
+            "P<FINSEPP\u00c4L\u00c4<<MUSTONEN<KOSKINEN<<<<<<<<<<<<<<",
+            "HK8206760FIN701209<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-03-26",
+        "passport_expiry_date": "2032-03-25"
+    },
+    "client_profile": {
+        "name": "Mustonen Koskinen Sepp\u00e4l\u00e4",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Place Jourdan",
+            "street number": 24,
+            "postal code": "2950"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1970-12-09",
+        "nationality": "Finnish",
+        "passport_number": "HK8206760",
+        "passport_issue_date": "2022-03-26",
+        "passport_expiry_date": "2032-03-25",
+        "gender": "M",
+        "phone_number": "0404 439 081",
+        "email_address": "mustonen.seppala@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Riihim\u00e4en lukio",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "University of Turku",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1996,
+                "company": "Verlinvest SA",
+                "position": "Analyst",
+                "salary": 41000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2023,
+                "company": "Verlinvest SA",
+                "position": "Associate",
+                "salary": 272000
+            }
+        ],
+        "aum": {
+            "savings": 500000,
+            "inheritance": 6300000,
+            "real_estate_value": 1440000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2013,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1440000,
+                "property location": "Antwerp"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mustonen Koskinen Sepp\u00e4l\u00e4",
+        "first_name": "Mustonen",
+        "middle_name": "Koskinen",
+        "last_name": "Sepp\u00e4l\u00e4",
+        "passport_number": "HK8206760",
+        "currency": "EUR",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Place Jourdan",
+            "street number": 24,
+            "postal code": "2950"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0404 439 081",
+        "email_address": "mustonen.seppala@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Mustonen Koskinen Sepp\u00e4l\u00e4 at a luxury car show in Brussels. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nMustonen Koskinen Sepp\u00e4l\u00e4 is a 54 year old Associate from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Mustonen Koskinen Sepp\u00e4l\u00e4 is currently single. He does not have any children.",
+        "Education Background": "Mustonen finished secondary school at Riihim\u00e4en lukio in 1990.\nMustonen earned his degree from University of Turku in 1983.\n",
+        "Occupation History": "Mustonen Koskinen Sepp\u00e4l\u00e4 is a 54 year old Associate from Belgium.\nMustonen Koskinen Sepp\u00e4l\u00e4 began his professional journey as a Analyst at Verlinvest SA in 1994, laying the foundation for future success.\nIn 1996, he moved to Verlinvest SA to work as a Associate, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 500000 EUR.\nHe owns house in Antwerp, where he resides. It is worth 1440000 EUR.\n\nHe inherited a significant sum of 6300000 EUR from his , a respected , in 2013, which he has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

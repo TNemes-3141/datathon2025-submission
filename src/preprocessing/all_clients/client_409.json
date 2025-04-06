@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Gil",
+        "middle_name": "Hern\u00e1ndez",
+        "last_name": "Ramos",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1970-08-27",
+        "passport_number": "YB4250500",
+        "passport_mrz": [
+            "P<ESPRAMOS<<GIL<HERN\u00c1NDEZ<<<<<<<<<<<<<<<<<<<<",
+            "YB4250500ESP700827<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-02-06",
+        "passport_expiry_date": "2029-02-05"
+    },
+    "client_profile": {
+        "name": "Gil Hern\u00e1ndez Ramos",
+        "address": {
+            "city": "Castell\u00f3n de la Plana",
+            "street name": "Plaza del Ayuntamiento",
+            "street number": 47,
+            "postal code": "78709"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1970-08-27",
+        "nationality": "Spanish",
+        "passport_number": "YB4250500",
+        "passport_issue_date": "2019-02-06",
+        "passport_expiry_date": "2029-02-05",
+        "gender": "M",
+        "phone_number": "+34 639 706 042",
+        "email_address": "gil.ramos@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Francisco Umbral Ciudad Real",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "Ram\u00f3n Llull University",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 2000,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Junior Trader",
+                "salary": 25000
+            },
+            {
+                "start_year": 2002,
+                "end_year": null,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Senior Trader",
+                "salary": 148000
+            }
+        ],
+        "aum": {
+            "savings": 260000,
+            "inheritance": 360000,
+            "real_estate_value": 3430000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2015,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2330000,
+                "property location": "Castell\u00f3n de la Plana"
+            },
+            {
+                "property type": "condo",
+                "property value": 1100000,
+                "property location": "Segovia"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gil Hern\u00e1ndez Ramos",
+        "first_name": "Gil",
+        "middle_name": "Hern\u00e1ndez",
+        "last_name": "Ramos",
+        "passport_number": "YB4250500",
+        "currency": "EUR",
+        "address": {
+            "city": "Castell\u00f3n de la Plana",
+            "street name": "Plaza del Ayuntamiento",
+            "street number": 47,
+            "postal code": "78709"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 639 706 042",
+        "email_address": "gil.ramos@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Gil Hern\u00e1ndez Ramos at a luxury car show in Madrid. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nHaving worked for over 30 years, Gil Hern\u00e1ndez Ramos brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Gil Hern\u00e1ndez Ramos is currently widowed. He does not have any children.",
+        "Education Background": "In 1990, Gil graduated from IES Francisco Umbral Ciudad Real with a secondary school diploma.\nGil completed his university education at Ram\u00f3n Llull University in 1993.\n",
+        "Occupation History": "Having worked for over 30 years, Gil Hern\u00e1ndez Ramos brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nGil Hern\u00e1ndez Ramos began his professional journey as a Junior Trader at Enag\u00e1s S.A. in 1995, laying the foundation for future success.\nHe then transitioned to Enag\u00e1s S.A. as a Senior Trader, leveraging his expertise to drive results from 2002 till now.\n",
+        "Wealth Summary": "While working, he saved 260000 EUR, which he used to build a diversified investment portfolio.\nHe has villa located in Castell\u00f3n de la Plana, worth 2330000 EUR.\n\nIn addition to his primary residence, he owns condo in Segovia worth 1100000 EUR.\n\nIn 2015, he received an inheritance of 360000 EUR from his late mother, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

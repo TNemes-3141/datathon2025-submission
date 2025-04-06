@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Aino",
+        "middle_name": "",
+        "last_name": "Ahoenn",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1973-08-07",
+        "passport_number": "QA7392430",
+        "passport_mrz": [
+            "P<FINAHONEN<<AINO<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "QA7392430FIN730807<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-07-04",
+        "passport_expiry_date": "2030-07-03"
+    },
+    "client_profile": {
+        "name": "Aino Ahonen",
+        "address": {
+            "city": "Rauma",
+            "street name": "Vuorimiehenkatu",
+            "street number": 48,
+            "postal code": "30788"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1973-08-07",
+        "nationality": "Finnish",
+        "passport_number": "QA7392430",
+        "passport_issue_date": "2020-07-04",
+        "passport_expiry_date": "2030-07-03",
+        "gender": "F",
+        "phone_number": "+358 044 768 83 49",
+        "email_address": "aino.ahonen@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lahti Christian Institute",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "University of Jyv\u00e4skyl\u00e4",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2000,
+                "company": "Radisson Blu Hotels",
+                "position": "Hotel Manager",
+                "salary": 43000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2002,
+                "company": "Scandic Hotels Oy",
+                "position": "General Manager",
+                "salary": 60000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2007,
+                "company": "Radisson Blu Hotels",
+                "position": "Regional Vice President",
+                "salary": 75000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2009,
+                "company": "Scandic Hotels Oy",
+                "position": "CEO",
+                "salary": 131000
+            },
+            {
+                "start_year": 2010,
+                "end_year": null,
+                "company": "Sokos Hotels",
+                "position": "Hospitality Industry Leader",
+                "salary": 714000
+            }
+        ],
+        "aum": {
+            "savings": 1160000,
+            "inheritance": 3830000,
+            "real_estate_value": 1080000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2010,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1080000,
+                "property location": "Rauma"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Aino Ahonen",
+        "first_name": "Aino",
+        "middle_name": "",
+        "last_name": "Ahonen",
+        "passport_number": "QA7392430",
+        "currency": "EUR",
+        "address": {
+            "city": "Rauma",
+            "street name": "Vuorimiehenkatu",
+            "street number": 48,
+            "postal code": "30788"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 044 768 83 49",
+        "email_address": "aino.ahonen@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Aino Ahonen and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nAino Ahonen is a 51 year old and comes from Finland.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Aino Ahonen and Niemi have been married since 1999. Together they have 3 kids called Sepp\u00e4l\u00e4, Hanna and Ahonen.",
+        "Education Background": "Aino completed her secondary education at Lahti Christian Institute in 1991.\nAino completed her university education at University of Jyv\u00e4skyl\u00e4 in 1996.\n",
+        "Occupation History": "Aino Ahonen is a seasoned professional with over 27 years of experience.\nAt Radisson Blu Hotels, Aino Ahonen held the position of Hotel Manager from 1998 to 2000, developing essential skills in the field.\nHer subsequent role was as a General Manager at Scandic Hotels Oy, where she continued to grow professionally from 2001 to 2002.\nIn 2004, she joined Radisson Blu Hotels as a Regional Vice President, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nShe appointment as a CEO at Scandic Hotels Oy in 2008 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\nCurrently, she serves as a Hospitality Industry Leader at Sokos Hotels, continuing to make meaningful contributions to the industry since 2010.",
+        "Wealth Summary": "While working, she saved 1160000 EUR, which she used to build a diversified investment portfolio.\nShe owns condo in Rauma, where she resides. It is worth 1080000 EUR.\n\nShe inherited a significant sum of 3830000 EUR from her father, a respected Real Estate Developer, in 2010, which she has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

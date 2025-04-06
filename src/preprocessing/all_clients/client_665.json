@@ -1,0 +1,112 @@
+{
+    "passport": {
+        "first_name": "Katriina",
+        "middle_name": "Kaarin",
+        "last_name": "Lehtinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1990-01-23",
+        "passport_number": "JW8184704",
+        "passport_mrz": [
+            "P<FINLEHTINEN<<KATRIINA<KAARIN<<<<<<<<<<<<<<<",
+            "JW8184704FIN900123<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-06-22",
+        "passport_expiry_date": "2032-06-21"
+    },
+    "client_profile": {
+        "name": "Katriina Kaarin Lehtinen",
+        "address": {
+            "city": "Vantaa",
+            "street name": "Fabianinkatu",
+            "street number": 69,
+            "postal code": "48530"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1990-01-23",
+        "nationality": "Finnish",
+        "passport_number": "JW8184704",
+        "passport_issue_date": "2022-06-22",
+        "passport_expiry_date": "2032-06-21",
+        "gender": "F",
+        "phone_number": "+358 049 875 57 41",
+        "email_address": "katriina.lehtinen@saunalahti.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Heinolan lukio",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "JAMK University of Applied Sciences",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Neste Shipping Oy",
+                "position": "Ship Broker",
+                "salary": 93000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 3210000,
+            "real_estate_value": 1790000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 830000,
+                "property location": "Vantaa"
+            },
+            {
+                "property type": "condo",
+                "property value": 960000,
+                "property location": "Tuusula"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Katriina Kaarin Lehtinen",
+        "first_name": "Katriina",
+        "middle_name": "Kaarin",
+        "last_name": "Lehtinen",
+        "passport_number": "JW8184704",
+        "currency": "EUR",
+        "address": {
+            "city": "Vantaa",
+            "street name": "Fabianinkatu",
+            "street number": 69,
+            "postal code": "48530"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 049 875 57 41",
+        "email_address": "katriina.lehtinen@saunalahti.fi"
+    },
+    "client_description": {
+        "Summary Note": "Katriina Kaarin Lehtinen and the RM met at a financial seminar in Helsinki. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nKatriina Kaarin Lehtinen is a 35 year old Ship Broker from Finland.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Katriina Kaarin Lehtinen is married to Niskanen. Their children are named Piirainen and Laine.",
+        "Education Background": "Katriina graduated from Heinolan lukio in 2007.\nKatriina received her degree from JAMK University of Applied Sciences in 2013.\n",
+        "Occupation History": "Katriina Kaarin Lehtinen is a 35 year old Ship Broker from Finland.\nIn 2014, Katriina Kaarin Lehtinen started working as a Ship Broker at Neste Shipping Oy, marking the beginning of her successful career.\n",
+        "Wealth Summary": "Throughout her career, she saved 110000 EUR, investing in various assets to grow her wealth.\nShe owns 2 exceptional properties: condo located in Vantaa, valued at approximately 830,000.00 EUR, condo located in Tuusula, valued at approximately 960,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Vantaa and Tuusula.\nShe inherited a significant sum of 3210000 EUR from her grandfather, a respected Real Estate Developer, in 2018, which she has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

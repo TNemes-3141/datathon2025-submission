@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Chiara",
+        "middle_name": "Lena",
+        "last_name": "Roth",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1980-12-14",
+        "passport_number": "BR0942300",
+        "passport_mrz": [
+            "P<CHEROTH<<CHIARA<LENA<<<<<<<<<<<<<<<<<<<<<<<",
+            "BR0942300CHE801214<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-12",
+        "passport_expiry_date": "2027-08-11"
+    },
+    "client_profile": {
+        "name": "Chiara Lena Roth",
+        "address": {
+            "city": "Geneva",
+            "street name": "Metzgergasse",
+            "street number": 9,
+            "postal code": "9104"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1980-12-14",
+        "nationality": "Swiss",
+        "passport_number": "BR0942300",
+        "passport_issue_date": "2017-08-12",
+        "passport_expiry_date": "2027-08-11",
+        "gender": "F",
+        "phone_number": "+41 089 005 23 29",
+        "email_address": "chiara.roth@upc.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Kantonsschule Liestal Basel-Landschaft",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "University of St. Gallen",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2005,
+                "company": "Ringier AG",
+                "position": "Journalist",
+                "salary": 64000
+            },
+            {
+                "start_year": 2005,
+                "end_year": null,
+                "company": "Ringier AG",
+                "position": "Editor",
+                "salary": 286000
+            }
+        ],
+        "aum": {
+            "savings": 440000,
+            "inheritance": 6930000,
+            "real_estate_value": 3080000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2006,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 3080000,
+                "property location": "Geneva"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Chiara Lena Roth",
+        "first_name": "Chiara",
+        "middle_name": "Lena",
+        "last_name": "Roth",
+        "passport_number": "BR0942300",
+        "currency": "CHF",
+        "address": {
+            "city": "Geneva",
+            "street name": "Metzgergasse",
+            "street number": 9,
+            "postal code": "9104"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 089 005 23 29",
+        "email_address": "chiara.roth@upc.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Chiara Lena Roth on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nChiara Lena Roth is a seasoned professional with over 21 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Chiara Lena Roth is currently divorced. Her children are named Elena, Gasser and Dominique.",
+        "Education Background": "In 2000, Chiara finished her secondary school education at Kantonsschule Liestal Basel-Landschaft.\nChiara received her degree from University of St. Gallen in 2005.\n",
+        "Occupation History": "Chiara Lena Roth is a seasoned professional with over 21 years of experience.\nAt Ringier AG, Chiara Lena Roth held the position of Journalist from 2004 to 2005, developing essential skills in the field.\nHer subsequent role was as a Editor at Ringier AG, where she continued to grow professionally from 2005 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 440000 CHF.\nShe has townhouse located in Geneva, worth 3080000 CHF.\n\nShe inherited 6930000 CHF from her grandfather, a well-known Private Equity Manager, in 2006, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

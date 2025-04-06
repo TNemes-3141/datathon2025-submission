@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Andrea",
+        "middle_name": "Aline",
+        "last_name": "Furrer",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1962-11-24",
+        "passport_number": "FX1455754",
+        "passport_mrz": [
+            "P<CHEFURRER<<ANDREA<ALINE<<<<<<<<<<<<<<<<<<<<",
+            "FX1455754CHE621124<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-08",
+        "passport_expiry_date": "2029-03-07"
+    },
+    "client_profile": {
+        "name": "Andrea Aline Furrer",
+        "address": {
+            "city": "Chur",
+            "street name": "Waisenhausplatz",
+            "street number": 66,
+            "postal code": "6892"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1962-11-24",
+        "nationality": "Swiss",
+        "passport_number": "FX1455754",
+        "passport_issue_date": "2019-03-08",
+        "passport_expiry_date": "2029-03-07",
+        "gender": "F",
+        "phone_number": "+41 040 495 77 01",
+        "email_address": "andrea.furrer@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e cantonal de Porrentruy Jura",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "University of Basel",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1990,
+                "company": "Niederer Kraft Frey AG",
+                "position": "Associate Attorney",
+                "salary": 65000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1995,
+                "company": "Schellenberg Wittmer Ltd.",
+                "position": "Senior Associate",
+                "salary": 101000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1997,
+                "company": "B\u00e4r & Karrer AG",
+                "position": "Partner",
+                "salary": 128000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "B\u00e4r & Karrer AG",
+                "position": "Managing Partner",
+                "salary": 185000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2023,
+                "company": "Schellenberg Wittmer Ltd.",
+                "position": "Law Firm Chairman",
+                "salary": 1322000
+            }
+        ],
+        "aum": {
+            "savings": 2380000,
+            "inheritance": 0,
+            "real_estate_value": 5360000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1880000,
+                "property location": "Chur"
+            },
+            {
+                "property type": "flat",
+                "property value": 1610000,
+                "property location": "Sion"
+            },
+            {
+                "property type": "flat",
+                "property value": 1870000,
+                "property location": "Bellinzona"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Netherlands"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Andrea Aline Furrer",
+        "first_name": "Andrea",
+        "middle_name": "Aline",
+        "last_name": "Furrer",
+        "passport_number": "FX1455754",
+        "currency": "CHF",
+        "address": {
+            "city": "Chur",
+            "street name": "Waisenhausplatz",
+            "street number": 66,
+            "postal code": "6892"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 040 495 77 01",
+        "email_address": "andrea.furrer@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Andrea Aline Furrer at a yacht party in Z\u00fcrich. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nWith a career spanning nearly 39 years, Andrea Aline Furrer has established herself as a key player in the industry.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Andrea Aline Furrer and Meier tied the knot in 1987. They do not have any children.",
+        "Education Background": "In 1982, Andrea finished her secondary school education at Lyc\u00e9e cantonal de Porrentruy Jura.\nShe then attended University of Basel, which she graduated in 1987.\n",
+        "Occupation History": "Andrea Aline Furrer is a seasoned professional with over 39 years of experience.\nAndrea Aline Furrer began her professional journey as a Associate Attorney at Niederer Kraft Frey AG in 1986, laying the foundation for future success.\nIn 1991, she moved to Schellenberg Wittmer Ltd. to work as a Senior Associate, applying her knowledge to achieve outstanding performance.\nIn 1995, she joined B\u00e4r & Karrer AG as a Partner, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nHer next role was as a Managing Partner at B\u00e4r & Karrer AG, where she applied her extensive experience to drive innovation from 1999 to 2000.\nBefore retiring, Andrea Aline Furrer worked as a Law Firm Chairman at Schellenberg Wittmer Ltd. from 2001 to 2023.",
+        "Wealth Summary": "Throughout her career, she saved 2380000 CHF, investing in various assets to grow her wealth.\nShe owns flat in Chur, where she resides. It is worth 1880000 CHF.\n\nIn addition to her primary residence, she owns flat in Sion worth 1610000 CHF.\n\nOn top of that she inherited a beautiful flat in Bellinzona, which could be used as a weekend getaway. It is valued at 1870000 CHF.\nShe does not have any inheritances.",
+        "Client Summary": "In summary, Andrea has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

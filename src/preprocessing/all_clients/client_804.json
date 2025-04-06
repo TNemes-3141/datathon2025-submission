@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "C\u00e9line",
+        "middle_name": "Gis\u00e8le",
+        "last_name": "Schneider",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1983-02-13",
+        "passport_number": "FY4929466",
+        "passport_mrz": [
+            "P<CHESCHNEIDER<<C\u00c9LINE<GIS\u00c8LE<<<<<<<<<<<<<<<<",
+            "FY4929466CHE830213<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-06-08",
+        "passport_expiry_date": "2030-06-07"
+    },
+    "client_profile": {
+        "name": "C\u00e9line Gis\u00e8le Schneider",
+        "address": {
+            "city": "St. Gallen",
+            "street name": "Rue des D\u00e9lices",
+            "street number": 15,
+            "postal code": "3623"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1983-02-13",
+        "nationality": "Swiss",
+        "passport_number": "FY4929466",
+        "passport_issue_date": "2020-06-08",
+        "passport_expiry_date": "2030-06-07",
+        "gender": "F",
+        "phone_number": "++49 097 563 74 42",
+        "email_address": "celine.schneider@sunrise.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kantonsschule Sursee Luzern",
+            "graduation_year": 1992
+        },
+        "higher_education": [
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2009,
+                "company": "Roche Holding AG",
+                "position": "Research Scientist",
+                "salary": 59000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Novartis AG",
+                "position": "Biotech Startup Founder",
+                "salary": 219000
+            }
+        ],
+        "aum": {
+            "savings": 300000,
+            "inheritance": 1720000,
+            "real_estate_value": 2310000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2012,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2310000,
+                "property location": "St. Gallen"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "C\u00e9line Gis\u00e8le Schneider",
+        "first_name": "C\u00e9line",
+        "middle_name": "Gis\u00e8le",
+        "last_name": "Schneider",
+        "passport_number": "FY4929466",
+        "currency": "CHF",
+        "address": {
+            "city": "St. Gallen",
+            "street name": "Rue des D\u00e9lices",
+            "street number": 15,
+            "postal code": "3623"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 097 563 74 42",
+        "email_address": "celine.schneider@sunrise.ch"
+    },
+    "client_description": {
+        "Summary Note": "C\u00e9line Gis\u00e8le Schneider and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nC\u00e9line Gis\u00e8le Schneider is a 42 year old Biotech Startup Founder from Switzerland.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "C\u00e9line Gis\u00e8le Schneider and Gasser tied the knot in 2010. They do not have any children.",
+        "Education Background": "C\u00e9line completed her secondary education at Kantonsschule Sursee Luzern in 2001.\nC\u00e9line finished her studies at Suffolk University in Geneva in 2006.\n",
+        "Occupation History": "C\u00e9line Gis\u00e8le Schneider is a 42 year old Biotech Startup Founder from Switzerland.\nAt Roche Holding AG, C\u00e9line Gis\u00e8le Schneider held the position of Research Scientist from 2007 to 2009, developing essential skills in the field.\nHer subsequent role was as a Biotech Startup Founder at Novartis AG, where she continued to grow professionally from 2011 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 300000 CHF.\nShe has townhouse located in St. Gallen, worth 2310000 CHF.\n\n\nIn addition to her career success, she also received an inheritance of 1720000 CHF from her late grandfather, a renowned Oil and Gas Executive, in 2012.\n",
+        "Client Summary": "The RM is very happy to have C\u00e9line as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

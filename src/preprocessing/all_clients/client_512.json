@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "S\u00e1nchez",
+        "middle_name": "Hern\u00e1ndez",
+        "last_name": "Ramos",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1974-06-18",
+        "passport_number": "YS2519793",
+        "passport_mrz": [
+            "P<ESPS\u00c1NCHEZ<<RAMOS<HERN\u00c1NDEZ<<<<<<<<<<<<<<<<",
+            "YS2519793ESP740618<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-12-01",
+        "passport_expiry_date": "2031-11-30"
+    },
+    "client_profile": {
+        "name": "Ramos Hern\u00e1ndez S\u00e1nchez",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 78,
+            "postal code": "94826"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1974-06-18",
+        "nationality": "Spanish",
+        "passport_number": "YS2519793",
+        "passport_issue_date": "2021-12-01",
+        "passport_expiry_date": "2031-11-30",
+        "gender": "M",
+        "phone_number": "606 763 507",
+        "email_address": "ramos.sanchez@telefonica.es",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Instituto de Educaci\u00f3n Secundaria IES Pablo Neruda Las Palmas de Gran Canaria",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "CEU San Pablo University",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 2001,
+                "company": "Apax Partners Espa\u00f1a S.A.",
+                "position": "Analyst",
+                "salary": 23000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2004,
+                "company": "Apax Partners Espa\u00f1a S.A.",
+                "position": "Associate",
+                "salary": 43000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2010,
+                "company": "KKR Iberia Asesoramiento S.A.",
+                "position": "Investment Director",
+                "salary": 63000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2012,
+                "company": "Apax Partners Espa\u00f1a S.A.",
+                "position": "Partner",
+                "salary": 123000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2024,
+                "company": "ProA Capital de Inversi\u00f3n SGEIC S.A.",
+                "position": "Fund Manager",
+                "salary": 233000
+            }
+        ],
+        "aum": {
+            "savings": 320000,
+            "inheritance": 1020000,
+            "real_estate_value": 1860000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2006,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1860000,
+                "property location": "Bilbao"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUW"
+    },
+    "account_form": {
+        "name": "Ramos Hern\u00e1ndez S\u00e1nchez",
+        "first_name": "Ramos",
+        "middle_name": "Hern\u00e1ndez",
+        "last_name": "S\u00e1nchez",
+        "passport_number": "YS2519793",
+        "currency": "EUR",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 78,
+            "postal code": "94826"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "606 763 507",
+        "email_address": "ramos.sanchez@telefonica.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Ramos Hern\u00e1ndez S\u00e1nchez's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nWith a career spanning nearly 27 years, Ramos Hern\u00e1ndez S\u00e1nchez has established himself as a key player in the industry.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Ramos Hern\u00e1ndez S\u00e1nchez is currently single. He does not have any children.",
+        "Education Background": "Ramos completed his secondary education at Instituto de Educaci\u00f3n Secundaria IES Pablo Neruda Las Palmas de Gran Canaria in 1994.\nRamos completed his university studies at CEU San Pablo University in 1999.\n",
+        "Occupation History": "Having worked for over 27 years, Ramos Hern\u00e1ndez S\u00e1nchez brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nRamos Hern\u00e1ndez S\u00e1nchez began his professional journey as a Analyst at Apax Partners Espa\u00f1a S.A. in 1998, laying the foundation for future success.\nHis subsequent role was as a Associate at Apax Partners Espa\u00f1a S.A., where he continued to grow professionally from 2002 to 2004.\nIn 2006, he joined KKR Iberia Asesoramiento S.A. as a Investment Director, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nIn 2010, he transitioned to Apax Partners Espa\u00f1a S.A. to take on the position of Partner, capitalizing on his expertise to propel business growth.\nSince joining ProA Capital de Inversi\u00f3n SGEIC S.A. as a Fund Manager in 2014, he has established himself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "Throughout his career, he saved 320000 EUR, investing in various assets to grow his wealth.\nHe owns villa in Bilbao, where he resides. It is worth 1860000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1020000 EUR from his late father, a renowned Real Estate Developer, in 2006.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

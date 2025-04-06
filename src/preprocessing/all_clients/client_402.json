@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Richard",
+        "middle_name": "Nicolas",
+        "last_name": "Bernard",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1954-08-03",
+        "passport_number": "XI8842191",
+        "passport_mrz": [
+            "P<FRABERNARD<<RICHARD<NICOLAS<<<<<<<<<<<<<<<<",
+            "XI8842191FRA540803<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-12-17",
+        "passport_expiry_date": "2031-12-16"
+    },
+    "client_profile": {
+        "name": "Richard Nicolas Bernard",
+        "address": {
+            "city": "Caen",
+            "street name": "Rue Gay-Lussac",
+            "street number": 42,
+            "postal code": "41316"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1954-08-03",
+        "nationality": "French",
+        "passport_number": "XI8842191",
+        "passport_issue_date": "2021-12-17",
+        "passport_expiry_date": "2031-12-16",
+        "gender": "M",
+        "phone_number": "+33 03 68 59 36 31",
+        "email_address": "richard.bernard@wanadoo.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Ren\u00e9 Descartes",
+            "graduation_year": 1972
+        },
+        "higher_education": [
+            {
+                "university": "HEC Paris",
+                "graduation_year": 1978
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1978,
+                "end_year": 1981,
+                "company": "Hilton Worldwide France",
+                "position": "Hotel Manager",
+                "salary": 29000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 1985,
+                "company": "Marriott International France",
+                "position": "General Manager",
+                "salary": 46000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 1987,
+                "company": "Hilton Worldwide France",
+                "position": "Regional Vice President",
+                "salary": 67000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1991,
+                "company": "Hilton Worldwide France",
+                "position": "CEO",
+                "salary": 113000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 2015,
+                "company": "Accor S.A.",
+                "position": "Hospitality Industry Leader",
+                "salary": 1011000
+            }
+        ],
+        "aum": {
+            "savings": 1580000,
+            "inheritance": 0,
+            "real_estate_value": 6090000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2370000,
+                "property location": "Caen"
+            },
+            {
+                "property type": "house",
+                "property value": 1870000,
+                "property location": "Saint-Denis"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1850000,
+                "property location": "Nantes"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Richard Nicolas Bernard",
+        "first_name": "Richard",
+        "middle_name": "Nicolas",
+        "last_name": "Bernard",
+        "passport_number": "XI8842191",
+        "currency": "EUR",
+        "address": {
+            "city": "Caen",
+            "street name": "Rue Gay-Lussac",
+            "street number": 42,
+            "postal code": "41316"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 03 68 59 36 31",
+        "email_address": "richard.bernard@wanadoo.fr"
+    },
+    "client_description": {
+        "Summary Note": "Richard Nicolas Bernard and the RM met at a financial seminar in Paris. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nRichard Nicolas Bernard is a seasoned professional with over 47 years of experience.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Richard Nicolas Bernard is currently single. He does not have any children.",
+        "Education Background": "Richard obtained his secondary school diploma from Lyc\u00e9e Ren\u00e9 Descartes in 1972.\nRichard pursued higher education at HEC Paris, graduating in 1978.\n",
+        "Occupation History": "Richard Nicolas Bernard is a 70 year old and comes from France.\nAt Hilton Worldwide France, Richard Nicolas Bernard held the position of Hotel Manager from 1978 to 1981, developing essential skills in the field.\nAt Marriott International France, he held the position of General Manager from 1983 to 1985, making significant contributions to the organization.\nHe spent 1 years working as a Regional Vice President at Hilton Worldwide France, refining his expertise and building a strong network.\nHe appointment as a CEO at Hilton Worldwide France in 1989 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\nBefore retiring, Richard Nicolas Bernard worked as a Hospitality Industry Leader at Accor S.A. from 1992 to 2015.",
+        "Wealth Summary": "He managed to save approximately 1580000 EUR from his earnings at all companies.\nHe has house located in Caen, worth 2370000 EUR.\n\nHe purchased house in Saint-Denis, where he spends his holidays. It is valued at 1870000 EUR.\nOn top of that he inherited a beautiful townhouse in Nantes, which could be used as a weekend getaway. It is valued at 1850000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

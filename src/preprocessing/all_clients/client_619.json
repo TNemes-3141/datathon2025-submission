@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Santoro",
+        "middle_name": "Fabbri",
+        "last_name": "Belli",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1977-02-23",
+        "passport_number": "IR3647124",
+        "passport_mrz": [
+            "P<ITABELLI<<SANTORO<FABBRI<<<<<<<<<<<<<<<<<<<",
+            "IR3647124ITA770223<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-04-27",
+        "passport_expiry_date": "2030-04-26"
+    },
+    "client_profile": {
+        "name": "Santoro Fabbri Belli",
+        "address": {
+            "city": "Palermo",
+            "street name": "Via Condotti",
+            "street number": 7,
+            "postal code": "74253"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1977-02-23",
+        "nationality": "Italian",
+        "passport_number": "IR3647124",
+        "passport_issue_date": "2020-04-27",
+        "passport_expiry_date": "2030-04-26",
+        "gender": "M",
+        "phone_number": "381 4558104",
+        "email_address": "santoro.belli@unidata.it",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Scuola Media Statale Giancarlo Siani Napoli",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "IMT Institute for Advanced Studies Lucca",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2004,
+                "company": "Enel S.p.A.",
+                "position": "Junior Trader",
+                "salary": 27000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2011,
+                "company": "Enel S.p.A.",
+                "position": "Senior Trader",
+                "salary": 42000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "ENI S.p.A.",
+                "position": "Trading Desk Manager",
+                "salary": 197000
+            }
+        ],
+        "aum": {
+            "savings": 330000,
+            "inheritance": 3160000,
+            "real_estate_value": 2080000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2005,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2080000,
+                "property location": "Palermo"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Santoro Fabbri Belli",
+        "first_name": "Santoro",
+        "middle_name": "Fabbri",
+        "last_name": "Belli",
+        "passport_number": "IR3647124",
+        "currency": "EUR",
+        "address": {
+            "city": "Palermo",
+            "street name": "Via Condotti",
+            "street number": 7,
+            "postal code": "74253"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "381 4558104",
+        "email_address": "santoro.belli@unidata.it"
+    },
+    "client_description": {
+        "Summary Note": "Santoro Fabbri Belli and the RM met at a financial seminar in Rome. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nHaving worked for over 24 years, Santoro Fabbri Belli brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Santoro Fabbri Belli is currently divorced. His child is named Gaia.",
+        "Education Background": "Santoro received his secondary school diploma from Scuola Media Statale Giancarlo Siani Napoli in 1996.\nSantoro earned his degree from IMT Institute for Advanced Studies Lucca in 1999.\n",
+        "Occupation History": "Having worked for over 24 years, Santoro Fabbri Belli brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nSantoro Fabbri Belli began his professional journey as a Junior Trader at Enel S.p.A. in 2001, laying the foundation for future success.\nIn 2006, he moved to Enel S.p.A. to work as a Senior Trader, applying his knowledge to achieve outstanding performance.\nHe spent 14 years working as a Trading Desk Manager at ENI S.p.A., refining his expertise and building a strong network.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 330000 EUR.\nHe owns villa in Palermo, where he resides. It is worth 2080000 EUR.\n\nHe inherited a significant sum of 3160000 EUR from his father, a respected Neurosurgeon, in 2005, which he has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

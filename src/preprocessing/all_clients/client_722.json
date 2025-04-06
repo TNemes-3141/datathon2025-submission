@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Heidi",
+        "middle_name": "Sophia",
+        "last_name": "Maier",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1969-05-29",
+        "passport_number": "GI5883763",
+        "passport_mrz": [
+            "P<AUTMAIER<<HEIDI<SOPHIA<<<<<<<<<<<<<<<<<<<<<",
+            "GI5883763AUT690529<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-03-16",
+        "passport_expiry_date": "2032-03-15"
+    },
+    "client_profile": {
+        "name": "Heidi Sophia Maier",
+        "address": {
+            "city": "Innsbruck",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 47,
+            "postal code": "0910"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1969-05-29",
+        "nationality": "Austrian",
+        "passport_number": "GI5883763",
+        "passport_issue_date": "2022-03-16",
+        "passport_expiry_date": "2032-03-15",
+        "gender": "F",
+        "phone_number": "+43 940 428 0922",
+        "email_address": "heidi.maier@icloud.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Bisch\u00f6fliches Gymnasium Petrinum",
+            "graduation_year": 1987
+        },
+        "higher_education": [
+            {
+                "university": "Modul University Vienna",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "Swarovski AG",
+                "position": "Assistant Designer",
+                "salary": 41000
+            },
+            {
+                "start_year": 2001,
+                "end_year": null,
+                "company": "Swarovski AG",
+                "position": "Senior Designer",
+                "salary": 210000
+            }
+        ],
+        "aum": {
+            "savings": 420000,
+            "inheritance": 2730000,
+            "real_estate_value": 2896000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 970000,
+                "property location": "Innsbruck"
+            },
+            {
+                "property type": "flat",
+                "property value": 896000,
+                "property location": "Bruck an der Mur"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1030000,
+                "property location": "Sankt P\u00f6lten"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Heidi Sophia Maier",
+        "first_name": "Heidi",
+        "middle_name": "Sophia",
+        "last_name": "Maier",
+        "passport_number": "GI5883763",
+        "currency": "EUR",
+        "address": {
+            "city": "Innsbruck",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 47,
+            "postal code": "0910"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 940 428 0922",
+        "email_address": "heidi.maier@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Heidi Sophia Maier at a golf tournament in Vienna. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nHeidi Sophia Maier is a seasoned professional with over 31 years of experience.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Heidi Sophia Maier is currently widowed. She does not have any children.",
+        "Education Background": "Heidi received her secondary school diploma from Bisch\u00f6fliches Gymnasium Petrinum in 1987.\nHeidi earned her degree from Modul University Vienna in 1993.\n",
+        "Occupation History": "Heidi Sophia Maier is a 55 year old and comes from Austria.\nAt Swarovski AG, Heidi Sophia Maier held the position of Assistant Designer from 1994 to 1999, developing essential skills in the field.\nHer subsequent role was as a Senior Designer at Swarovski AG, where she continued to grow professionally from 2001 till now.\n",
+        "Wealth Summary": "She managed to save approximately 420000 EUR from her earnings at all companies.\nShe has house located in Innsbruck, worth 970000 EUR.\n\nShe purchased flat in Bruck an der Mur, where she spends her holidays. It is valued at 896000 EUR.\nMoreover, she has invested in additional property in Sankt P\u00f6lten, giving possiblity for generating additional income. The townhouse is valued at 1030000 EUR.\n\nShe inherited a significant sum of 2730000 EUR from her grandfather, a respected Stock Trader, in 2009, which she has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

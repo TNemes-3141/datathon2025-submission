@@ -1,0 +1,146 @@
+{
+    "passport": {
+        "first_name": "Mertens",
+        "middle_name": "",
+        "last_name": "Peeters",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1970-04-26",
+        "passport_number": "ED4939276",
+        "passport_mrz": [
+            "P<BELPEETERS<<MERTENS<<<<<<<<<<<<<<<<<<<<<<<<",
+            "ED4939276BEL700426<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-07-17",
+        "passport_expiry_date": "2030-07-16"
+    },
+    "client_profile": {
+        "name": "Mertens Peeters",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue de la Madeleine",
+            "street number": 37,
+            "postal code": "9124"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1970-04-26",
+        "nationality": "Belgian",
+        "passport_number": "ED4939276",
+        "passport_issue_date": "2023-07-17",
+        "passport_expiry_date": "2030-07-16",
+        "gender": "M",
+        "phone_number": "+32 0488 033 450",
+        "email_address": "mertens.peeters@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Atheneum Antwerpen Linkeroever",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "University of Namur",
+                "graduation_year": 1995
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1995,
+                "end_year": 1998,
+                "company": "Linklaters LLP",
+                "position": "Associate Attorney",
+                "salary": 36000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2002,
+                "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+                "position": "Senior Associate",
+                "salary": 56000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2003,
+                "company": "Linklaters LLP",
+                "position": "Partner",
+                "salary": 72000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2010,
+                "company": "Clifford Chance LLP",
+                "position": "Managing Partner",
+                "salary": 214000
+            },
+            {
+                "start_year": 2010,
+                "end_year": null,
+                "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+                "position": "Law Firm Chairman",
+                "salary": 563000
+            }
+        ],
+        "aum": {
+            "savings": 950000,
+            "inheritance": 530000,
+            "real_estate_value": 3128000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2009,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1091000,
+                "property location": "Herstal"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1157000,
+                "property location": "Brussels"
+            },
+            {
+                "property type": "flat",
+                "property value": 880000,
+                "property location": "Turnhout"
+            }
+        ],
+        "investment_risk_profile": "Balanced",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mertens Peeters",
+        "first_name": "Mertens",
+        "middle_name": "",
+        "last_name": "Peeters",
+        "passport_number": "ED4939276",
+        "currency": "EUR",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue de la Madeleine",
+            "street number": 37,
+            "postal code": "9124"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0488 033 450",
+        "email_address": "mertens.peeters@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Mertens Peeters and the RM are cousins, having grown up together in Brussels. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nMertens Peeters is a 54 year old Law Firm Chairman from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Mertens Peeters has been happily married to Ad\u00e8le since 1996. They are proud parents of 2 children: Smets and Ingrid.",
+        "Education Background": "Mertens graduated from Atheneum Antwerpen Linkeroever in 1979.\nIn 1995, Mertens graduated from University of Namur with a degree.\n",
+        "Occupation History": "Mertens Peeters is a 54 year old Law Firm Chairman from Belgium.\nAt Linklaters LLP, Mertens Peeters held the position of Associate Attorney from 1995 to 1998, developing essential skills in the field.\nIn 2000, he moved to Liedekerke Wolters Waelbroeck Kirkpatrick to work as a Senior Associate, applying his knowledge to achieve outstanding performance.\nFrom 2002 to 2003, he served as a Partner at Linklaters LLP, solidifying his position as a leader in the industry.\nHe worked as a Managing Partner at Clifford Chance LLP from 2005 to 2010, playing a pivotal role in shaping the company's vision and strategy.\nHe has been a Law Firm Chairman at Liedekerke Wolters Waelbroeck Kirkpatrick since 2010, consistently demonstrating his ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "He managed to save approximately 950000 EUR from his earnings at all companies.\nHe owns 3 exceptional properties: flat located in Herstal, valued at approximately 1,091,000.00 EUR, townhouse located in Brussels, valued at approximately 1,157,000.00 EUR, flat located in Turnhout, valued at approximately 880,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Turnhout, Herstal and Brussels.\n\nFollowing the passing of his mother, a successful Neurosurgeon, he received an inheritance of 530000 EUR in 2009, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

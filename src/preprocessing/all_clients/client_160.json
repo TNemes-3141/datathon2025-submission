@@ -1,0 +1,112 @@
+{
+    "passport": {
+        "first_name": "Wagemakers",
+        "middle_name": "Verhoeven",
+        "last_name": "Schipper",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1992-01-23",
+        "passport_number": "YA8562927",
+        "passport_mrz": [
+            "P<NLDWAGEMAKERS<<SCHIPPER<VERHOEVEN<<<<<<<<<<",
+            "YA8562927NLD920123<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-04-27",
+        "passport_expiry_date": "2026-04-26"
+    },
+    "client_profile": {
+        "name": "Wagemakers Verhoeven Schipper",
+        "address": {
+            "city": "Enschede",
+            "street name": "Kalverstraat",
+            "street number": 22,
+            "postal code": "9786 37"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1992-01-23",
+        "nationality": "Dutch",
+        "passport_number": "YA8562927",
+        "passport_issue_date": "2016-04-27",
+        "passport_expiry_date": "2026-04-26",
+        "gender": "M",
+        "phone_number": "+31 06 82623048",
+        "email_address": "wagemakers.schipper@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Wesselink College Amersfoort",
+            "graduation_year": 2011
+        },
+        "higher_education": [
+            {
+                "university": "Erasmus University Rotterdam",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Shell Nederland B.V.",
+                "position": "Junior Trader",
+                "salary": 63000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 2900000,
+            "real_estate_value": 2497000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 967000,
+                "property location": "Enschede"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1530000,
+                "property location": "Groningen"
+            }
+        ],
+        "investment_risk_profile": "Conservative",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Wagemakers Verhoeven Schipper",
+        "first_name": "Wagemakers",
+        "middle_name": "Verhoeven",
+        "last_name": "Schipper",
+        "passport_number": "YA8562927",
+        "currency": "EUR",
+        "address": {
+            "city": "Enschede",
+            "street name": "Kalverstraat",
+            "street number": 22,
+            "postal code": "9786 37"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "++34 06 82623048",
+        "email_address": "wagemakers.schipper@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Wagemakers Verhoeven Schipper and the RM met at a networking event in Amsterdam. They quickly realized they had complementary skills and decided to collaborate on several projects.\nWagemakers Verhoeven Schipper is a 33 year old and comes from Netherlands.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Wagemakers Verhoeven Schipper is currently single. He does not have any children.",
+        "Education Background": "Wagemakers earned his secondary school diploma from Wesselink College Amersfoort in 2011.\nWagemakers completed his university studies at Erasmus University Rotterdam in 2014.\n",
+        "Occupation History": "Wagemakers Verhoeven Schipper is a 33 year old and comes from Netherlands.\nWagemakers Verhoeven Schipper began his professional journey as a Junior Trader at Shell Nederland B.V. in 2016, laying the foundation for future success.\n",
+        "Wealth Summary": "He managed to save approximately 70000 EUR from his earnings at all companies.\nHe has flat located in Enschede, worth 967000 EUR.\n\nHe purchased townhouse in Groningen, where he spends his holidays. It is valued at 1530000 EUR.\nHe inherited 2900000 EUR from his grandfather, a well-known Investment Banker, in 2018, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In summary, Wagemakers has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

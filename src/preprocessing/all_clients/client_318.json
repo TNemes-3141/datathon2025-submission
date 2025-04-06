@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Franziska",
+        "middle_name": "",
+        "last_name": "Gruber",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1963-01-10",
+        "passport_number": "BO4937999",
+        "passport_mrz": [
+            "P<AUTGRUBER<<FRANZISKA<<<<<<<<<<<<<<<<<<<<<<<",
+            "BO4937999AUT630110<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-05-07",
+        "passport_expiry_date": "2026-05-06"
+    },
+    "client_profile": {
+        "name": "Franziska Gruber",
+        "address": {
+            "city": "Perugia",
+            "street name": "Via IV Novembre",
+            "street number": 68,
+            "postal code": "52375"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1963-01-10",
+        "nationality": "Austrian",
+        "passport_number": "BO4937999",
+        "passport_issue_date": "2016-05-07",
+        "passport_expiry_date": "2026-05-06",
+        "gender": "F",
+        "phone_number": "+39 336 0604603",
+        "email_address": "franziska.gruber@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium Sacr\u00e9 Coeur Pressbaum",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "University of Vienna",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1989,
+                "company": "Clessidra SGR S.p.A.",
+                "position": "Analyst",
+                "salary": 29000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1994,
+                "company": "Alcedo SGR S.p.A.",
+                "position": "Associate",
+                "salary": 52000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2023,
+                "company": "Fondo Italiano d'Investimento SGR S.p.A.",
+                "position": "Investment Director",
+                "salary": 525000
+            }
+        ],
+        "aum": {
+            "savings": 980000,
+            "inheritance": 0,
+            "real_estate_value": 2903000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1203000,
+                "property location": "Perugia"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1020000,
+                "property location": "Stockerau"
+            },
+            {
+                "property type": "flat",
+                "property value": 680000,
+                "property location": "Dornbirn"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Franziska Gruber",
+        "first_name": "Franziska",
+        "middle_name": "",
+        "last_name": "Gruber",
+        "passport_number": "BO4937999",
+        "currency": "EUR",
+        "address": {
+            "city": "Perugia",
+            "street name": "Via IV Novembre",
+            "street number": 68,
+            "postal code": "52375"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 336 0604603",
+        "email_address": "franziska.gruber@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Franziska Gruber since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nFranziska Gruber is a 62 year old retired Investment Director from Italy.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Franziska Gruber is married to Mayr. Franziska and Mayr have 1 child, named Ilse.",
+        "Education Background": "Franziska finished secondary school at Gymnasium Sacr\u00e9 Coeur Pressbaum in 1981.\nIn 1986, Franziska graduated from University of Vienna with a degree.\n",
+        "Occupation History": "With a career spanning nearly 38 years, Franziska Gruber has established herself as a key player in the industry.\nFranziska Gruber launched her career as a Analyst at Clessidra SGR S.p.A., where she gained valuable experience from 1987 to 1989.\nAfter gaining experience, she took on the role of Associate at Alcedo SGR S.p.A. in 1991, further expanding her skill set.\nShe spent 27 years working as a Investment Director at Fondo Italiano d'Investimento SGR S.p.A., refining her expertise and building a strong network.\n",
+        "Wealth Summary": "She managed to save approximately 980000 EUR from her earnings at all companies.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 2903000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

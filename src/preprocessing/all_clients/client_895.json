@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Marchand",
+        "middle_name": "Richard",
+        "last_name": "Lefebvre",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2003-08-15",
+        "passport_number": "SS6904341",
+        "passport_mrz": [
+            "P<FRALEFEBVRE<<MARCHAND<RICHARD<<<<<<<<<<<<<<",
+            "SS6904341FRA030815<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-18",
+        "passport_expiry_date": "2027-08-17"
+    },
+    "client_profile": {
+        "name": "Marchand Richard Lefebvre",
+        "address": {
+            "city": "Rouen",
+            "street name": "Rue de Belleville",
+            "street number": 60,
+            "postal code": "17185"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2003-08-15",
+        "nationality": "French",
+        "passport_number": "SS6904341",
+        "passport_issue_date": "2017-08-18",
+        "passport_expiry_date": "2027-08-17",
+        "gender": "M",
+        "phone_number": "+33 01 78 47 56 58",
+        "email_address": "marchand.lefebvre@wanadoo.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Montaigne",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1910000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Marchand Richard Lefebvre",
+        "first_name": "Marchand",
+        "middle_name": "Richard",
+        "last_name": "Lefebvre",
+        "passport_number": "SS6904341",
+        "currency": "EUR",
+        "address": {
+            "city": "Rouen",
+            "street name": "Rue de Belleville",
+            "street number": 60,
+            "postal code": "17185"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 01 78 47 56 58",
+        "email_address": "marchand.lefebvre@wanadoo.fr"
+    },
+    "client_description": {
+        "Summary Note": "Marchand Richard Lefebvre and the RM are cousins, having grown up together in Paris. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nMarchand Richard Lefebvre is a 21 year old and comes from France.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Marchand Richard Lefebvre is currently single. He does not have any children.",
+        "Education Background": "Marchand finished secondary school at Lyc\u00e9e Montaigne in 2021.\n",
+        "Occupation History": "Marchand Richard Lefebvre is a 21 year old and comes from France.\nMarchand Richard Lefebvre did not start his professional career yet.",
+        "Wealth Summary": "He did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1910000 EUR from his late grandfather, a renowned Investment Banker, in 2019.\n",
+        "Client Summary": "The RM is excited to help Marchand navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

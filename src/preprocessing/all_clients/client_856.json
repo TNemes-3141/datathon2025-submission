@@ -1,0 +1,113 @@
+{
+    "passport": {
+        "first_name": "Uhlig",
+        "middle_name": "Neumann",
+        "last_name": "Wolf",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1965-03-29",
+        "passport_number": "ZK1957231",
+        "passport_mrz": [
+            "P<DEUWOLF<<UHLIG<NEUMANN<<<<<<<<<<<<<<<<<<<<<",
+            "ZK1957231DEU650329<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-28",
+        "passport_expiry_date": "2027-08-27"
+    },
+    "client_profile": {
+        "name": "Uhlig Neumann Wolf",
+        "address": {
+            "city": "Erlangen",
+            "street name": "Brandenburgische Stra\u00dfe",
+            "street number": 11,
+            "postal code": "02703"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1965-03-29",
+        "nationality": "German",
+        "passport_number": "ZK1957231",
+        "passport_issue_date": "2017-08-28",
+        "passport_expiry_date": "2027-08-27",
+        "gender": "M",
+        "phone_number": "9368 146990",
+        "email_address": "uhlig.wolf@versatel.de",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Johann-Wolfgang-von-Goethe-Gymnasium Frankfurt",
+            "graduation_year": 1983
+        },
+        "higher_education": [
+            {
+                "university": "University of Hamburg",
+                "graduation_year": 1987
+            },
+            {
+                "university": "University of Heidelberg",
+                "graduation_year": 1993
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1992,
+                "company": "Puma SE",
+                "position": "Assistant Designer",
+                "salary": 37000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 2025,
+                "company": "Adidas AG",
+                "position": "Senior Designer",
+                "salary": 415000
+            }
+        ],
+        "aum": {
+            "savings": 840000,
+            "inheritance": 1280000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2013,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Uhlig Neumann Wolf",
+        "first_name": "Uhlig",
+        "middle_name": "Neumann",
+        "last_name": "Wolf",
+        "passport_number": "ZK1957231",
+        "currency": "EUR",
+        "address": {
+            "city": "Erlangen",
+            "street name": "Brandenburgische Stra\u00dfe",
+            "street number": 11,
+            "postal code": "02703"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "9368 146990",
+        "email_address": "uhlig.wolf@versatel.de"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Uhlig Neumann Wolf at a luxury car show in Berlin. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nUhlig Neumann Wolf is a 60 year old retired Senior Designer from Germany.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Uhlig Neumann Wolf is currently widowed. His child is named Diana.",
+        "Education Background": "In 1983, Uhlig graduated from Johann-Wolfgang-von-Goethe-Gymnasium Frankfurt with a secondary school diploma.\nUhlig earned his degree from University of Hamburg in 1987.\nIn 1993, he received extra education and graduated from University of Heidelberg with an additional degree.\n",
+        "Occupation History": "Uhlig Neumann Wolf is a 60 year old retired Senior Designer from Germany.\nIn 1988, Uhlig Neumann Wolf started working as a Assistant Designer at Puma SE, marking the beginning of his successful career.\nAfter gaining experience, he took on the role of Senior Designer at Adidas AG in 1993, further expanding his skill set.\n",
+        "Wealth Summary": "Throughout his career, he saved 840000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1280000 EUR from his late grandmother, a renowned Private Equity Manager, in 2013.\n",
+        "Client Summary": "The RM is very happy to have Uhlig as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Brunner",
+        "middle_name": "Gm\u00fcr",
+        "last_name": "Kammermann",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1981-08-04",
+        "passport_number": "IY5160064",
+        "passport_mrz": [
+            "P<CHEKAMMERMANN<<BRUNNER<GM\u00dcR<<<<<<<<<<<<<<<<",
+            "IY5160064CHE810804<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-10-24",
+        "passport_expiry_date": "2031-10-23"
+    },
+    "client_profile": {
+        "name": "Brunner Gm\u00fcr Kammermann",
+        "address": {
+            "city": "Aarau",
+            "street name": "Niederdorf",
+            "street number": 78,
+            "postal code": "2350"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1981-08-04",
+        "nationality": "Swiss",
+        "passport_number": "IY5160064",
+        "passport_issue_date": "2021-10-24",
+        "passport_expiry_date": "2031-10-23",
+        "gender": "M",
+        "phone_number": "+41 089 739 68 20",
+        "email_address": "brunner.kammermann@swissonline.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kantonsschule Z\u00fcrich Nord Zurich",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "University of Zurich",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2009,
+                "company": "Gunvor Group Ltd. (Swiss branch)",
+                "position": "Junior Trader",
+                "salary": 61000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2013,
+                "company": "Glencore International AG",
+                "position": "Senior Trader",
+                "salary": 93000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Gunvor Group Ltd. (Swiss branch)",
+                "position": "Trading Desk Manager",
+                "salary": 424000
+            }
+        ],
+        "aum": {
+            "savings": 590000,
+            "inheritance": 5830000,
+            "real_estate_value": 7510000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 4610000,
+                "property location": "Aarau"
+            },
+            {
+                "property type": "house",
+                "property value": 2900000,
+                "property location": "Olten"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Austria"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Brunner Gm\u00fcr Kammermann",
+        "first_name": "Brunner",
+        "middle_name": "Gm\u00fcr",
+        "last_name": "Kammermann",
+        "passport_number": "IY5160064",
+        "currency": "CHF",
+        "address": {
+            "city": "Aarau",
+            "street name": "Niederdorf",
+            "street number": 78,
+            "postal code": "2350"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 089 739 68 20",
+        "email_address": "brunner.kammermann@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "Brunner Gm\u00fcr Kammermann and the RM are cousins, having grown up together in Z\u00fcrich. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nBrunner Gm\u00fcr Kammermann is a seasoned professional with over 19 years of experience.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Brunner Gm\u00fcr Kammermann and Barbara tied the knot in 2006. They are proud parents of 1 child: M\u00fcller.",
+        "Education Background": "Brunner earned his secondary school diploma from Kantonsschule Z\u00fcrich Nord Zurich in 2000.\nHe then attended University of Zurich, which he graduated in 2005.\n",
+        "Occupation History": "With a career spanning nearly 19 years, Brunner Gm\u00fcr Kammermann has established himself as a key player in the industry.\nAt Gunvor Group Ltd. (Swiss branch), Brunner Gm\u00fcr Kammermann held the position of Junior Trader from 2006 to 2009, developing essential skills in the field.\nHe then transitioned to Glencore International AG as a Senior Trader, leveraging his expertise to drive results from 2010 to 2013.\nHis tenure as a Trading Desk Manager at Gunvor Group Ltd. (Swiss branch) from 2013 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "He managed to save approximately 590000 CHF from his earnings at all companies.\nHe owns villa in Aarau, where he resides. It is worth 4610000 CHF.\n\nHe purchased house in Olten, where he spends his holidays. It is valued at 2900000 CHF.\n\nIn addition to his career success, he also received an inheritance of 5830000 CHF from his late mother, a renowned Tech Entrepreneur, in 2012.\n",
+        "Client Summary": "The RM is very happy to have Brunner as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Laur\u00e8ne",
+        "middle_name": "\u00c8ve",
+        "last_name": "Dubois",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1998-01-11",
+        "passport_number": "XK0654293",
+        "passport_mrz": [
+            "P<FRADUBOIS<<LAUR\u00c8NE<\u00c8VE<<<<<<<<<<<<<<<<<<<<<",
+            "XK0654293FRA980111<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-05-23",
+        "passport_expiry_date": "2031-05-22"
+    },
+    "client_profile": {
+        "name": "Laur\u00e8ne \u00c8ve Dubois",
+        "address": {
+            "city": "Bern",
+            "street name": "Place des Halles",
+            "street number": 76,
+            "postal code": "7634"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1998-01-11",
+        "nationality": "French",
+        "passport_number": "XK0654293",
+        "passport_issue_date": "2021-05-23",
+        "passport_expiry_date": "2031-05-22",
+        "gender": "F",
+        "phone_number": "+41 036 810 57 22",
+        "email_address": "laurene.dubois@freedom.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Buffon",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "HEC Paris",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": 2023,
+                "company": "UBS AG",
+                "position": "Family Office Manager",
+                "salary": 34000
+            },
+            {
+                "start_year": 2025,
+                "end_year": null,
+                "company": "Julius Baer Gruppe AG",
+                "position": "Investment Director",
+                "salary": 44000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 990000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Laur\u00e8ne \u00c8ve Dubois",
+        "first_name": "Laur\u00e8ne",
+        "middle_name": "\u00c8ve",
+        "last_name": "Dubois",
+        "passport_number": "XK0654293",
+        "currency": "CHF",
+        "address": {
+            "city": "Bern",
+            "street name": "Place des Halles",
+            "street number": 76,
+            "postal code": "7634"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 036 810 57 22",
+        "email_address": "laurene.dubois@freedom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Laur\u00e8ne \u00c8ve Dubois's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nLaur\u00e8ne \u00c8ve Dubois is a 27 year old and comes from Switzerland.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Laur\u00e8ne \u00c8ve Dubois and Bertrand have been married since 2022. They do not have any children.",
+        "Education Background": "Laur\u00e8ne finished secondary school at Lyc\u00e9e Buffon in 2016.\nLaur\u00e8ne completed her university studies at HEC Paris in 2021.\n",
+        "Occupation History": "Laur\u00e8ne \u00c8ve Dubois is a 27 year old Investment Director from Switzerland.\nAt UBS AG, Laur\u00e8ne \u00c8ve Dubois held the position of Family Office Manager from 2021 to 2023, developing essential skills in the field.\nHer subsequent role was as a Investment Director at Julius Baer Gruppe AG, where she continued to grow professionally from 2025 till now.\n",
+        "Wealth Summary": "While working, she saved 10000 CHF, which she used to build a diversified investment portfolio.\nClient does not have any properties.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

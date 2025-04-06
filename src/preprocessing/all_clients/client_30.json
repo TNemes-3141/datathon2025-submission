@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Peters",
+        "middle_name": "Michiels",
+        "last_name": "Vandenberghe",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1996-04-15",
+        "passport_number": "RN4774383",
+        "passport_mrz": [
+            "P<BELVANDENBERGHE<<PETERS<MICHIELS<<<<<<<<<<<",
+            "RN4774383BEL960415<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-12-07",
+        "passport_expiry_date": "2030-12-06"
+    },
+    "client_profile": {
+        "name": "Peters Michiels Vandenberghe",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Rue de la Convention",
+            "street number": 70,
+            "postal code": "2442"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1996-04-15",
+        "nationality": "Belgian",
+        "passport_number": "RN4774383",
+        "passport_issue_date": "2023-12-07",
+        "passport_expiry_date": "2030-12-06",
+        "gender": "M",
+        "phone_number": "+32 0422 145 463",
+        "email_address": "peters.vandenberghe@base.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Institut Notre-Dame de la Paix",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "Vrije Universiteit Brussel",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": 2023,
+                "company": "PMV NV",
+                "position": "Analyst",
+                "salary": 41000
+            },
+            {
+                "start_year": 2025,
+                "end_year": null,
+                "company": "Sofina SA",
+                "position": "Associate",
+                "salary": 59000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1440000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Peters Michiels Vandenberghe",
+        "first_name": "Peters",
+        "middle_name": "Michiels",
+        "last_name": "Vandenberghe",
+        "passport_number": "RN4774383",
+        "currency": "EUR",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Rue de la Convention",
+            "street number": 70,
+            "postal code": "2442"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0422 145 463",
+        "email_address": "peters.vandenberghe@base.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Peters Michiels Vandenberghe at a corporate retreat in Brussels. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nPeters Michiels Vandenberghe is a 28 year old and comes from Belgium.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Peters Michiels Vandenberghe and Margot have been married since 2021. They do not have any children.",
+        "Education Background": "Peters completed his secondary education at Institut Notre-Dame de la Paix in 2014.\nPeters earned his degree from Vrije Universiteit Brussel in 2020.\n",
+        "Occupation History": "Peters Michiels Vandenberghe is a 28 year old and comes from Belgium.\nIn 2021, Peters Michiels Vandenberghe started working as a Analyst at PMV NV, marking the beginning of his successful career.\nAt Sofina SA, he held the position of Associate from 2025 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 10000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1440000 EUR from his late grandfather, a renowned Real Estate Developer, in 2019.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "passport": {
+        "first_name": "Camille",
+        "middle_name": "Emma",
+        "last_name": "Dubois",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1979-07-09",
+        "passport_number": "WP9765093",
+        "passport_mrz": [
+            "P<FRADUBOIS<<CAMILLE<EMMA<<<<<<<<<<<<<<<<<<<<",
+            "WP9765093FRA790709<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-12-16",
+        "passport_expiry_date": "2026-12-15"
+    },
+    "client_profile": {
+        "name": "Camille Emma Dubois",
+        "address": {
+            "city": "Toulon",
+            "street name": "Rue de Strasbourg",
+            "street number": 1,
+            "postal code": "76694"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1979-07-09",
+        "nationality": "French",
+        "passport_number": "WP9765093",
+        "passport_issue_date": "2016-12-16",
+        "passport_expiry_date": "2026-12-15",
+        "gender": "F",
+        "phone_number": "+33 00 46 56 89 31",
+        "email_address": "camille.dubois@sfr.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Saint-Louis",
+            "graduation_year": 1998
+        },
+        "higher_education": [
+            {
+                "university": "EMIC de Marseille",
+                "graduation_year": 2002
+            },
+            {
+                "university": "University of Bordeaux",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2006,
+                "company": "Legrand S.A.",
+                "position": "Plant Manager",
+                "salary": 29000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "Saint-Gobain S.A.",
+                "position": "Operations Director",
+                "salary": 189000
+            }
+        ],
+        "aum": {
+            "savings": 260000,
+            "inheritance": 6610000,
+            "real_estate_value": 3950000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2006,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1960000,
+                "property location": "Toulon"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1990000,
+                "property location": "Nantes"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Camille Emma Dubois",
+        "first_name": "Camille",
+        "middle_name": "Emma",
+        "last_name": "Dubois",
+        "passport_number": "WP9765093",
+        "currency": "EUR",
+        "address": {
+            "city": "Toulon",
+            "street name": "Rue de Strasbourg",
+            "street number": 1,
+            "postal code": "76694"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 00 46 56 89 31",
+        "email_address": "camille.dubois@sfr.fr"
+    },
+    "client_description": {
+        "Summary Note": "Camille Emma Dubois and the RM met at a networking event in Paris. They quickly realized they had complementary skills and decided to collaborate on several projects.\nCamille Emma Dubois is a 45 year old and comes from France.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Camille Emma Dubois and Fournier tied the knot in 2010. Their children are named Durand and Garance.",
+        "Education Background": "Camille earned her secondary school diploma from Lyc\u00e9e Saint-Louis in 1998.\nIn 2002, Camille graduated from EMIC de Marseille with a degree.\nCamille earned her additionally degree from University of Bordeaux in 2006.\n",
+        "Occupation History": "With a career spanning nearly 21 years, Camille Emma Dubois has established herself as a key player in the industry.\nCamille Emma Dubois's first role was as a Plant Manager at Legrand S.A., where she worked diligently from 2004 to 2006 to establish a strong reputation.\nAt Saint-Gobain S.A., she held the position of Operations Director from 2007 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "While working, she saved 260000 EUR, which she used to build a diversified investment portfolio.\nShe owns townhouse in Toulon, where she resides. It is worth 1960000 EUR.\n\nShe purchased townhouse in Nantes, where she spends her holidays. It is valued at 1990000 EUR.\nShe inherited 6610000 EUR from her mother, a well-known Real Estate Developer, in 2006, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

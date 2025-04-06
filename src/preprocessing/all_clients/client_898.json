@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Aada",
+        "middle_name": "",
+        "last_name": "Mattila",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1999-05-14",
+        "passport_number": "OF7620798",
+        "passport_mrz": [
+            "P<FINMATTILA<<AADA<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "OF7620798FIN990514<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-05-05",
+        "passport_expiry_date": "2032-05-04"
+    },
+    "client_profile": {
+        "name": "Aada Mattila",
+        "address": {
+            "city": "Hyvink\u00e4\u00e4",
+            "street name": "Ratapihantie",
+            "street number": 98,
+            "postal code": "50690"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1999-05-14",
+        "nationality": "Finnish",
+        "passport_number": "OF7620798",
+        "passport_issue_date": "2022-05-05",
+        "passport_expiry_date": "2032-05-04",
+        "gender": "F",
+        "phone_number": "+358 046 161 65 65",
+        "email_address": "aada.mattila@luukku.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Varkauden lukio",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "\u00c5bo Akademi University School of Economics",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Marriott International Oy",
+                "position": "Hotel Manager",
+                "salary": 35000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1880000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Aada Mattila",
+        "first_name": "Aada",
+        "middle_name": "",
+        "last_name": "Mattila",
+        "passport_number": "OF7620798",
+        "currency": "EUR",
+        "address": {
+            "city": "Hyvink\u00e4\u00e4",
+            "street name": "Ratapihantie",
+            "street number": 98,
+            "postal code": "50690"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 046 161 65 65",
+        "email_address": "aada.mattila@luukku.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Aada Mattila at a wine tasting event in Helsinki. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nAada Mattila is a 25 year old and comes from Finland.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Aada Mattila is currently single. She does not have any children.",
+        "Education Background": "Aada graduated from Varkauden lukio in 2018.\nAada pursued higher education at \u00c5bo Akademi University School of Economics, graduating in 2023.\n",
+        "Occupation History": "Aada Mattila is a 25 year old Hotel Manager from Finland.\nAada Mattila began her professional journey as a Hotel Manager at Marriott International Oy in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "She managed to save approximately 10000 EUR from her earnings at all companies.\nClient does not have any properties.She inherited 1880000 EUR from her grandfather, a well-known Tech Entrepreneur, in 2018, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

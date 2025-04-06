@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "C\u00e9line",
+        "middle_name": "Lea",
+        "last_name": "Wyss",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1985-09-06",
+        "passport_number": "XZ2226706",
+        "passport_mrz": [
+            "P<CHEWYSS<<C\u00c9LINE<LEA<<<<<<<<<<<<<<<<<<<<<<<<",
+            "XZ2226706CHE850906<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-11-17",
+        "passport_expiry_date": "2029-11-16"
+    },
+    "client_profile": {
+        "name": "C\u00e9line Lea Wyss",
+        "address": {
+            "city": "Neuchatel",
+            "street name": "Petersplatz",
+            "street number": 94,
+            "postal code": "7547"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1985-09-06",
+        "nationality": "Swiss",
+        "passport_number": "XZ2226706",
+        "passport_issue_date": "2019-11-17",
+        "passport_expiry_date": "2029-11-16",
+        "gender": "F",
+        "phone_number": "+41 041 730 69 51",
+        "email_address": "celine.wyss@upc.ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gymnasium am M\u00fcnster Schaffhausen",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2015,
+                "company": "Z\u00fcblin Immobilien AG",
+                "position": "Property Manager",
+                "salary": 61000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2018,
+                "company": "Swiss Prime Site AG",
+                "position": "Developer",
+                "salary": 98000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": " Implenia AG",
+                "position": "Construction Company Owner",
+                "salary": 181000
+            }
+        ],
+        "aum": {
+            "savings": 270000,
+            "inheritance": 1790000,
+            "real_estate_value": 4300000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1740000,
+                "property location": "Neuchatel"
+            },
+            {
+                "property type": "condo",
+                "property value": 2560000,
+                "property location": "Bienna"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "France"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "C\u00e9line Lea Wyss",
+        "first_name": "C\u00e9line",
+        "middle_name": "Lea",
+        "last_name": "Wyss",
+        "passport_number": "XZ2226706",
+        "currency": "CHF",
+        "address": {
+            "city": "Neuchatel",
+            "street name": "Petersplatz",
+            "street number": 94,
+            "postal code": "7547"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 041 730 69 51",
+        "email_address": "celine.wyss@upc.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of C\u00e9line Lea Wyss's parents, having known her since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nC\u00e9line Lea Wyss is a seasoned professional with over 15 years of experience.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "C\u00e9line Lea Wyss and Kaufmann tied the knot in 2018. They are proud parents of 2 children: Meier and Kuhn.",
+        "Education Background": "In 2004, C\u00e9line finished her secondary school education at Gymnasium am M\u00fcnster Schaffhausen.\nC\u00e9line graduated from Suffolk University in Geneva in 2008, completing her higher education.\n",
+        "Occupation History": "C\u00e9line Lea Wyss is a 39 year old Construction Company Owner from Switzerland.\nIn 2010, C\u00e9line Lea Wyss started working as a Property Manager at Z\u00fcblin Immobilien AG, marking the beginning of her successful career.\nAt Swiss Prime Site AG, she held the position of Developer from 2015 to 2018, making significant contributions to the organization.\nIn 2018, she joined  Implenia AG as a Construction Company Owner, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "While working, she saved 270000 CHF, which she used to build a diversified investment portfolio.\nShe owns flat in Neuchatel, where she resides. It is worth 1740000 CHF.\n\nShe purchased condo in Bienna, where she spends her holidays. It is valued at 2560000 CHF.\nShe inherited 1790000 CHF from her grandmother, a well-known Venture Capitalist, in 2019, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In summary, C\u00e9line has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

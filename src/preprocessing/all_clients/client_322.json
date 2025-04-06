@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "\u00c1frica",
+        "middle_name": "Angela",
+        "last_name": "Su\u00e1rez",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "2002-10-13",
+        "passport_number": "AD1401491",
+        "passport_mrz": [
+            "P<ESPSU\u00c1REZ<<\u00c1FRICA<ANGELA<<<<<<<<<<<<<<<<<<<",
+            "AD1401491ESP021013<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-12-02",
+        "passport_expiry_date": "2027-12-01"
+    },
+    "client_profile": {
+        "name": "\u00c1frica Angela Su\u00e1rez",
+        "address": {
+            "city": "Guadalajara",
+            "street name": "Plaza de la Magdalena",
+            "street number": 76,
+            "postal code": "93574"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "2002-10-13",
+        "nationality": "Spanish",
+        "passport_number": "AD1401491",
+        "passport_issue_date": "2022-12-02",
+        "passport_expiry_date": "2027-12-01",
+        "gender": "F",
+        "phone_number": "689 379 273",
+        "email_address": "africa.suarez@hotmail.es",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Andr\u00e9s Laguna Segovia",
+            "graduation_year": 2022
+        },
+        "higher_education": [
+            {
+                "university": "Escuela de Negocios de Navarra",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2670000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "\u00c1frica Angela Su\u00e1rez",
+        "first_name": "\u00c1frica",
+        "middle_name": "Angela",
+        "last_name": "Su\u00e1rez",
+        "passport_number": "AD1401491",
+        "currency": "EUR",
+        "address": {
+            "city": "Guadalajara",
+            "street name": "Plaza de la Magdalena",
+            "street number": 76,
+            "postal code": "93574"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "689 379 273",
+        "email_address": "africa.suarez@hotmail.es"
+    },
+    "client_description": {
+        "Summary Note": "\u00c1frica Angela Su\u00e1rez and the RM met at a networking event in Madrid. They quickly realized they had complementary skills and decided to collaborate on several projects.\n\u00c1frica Angela Su\u00e1rez is a 22 year old and comes from Spain.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "\u00c1frica Angela Su\u00e1rez is currently single. She does not have any children.",
+        "Education Background": "\u00c1frica received her secondary school diploma from IES Andr\u00e9s Laguna Segovia in 2022.\nIn 2025, \u00c1frica graduated from Escuela de Negocios de Navarra with a degree.\n",
+        "Occupation History": "\u00c1frica Angela Su\u00e1rez is a 22 year old and comes from Spain.\n\u00c1frica Angela Su\u00e1rez did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 2670000 EUR from her late grandfather, a renowned Corporate Lawyer, in 2018.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

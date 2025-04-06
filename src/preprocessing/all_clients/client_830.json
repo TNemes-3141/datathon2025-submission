@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Moens",
+        "middle_name": "Maes",
+        "last_name": "Dumont",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1996-06-22",
+        "passport_number": "AG1800784",
+        "passport_mrz": [
+            "P<BELDUMONT<<MOENS<MAES<<<<<<<<<<<<<<<<<<<<<<",
+            "AG1800784BEL960622<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-09-02",
+        "passport_expiry_date": "2027-09-01"
+    },
+    "client_profile": {
+        "name": "Moens Maes Dumont",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Boulevard Anspach",
+            "street number": 14,
+            "postal code": "1102"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1996-06-22",
+        "nationality": "Belgian",
+        "passport_number": "AG1800784",
+        "passport_issue_date": "2020-09-02",
+        "passport_expiry_date": "2027-09-01",
+        "gender": "M",
+        "phone_number": "+32 0443 212 819",
+        "email_address": "moens.dumont@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Koninklijk Atheneum Gent",
+            "graduation_year": 2014
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": 2022,
+                "company": "ING Belgium SA/NV",
+                "position": "Investment Banker",
+                "salary": 36000
+            },
+            {
+                "start_year": 2024,
+                "end_year": null,
+                "company": "ING Belgium SA/NV",
+                "position": "Private Equity Investor",
+                "salary": 50000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1960000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Moens Maes Dumont",
+        "first_name": "Moens",
+        "middle_name": "Maes",
+        "last_name": "Dumont",
+        "passport_number": "AG1800784",
+        "currency": "EUR",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Boulevard Anspach",
+            "street number": 14,
+            "postal code": "1102"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0443 212 819",
+        "email_address": "moens.dumont@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Moens Maes Dumont at a charity gala in Brussels. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nMoens Maes Dumont is a 28 year old Private Equity Investor from Belgium.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Moens Maes Dumont is currently single. He does not have any children.",
+        "Education Background": "Moens obtained his secondary school diploma from Koninklijk Atheneum Gent in 2014.\nIn 2021, Moens graduated from Vesalius College with a degree.\n",
+        "Occupation History": "Moens Maes Dumont is a 28 year old Private Equity Investor from Belgium.\nMoens Maes Dumont began his professional journey as a Investment Banker at ING Belgium SA/NV in 2021, laying the foundation for future success.\nHe then transitioned to ING Belgium SA/NV as a Private Equity Investor, leveraging his expertise to drive results from 2024 till now.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 10000 EUR.\nClient does not have any properties.\nFollowing the passing of his grandfather, a successful Private Equity Manager, he received an inheritance of 1960000 EUR in 2016, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

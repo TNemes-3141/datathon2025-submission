@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "M\u00f8ller",
+        "middle_name": "Larsen",
+        "last_name": "Oddershede",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "DNK",
+        "nationality": "Austrian",
+        "birth_date": "1948-07-21",
+        "passport_number": "TX8659274",
+        "passport_mrz": [
+            "P<DNKODDERSHEDE<<M\u00d8LLER<LARSEN<<<<<<<<<<<<<<<",
+            "TX8659274DNK840721<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1977-09-01",
+        "passport_expiry_date": "1987-08-31"
+    },
+    "client_profile": {
+        "name": "M\u00f8ller Larsen Oddershede",
+        "address": {
+            "city": "Vejle",
+            "street name": "Kattesundet",
+            "street number": 33,
+            "postal code": "7819"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1984-07-21",
+        "nationality": "Danish",
+        "passport_number": "TX8659274",
+        "passport_issue_date": "2018-09-01",
+        "passport_expiry_date": "2028-08-31",
+        "gender": "M",
+        "phone_number": "+45 82 38 42 48",
+        "email_address": "mller.oddershede@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Randers Statsskole",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business Academy",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "NCC Danmark A/S",
+                "position": "Property Manager",
+                "salary": 262000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2015,
+                "company": "Skanska Danmark A/S",
+                "position": "Developer",
+                "salary": 406000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "NCC Danmark A/S",
+                "position": "Construction Company Owner",
+                "salary": 982000
+            }
+        ],
+        "aum": {
+            "savings": 1340000,
+            "inheritance": 20560000,
+            "real_estate_value": 3534000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1280000,
+                "property location": "Vejle"
+            },
+            {
+                "property type": "flat",
+                "property value": 924000,
+                "property location": "Frederiksberg"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1330000,
+                "property location": "Aarhus"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Italy"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "M\u00f8ller Larsen Oddershede",
+        "first_name": "M\u00f8ller",
+        "middle_name": "Larsen",
+        "last_name": "Oddershede",
+        "passport_number": "TX8659274",
+        "currency": "DKK",
+        "address": {
+            "city": "Vejle",
+            "street name": "Kattesundet",
+            "street number": 33,
+            "postal code": "7819"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 82 38 42 48",
+        "email_address": "mller.oddershede@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "M\u00f8ller Larsen Oddershede and the RM are cousins, having grown up together in Copenhagen. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nHaving worked for over 17 years, M\u00f8ller Larsen Oddershede brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "M\u00f8ller Larsen Oddershede is married to Line. Their children are named M\u00f8ller and Hansen.",
+        "Education Background": "M\u00f8ller graduated from Randers Statsskole in 2004.\nM\u00f8ller finished his studies at Copenhagen Business Academy in 2009.\n",
+        "Occupation History": "With a career spanning nearly 17 years, M\u00f8ller Larsen Oddershede has established himself as a key player in the industry.\nM\u00f8ller Larsen Oddershede launched his career as a Property Manager at NCC Danmark A/S, where he gained valuable experience from 2008 to 2012.\nHe then transitioned to Skanska Danmark A/S as a Developer, leveraging his expertise to drive results from 2012 to 2015.\nFrom 2015 till now, he served as a Construction Company Owner at NCC Danmark A/S, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "He managed to save approximately 1340000 DKK from his earnings at all companies.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Frederiksberg, Vejle and Aarhus, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2019, he received an inheritance of 20560000 DKK from his late grandmother, who was a prominent Stock Trader, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

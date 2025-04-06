@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Sch\u00e4fer",
+        "middle_name": "Schwarz",
+        "last_name": "Schmitt",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1962-12-27",
+        "passport_number": "QR7893737",
+        "passport_mrz": [
+            "P<DEUSCHMITT<<SCH\u00c4FER<SCHWARZ<<<<<<<<<<<<<<<<",
+            "QR7893737DEU621227<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-07-09",
+        "passport_expiry_date": "2029-07-08"
+    },
+    "client_profile": {
+        "name": "Sch\u00e4fer Schwarz Schmitt",
+        "address": {
+            "city": "Essen",
+            "street name": "Marienplatz",
+            "street number": 92,
+            "postal code": "92721"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1962-12-27",
+        "nationality": "German",
+        "passport_number": "QR7893737",
+        "passport_issue_date": "2019-07-09",
+        "passport_expiry_date": "2029-07-08",
+        "gender": "M",
+        "phone_number": "+49 5486 759683",
+        "email_address": "schafer.schmitt@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Erasmus-Grasser-Gymnasium M\u00fcnchen",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "University of Hamburg",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1991,
+                "company": "Deutsche Asset Management",
+                "position": "Stockbroker",
+                "salary": 52000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 2023,
+                "company": "Allianz SE",
+                "position": "Portfolio Manager",
+                "salary": 360000
+            }
+        ],
+        "aum": {
+            "savings": 750000,
+            "inheritance": 0,
+            "real_estate_value": 5260000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1150000,
+                "property location": "Essen"
+            },
+            {
+                "property type": "villa",
+                "property value": 2430000,
+                "property location": "Monchengladbach"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1680000,
+                "property location": "D\u00fcsseldorf"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sch\u00e4fer Schwarz Schmitt",
+        "first_name": "Sch\u00e4fer",
+        "middle_name": "Schwarz",
+        "last_name": "Schmitt",
+        "passport_number": "QR7893737",
+        "currency": "EUR",
+        "address": {
+            "city": "Essen",
+            "street name": "Marienplatz",
+            "street number": 92,
+            "postal code": "92721"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 5486 759683",
+        "email_address": "schafer.schmitt@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Sch\u00e4fer Schwarz Schmitt and the RM crossed paths at a mutual friend's dinner party in Berlin. They discovered they had many common acquaintances and decided to explore business opportunities together.\nSch\u00e4fer Schwarz Schmitt is a 62 year old retired Portfolio Manager from Germany. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Sch\u00e4fer Schwarz Schmitt has been happily married to Henriette since 1995. Together they have 3 kids called Zimmermann, Fabienne and Schultz.",
+        "Education Background": "Sch\u00e4fer received his secondary school diploma from Erasmus-Grasser-Gymnasium M\u00fcnchen in 1982.\nSch\u00e4fer earned his degree from University of Hamburg in 1986.\n",
+        "Occupation History": "With a career spanning nearly 39 years, Sch\u00e4fer Schwarz Schmitt has established himself as a key player in the industry.\nSch\u00e4fer Schwarz Schmitt's first role was as a Stockbroker at Deutsche Asset Management, where he worked diligently from 1986 to 1991 to establish a strong reputation.\nIn 1992, he moved to Allianz SE to work as a Portfolio Manager, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 750000 EUR, which he used to build a diversified investment portfolio.\nHe has condo located in Essen, worth 1150000 EUR.\n\nIn addition to his primary residence, he owns villa in Monchengladbach worth 2430000 EUR.\n\nOn top of that he inherited a beautiful townhouse in D\u00fcsseldorf, which could be used as a weekend getaway. It is valued at 1680000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

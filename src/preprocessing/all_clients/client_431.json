@@ -1,0 +1,143 @@
+{
+    "passport": {
+        "first_name": "Mayer",
+        "middle_name": "Schmitz",
+        "last_name": "Uhlig",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1978-10-15",
+        "passport_number": "NB6144204",
+        "passport_mrz": [
+            "P<DEUUHLIG<<MAYER<SCHMITZ<<<<<<<<<<<<<<<<<<<<",
+            "NB6144204DEU781015<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-11-04",
+        "passport_expiry_date": "2030-11-03"
+    },
+    "client_profile": {
+        "name": "Mayer Schmitz Uhlig",
+        "address": {
+            "city": "Wiesbaden",
+            "street name": "Rathausstra\u00dfe",
+            "street number": 49,
+            "postal code": "33537"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1978-10-15",
+        "nationality": "German",
+        "passport_number": "NB6144204",
+        "passport_issue_date": "2020-11-04",
+        "passport_expiry_date": "2030-11-03",
+        "gender": "M",
+        "phone_number": "+49 8167 855432",
+        "email_address": "mayer.uhlig@1und1.de",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Heisenberg-Gymnasium L\u00fcneburg",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "Dresden University of Technology",
+                "graduation_year": 2002
+            },
+            {
+                "university": "D\u00fcsseldorf University of Applied Sciences",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2008,
+                "company": "Software AG",
+                "position": "Software Developer",
+                "salary": 54000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2012,
+                "company": "Software AG",
+                "position": "Startup Founder",
+                "salary": 59000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2018,
+                "company": "Software AG",
+                "position": "CEO",
+                "salary": 77000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Siemens AG",
+                "position": "Venture Capitalist",
+                "salary": 255000
+            }
+        ],
+        "aum": {
+            "savings": 310000,
+            "inheritance": 1520000,
+            "real_estate_value": 3582000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2007,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1354000,
+                "property location": "Wiesbaden"
+            },
+            {
+                "property type": "condo",
+                "property value": 968000,
+                "property location": "Erlangen"
+            },
+            {
+                "property type": "condo",
+                "property value": 1260000,
+                "property location": "Bremen"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mayer Schmitz Uhlig",
+        "first_name": "Mayer",
+        "middle_name": "Schmitz",
+        "last_name": "Uhlig",
+        "passport_number": "NB6144204",
+        "currency": "EUR",
+        "address": {
+            "city": "Wiesbaden",
+            "street name": "Rathausstra\u00dfe",
+            "street number": 49,
+            "postal code": "33537"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 8167 855432",
+        "email_address": "mayer.uhlig@1und1.de"
+    },
+    "client_description": {
+        "Summary Note": "Mayer Schmitz Uhlig and the RM were introduced at a gourmet food festival in Berlin. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nMayer Schmitz Uhlig is a seasoned professional with over 22 years of experience.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Mayer Schmitz Uhlig is currently divorced. His children are named Emma, Sch\u00e4fer and Lilli.",
+        "Education Background": "Mayer earned his secondary school diploma from Heisenberg-Gymnasium L\u00fcneburg in 1996.\nMayer graduated from Dresden University of Technology in 2002, completing his higher education.\nAdditionally, he went on to study at D\u00fcsseldorf University of Applied Sciences until 2005.\n",
+        "Occupation History": "Mayer Schmitz Uhlig is a 46 year old and comes from Germany.\nMayer Schmitz Uhlig launched his career as a Software Developer at Software AG, where he gained valuable experience from 2003 to 2008.\nHis subsequent role was as a Startup Founder at Software AG, where he continued to grow professionally from 2010 to 2012.\nIn 2014, he joined Software AG as a CEO, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHis next role was as a Venture Capitalist at Siemens AG, where he applied his extensive experience to drive innovation from 2019 till now.\n",
+        "Wealth Summary": "He managed to save approximately 310000 EUR from his earnings at all companies.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Erlangen, Wiesbaden and Bremen, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of his grandfather, a successful Private Equity Manager, he received an inheritance of 1520000 EUR in 2007, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

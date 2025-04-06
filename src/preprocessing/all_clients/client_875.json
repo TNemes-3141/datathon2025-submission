@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Isabelle",
+        "middle_name": "Julia",
+        "last_name": "Stam",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1955-09-02",
+        "passport_number": "YW2194929",
+        "passport_mrz": [
+            "P<NLDSTAM<<ISABELLE<JULIA<<<<<<<<<<<<<<<<<<<<",
+            "YW2194929NLD550902<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-12-16",
+        "passport_expiry_date": "2026-12-15"
+    },
+    "client_profile": {
+        "name": "Isabelle Julia Stam",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Spoorweghaven",
+            "street number": 45,
+            "postal code": "9649 15"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1955-09-02",
+        "nationality": "Dutch",
+        "passport_number": "YW2194929",
+        "passport_issue_date": "2016-12-16",
+        "passport_expiry_date": "2026-12-15",
+        "gender": "F",
+        "phone_number": "+31 06 42365195",
+        "email_address": "isabelle.stam@outlook.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Montessori Lyceum Rotterdam",
+            "graduation_year": 1973
+        },
+        "higher_education": [
+            {
+                "university": "Amsterdam University College",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1980,
+                "end_year": 1983,
+                "company": "Talpa Media B.V.",
+                "position": "Journalist",
+                "salary": 40000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 2016,
+                "company": "Sanoma Media Netherlands B.V.",
+                "position": "Editor",
+                "salary": 449000
+            }
+        ],
+        "aum": {
+            "savings": 940000,
+            "inheritance": 0,
+            "real_estate_value": 3677000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1550000,
+                "property location": "Hoofddorp"
+            },
+            {
+                "property type": "condo",
+                "property value": 1017000,
+                "property location": "Helmond"
+            },
+            {
+                "property type": "flat",
+                "property value": 1110000,
+                "property location": "Emmen"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Isabelle Julia Stam",
+        "first_name": "Isabelle",
+        "middle_name": "Julia",
+        "last_name": "Stam",
+        "passport_number": "YW2194929",
+        "currency": "EUR",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Spoorweghaven",
+            "street number": 45,
+            "postal code": "9649 15"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 42365195",
+        "email_address": "isabelle.stam@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Isabelle Julia Stam and the RM met at a networking event in Amsterdam. They quickly realized they had complementary skills and decided to collaborate on several projects.\nIsabelle Julia Stam is a 69 year old retired Editor from Netherlands.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Isabelle Julia Stam is currently widowed. She does not have any children.",
+        "Education Background": "Isabelle earned her secondary school diploma from Montessori Lyceum Rotterdam in 1973.\nAfter that, she went on to study at Amsterdam University College until 1980.\n",
+        "Occupation History": "Isabelle Julia Stam is a 69 year old retired Editor from Netherlands. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIsabelle Julia Stam launched her career as a Journalist at Talpa Media B.V., where she gained valuable experience from 1980 to 1983.\nHer subsequent role was as a Editor at Sanoma Media Netherlands B.V., where she continued to grow professionally from 1983 till retirement.\n",
+        "Wealth Summary": "She managed to save approximately 940000 EUR from her earnings at all companies.\nShe has house located in Hoofddorp, worth 1550000 EUR.\n\nIn addition to her primary residence, she owns condo in Helmond worth 1017000 EUR.\n\nMoreover, she has invested in additional property in Emmen, giving possiblity for generating additional income. The flat is valued at 1110000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

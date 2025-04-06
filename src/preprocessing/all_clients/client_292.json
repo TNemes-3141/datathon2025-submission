@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "Imke",
+        "middle_name": "Gwendolyn",
+        "last_name": "Koch",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1963-06-19",
+        "passport_number": "ZH7030418",
+        "passport_mrz": [
+            "P<DEUKOCH<<IMKE<GWENDOLYN<<<<<<<<<<<<<<<<<<<<",
+            "ZH7030418DEU630619<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-11-16",
+        "passport_expiry_date": "2027-11-15"
+    },
+    "client_profile": {
+        "name": "Imke Gwendolyn Koch",
+        "address": {
+            "city": "Wiesbaden",
+            "street name": "Speicherstadt",
+            "street number": 71,
+            "postal code": "49917"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1963-06-19",
+        "nationality": "German",
+        "passport_number": "ZH7030418",
+        "passport_issue_date": "2017-11-16",
+        "passport_expiry_date": "2027-11-15",
+        "gender": "F",
+        "phone_number": "+49 1957 276032",
+        "email_address": "imke.koch@vodafone.de",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Heisenberg-Gymnasium L\u00fcneburg",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "Ludwig Maximilian University of Munich",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1992,
+                "company": "Linklaters LLP",
+                "position": "Associate Attorney",
+                "salary": 49000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1995,
+                "company": "Hengeler Mueller",
+                "position": "Senior Associate",
+                "salary": 66000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2000,
+                "company": "Linklaters LLP",
+                "position": "Partner",
+                "salary": 180000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2006,
+                "company": "Clifford Chance LLP",
+                "position": "Managing Partner",
+                "salary": 161000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2024,
+                "company": "Clifford Chance LLP",
+                "position": "Law Firm Chairman",
+                "salary": 827000
+            }
+        ],
+        "aum": {
+            "savings": 1580000,
+            "inheritance": 0,
+            "real_estate_value": 910000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 910000,
+                "property location": "Wiesbaden"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Imke Gwendolyn Koch",
+        "first_name": "Imke",
+        "middle_name": "Gwendolyn",
+        "last_name": "Koch",
+        "passport_number": "ZH7030418",
+        "currency": "EUR",
+        "address": {
+            "city": "Wiesbaden",
+            "street name": "Speicherstadt",
+            "street number": 71,
+            "postal code": "49917"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 1957 276032",
+        "email_address": "imke.koch@vodafone.de"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Imke Gwendolyn Koch at a charity gala in Berlin. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nImke Gwendolyn Koch is a seasoned professional with over 38 years of experience.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Imke Gwendolyn Koch and Schulz tied the knot in 1990. Together they have 2 kids called Benita and Becker.",
+        "Education Background": "In 1982, Imke finished her secondary school education at Heisenberg-Gymnasium L\u00fcneburg.\nImke received her degree from Ludwig Maximilian University of Munich in 1986.\n",
+        "Occupation History": "Imke Gwendolyn Koch is a 61 year old retired Law Firm Chairman from Germany. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Linklaters LLP, Imke Gwendolyn Koch held the position of Associate Attorney from 1987 to 1992, developing essential skills in the field.\nIn 1994, she moved to Hengeler Mueller to work as a Senior Associate, applying her knowledge to achieve outstanding performance.\nAt Linklaters LLP, she worked as a Partner from 1995 to 2000, focusing on strategic initiatives and team collaboration.\nShe worked as a Managing Partner at Clifford Chance LLP from 2002 to 2006, playing a pivotal role in shaping the company's vision and strategy.\nShe held the position of Law Firm Chairman at Clifford Chance LLP from 2008 until her retirement.",
+        "Wealth Summary": "Throughout her career, she saved 1580000 EUR, investing in various assets to grow her wealth.\nShe owns condo in Wiesbaden, where she resides. It is worth 910000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

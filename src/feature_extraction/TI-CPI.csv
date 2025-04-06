@@ -1,0 +1,727 @@
+Economy ISO3;Economy Name;Indicator ID;Indicator;Attribute 1;Attribute 2;Attribute 3;Partner;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023
+AFG;Afghanistan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;174;175;172;166;169;177;172;173;165;174;150;162
+AFG;Afghanistan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.3;3.3;1.29;3.49;1.74;1.39;1.41;2.55;2.44;2.12;6.3;6.24
+AFG;Afghanistan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;8;8;12;11;15;15;16;16;19;16;24;20
+AFG;Afghanistan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;4;4;5;5;5;5;5;5;4;5
+AGO;Angola;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;157;153;161;163;164;167;165;146;142;136;116;121
+AGO;Angola;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.8;2.8;1.71;1.8;1.68;1.28;1.31;1.82;2.01;1.53;2.81;2.81
+AGO;Angola;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;22;23;19;15;18;19;19;26;27;29;33;33
+AGO;Angola;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;6;5;4;5;6;7;7;7;7;7
+ALB;Albania;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;113;116;110;88;83;91;99;106;104;110;101;98
+ALB;Albania;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2;2.1;1.51;3.58;1.99;1.81;1.65;2.51;0.92;1.33;1.32;1.56
+ALB;Albania;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;33;31;33;36;39;38;36;35;36;35;36;37
+ALB;Albania;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;7
+ARE;United Arab Emirates;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;27;26;25;23;24;21;23;21;21;24;27;26
+ARE;United Arab Emirates;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.3;4.7;5.14;5.07;5.7;6.26;4.56;5.13;3.23;2.9;3.1;2.57
+ARE;United Arab Emirates;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;68;69;70;70;66;71;70;71;71;69;67;68
+ARE;United Arab Emirates;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;7;8;8;8;8;7;7
+ARG;Argentina;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;102;106;107;107;95;85;85;66;78;96;94;98
+ARG;Argentina;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.6;2.4;2.42;1.84;1.76;2.92;2.7;3.29;2.32;2.1;2.33;2.05
+ARG;Argentina;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;35;34;34;32;36;39;40;45;42;38;38;37
+ARG;Argentina;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;8;8;8;8;8;8;7;8
+ARM;Armenia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;94;94;95;113;107;105;77;60;58;63;62
+ARM;Armenia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.7;3.5;3.69;2.98;4.01;3.79;4;4.31;3.5;3.76;2.47;2.54
+ARM;Armenia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;36;37;35;33;35;35;42;49;49;46;47
+ARM;Armenia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;5;6;6;6;6;6;6;6;6
+AUS;Australia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;7;9;11;13;13;13;13;12;11;18;13;14
+AUS;Australia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.1;1.5;1.31;1.5;1.27;1.4;1.27;1.32;1.05;1.63;0.78;1.52
+AUS;Australia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;85;81;80;79;79;77;77;77;77;73;75;75
+AUS;Australia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;8;9;9;9;9;9;9;9
+AUT;Austria;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;25;26;23;16;17;16;14;12;15;13;22;20
+AUT;Austria;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;3.2;3.49;1.76;1.36;1.17;1.37;1.57;0.67;0.83;1.53;1.37
+AUT;Austria;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;69;69;72;76;75;75;76;77;76;74;71;71
+AUT;Austria;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;7;8;8;8;8;8;8;8
+AZE;Azerbaijan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;139;127;126;119;123;122;152;126;129;128;157;154
+AZE;Azerbaijan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.5;3.5;3.02;3.25;5.13;5.64;4.09;7.16;5;5.52;2.4;2.46
+AZE;Azerbaijan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;27;28;29;29;30;31;25;30;30;30;23;23
+AZE;Azerbaijan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;6;7;7;7;6;6
+BDI;Burundi;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;165;157;159;150;159;157;170;165;165;169;171;162
+BDI;Burundi;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.8;2.6;3.65;2.94;1.53;3.29;2.65;4.89;3.74;3.27;2.33;1.8
+BDI;Burundi;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;19;21;20;21;20;22;17;19;19;19;17;20
+BDI;Burundi;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;6;6;5;6;6;6;5;5
+BEL;Belgium;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;16;15;15;15;15;16;17;17;15;18;18;16
+BEL;Belgium;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;2.3;2.26;1.34;1.55;1.63;1.09;1.09;1.05;1.44;1.52;2.13
+BEL;Belgium;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;75;75;76;77;77;75;75;75;76;73;73;73
+BEL;Belgium;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;7;7;8;8;8
+BEN;Benin;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;94;80;83;95;85;85;80;83;78;72;70
+BEN;Benin;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.3;3.4;4.38;4.43;3.8;4.17;3.14;2.64;1.8;2.35;2.42;3.13
+BEN;Benin;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;36;39;37;36;39;40;41;41;42;43;43
+BEN;Benin;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;4;5;6;6;6;7;7;7;7;6
+BFA;Burkina Faso;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;83;83;85;76;72;74;78;85;86;78;77;83
+BFA;Burkina Faso;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.4;3.9;2.67;2.97;2.47;2.18;1.81;2.54;1.62;1.37;1.37;1.78
+BFA;Burkina Faso;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;38;38;38;38;42;42;41;40;40;42;42;41
+BFA;Burkina Faso;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;7;8;8;8;7;7;7
+BGD;Bangladesh;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;144;136;145;139;145;143;149;146;146;147;147;149
+BGD;Bangladesh;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.1;4.1;4.23;4.3;4.13;3.19;2.63;2.62;1.72;1.74;1.93;1.51
+BGD;Bangladesh;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;26;27;25;25;26;28;26;26;26;26;25;24
+BGD;Bangladesh;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+BGR;Bulgaria;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;75;77;69;69;75;71;77;74;69;78;72;67
+BGR;Bulgaria;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.8;3.3;2.82;2.43;2.2;2.66;2.41;2.77;1.29;1.18;1.06;1.16
+BGR;Bulgaria;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;41;41;43;41;41;43;42;43;44;42;43;45
+BGR;Bulgaria;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;9;9;9;9;10;10;10;10;10;10;10
+BHR;Bahrain;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;53;57;55;50;70;103;99;77;78;78;69;76
+BHR;Bahrain;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.1;5.4;6.11;7.86;5.96;1.81;1.81;7.65;5.91;5.2;6.19;5.33
+BHR;Bahrain;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;51;48;49;51;43;36;36;42;42;42;44;42
+BHR;Bahrain;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;4;4;6;6;6;6;6
+BHS;Bahamas, The;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;22;22;24;;24;28;29;29;30;30;30;30
+BHS;Bahamas, The;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1;1;0.99;;5.2;5.39;5.39;5.83;5.8;5.63;5.32;5.47
+BHS;Bahamas, The;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;71;71;71;;66;65;65;64;63;64;64;64
+BHS;Bahamas, The;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;;3;3;3;3;3;3;3;3
+BIH;Bosnia and Herzegovina;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;72;72;80;76;83;91;89;101;111;110;110;108
+BIH;Bosnia and Herzegovina;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;2.9;1.15;1.71;1.7;2.56;1.86;1.95;1.87;1.8;2.18;1.95
+BIH;Bosnia and Herzegovina;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;42;42;39;38;39;38;38;36;35;35;34;35
+BIH;Bosnia and Herzegovina;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;6;6;7;7;7;7;7;7;7;6
+BLR;Belarus;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;123;123;119;107;79;68;70;66;63;82;91;98
+BLR;Belarus;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.6;4;4.04;4.37;3.93;4.12;3.92;4.2;3.38;2.35;3.14;3.34
+BLR;Belarus;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;31;29;31;32;40;44;44;45;47;41;39;37
+BLR;Belarus;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;6;7;7;7;7;7;8;7;7
+BOL;Bolivia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;106;103;99;113;112;132;123;124;128;126;133
+BOL;Bolivia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.7;3.7;2.98;3.58;2.85;2.98;3.6;3;2.05;1.68;2.41;2.31
+BOL;Bolivia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;34;35;34;33;33;29;31;31;30;31;29
+BOL;Bolivia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;8;6;7;7;7;7;6;7
+BRA;Brazil;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;69;72;69;76;79;96;105;106;94;96;94;104
+BRA;Brazil;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.3;3.7;4.01;5.29;4.34;4.24;4.05;4.06;2.5;1.61;1.58;1.47
+BRA;Brazil;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;43;42;43;38;40;37;35;35;38;38;38;36
+BRA;Brazil;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;8;8;8;8;8;8;8;8
+BRB;Barbados;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;15;15;17;;31;25;25;30;29;29;29;24
+BRB;Barbados;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;6.7;7.1;8.09;;6.91;3.24;3.12;6.06;5.47;3.07;3.28;3.37
+BRB;Barbados;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;76;75;74;;61;68;68;62;64;65;65;69
+BRB;Barbados;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;;3;3;3;4;4;4;4;3
+BRN;Brunei Darussalam;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;46;38;;;41;32;31;35;35;;;
+BRN;Brunei Darussalam;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;9.1;10.4;;;8.85;8.72;6.62;6.12;5.59;;;
+BRN;Brunei Darussalam;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;55;60;;;58;62;63;60;60;;;
+BRN;Brunei Darussalam;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;;;3;3;3;3;3;;;
+BTN;Bhutan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;33;31;30;27;27;26;25;25;24;25;25;26
+BTN;Bhutan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.6;2.6;1.81;2.14;2.12;1.83;2.86;2.76;2.39;2.24;2.18;2.18
+BTN;Bhutan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;63;63;65;65;65;67;68;68;68;68;68;68
+BTN;Bhutan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;4;4;4;5;5;4;4;4;4;4;4
+BWA;Botswana;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;30;30;31;28;35;34;34;34;35;45;35;39
+BWA;Botswana;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.9;1.6;1.93;2.35;3.1;2.74;2.76;3.73;2.88;3.19;2.63;3.04
+BWA;Botswana;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;65;64;63;63;60;61;61;61;60;55;60;59
+BWA;Botswana;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;6;6;6;7;7;7;7;8;8;7
+CAF;Central African Republic;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;144;144;150;145;159;156;149;153;146;154;150;149
+CAF;Central African Republic;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;5.4;1.33;1.44;4.04;3.28;1.14;1.43;0.93;0.99;0.81;0.99
+CAF;Central African Republic;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;26;25;24;24;20;23;26;25;26;24;24;24
+CAF;Central African Republic;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;4;5;5;5;5;5;5;5
+CAN;Canada;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;9;9;10;9;9;8;9;12;11;13;14;12
+CAN;Canada;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;2.4;2.45;1.63;2.03;1.49;2.16;2.8;1.77;2.3;2.12;1.73
+CAN;Canada;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;84;81;81;83;82;82;81;77;77;74;74;76
+CAN;Canada;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+CHE;Switzerland;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;6;7;5;7;5;3;3;4;3;7;7;6
+CHE;Switzerland;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.6;2.5;2.61;2.55;1.57;1.71;1.57;1.58;1.1;1.11;1.85;1.74
+CHE;Switzerland;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;86;85;86;86;86;85;85;85;85;84;82;82
+CHE;Switzerland;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;7;7;7;7;7
+CHL;Chile;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;20;22;21;23;24;26;27;26;25;27;27;29
+CHL;Chile;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;1.8;1.74;2.15;2.65;2.03;1.88;2.55;1.23;1.33;1.34;1.54
+CHL;Chile;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;72;71;73;70;66;67;67;67;67;67;67;66
+CHL;Chile;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;9;9;9;9;9;9
+CHN;China;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;80;80;100;83;79;77;87;80;78;66;65;76
+CHN;China;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;2.9;2.17;2.34;2.39;1.96;2.02;2.1;1.63;1.77;1.81;1.64
+CHN;China;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;39;40;36;37;40;41;39;41;42;45;45;42
+CHN;China;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;8;8;8;9;9;8
+CIV;Cote d'Ivoire;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;103;105;106;104;105;99;87
+CIV;Cote d'Ivoire;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;2.3;4.2;2.65;2.03;2.03;2.05;2.49;1.46;1.4;1.97;1.89
+CIV;Cote d'Ivoire;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;29;27;32;32;34;36;35;35;36;36;37;40
+CIV;Cote d'Ivoire;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;8;8;9;9;9;9;9;9
+CMR;Cameroon;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;144;144;136;130;145;153;152;153;149;144;142;140
+CMR;Cameroon;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.5;2.9;2.87;3.26;3.04;2.58;2.43;2.42;1.36;1.37;1.37;1.65
+CMR;Cameroon;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;26;25;27;27;26;25;25;25;25;27;26;27
+CMR;Cameroon;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;9;9
+COD;Congo, Dem. Rep.;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;161;161;168;170;169;166;162
+COD;Congo, Dem. Rep.;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.3;4.2;4.19;3.35;2.13;1.96;2.13;1.43;0.75;1;0.99;1.08
+COD;Congo, Dem. Rep.;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;21;22;22;22;21;21;20;18;18;19;20;20
+COD;Congo, Dem. Rep.;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;6;7;8;8;9;9;9;9;9
+COG;Congo, Rep.;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;161;165;165;165;162;164;158
+COG;Congo, Rep.;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.3;3.8;4.2;4.11;1.78;1.08;1.04;1.03;0.8;1.46;1.26;1.47
+COG;Congo, Rep.;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;26;22;23;23;20;21;19;19;19;21;21;22
+COG;Congo, Rep.;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;5;6;6;6;6;7;7;7
+COL;Colombia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;94;94;83;90;96;99;96;92;87;91;87
+COL;Colombia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.6;2;1.68;1.94;2.27;2.77;2.51;2.49;1.59;1.45;1.38;1.42
+COL;Colombia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;36;37;37;37;37;36;37;39;39;39;40
+COL;Colombia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;8;8;8;8;8;8;8;8
+COM;Comoros;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;133;127;142;136;153;148;144;153;160;164;167;162
+COM;Comoros;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;7.5;7.5;8.75;8.76;12.81;8.87;9;8.9;5.75;5.83;5.48;5.51
+COM;Comoros;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;28;28;26;26;24;27;27;25;21;20;19;20
+COM;Comoros;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;3;3;4;4;4;4;4;4;4
+CPV;Cabo Verde;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;39;41;42;40;38;48;45;41;41;39;35;30
+CPV;Cabo Verde;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.8;4.8;5.94;6.16;5.72;4.19;4.22;4.3;3.72;2.97;4.81;3.05
+CPV;Cabo Verde;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;60;58;57;55;59;55;57;58;58;58;60;64
+CPV;Cabo Verde;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;3;4;4;4;4;4;4;3
+CRI;Costa Rica;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;48;49;47;40;41;38;48;44;42;39;48;45
+CRI;Costa Rica;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;7;4.1;4.07;2.71;3.17;2.98;3.65;3.97;2.58;2.42;3.16;2.9
+CRI;Costa Rica;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;54;53;54;55;58;59;56;56;57;58;54;55
+CRI;Costa Rica;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;6;7;7;7;7;7;7;7;7
+CUB;Cuba;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;58;63;63;56;60;62;61;60;63;64;65;76
+CUB;Cuba;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.1;4.5;4.46;3.64;2.9;2.36;2.56;1.87;2.81;3.07;2.87;3.46
+CUB;Cuba;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;48;46;46;47;47;47;47;48;47;46;45;42
+CUB;Cuba;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;5;5;5;5;5;5;5;5
+CYP;Cyprus;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;29;31;31;32;47;42;38;41;42;52;51;49
+CYP;Cyprus;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;3.9;3.92;4.17;5.94;3.78;3.54;3.41;3.19;2.59;2.46;2.21
+CYP;Cyprus;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;66;63;63;61;55;57;59;58;57;53;52;53
+CYP;Cyprus;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;5;5;5;5;7;7;7;7;8;8;8
+CZE;Czechia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;54;57;53;37;47;42;38;44;49;49;41;41
+CZE;Czechia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;3;2.94;2.21;2.24;1.98;2.28;1.87;1.1;1.28;1.08;1.26
+CZE;Czechia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;49;48;51;56;55;57;59;56;54;54;56;57
+CZE;Czechia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;10;10;9;9;9;10;10;10;10;10;10;10
+DEU;Germany;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;13;12;12;10;10;12;11;9;9;10;9;9
+DEU;Germany;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;2.4;2.58;2.5;2.73;1.87;2.49;3.31;2;1.76;2.17;2.14
+DEU;Germany;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;79;78;79;81;81;81;80;80;80;80;79;78
+DEU;Germany;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;7;8;8;8;8;8;8;8
+DJI;Djibouti;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;94;107;99;123;122;124;126;142;128;130;130
+DJI;Djibouti;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;8.6;8.6;9.1;9.07;8.23;5.32;5.38;4.28;1.53;1.68;1.74;1.71
+DJI;Djibouti;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;36;34;34;30;31;31;30;27;30;30;30
+DJI;Djibouti;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;3;3;4;4;5;5;5;5;5
+DMA;Dominica;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;41;41;39;;38;42;45;48;48;45;45;42
+DMA;Dominica;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;2.3;2.34;;0.85;2.55;2.55;2.16;1.98;1.98;1.9;1.91
+DMA;Dominica;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;58;58;58;;59;57;57;55;55;55;55;56
+DMA;Dominica;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;;3;3;3;3;3;3;3;3
+DNK;Denmark;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;1;1;1;1;1;2;1;1;1;1;1;1
+DNK;Denmark;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2;2.2;2.04;2.16;2.46;2.75;2.63;2.54;1.78;1.85;1.71;1.82
+DNK;Denmark;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;90;91;92;91;90;88;88;87;88;88;90;90
+DNK;Denmark;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+DOM;Dominican Republic;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;118;123;115;103;120;135;129;137;137;128;123;108
+DOM;Dominican Republic;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.7;3.5;3.3;2.63;1.89;2.56;2.57;2.7;1.91;1.16;1.31;1.62
+DOM;Dominican Republic;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;32;29;32;33;31;29;30;28;28;30;32;35
+DOM;Dominican Republic;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;7;7;7;7;7
+DZA;Algeria;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;94;100;88;108;112;105;106;104;117;116;104
+DZA;Algeria;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.3;2.8;2.06;1.85;2.94;2.32;1.21;2.59;1.48;1.08;1.67;2.33
+DZA;Algeria;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;36;36;36;34;33;35;35;36;33;33;36
+DZA;Algeria;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;5;5;6;6;6;7;7;7;6;7
+ECU;Ecuador;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;118;102;110;107;120;117;114;93;92;105;101;115
+ECU;Ecuador;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;3.6;3.56;2.86;1.96;2.66;3.46;2.19;1.73;1.58;1.07;1.48
+ECU;Ecuador;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;32;35;33;32;31;32;34;38;39;36;36;34
+ECU;Ecuador;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;5;6;6;7;7;7;7;7;7;7
+EGY;Egypt, Arab Rep.;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;118;114;94;88;108;117;105;106;117;117;130;108
+EGY;Egypt, Arab Rep.;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.1;3.1;2.91;2.47;2.72;4.04;4.59;4.86;3.68;4.09;1.78;3.75
+EGY;Egypt, Arab Rep.;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;32;32;37;36;34;32;35;35;33;33;30;35
+EGY;Egypt, Arab Rep.;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;6;6;6;7;7;7;7;7;6;7
+ERI;Eritrea;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;150;160;166;154;164;165;157;160;160;161;162;161
+ERI;Eritrea;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;9.2;11;7.91;8.15;6.24;5.74;8.24;6.66;4.58;4.99;4.78;4.73
+ERI;Eritrea;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;25;20;18;18;18;20;24;23;21;22;22;21
+ERI;Eritrea;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;5;5;5;5;5;5;5;5
+ESP;Spain;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;30;40;37;36;41;42;41;30;32;34;35;36
+ESP;Spain;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;4.9;3.75;4.07;4.09;3.78;4.33;3.17;2.01;2.28;2.41;2.36
+ESP;Spain;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;65;59;60;58;58;57;58;62;62;61;60;60
+ESP;Spain;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+EST;Estonia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;32;28;26;23;22;21;18;18;17;13;14;12
+EST;Estonia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3;2.7;2.89;2.79;2.16;2.21;1.44;1.21;0.87;0.92;1.01;1.06
+EST;Estonia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;64;68;69;70;70;71;73;74;75;74;74;76
+EST;Estonia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;9;9;9;10;10;10;10;10;10;10;10
+ETH;Ethiopia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;113;111;110;103;108;107;114;96;94;87;94;98
+ETH;Ethiopia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.6;2.5;2.54;2.73;1.37;1.36;1.52;1.52;1;1.21;1.31;1.2
+ETH;Ethiopia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;33;33;33;33;34;35;34;37;38;39;38;37
+ETH;Ethiopia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;8;9;9;8;8;8
+FIN;Finland;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;1;3;3;2;3;3;3;3;3;1;2;2
+FIN;Finland;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3;1.7;2.05;1.77;1.46;2.84;2.74;2.92;1.75;1.25;1.19;1.06
+FIN;Finland;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;90;89;89;90;89;85;85;86;85;88;87;87
+FIN;Finland;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+FJI;Fiji;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;;;;;45;49;53
+FJI;Fiji;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;;;;;;;;;;5.16;4.32;4.15
+FJI;Fiji;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;;;;;;;;;;55;53;52
+FJI;Fiji;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;;;;;;;;;;3;3;3
+FRA;France;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;23;21;23;23;22;21;20
+FRA;France;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;2.4;2.17;2.49;2.97;1.36;1.17;2.28;1.4;1.3;0.64;0.43
+FRA;France;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;71;71;69;70;69;70;72;69;69;71;72;71
+FRA;France;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;7;8;8;8;8;8;8;8
+GAB;Gabon;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;102;106;94;99;101;117;124;123;129;124;136;136
+GAB;Gabon;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;1.5;4.19;1.65;0.97;3.22;3.92;2.41;2.35;2.4;2.07;2.32
+GAB;Gabon;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;35;34;37;34;35;32;31;31;30;31;29;28
+GAB;Gabon;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;4;4;4;4;4;6;6;5;6;6
+GBR;United Kingdom;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;17;14;14;10;10;8;11;12;11;11;18;20
+GBR;United Kingdom;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.3;1.3;2.09;2.4;2.12;1.7;2.03;3.34;2.2;1.43;1.85;1.68
+GBR;United Kingdom;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;74;76;78;81;81;82;80;77;77;78;73;71
+GBR;United Kingdom;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;7;8;8;8;8;8;8;8
+GEO;Georgia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;51;55;50;48;44;46;41;44;45;45;41;49
+GEO;Georgia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;6;6.9;6.47;6.53;3.61;3.1;3.92;3.84;3.15;2.84;3.03;3.99
+GEO;Georgia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;52;49;52;52;57;56;58;56;56;55;56;53
+GEO;Georgia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;5;6;6;6;5;5;6;6;6
+GHA;Ghana;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;64;63;61;56;70;81;78;80;75;73;72;70
+GHA;Ghana;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.8;3.3;3.01;2.82;2.89;2.56;2.54;2.76;1.52;1.53;1.43;1.47
+GHA;Ghana;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;45;46;48;47;43;40;41;41;43;43;43;43
+GHA;Ghana;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;9;9;9;9;9;9;9;9
+GIN;Guinea;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;154;150;145;139;142;148;138;130;137;150;147;141
+GIN;Guinea;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.7;3.6;3.21;3.16;2.54;2.37;2.67;2.5;1.88;1.27;1.6;1.69
+GIN;Guinea;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;24;24;25;25;27;27;28;29;28;25;25;26
+GIN;Guinea;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;6;5;7;6;8;8;8;7;7
+GMB;Gambia, The;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;127;126;123;145;130;93;96;102;102;110;98
+GMB;Gambia, The;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;7;6.7;7.55;6.67;7.2;6.22;9.44;5.98;3.19;3.38;3.76;3.34
+GMB;Gambia, The;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;28;29;28;26;30;37;37;37;37;34;37
+GMB;Gambia, The;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;7;8;8;7;7
+GNB;Guinea-Bissau;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;150;163;161;158;168;171;172;168;165;162;164;158
+GNB;Guinea-Bissau;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.4;2.37;2.63;2.09;1.7;1.97;2.91;2.71;2.69;2.67;2.93
+GNB;Guinea-Bissau;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;25;19;19;17;16;17;16;18;19;21;21;22
+GNB;Guinea-Bissau;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;4;5;5;6;6;6;6;6
+GNQ;Equatorial Guinea;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;163;163;;;;171;172;173;174;172;171;172
+GNQ;Equatorial Guinea;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.3;2.2;;;;3.56;2.82;3;2.6;2.55;2.55;2.57
+GNQ;Equatorial Guinea;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;20;19;;;;17;16;16;16;17;17;17
+GNQ;Equatorial Guinea;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;;;;3;3;4;4;4;4;4
+GRC;Greece;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;80;69;58;69;59;67;60;59;58;51;59
+GRC;Greece;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.6;4.5;5.56;5.08;2.5;2.98;2.51;2.57;1.81;1.63;2.14;2.21
+GRC;Greece;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;40;43;46;44;48;45;48;50;49;52;49
+GRC;Greece;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+GRD;Grenada;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;46;52;53;51;52;52;51;49
+GRD;Grenada;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;;;;;4.63;3;3;4.37;3.48;3.99;3.23;3.74
+GRD;Grenada;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;;;;;56;52;52;53;53;53;52;53
+GRD;Grenada;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;;;;;3;3;3;3;3;3;3;3
+GTM;Guatemala;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;113;123;115;123;136;143;144;146;149;150;150;154
+GTM;Guatemala;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.7;2.6;2.96;3.46;2.58;2.19;2.56;2.23;1.38;1.17;1.13;1.36
+GTM;Guatemala;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;33;29;32;28;28;28;27;26;25;25;24;23
+GTM;Guatemala;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;7;7;7;7;7
+GUY;Guyana;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;133;136;124;119;108;91;93;85;83;87;85;87
+GUY;Guyana;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.9;3.03;3.01;3.57;1.84;0.77;3.34;3.54;2.13;2.18;2.31
+GUY;Guyana;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;28;27;30;29;34;38;37;40;41;39;40;40
+GUY;Guyana;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;6;5;5;5;5;5;5;5
+HKG;Hong Kong SAR, China;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;14;15;17;18;15;13;14;16;11;12;12;14
+HKG;Hong Kong SAR, China;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.9;2.4;2.75;2.48;2.62;2.37;2.47;3.15;1.79;1.85;1.61;2.18
+HKG;Hong Kong SAR, China;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;77;75;74;75;77;77;76;76;77;76;76;75
+HKG;Hong Kong SAR, China;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;7;7;8;8;8;8;8;8
+HND;Honduras;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;133;140;126;112;123;135;132;146;157;157;157;154
+HND;Honduras;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;2.5;3.49;4.12;3.05;2.32;2.42;3.25;1.52;0.85;0.5;0.53
+HND;Honduras;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;28;26;29;31;30;29;29;26;24;23;23;23
+HND;Honduras;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;7;7;8;8;7;7;8;8;8
+HRV;Croatia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;62;57;61;50;55;57;60;63;63;63;57;57
+HRV;Croatia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.1;3.3;3.25;2.02;2.39;2.64;2.77;2.42;1.48;1.56;0.93;1.25
+HRV;Croatia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;46;48;48;51;49;49;48;47;47;47;50;50
+HRV;Croatia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;9;9;9;9;10;10;10;10;10;9;9
+HTI;Haiti;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;165;163;161;158;159;157;161;168;170;164;171;172
+HTI;Haiti;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.8;3.1;2.86;2.74;1.81;2.05;2.47;3.23;2.47;0.74;1.34;1.32
+HTI;Haiti;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;19;19;19;17;20;22;20;18;18;20;17;17
+HTI;Haiti;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;6;6;6;6;6
+HUN;Hungary;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;46;47;47;50;57;66;64;70;69;73;77;76
+HUN;Hungary;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.5;3.6;3.45;3.73;2.89;2.89;2.79;2.58;1.27;1.3;1.46;1.3
+HUN;Hungary;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;55;54;54;51;48;45;46;44;44;43;42;42
+HUN;Hungary;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;10;10;9;9;9;10;10;10;10;10;10;10
+IDN;Indonesia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;118;114;107;88;90;96;89;85;102;96;110;115
+IDN;Indonesia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;3.5;3.57;3.39;2.39;3.12;3.35;3.76;1.71;2.14;1.78;1.8
+IDN;Indonesia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;32;32;34;36;37;37;38;40;37;38;34;34
+IDN;Indonesia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;9;9;9;9;8;8
+IND;India;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;94;85;76;79;81;78;80;86;85;85;93
+IND;India;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.2;2.27;3.14;2.47;2.16;2.42;1.6;1.14;1.17;1.18;1.26
+IND;India;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;36;38;38;40;40;41;41;40;40;40;39
+IND;India;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;10;10;9;8;8;9;9;9;9;9;9;9
+IRL;Ireland;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;25;21;17;18;19;19;18;18;20;13;10;11
+IRL;Ireland;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.5;4.2;4.75;4.92;4.31;3.68;3.25;3.61;2.15;0.68;0.79;1.17
+IRL;Ireland;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;69;72;74;75;73;74;73;74;72;74;77;77
+IRL;Ireland;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;7;7;8;8;8
+IRN;Iran, Islamic Rep.;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;133;144;136;130;131;130;138;146;149;150;147;149
+IRN;Iran, Islamic Rep.;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.6;3.9;4.72;3.28;2.47;3.51;2.89;3.63;2.56;2.29;2.32;2.63
+IRN;Iran, Islamic Rep.;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;28;25;27;27;29;30;28;26;25;25;25;24
+IRN;Iran, Islamic Rep.;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;7;7;6
+IRQ;Iraq;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;169;171;170;161;166;169;168;162;160;157;157;154
+IRQ;Iraq;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;2.4;2.37;2.5;1.87;2.47;2.63;2.98;2.52;4.02;3.98;4.14
+IRQ;Iraq;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;18;16;16;16;17;18;18;20;21;23;23;23
+IRQ;Iraq;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;5;5;5;5;5;5;5;5
+ISL;Iceland;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;11;12;12;13;14;13;14;11;17;13;14;19
+ISL;Iceland;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.1;2.8;3.16;4.53;3.81;4.38;4.33;4.63;3.86;3.7;3.83;3.54
+ISL;Iceland;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;82;78;79;79;78;77;76;78;75;74;74;72
+ISL;Iceland;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;5;6;7;7;7;7;7;7;7
+ISR;Israel;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;39;36;37;32;28;32;34;35;35;36;31;33
+ISR;Israel;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;1.6;2.34;2.78;2.27;2.19;1.49;1.99;1.34;2.05;2.05;2.45
+ISR;Israel;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;60;61;60;61;64;62;61;60;60;59;63;62
+ISR;Israel;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;6;6;6;6;7;7;7;7;7;7;6
+ITA;Italy;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;72;69;69;61;60;54;53;51;52;42;41;42
+ITA;Italy;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;2.5;2.26;2.5;3.34;3.72;3.29;3.22;2.11;1.46;1.71;1.66
+ITA;Italy;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;42;43;43;44;47;50;52;53;53;56;56;56
+ITA;Italy;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+JAM;Jamaica;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;83;83;85;69;83;68;70;74;69;70;69;69
+JAM;Jamaica;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;1.8;1.8;1.68;1.84;3.96;3.37;3.58;3.34;3.66;3.66;3.06
+JAM;Jamaica;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;38;38;38;41;39;44;44;43;44;44;44;44
+JAM;Jamaica;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;7;7;6;6;7
+JOR;Jordan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;58;66;55;45;57;59;58;60;60;58;61;63
+JOR;Jordan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.1;2.4;2.87;3;3.03;2.99;3.21;3.29;2.2;2.65;2.38;2.87
+JOR;Jordan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;48;45;49;53;48;48;49;48;49;49;47;46
+JOR;Jordan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;8;8;8;8;8;8;8;7
+JPN;Japan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;17;18;15;18;20;20;18;20;19;18;18;16
+JPN;Japan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;2.4;3.16;2.96;3.02;2.66;2.85;3.51;2.02;2.1;1.86;1.75
+JPN;Japan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;74;74;76;75;72;73;73;73;74;73;73;73
+JPN;Japan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;9;9;9;9;9;9
+KAZ;Kazakhstan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;133;140;126;123;131;122;124;113;94;102;101;93
+KAZ;Kazakhstan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.1;3.3;4.4;4.9;3.35;3.59;3.6;4.18;3.12;3.33;3.29;3.2
+KAZ;Kazakhstan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;28;26;29;28;29;31;31;34;38;37;36;39
+KAZ;Kazakhstan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;9;9
+KEN;Kenya;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;139;136;145;139;145;143;144;137;124;128;123;126
+KEN;Kenya;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;2.7;2.98;3.02;1.72;1.94;1.82;2.17;1.49;1.32;1.5;1.54
+KEN;Kenya;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;27;27;25;25;26;28;27;28;31;30;32;31
+KEN;Kenya;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;9;9
+KGZ;Kyrgyz Republic;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;154;150;136;123;136;135;132;126;124;144;140;141
+KGZ;Kyrgyz Republic;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.8;2.3;2.35;2.29;2.08;2.59;2.37;2.54;1.28;1.16;1.32;1.69
+KGZ;Kyrgyz Republic;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;24;24;27;28;28;29;29;30;31;27;27;26
+KGZ;Kyrgyz Republic;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;7;7;7
+KHM;Cambodia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;157;160;156;150;156;161;161;162;160;157;150;158
+KHM;Cambodia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.1;3;2.25;3.87;2.82;2.43;2.58;3.41;2.32;2.84;2.78;2.9
+KHM;Cambodia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;22;20;21;21;21;21;20;20;21;23;24;22
+KHM;Cambodia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;8;8;8;8;8;8;8;7
+KOR;Korea, Rep.;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;51;45;39;33;32;31;32
+KOR;Korea, Rep.;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;2.4;2.64;2.29;2.33;2.24;2.74;2.44;1.11;1.13;1.03;1.25
+KOR;Korea, Rep.;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;56;55;55;54;53;54;57;59;61;62;63;63
+KOR;Korea, Rep.;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;10;10;9;9;9;10;10;10;10;10;10;10
+KWT;Kuwait;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;66;69;67;55;75;85;78;85;78;73;77;63
+KWT;Kuwait;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.9;3.9;5.24;4.51;2.67;2.47;3.47;1.88;1.88;2;1.74;1.66
+KWT;Kuwait;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;44;43;44;49;41;39;41;40;42;43;42;46
+KWT;Kuwait;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;6;6;6;6;8
+LAO;Lao PDR;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;160;140;145;139;123;135;132;130;134;128;126;136
+LAO;Lao PDR;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.3;5;3.8;5.31;6.19;5.89;5.7;5;3.95;3.21;3.7;2.44
+LAO;Lao PDR;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;21;26;25;25;30;29;29;29;29;30;31;28
+LAO;Lao PDR;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;4;4;4;4;5;5;5;5;5;5;4
+LBN;Lebanon;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;128;127;136;123;136;143;138;137;149;154;150;149
+LBN;Lebanon;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;3.3;3.37;3.22;2.5;2.11;2.28;2.27;1.15;0.77;0.82;1.12
+LBN;Lebanon;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;30;28;27;28;28;28;28;28;25;24;24;24
+LBN;Lebanon;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;7;7;6
+LBR;Liberia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;75;83;94;83;90;122;120;137;137;136;142;145
+LBR;Liberia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.9;3.3;3.09;4.22;3.43;3.24;3.31;2.67;2.01;1.7;1.72;1.64
+LBR;Liberia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;41;38;37;37;37;31;32;28;28;29;26;25
+LBR;Liberia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;6;7;7;8;8;7;7;8;7;7
+LBY;Libya;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;160;172;166;161;170;171;170;168;173;172;171;170
+LBY;Libya;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4;3.3;2.81;3.18;2;3.05;2.57;2.24;1.72;1.72;1.59;1.83
+LBY;Libya;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;21;15;18;16;14;17;17;18;17;17;17;18
+LBY;Libya;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;5;5;4;5;5;5;5;5;5;5
+LCA;St. Lucia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;22;22;;;35;48;50;48;45;42;45;45
+LCA;St. Lucia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;0.8;0.8;0.84;;6.8;4.27;4.27;4.15;4.17;4.03;3.7;3.7
+LCA;St. Lucia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;71;71;71;;60;55;55;55;56;56;55;55
+LCA;St. Lucia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;;3;3;3;3;3;3;3;3
+LKA;Sri Lanka;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;79;91;85;83;95;91;89;93;94;102;101;115
+LKA;Sri Lanka;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.3;2.1;2.18;2.09;1.64;1.82;1.85;2.11;1.17;0.99;0.8;0.62
+LKA;Sri Lanka;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;40;37;38;37;36;38;38;38;38;37;36;34
+LKA;Sri Lanka;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;7;7;7;8;7;7;8
+LSO;Lesotho;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;64;55;55;61;83;74;78;85;83;96;99;93
+LSO;Lesotho;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.6;3.6;3.55;4.99;6.15;4.08;3.67;3.95;3.24;4;3.87;4.65
+LSO;Lesotho;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;45;49;49;44;39;42;41;40;41;38;37;39
+LSO;Lesotho;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;6;6;6;6;5
+LTU;Lithuania;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;48;43;39;32;38;38;38;35;35;34;33;34
+LTU;Lithuania;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;5.3;3.8;3.85;1.92;1.36;2.21;2.3;2.32;1.34;1.18;1.14;1.25
+LTU;Lithuania;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;54;57;58;59;59;59;59;60;60;61;62;61
+LTU;Lithuania;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;8;8;8;9;9;9;9;9;10;10;10
+LUX;Luxembourg;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;12;11;9;10;10;8;9;9;9;9;10;9
+LUX;Luxembourg;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.8;2.9;2.78;1.6;1.96;2.08;2.32;1.95;1.5;0.96;1.08;1.06
+LUX;Luxembourg;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;80;80;82;85;81;82;81;80;80;81;77;78
+LUX;Luxembourg;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;5;6;6;7;7;7;8;8;8
+LVA;Latvia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;54;49;43;40;44;40;41;44;42;36;39;36
+LVA;Latvia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4;3.6;3.35;2.76;2.96;3.21;2.95;3.53;1.92;1.32;1.36;1.76
+LVA;Latvia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;49;53;55;56;57;58;58;56;57;59;59;60
+LVA;Latvia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;8;8;8;9;9;9;9;9;10;10;9
+MAR;Morocco;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;88;91;80;88;90;81;73;80;86;87;94;97
+MAR;Morocco;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.2;2.9;3.57;3.85;1.74;2.6;3.68;3.15;2.22;2.47;1.8;1.7
+MAR;Morocco;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;37;37;39;36;37;40;43;41;40;39;38;38
+MAR;Morocco;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;6;6;7;7;7;7;7;6;7;7
+MDA;Moldova;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;102;103;103;123;122;117;120;115;105;91;76
+MDA;Moldova;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.6;2.8;2.7;2.88;2.18;1.54;2.13;2.4;1.24;1.34;1.65;2.1
+MDA;Moldova;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;35;35;33;30;31;33;32;34;36;39;42
+MDA;Moldova;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;7;8;7
+MDG;Madagascar;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;118;127;133;123;145;155;152;158;149;147;142;145
+MDG;Madagascar;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.2;1.9;3.38;2.99;2.88;2.72;2.64;2.48;1.51;1.69;1.67;1.53
+MDG;Madagascar;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;32;28;28;28;26;24;25;24;25;26;26;25
+MDG;Madagascar;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;7;7;8;7;8;8;7;7;7
+MDV;Maldives;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;95;112;124;130;75;85;85;93
+MDV;Maldives;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;;;;;5.66;1.71;2.24;2.57;7.69;4.39;4.83;4.17
+MDV;Maldives;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;;;;;36;33;31;29;43;40;40;39
+MDV;Maldives;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;;;;;3;3;3;3;3;3;3;3
+MEX;Mexico;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;106;103;95;123;135;138;130;124;124;126;126
+MEX;Mexico;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.7;1.8;1.66;3.02;1.56;1.69;1.83;1.73;1.38;1.43;1.62;1.56
+MEX;Mexico;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;34;35;31;30;29;28;29;31;31;31;31
+MEX;Mexico;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;9;9;9;9;9;9
+MKD;North Macedonia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;69;67;;;;107;93;106;111;87;85;76
+MKD;North Macedonia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.7;5;5.92;5.27;4.97;4.49;3.38;3.56;2.44;1.66;1.95;2.88
+MKD;North Macedonia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;43;44;45;42;37;35;37;35;35;39;40;42
+MKD;North Macedonia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;6;7;7;7;7;7;6
+MLI;Mali;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;127;115;95;116;122;120;130;129;136;137;136
+MLI;Mali;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4;3.3;3.37;1.89;1.75;2.08;1.38;2.62;1.5;1.46;1.63;1.49
+MLI;Mali;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;28;32;35;32;31;32;29;30;29;28;28
+MLI;Mali;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;8;8;8;8;8
+MLT;Malta;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;43;45;43;37;47;46;51;50;52;49;54;55
+MLT;Malta;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;2.4;2.63;1.32;1.39;1.18;1.39;1.55;1.42;1.73;2.52;2.42
+MLT;Malta;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;57;56;55;60;55;56;54;54;53;54;51;51
+MLT;Malta;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;5;5;4;5;5;5;6;6;7;7;7
+MMR;Myanmar;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;172;157;156;147;136;130;132;130;137;140;157;162
+MMR;Myanmar;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.7;3.9;2.87;2.82;3.69;3.91;3.94;4.21;2.65;2.78;1.9;2.29
+MMR;Myanmar;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;15;21;21;22;28;30;29;29;28;28;23;20
+MMR;Myanmar;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;6;7;7;8;7;7;7;7;7;7;7
+MNE;Montenegro;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;75;67;76;61;64;64;67;66;67;64;65;63
+MNE;Montenegro;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.5;2.2;4.25;4.87;2.89;2.45;4.43;4.84;3.25;2.13;1.93;2.55
+MNE;Montenegro;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;41;44;42;44;45;46;45;45;45;46;45;46
+MNE;Montenegro;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;4;5;5;5;5;5;5;5
+MNG;Mongolia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;83;80;72;87;103;93;106;111;110;116;121
+MNG;Mongolia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.6;2.2;2.13;1.76;1.7;1.4;1.94;1.89;0.71;0.57;0.82;1.05
+MNG;Mongolia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;38;39;39;38;36;37;35;35;35;33;33
+MNG;Mongolia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;8;9;9;9;9;9;8;8;7
+MOZ;Mozambique;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;123;119;119;112;142;153;158;146;149;147;142;145
+MOZ;Mozambique;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.6;2;1.89;1.97;2.57;2.87;2.64;2.98;1.6;1.99;1.89;1.91
+MOZ;Mozambique;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;31;30;31;31;27;25;23;26;25;26;26;25
+MOZ;Mozambique;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;8;8;8;9;9;8;8;8
+MRT;Mauritania;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;123;119;124;112;142;143;144;137;134;140;130;130
+MRT;Mauritania;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.5;4.1;4.23;5.07;3.62;2.41;2.95;2.73;1.6;1.85;1.68;1.65
+MRT;Mauritania;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;31;30;30;31;27;28;27;28;29;28;30;30
+MRT;Mauritania;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;6;6;7;6;6
+MUS;Mauritius;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;43;52;47;45;50;54;56;56;52;49;57;55
+MUS;Mauritius;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.5;1.1;2.39;1.49;2.14;4.41;3.83;3.12;1.54;1.6;1.78;2.04
+MUS;Mauritius;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;57;52;54;53;54;50;51;52;53;54;50;51
+MUS;Mauritius;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;4;4;4;5;5;6;6;6;6;6
+MWI;Malawi;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;88;91;110;112;120;122;120;123;129;110;110;115
+MWI;Malawi;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.5;1.7;3.03;2.41;2.11;1.85;2.61;1.78;1.16;1.69;1.71;1.42
+MWI;Malawi;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;37;37;33;31;31;31;32;31;30;35;34;34
+MWI;Malawi;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;9;9
+MYS;Malaysia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;54;53;50;54;55;62;61;51;57;62;61;57
+MYS;Malaysia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.4;3.4;2.88;3;2.46;2.67;2.86;2.29;1.62;1.32;1.37;0.97
+MYS;Malaysia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;49;50;52;50;49;47;47;53;51;48;47;50
+MYS;Malaysia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;9;9;9;9;9;9
+NAM;Namibia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;58;57;55;45;53;53;52;56;57;58;59;59
+NAM;Namibia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.5;3.4;4;2.75;2.03;3.22;3.72;3.13;1.88;2.61;2.48;2.84
+NAM;Namibia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;48;48;49;53;52;51;53;52;51;49;49;49
+NAM;Namibia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;5;5;5;6;6;7;7;7;7;6
+NER;Niger;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;113;106;103;99;101;112;114;120;123;124;123;125
+NER;Niger;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.1;3.7;3.99;4.16;3.25;3.27;2.98;1.72;1.2;1.35;1.5;1.5
+NER;Niger;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;33;34;35;34;35;33;34;32;32;31;32;32
+NER;Niger;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;7;7;7;7;7
+NGA;Nigeria;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;139;144;136;136;136;148;144;146;149;154;150;145
+NGA;Nigeria;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.7;3.1;2.82;2.24;1.98;1.97;2.03;1.87;1.45;1.57;1.6;1.64
+NGA;Nigeria;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;27;25;27;26;28;27;27;26;25;24;24;25
+NGA;Nigeria;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;9;9;9;8;8;8;8;8
+NIC;Nicaragua;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;130;127;133;130;145;151;152;161;159;164;167;172
+NIC;Nicaragua;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.4;2.03;2.5;1.98;1.29;1.13;1.16;0.9;0.97;1.04;0.96
+NIC;Nicaragua;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;29;28;28;27;26;26;25;22;22;20;19;17
+NIC;Nicaragua;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;7;7;8;8;7
+NLD;Netherlands;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;9;8;8;5;8;8;8;8;8;8;8;8
+NLD;Netherlands;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2;2;1.97;1.98;2.32;2.23;2.3;2.25;1.44;1.36;2.01;2.1
+NLD;Netherlands;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;84;83;83;84;83;82;82;82;82;82;80;79
+NLD;Netherlands;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+NOR;Norway;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;7;5;5;5;6;3;7;7;7;4;4;4
+NOR;Norway;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.6;2.3;2.38;2.24;1.85;1.83;2.14;1.65;1.26;1.07;1.17;1.38
+NOR;Norway;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;85;86;86;88;85;85;84;84;84;85;84;84
+NOR;Norway;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;7;7;7;7;7
+NPL;Nepal;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;139;116;126;130;131;122;124;113;117;117;110;108
+NPL;Nepal;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.4;1.4;2.2;2.73;2.33;2;1.85;1.76;1.35;0.54;0.93;0.74
+NPL;Nepal;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;27;31;29;27;29;31;31;34;33;33;34;35
+NPL;Nepal;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;6;6;6;6;6;6;6;6
+NZL;New Zealand;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;1;1;2;4;1;1;2;1;1;1;2;3
+NZL;New Zealand;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;2.3;2.28;2.32;2.56;2.4;2.44;2.29;1.48;1.43;1.41;1.92
+NZL;New Zealand;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;90;91;91;91;90;89;87;87;88;88;87;85
+NZL;New Zealand;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+OMN;Oman;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;61;61;64;60;64;68;53;56;49;56;69;70
+OMN;Oman;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;7.6;7.8;6.55;6.69;7.07;7;9.46;9.78;7.47;7.12;4.95;5.32
+OMN;Oman;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;47;47;45;45;45;44;52;52;54;52;44;43
+OMN;Oman;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;5;6;6;6;6;5;5
+PAK;Pakistan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;139;127;126;117;116;117;117;120;124;140;140;133
+PAK;Pakistan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;3;3.24;3.12;2.12;2.11;2.06;2.46;1.8;1.87;1.92;2.09
+PAK;Pakistan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;27;28;29;30;32;32;33;32;31;28;27;29
+PAK;Pakistan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;7;7;7;8;8;8;8;8;7;8
+PAN;Panama;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;83;102;94;72;87;96;93;101;111;105;101;108
+PAN;Panama;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.1;2.2;3.49;3.01;2.29;1.79;1.76;1.37;0.77;1.02;1.08;1.17
+PAN;Panama;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;38;35;37;39;38;37;37;36;35;36;36;35
+PAN;Panama;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;7;7;7;7;7
+PER;Peru;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;83;83;85;88;101;96;105;101;94;105;101;121
+PER;Peru;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.5;2.63;3.05;2.04;3.35;3.1;3.07;1.98;1.84;1.43;1.4
+PER;Peru;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;38;38;38;36;35;37;35;36;38;36;36;33
+PER;Peru;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+PHL;Philippines;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;94;85;95;101;111;99;113;115;117;116;115
+PHL;Philippines;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;2.5;1.84;1.92;1.58;1.9;1.55;1.59;0.92;0.94;0.93;1.21
+PHL;Philippines;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;36;38;35;35;34;36;34;34;33;33;34
+PHL;Philippines;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;9;9;9;9;9;9;9;9
+PNG;Papua New Guinea;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;150;144;145;139;136;135;138;137;142;124;130;133
+PNG;Papua New Guinea;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.2;4.2;4.16;4.22;3.01;2.55;2.47;2.38;1.62;2.26;2.34;1.76
+PNG;Papua New Guinea;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;25;25;25;25;28;29;28;28;27;31;30;29
+PNG;Papua New Guinea;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;6;6;6;6;6
+POL;Poland;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;41;38;35;30;29;36;36;41;45;42;45;47
+POL;Poland;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2;2.3;2.7;2.59;1.77;1.36;1.69;1.85;1.39;1.22;1.37;1.36
+POL;Poland;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;58;60;61;63;62;60;60;58;56;56;55;54
+POL;Poland;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;10;10;9;9;10;10;10;10;10;10;10;10
+PRI;Puerto Rico;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;33;33;31;;;;;;;;;
+PRK;Korea, Dem. People's Rep.;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;171;176;172;170;174;171;172
+PRK;Korea, Dem. People's Rep.;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.4;3.4;3.35;3.38;1.39;4.18;1.39;3.16;3.46;2.57;3.78;3.78
+PRK;Korea, Dem. People's Rep.;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;8;8;8;8;12;17;14;17;18;16;17;17
+PRK;Korea, Dem. People's Rep.;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;3;3;4;4;4;4;4;4;4
+PRT;Portugal;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;33;33;31;28;29;29;30;30;33;32;33;34
+PRT;Portugal;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.5;3;3.36;2.5;2.58;2.56;2.14;2.82;1.73;1.84;1.63;1.75
+PRT;Portugal;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;63;62;63;64;62;63;64;62;61;62;62;61
+PRT;Portugal;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;8;8;8;8;8;8;8;8
+PRY;Paraguay;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;150;150;150;130;123;135;132;137;137;128;137;136
+PRY;Paraguay;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;3.1;2.95;2.85;2.68;3.1;3.05;2.84;2.19;1.4;1.7;1.84
+PRY;Paraguay;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;25;24;24;27;30;29;29;28;28;30;28;28
+PRY;Paraguay;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;6;6;6;6;6;7;7;6
+QAT;Qatar;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;27;28;26;22;31;29;33;30;30;31;40;40
+QAT;Qatar;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;6.4;7.2;7.21;6.63;7.02;7.5;8.08;8;5.35;5.01;5.08;4.9
+QAT;Qatar;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;68;68;69;71;61;63;62;62;63;63;58;58
+QAT;Qatar;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;7;6;6
+ROU;Romania;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;59;61;70;69;66;63;63
+ROU;Romania;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.7;3;3.6;3.11;3;3.12;3.25;2.76;0.89;1;1.01;0.91
+ROU;Romania;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;44;43;43;46;48;48;47;44;44;45;46;46
+ROU;Romania;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;9;9;9;10;10;10;10;10;10;10;10
+RUS;Russian Federation;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;133;127;136;119;131;135;138;137;129;136;137;141
+RUS;Russian Federation;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;2.3;2.61;2.52;2.73;2.5;2.51;2.48;1.33;1.46;1.73;1.47
+RUS;Russian Federation;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;28;28;27;29;29;29;28;28;30;29;28;26
+RUS;Russian Federation;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;9;9;9;9;9;9;8;7
+RWA;Rwanda;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;50;49;55;44;50;48;48;51;49;52;54;49
+RWA;Rwanda;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;6.3;5.7;3.23;6.42;5.07;6;6.07;4.75;3.39;3.59;2.79;2.19
+RWA;Rwanda;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;53;53;49;54;54;55;56;53;54;53;51;53
+RWA;Rwanda;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;4;5;6;6;6;7;7;7;6;6
+SAU;Saudi Arabia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;66;63;55;48;62;57;58;51;52;52;54;53
+SAU;Saudi Arabia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;6.4;6.7;6.69;7.03;7.54;6.14;6.34;7.56;5.36;4.24;4.64;5.28
+SAU;Saudi Arabia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;44;46;49;52;46;49;49;53;53;53;51;52
+SAU;Saudi Arabia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;7;7;7;7;7;6;6
+SDN;Sudan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;173;174;173;165;170;175;172;173;174;164;162;162
+SDN;Sudan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;3.5;3.55;3.64;2.99;2.31;2.51;2.74;2.14;2.43;3.47;3.13
+SDN;Sudan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;13;11;11;12;14;16;16;16;16;20;22;20
+SDN;Sudan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;8;8;8
+SEN;Senegal;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;94;77;69;61;64;66;67;66;67;73;72;70
+SEN;Senegal;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.8;1.5;2.28;2.61;2.63;2.52;2.51;2.06;1.33;1.35;1.4;1.35
+SEN;Senegal;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;36;41;43;44;45;45;45;45;45;43;43;43
+SEN;Senegal;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;9;9;9;9;9;9
+SGP;Singapore;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;5;5;7;8;7;6;3;4;3;4;5;5
+SGP;Singapore;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.3;1.75;2.02;2.35;2.26;1.98;2.05;1.2;1.16;1.3;1.15
+SGP;Singapore;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;87;86;84;85;84;84;85;85;85;85;83;83
+SGP;Singapore;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;8;9;9;9;9;9;8;9
+SLB;Solomon Islands;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;72;85;70;77;78;73;77;70
+SLB;Solomon Islands;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;;;;;3.34;3.71;7.38;8.69;7.8;7.31;7.67;7.43
+SLB;Solomon Islands;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;;;;;42;39;44;42;42;43;42;43
+SLB;Solomon Islands;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;;;;;3;3;3;3;3;3;3;3
+SLE;Sierra Leone;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;123;119;119;119;123;130;129;119;117;115;110;108
+SLE;Sierra Leone;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.9;2.4;2.3;3.44;2.94;1.95;2.17;3.47;2.42;1.84;1.73;2.14
+SLE;Sierra Leone;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;31;30;31;29;30;30;30;33;33;34;34;35
+SLE;Sierra Leone;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;8;9;9;8;8;9;9;8
+SLV;El Salvador;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;83;83;80;72;95;112;105;113;104;115;116;126
+SLV;El Salvador;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.8;2;1.98;2.26;2.76;3.25;2.59;2.56;1.38;1.59;1.91;1.26
+SLV;El Salvador;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;38;38;39;39;36;33;35;34;36;34;33;31
+SLV;El Salvador;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;7;7;7
+SOM;Somalia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;174;175;174;167;176;180;180;180;179;178;180;180
+SOM;Somalia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.3;1.9;2.34;2.32;2.98;2.26;3.08;1.74;2.29;1.89;1.74;2.08
+SOM;Somalia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;8;8;8;8;10;9;10;9;12;13;12;11
+SOM;Somalia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;5;5;6;5;6;6;6;6
+SRB;Serbia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;80;72;78;71;72;77;87;91;94;96;101;104
+SRB;Serbia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.6;3.4;2.92;3.9;3.69;2.8;2.89;2.48;1.66;1.42;1.33;1.26
+SRB;Serbia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;39;42;41;40;42;41;39;39;38;38;36;36
+SRB;Serbia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+SSD;South Sudan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;173;171;163;175;179;178;179;179;180;178;177
+SSD;South Sudan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;;1.6;2.35;1.45;3.21;1.56;1.86;1.26;1.11;0.41;1.9;1.33
+SSD;South Sudan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;;14;15;15;11;12;13;12;12;11;13;13
+SSD;South Sudan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;;3;3;3;5;5;5;5;5;5;5;5
+STP;Sao Tome and Principe;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;72;72;76;66;62;64;64;64;63;66;65;67
+STP;Sao Tome and Principe;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;5;5;5.05;5;0.93;5.21;5.05;5.36;5.06;4.82;4.82;4.82
+STP;Sao Tome and Principe;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;42;42;42;42;46;46;46;46;47;45;45;45
+STP;Sao Tome and Principe;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;3;3;4;4;4;4;4;4;4
+SUR;Suriname;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;88;94;100;88;64;77;73;70;94;87;85;87
+SUR;Suriname;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.2;3.2;3.25;3.21;7.53;4.08;3.22;4.76;1.69;4.29;5.38;5.91
+SUR;Suriname;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;37;36;36;36;45;41;43;44;38;39;40;40
+SUR;Suriname;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;3;4;4;4;4;4;4;4;4
+SVK;Slovak Republic;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;62;61;54;50;54;54;57;59;60;56;49;47
+SVK;Slovak Republic;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.3;4.7;4.07;3.63;3.09;3.32;4.11;4.57;2.69;2.01;1.72;1.67
+SVK;Slovak Republic;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;46;47;50;51;51;50;50;50;49;52;53;54
+SVK;Slovak Republic;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;8;9;9;9;9;10;10;9
+SVN;Slovenia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;37;43;39;35;31;34;36;35;35;41;41;42
+SVN;Slovenia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.9;3.6;3.03;2.93;2.44;2.78;2.37;2.28;1.13;1.04;0.96;1.04
+SVN;Slovenia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;61;57;58;60;61;61;60;60;60;57;56;56
+SVN;Slovenia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;9;9;9;10;10;10;10;10;10;10;10
+SWE;Sweden;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;4;3;4;3;4;6;3;4;3;4;5;6
+SWE;Sweden;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.9;2.3;3.41;1.71;1.33;2.27;2.02;1.98;1.3;1.24;2.2;2.28
+SWE;Sweden;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;88;89;87;89;88;84;85;85;85;85;83;82
+SWE;Sweden;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+SWZ;Eswatini;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;88;82;69;;;85;89;113;117;122;130;130
+SWZ;Eswatini;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;1.8;2.98;;;5.81;4.48;6.08;4.93;7.12;5.9;5.9
+SWZ;Eswatini;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;37;39;43;;;39;38;34;33;32;30;30
+SWZ;Eswatini;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;3;;;3;3;4;4;3;3;3
+SYC;Seychelles;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;51;47;43;40;;36;28;27;27;23;23;20
+SYC;Seychelles;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;8;8.2;8.62;8.5;;8.32;3.08;3.4;2.97;1.34;1.78;0.37
+SYC;Seychelles;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;52;54;55;55;;60;66;66;66;70;70;71
+SYC;Seychelles;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;3;3;;4;4;4;4;3;3;3
+SYR;Syrian Arab Republic;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;144;168;159;154;173;178;178;178;178;178;178;177
+SYR;Syrian Arab Republic;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.7;3.8;5.31;5.66;1.97;1.93;1.92;1.92;1.58;1.58;1.57;1.58
+SYR;Syrian Arab Republic;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;26;17;20;18;13;14;13;13;14;13;13;13
+SYR;Syrian Arab Republic;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;4;4;4;5;5;5;5;5;5;5;5
+TCD;Chad;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;165;163;154;147;159;165;165;162;160;164;167;162
+TCD;Chad;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.5;3.8;2.95;2.35;2.67;2.73;2.94;2.45;1.71;1.89;1.51;2.16
+TCD;Chad;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;19;19;22;22;20;20;19;20;21;20;19;20
+TCD;Chad;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;6;6;6;6;6
+TGO;Togo;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;128;123;126;107;116;117;129;130;134;128;130;126
+TGO;Togo;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.4;3.7;3.69;3.04;4.21;3.29;2.35;2.4;1.75;1.6;1.7;1.15
+TGO;Togo;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;30;29;29;32;32;32;30;29;29;30;30;31
+TGO;Togo;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;5;6;6;7;7;7;7;7
+THA;Thailand;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;88;102;85;76;101;96;99;101;104;110;101;108
+THA;Thailand;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.6;1.2;1.6;2.12;2.44;2.03;2.08;2.45;1.31;0.84;1.09;0.88
+THA;Thailand;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;37;35;38;38;35;37;36;36;36;35;36;35
+THA;Thailand;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;9;9
+TJK;Tajikistan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;157;154;152;136;151;161;152;153;149;150;150;162
+TJK;Tajikistan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.8;3.8;5.32;7.36;5.26;2.36;5.73;6.66;5.09;3.97;3.13;0.78
+TJK;Tajikistan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;22;22;23;26;25;21;25;25;25;25;24;20
+TJK;Tajikistan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;5;5;5;5;6;5;6;6;6;6;6;5
+TKM;Turkmenistan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;170;168;169;154;154;167;161;165;165;169;167;170
+TKM;Turkmenistan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.9;2.9;2.85;2.38;1.32;1.78;1.22;1.42;0.91;1.07;1.07;1.45
+TKM;Turkmenistan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;17;17;17;18;22;19;20;19;19;19;19;18
+TKM;Turkmenistan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;4;4;5;5;5;5;5;5;5
+TLS;Timor-Leste;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;91;105;93;86;82;77;70
+TLS;Timor-Leste;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;5.6;3.2;5.18;5.17;5.97;7.5;4.81;4.5;2.71;3.68;5.03;5.19
+TLS;Timor-Leste;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;33;30;28;28;35;38;35;38;40;41;42;43
+TLS;Timor-Leste;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;3;3;3;3;4;4;4;4;4
+TTO;Trinidad and Tobago;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;80;83;85;72;101;77;78;85;86;82;77;76
+TTO;Trinidad and Tobago;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.5;5.1;4.82;4.64;2.48;5.47;5.8;5.38;3.73;3.66;3.86;4.87
+TTO;Trinidad and Tobago;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;39;38;38;39;35;41;41;40;40;41;42;42
+TTO;Trinidad and Tobago;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;4;4;4;4;5;6;6;7;7;7;7;6
+TUN;Tunisia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;75;77;79;76;75;74;73;74;69;70;85;87
+TUN;Tunisia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.8;1.9;1.72;2.17;3.9;3.73;3.86;3.94;2.83;1.9;1.12;1.7
+TUN;Tunisia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;41;41;40;38;41;42;43;43;44;44;40;40
+TUN;Tunisia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;6;6;7;7;7;7;7;7;7;7
+TUR;Turkiye;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;54;53;64;66;75;81;78;91;86;96;101;115
+TUR;Turkiye;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.4;2.69;2.02;1.8;1.8;3.03;3.34;2.06;2.1;1.51;1.57
+TUR;Turkiye;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;49;50;45;42;41;40;41;39;40;38;36;34
+TUR;Turkiye;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;9;8;9;9;9;9;9;9
+TWN;Taiwan, China;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;29;31;28;28;25;25;28
+TWN;Taiwan, China;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.9;4.3;4.17;3.78;3.79;3.28;3.06;3.03;2.06;1.85;1.66;1.53
+TWN;Taiwan, China;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;61;61;61;62;61;63;63;65;65;68;68;67
+TWN;Taiwan, China;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;8;8;8;8;8;8;8;8
+TZA;Tanzania;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;102;111;119;117;116;103;99;96;94;87;94;87
+TZA;Tanzania;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.7;3.2;3.49;1.84;1.55;1.83;1.92;0.8;1.39;0.99;2.2
+TZA;Tanzania;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;35;33;31;30;32;36;36;37;38;39;38;40
+TZA;Tanzania;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;9;9
+UGA;Uganda;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;130;140;142;139;151;151;149;137;142;144;142;141
+UGA;Uganda;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;3.3;3.03;3.19;2.24;2.11;2.13;2.04;1.15;1.22;1.49;1.3
+UGA;Uganda;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;29;26;26;25;25;26;26;28;27;27;26;26
+UGA;Uganda;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;8;8
+UKR;Ukraine;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;144;144;142;130;131;130;120;126;117;122;116;104
+UKR;Ukraine;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.8;1.7;1.64;1.93;1.97;2.27;2.27;2.38;1.31;1.29;1.44;1.93
+UKR;Ukraine;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;26;25;26;27;29;30;32;30;33;32;33;36
+UKR;Ukraine;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;8;8
+URY;Uruguay;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;20;19;21;21;21;23;23;21;21;18;14;16
+URY;Uruguay;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.5;1.4;1.41;1.68;2.68;2.67;2.73;2.47;1.72;0.68;0.66;0.67
+URY;Uruguay;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;72;73;73;74;71;70;70;71;71;73;74;73
+URY;Uruguay;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;6;7;7;7;7;7;7;7
+USA;United States;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;19;19;17;;;16;22;23;25;27;24;24
+USA;United States;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.1;4;3.74;3.47;3.15;3.24;3.25;4.12;2.49;2.21;2.11;2.14
+USA;United States;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;73;73;74;76;74;75;71;69;67;67;69;69
+USA;United States;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;8;8;9;9;9;9;9;9;9;9
+UZB;Uzbekistan;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;170;168;166;153;156;157;158;153;146;140;126;121
+UZB;Uzbekistan;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2;2;2.54;2.71;2.35;2.11;1.93;2.01;1.52;1.51;1.71;2.12
+UZB;Uzbekistan;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;17;17;18;19;21;22;23;25;26;28;31;33
+UZB;Uzbekistan;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;7;8;9
+VCT;St. Vincent and the Grenadines;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;36;33;29;;35;40;41;39;40;36;35;36
+VCT;St. Vincent and the Grenadines;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;5.6;5.6;5.59;;1.66;3.39;3.39;4.14;4.02;3.55;4.51;4.26
+VCT;St. Vincent and the Grenadines;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;62;62;62;;60;58;58;59;59;59;60;60
+VCT;St. Vincent and the Grenadines;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;;3;3;3;3;3;3;3;3
+VEN;Venezuela, RB;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;165;160;161;158;166;169;168;173;176;177;177;177
+VEN;Venezuela, RB;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.1;2.3;1.69;2.64;1.41;1.6;2.13;2.05;0.91;0.99;1.3;1.23
+VEN;Venezuela, RB;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;19;20;19;17;17;18;18;16;15;14;14;13
+VEN;Venezuela, RB;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;7;7;7;7;7;8;8;8;8;8;8;8
+VNM;Vietnam;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;123;116;119;112;113;107;117;96;104;87;77;83
+VNM;Vietnam;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.5;2.6;2.55;2.56;2.46;2.78;2.84;2.84;1.81;0.82;1.5;1.4
+VNM;Vietnam;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;31;31;31;31;33;35;33;37;36;39;42;41
+VNM;Vietnam;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;8;8;8;8;8;8;8;8
+VUT;Vanuatu;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;;;;71;64;64;75;66;60;61
+VUT;Vanuatu;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;;;;;;3.93;5.97;6.38;3.59;4.58;2.72;3.14
+VUT;Vanuatu;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;;;;;;43;46;46;43;45;48;48
+VUT;Vanuatu;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;;;;;;3;3;3;3;3;3;3
+WSM;Samoa;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;;;50;;;;;;;;;
+XKX;Kosovo;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;105;111;110;103;95;85;93;101;104;87;84;83
+XKX;Kosovo;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;1.5;2.3;2.33;2.19;3.17;2.13;1.49;0.81;0.68;2.31;2.58;2.36
+XKX;Kosovo;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;34;33;33;33;36;39;37;36;36;39;41;41
+XKX;Kosovo;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;3;3;3;3;5;5;5;5;6;6;6;6
+YEM;Yemen, Rep.;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;156;167;161;154;170;175;176;177;176;174;176;176
+YEM;Yemen, Rep.;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.2;2.6;2.37;2.66;3.05;1.85;1.45;1.89;1.33;2.29;1.98;1.75
+YEM;Yemen, Rep.;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;23;18;19;18;14;16;14;15;15;16;16;16
+YEM;Yemen, Rep.;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;6;6;6;6;7;7;7;7;7;7;7;7
+ZAF;South Africa;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;69;72;67;61;64;71;73;70;69;70;72;83
+ZAF;South Africa;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;2.5;2.8;2.41;2.61;2.55;3.98;3.8;3.44;2.17;2.35;2.01;2.08
+ZAF;South Africa;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;43;42;44;44;45;43;43;44;44;44;43;41
+ZAF;South Africa;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;9;9;7;7;7;8;8;8;8;8;8;8
+ZMB;Zambia;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;88;83;85;76;87;96;105;113;117;117;116;98
+ZMB;Zambia;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;3.1;2.1;2.27;2.55;2.91;2.46;1.93;1.97;0.96;1.63;1.5;2.06
+ZMB;Zambia;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;37;38;38;38;38;37;35;34;33;33;33;37
+ZMB;Zambia;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;9;9;8
+ZWE;Zimbabwe;TI.CPI.Rank;Corruption Perceptions Index Rank;-;-;-;-;163;157;156;150;154;157;160;158;157;157;157;149
+ZWE;Zimbabwe;TI.CPI.STDERR;Corruption Perceptions Index Standard Error;-;-;-;-;4.3;4.3;4.18;4.54;2.59;2.22;2.29;2.31;1.35;1.52;1.53;1.3
+ZWE;Zimbabwe;TI.CPI.Score;Corruption Perceptions Index Score;-;-;-;-;20;21;21;21;22;22;22;24;24;23;23;24
+ZWE;Zimbabwe;TI.CPI.Sources;Corruption Perceptions Index Sources;-;-;-;-;8;8;8;8;9;9;9;9;9;8;8;9

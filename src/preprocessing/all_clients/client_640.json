@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Isabella",
+        "middle_name": "Alma",
+        "last_name": "N\u00f8rregaard",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1991-03-22",
+        "passport_number": "SE8343694",
+        "passport_mrz": [
+            "P<DNKN\u00d8RREGAARD<<ISABELLA<ALMA<<<<<<<<<<<<<<<",
+            "SE8343694DNK032291<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-01-26",
+        "passport_expiry_date": "2031-01-25"
+    },
+    "client_profile": {
+        "name": "Isabella Alma N\u00f8rregaard",
+        "address": {
+            "city": "Skanderborg",
+            "street name": "S\u00f8lvgade",
+            "street number": 20,
+            "postal code": "3040"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1991-03-22",
+        "nationality": "Danish",
+        "passport_number": "SE8343694",
+        "passport_issue_date": "2031-01-25",
+        "passport_expiry_date": "2021-01-26",
+        "gender": "F",
+        "phone_number": "+45 65 42 22 41",
+        "email_address": "isabella.nrregaard@webspace.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Herning Gymnasium",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "Zealand Institute of Business and Technology",
+                "graduation_year": 2015
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "PKA A/S",
+                "position": "Stockbroker",
+                "salary": 674000
+            }
+        ],
+        "aum": {
+            "savings": 820000,
+            "inheritance": 5000000,
+            "real_estate_value": 4965000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1105000,
+                "property location": "Skanderborg"
+            },
+            {
+                "property type": "villa",
+                "property value": 2770000,
+                "property location": "Esbjerg \u00d8"
+            },
+            {
+                "property type": "flat",
+                "property value": 1090000,
+                "property location": "Silkeborg"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Isabella Alma N\u00f8rregaard",
+        "first_name": "Isabella",
+        "middle_name": "Alma",
+        "last_name": "N\u00f8rregaard",
+        "passport_number": "SE8343694",
+        "currency": "DKK",
+        "address": {
+            "city": "Skanderborg",
+            "street name": "S\u00f8lvgade",
+            "street number": 20,
+            "postal code": "3040"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 65 42 22 41",
+        "email_address": "isabella.nrregaard@webspace.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Isabella Alma N\u00f8rregaard at a luxury car show in Copenhagen. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nIsabella Alma N\u00f8rregaard is a 34 year old and comes from Denmark.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Isabella Alma N\u00f8rregaard is currently divorced. She does not have any children.",
+        "Education Background": "Isabella graduated from Herning Gymnasium in 2009.\nIsabella attended Zealand Institute of Business and Technology and graduated in 2015.\n",
+        "Occupation History": "Isabella Alma N\u00f8rregaard is a 34 year old and comes from Denmark.\nIsabella Alma N\u00f8rregaard launched her career as a Stockbroker at PKA A/S, where she gained valuable experience from 2014 till now.\n",
+        "Wealth Summary": "Throughout her career, she saved 820000 DKK, investing in various assets to grow her wealth.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Esbjerg \u00d8, Skanderborg and Silkeborg, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nIn 2020, she received an inheritance of 5000000 DKK from her late grandfather, who was a prominent Tech Entrepreneur, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Isabella as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Ambre",
+        "middle_name": "Capucine",
+        "last_name": "Simon",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2002-08-03",
+        "passport_number": "TD6283742",
+        "passport_mrz": [
+            "P<FRASIMON<<AMBRE<CAPUCINE<<<<<<<<<<<<<<<<<<<",
+            "TD6283742FRA020803<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-02-20",
+        "passport_expiry_date": "2034-02-19"
+    },
+    "client_profile": {
+        "name": "Ambre Capucine Simon",
+        "address": {
+            "city": "Tours",
+            "street name": "Rue Elz\u00e9vir",
+            "street number": 94,
+            "postal code": "35091"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2002-08-03",
+        "nationality": "French",
+        "passport_number": "TD6283742",
+        "passport_issue_date": "2024-02-20",
+        "passport_expiry_date": "2034-02-19",
+        "gender": "F",
+        "phone_number": "06 84 65 56 89",
+        "email_address": "ambre.simon@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Polyvalent Fran\u00e7ois Mauriac",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2310000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ambre Capucine Simon",
+        "first_name": "Ambre",
+        "middle_name": "Capucine",
+        "last_name": "Simon",
+        "passport_number": "TD6283742",
+        "currency": "EUR",
+        "address": {
+            "city": "Tours",
+            "street name": "Rue Elz\u00e9vir",
+            "street number": 94,
+            "postal code": "35091"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "06 84 65 56 89",
+        "email_address": "ambre.simon@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Ambre Capucine Simon and the RM met at a networking event in Paris. They quickly realized they had complementary skills and decided to collaborate on several projects.\nAmbre Capucine Simon is a 22 year old and comes from France.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Ambre Capucine Simon is currently single. She does not have any children.",
+        "Education Background": "Ambre finished secondary school at Lyc\u00e9e Polyvalent Fran\u00e7ois Mauriac in 2021.\n",
+        "Occupation History": "Ambre Capucine Simon is a 22 year old and comes from France.\nAmbre Capucine Simon did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.She inherited a significant sum of 2310000 EUR from her grandmother, a respected Stock Trader, in 2018, which she has wisely invested.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

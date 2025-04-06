@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Alma",
+        "middle_name": "Katrine",
+        "last_name": "Mikkelsen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "2003-03-06",
+        "passport_number": "VL2520575",
+        "passport_mrz": [
+            "P<DNKMIKKELSEN<<ALMA<KATRINE<<<<<<<<<<<<<<<<<",
+            "VL2520575DNK030306<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-03-21",
+        "passport_expiry_date": "2034-03-20"
+    },
+    "client_profile": {
+        "name": "Alma Katrine Mikkelsen",
+        "address": {
+            "city": "Roskilde",
+            "street name": "Studiestr\u00e6de",
+            "street number": 26,
+            "postal code": "8518"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "2003-03-06",
+        "nationality": "Danish",
+        "passport_number": "VL2520575",
+        "passport_issue_date": "2024-03-21",
+        "passport_expiry_date": "2034-03-20",
+        "gender": "F",
+        "phone_number": "+45 07 55 63 69",
+        "email_address": "alma.mikkelsen@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Struer Statsgymnasium",
+            "graduation_year": 2022
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 16670000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Alma Katrine Mikkelsen",
+        "first_name": "Alma",
+        "middle_name": "Katrine",
+        "last_name": "Mikkelsen",
+        "passport_number": "VL2520575",
+        "currency": "DKK",
+        "address": {
+            "city": "Roskilde",
+            "street name": "Studiestr\u00e6de",
+            "street number": 26,
+            "postal code": "8518"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 07 55 63 69",
+        "email_address": "alma.mikkelsen@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Alma Katrine Mikkelsen and the RM crossed paths at a mutual friend's dinner party in Copenhagen. They discovered they had many common acquaintances and decided to explore business opportunities together.\nAlma Katrine Mikkelsen is a 22 year old and comes from Denmark.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Alma Katrine Mikkelsen is currently single. She does not have any children.",
+        "Education Background": "Alma obtained her secondary school diploma from Struer Statsgymnasium in 2022.\n",
+        "Occupation History": "Alma Katrine Mikkelsen is a 22 year old and comes from Denmark.\nAlma Katrine Mikkelsen did not start her professional career yet.",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.She inherited a significant sum of 16670000 DKK from her grandmother, a respected Tech Entrepreneur, in 2018, which she has wisely invested.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

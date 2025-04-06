@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "H\u00f8jgaard",
+        "middle_name": "Laursen",
+        "last_name": "Jensen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1964-05-09",
+        "passport_number": "SQ9917183",
+        "passport_mrz": [
+            "P<DNKJENSEN<<H\u00d8JGAARD<LAURSEN<<<<<<<<<<<<<<<<",
+            "SQ9917183DNK640509<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-11-30",
+        "passport_expiry_date": "2034-11-29"
+    },
+    "client_profile": {
+        "name": "H\u00f8jgaard Laursen Jensen",
+        "address": {
+            "city": "Greve",
+            "street name": "Skindergade",
+            "street number": 80,
+            "postal code": "2645"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1964-05-09",
+        "nationality": "Danish",
+        "passport_number": "SQ9917183",
+        "passport_issue_date": "2024-11-30",
+        "passport_expiry_date": "2034-11-29",
+        "gender": "M",
+        "phone_number": "+45 64 00 16 56",
+        "email_address": "hjgaard.jensen@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Aabenraa Gymnasium",
+            "graduation_year": 1983
+        },
+        "higher_education": [
+            {
+                "university": "University College Absalon",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1989,
+                "end_year": 1994,
+                "company": "Advent International Danmark A/S",
+                "position": "Analyst",
+                "salary": 349000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "Advent International Danmark A/S",
+                "position": "Associate",
+                "salary": 434000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2025,
+                "company": "Axcel Management A/S",
+                "position": "Investment Director",
+                "salary": 3200000
+            }
+        ],
+        "aum": {
+            "savings": 5780000,
+            "inheritance": 5190000,
+            "real_estate_value": 6350000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2014,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2690000,
+                "property location": "Greve"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1710000,
+                "property location": "Ikast"
+            },
+            {
+                "property type": "house",
+                "property value": 1950000,
+                "property location": "Ikast"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Italy"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "H\u00f8jgaard Laursen Jensen",
+        "first_name": "H\u00f8jgaard",
+        "middle_name": "Laursen",
+        "last_name": "Jensen",
+        "passport_number": "SQ9917183",
+        "currency": "DKK",
+        "address": {
+            "city": "Greve",
+            "street name": "Skindergade",
+            "street number": 80,
+            "postal code": "2645"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 64 00 16 56",
+        "email_address": "hjgaard.jensen@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to H\u00f8jgaard Laursen Jensen at a corporate retreat in Copenhagen. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nWith a career spanning nearly 36 years, H\u00f8jgaard Laursen Jensen has established himself as a key player in the industry.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "H\u00f8jgaard Laursen Jensen has been happily married to Alberte since 1996. H\u00f8jgaard and Alberte have 1 child, named Emilie.",
+        "Education Background": "H\u00f8jgaard earned his secondary school diploma from Aabenraa Gymnasium in 1983.\nH\u00f8jgaard attended University College Absalon and graduated in 1987.\n",
+        "Occupation History": "H\u00f8jgaard Laursen Jensen is a seasoned professional with over 36 years of experience.\nIn 1989, H\u00f8jgaard Laursen Jensen started working as a Analyst at Advent International Danmark A/S, marking the beginning of his successful career.\nHe then transitioned to Advent International Danmark A/S as a Associate, leveraging his expertise to drive results from 1994 to 1999.\nFrom 1999 till retirement, he served as a Investment Director at Axcel Management A/S, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "While working, he saved 5780000 DKK, which he used to build a diversified investment portfolio.\nHe owns villa in Greve, where he resides. It is worth 2690000 DKK.\n\nHe purchased townhouse in Ikast, where he spends his holidays. It is valued at 1710000 DKK.\nMoreover, he has invested in additional property in Ikast, giving possiblity for generating additional income. The house is valued at 1950000 DKK.\n\n\nFollowing the passing of his father, a successful Stock Trader, he received an inheritance of 5190000 DKK in 2014, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

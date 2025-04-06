@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Franziska",
+        "middle_name": "Sabrina",
+        "last_name": "Kr\u00e4mer",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "2001-08-01",
+        "passport_number": "TZ2214986",
+        "passport_mrz": [
+            "P<AUTKR\u00c4MER<<FRANZISKA<SABRINA<<<<<<<<<<<<<<<",
+            "TZ2214986AUT010801<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-28",
+        "passport_expiry_date": "2033-02-27"
+    },
+    "client_profile": {
+        "name": "Franziska Sabrina Kr\u00e4mer",
+        "address": {
+            "city": "Tulln an der Donau",
+            "street name": "Ringstra\u00dfe",
+            "street number": 17,
+            "postal code": "5525"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "2001-08-01",
+        "nationality": "Austrian",
+        "passport_number": "TZ2214986",
+        "passport_issue_date": "2023-02-28",
+        "passport_expiry_date": "2033-02-27",
+        "gender": "F",
+        "phone_number": "+43 617 473 6579",
+        "email_address": "franziska.kramer@chello.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "BORG Deutschlandsberg",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Sigmund Freud University Vienna",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2830000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Franziska Sabrina Kr\u00e4mer",
+        "first_name": "Franziska",
+        "middle_name": "Sabrina",
+        "last_name": "Kr\u00e4mer",
+        "passport_number": "TZ2214986",
+        "currency": "EUR",
+        "address": {
+            "city": "Tulln an der Donau",
+            "street name": "Ringstra\u00dfe",
+            "street number": 17,
+            "postal code": "5525"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 617 473 6579",
+        "email_address": "franziska.kramer@chello.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Franziska Sabrina Kr\u00e4mer's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nFranziska Sabrina Kr\u00e4mer is a 23 year old and comes from Austria.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Franziska Sabrina Kr\u00e4mer is currently single. She does not have any children.",
+        "Education Background": "Franziska completed her secondary education at BORG Deutschlandsberg in 2019.\nIn 2025, Franziska graduated from Sigmund Freud University Vienna with a degree.\n",
+        "Occupation History": "Franziska Sabrina Kr\u00e4mer is a 23 year old and comes from Austria.\nFranziska Sabrina Kr\u00e4mer did not start her professional career yet.",
+        "Wealth Summary": "She did not manage to save any money during her career.\nClient does not have any properties.\nFollowing the passing of her grandfather, a successful Corporate Lawyer, she received an inheritance of 2830000 EUR in 2015, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

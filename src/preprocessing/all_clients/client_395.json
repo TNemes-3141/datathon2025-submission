@@ -1,0 +1,144 @@
+{
+    "passport": {
+        "first_name": "Richter",
+        "middle_name": "Weber",
+        "last_name": "Koch",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1971-07-28",
+        "passport_number": "CZ6344066",
+        "passport_mrz": [
+            "P<DEUKOCH<<RICHTER<WEBER<<<<<<<<<<<<<<<<<<<<<",
+            "CZ6344066DEU710728<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-07-20",
+        "passport_expiry_date": "2029-07-19"
+    },
+    "client_profile": {
+        "name": "Richter Weber Koch",
+        "address": {
+            "city": "Nuremberg",
+            "street name": "Kurf\u00fcrstendamm",
+            "street number": 93,
+            "postal code": "32073"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1971-07-28",
+        "nationality": "German",
+        "passport_number": "CZ6344066",
+        "passport_issue_date": "2019-07-20",
+        "passport_expiry_date": "2029-07-19",
+        "gender": "M",
+        "phone_number": "+49 9488 023885",
+        "email_address": "richter.koch@icloud.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gymnasium zum Grauen Kloster",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "Ludwig Maximilian University of Munich",
+                "graduation_year": 1994
+            },
+            {
+                "university": "University of Hamburg",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 1998,
+                "company": "Boehringer Ingelheim GmbH",
+                "position": "Research Scientist",
+                "salary": 43000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "Fresenius SE & Co. KGaA",
+                "position": "Clinical Trials Manager",
+                "salary": 63000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2002,
+                "company": "Bayer AG",
+                "position": "Regulatory Affairs Director",
+                "salary": 81000
+            },
+            {
+                "start_year": 2003,
+                "end_year": 2007,
+                "company": "Merck KGaA",
+                "position": "CEO",
+                "salary": 144000
+            },
+            {
+                "start_year": 2008,
+                "end_year": null,
+                "company": "Boehringer Ingelheim GmbH",
+                "position": "Industry Leader",
+                "salary": 1072000
+            }
+        ],
+        "aum": {
+            "savings": 1760000,
+            "inheritance": 530000,
+            "real_estate_value": 3620000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2007,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2400000,
+                "property location": "Nuremberg"
+            },
+            {
+                "property type": "condo",
+                "property value": 1220000,
+                "property location": "Monchengladbach"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Richter Weber Koch",
+        "first_name": "Richter",
+        "middle_name": "Weber",
+        "last_name": "Koch",
+        "passport_number": "CZ6344066",
+        "currency": "EUR",
+        "address": {
+            "city": "Nuremberg",
+            "street name": "Kurf\u00fcrstendamm",
+            "street number": 93,
+            "postal code": "32073"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 9488 023885",
+        "email_address": "richter.koch@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Richter Weber Koch and the RM crossed paths at a mutual friend's dinner party in Berlin. They discovered they had many common acquaintances and decided to explore business opportunities together.\nRichter Weber Koch is a 53 year old Industry Leader from Germany. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Richter Weber Koch is currently widowed. His children are named Diana, Charlotte and Emma.",
+        "Education Background": "In 1989, Richter graduated from Gymnasium zum Grauen Kloster with a secondary school diploma.\nRichter pursued higher education at Ludwig Maximilian University of Munich, graduating in 1994.\nMoreover he completed his extra university education at University of Hamburg in 2000.\n",
+        "Occupation History": "Richter Weber Koch is a 53 year old Industry Leader from Germany.\nAt Boehringer Ingelheim GmbH, Richter Weber Koch held the position of Research Scientist from 1996 to 1998, developing essential skills in the field.\nHe then transitioned to Fresenius SE & Co. KGaA as a Clinical Trials Manager, leveraging his expertise to drive results from 1999 to 2000.\nHe spent 1 years working as a Regulatory Affairs Director at Bayer AG, refining his expertise and building a strong network.\nHe worked as a CEO at Merck KGaA from 2003 to 2007, playing a pivotal role in shaping the company's vision and strategy.\nAs a Industry Leader at Boehringer Ingelheim GmbH since 2008, he remains committed to excellence, driving progress and inspiring others through his remarkable leadership.",
+        "Wealth Summary": "While working, he saved 1760000 EUR, which he used to build a diversified investment portfolio.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Monchengladbach and Nuremberg, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe inherited a significant sum of 530000 EUR from his father, a respected Hedge Fund Manager, in 2007, which he has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Richter as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

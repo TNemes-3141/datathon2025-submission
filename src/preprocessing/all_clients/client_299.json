@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Stam",
+        "middle_name": "Wagemakers",
+        "last_name": "Kuipers",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1983-04-25",
+        "passport_number": "FH0943985",
+        "passport_mrz": [
+            "P<NLDKUIPERS<<STAM<WAGEMAKERS<<<<<<<<<<<<<<<<",
+            "FH0943985NLD830425<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-08-18",
+        "passport_expiry_date": "2026-08-17"
+    },
+    "client_profile": {
+        "name": "Stam Wagemakers Kuipers",
+        "address": {
+            "city": "Delft",
+            "street name": "Spoorweghaven",
+            "street number": 21,
+            "postal code": "2377 59"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1983-04-25",
+        "nationality": "Dutch",
+        "passport_number": "FH0943985",
+        "passport_issue_date": "2016-08-18",
+        "passport_expiry_date": "2026-08-17",
+        "gender": "M",
+        "phone_number": "+31 06 40014824",
+        "email_address": "stam.kuipers@planet.nl",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Hoeksch Lyceum Rotterdam",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "Tio University of Applied Sciences",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2009,
+                "company": "Victor & Rolf B.V.",
+                "position": "Assistant Designer",
+                "salary": 40000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2025,
+                "company": "Victor & Rolf B.V.",
+                "position": "Senior Designer",
+                "salary": 153000
+            }
+        ],
+        "aum": {
+            "savings": 200000,
+            "inheritance": 3700000,
+            "real_estate_value": 2790000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2005,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2790000,
+                "property location": "Delft"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Stam Wagemakers Kuipers",
+        "first_name": "Stam",
+        "middle_name": "Wagemakers",
+        "last_name": "Kuipers",
+        "passport_number": "FH0943985",
+        "currency": "EUR",
+        "address": {
+            "city": "Delft",
+            "street name": "Spoorweghaven",
+            "street number": 21,
+            "postal code": "2377 59"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 40014824",
+        "email_address": "stam.kuipers@planet.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Stam Wagemakers Kuipers at a corporate retreat in Amsterdam. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nWith a career spanning nearly 17 years, Stam Wagemakers Kuipers has established himself as a key player in the industry.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Stam Wagemakers Kuipers is currently divorced. His children are named Ilona, Stam and Willems.",
+        "Education Background": "Stam graduated from Hoeksch Lyceum Rotterdam in 2003.\nStam completed his university education at Tio University of Applied Sciences in 2006.\n",
+        "Occupation History": "Stam Wagemakers Kuipers is a seasoned professional with over 17 years of experience.\nStam Wagemakers Kuipers's first role was as a Assistant Designer at Victor & Rolf B.V., where he worked diligently from 2008 to 2009 to establish a strong reputation.\nHe then transitioned to Victor & Rolf B.V. as a Senior Designer, leveraging his expertise to drive results from 2009 to 2025.\n",
+        "Wealth Summary": "He managed to save approximately 200000 EUR from his earnings at all companies.\nHe has villa located in Delft, worth 2790000 EUR.\n\n\nFollowing the passing of his mother, a successful Stock Trader, he received an inheritance of 3700000 EUR in 2005, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

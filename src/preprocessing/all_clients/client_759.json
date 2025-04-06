@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Martina",
+        "middle_name": "Giovanna",
+        "last_name": "Belli",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1990-05-06",
+        "passport_number": "QC6543463",
+        "passport_mrz": [
+            "P<ITABELLI<<MARTINA<GIOVANNA<<<<<<<<<<<<<<<<<",
+            "QC6543463ITA900506<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-01-28",
+        "passport_expiry_date": "2031-01-27"
+    },
+    "client_profile": {
+        "name": "Martina Giovanna Belli",
+        "address": {
+            "city": "Venice",
+            "street name": "Corso Como",
+            "street number": 3,
+            "postal code": "90117"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1990-05-06",
+        "nationality": "Italian",
+        "passport_number": "QC6543463",
+        "passport_issue_date": "2021-01-28",
+        "passport_expiry_date": "2031-01-27",
+        "gender": "F",
+        "phone_number": "+39 357 7854820",
+        "email_address": "martina.belli@tiscali.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "American University of Rome",
+                "graduation_year": 2014
+            },
+            {
+                "university": "European University of Rome",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": 2015,
+                "company": "ERG S.p.A.",
+                "position": "Junior Trader",
+                "salary": 25000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "ENI S.p.A.",
+                "position": "Senior Trader",
+                "salary": 52000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 290000,
+            "real_estate_value": 860000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 860000,
+                "property location": "Venice"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Martina Giovanna Belli",
+        "first_name": "Martina",
+        "middle_name": "Giovanna",
+        "last_name": "Belli",
+        "passport_number": "QC6543463",
+        "currency": "EUR",
+        "address": {
+            "city": "Venice",
+            "street name": "Corso Como",
+            "street number": 3,
+            "postal code": "90117"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 357 7854820",
+        "email_address": "martina.belli@tiscali.it"
+    },
+    "client_description": {
+        "Summary Note": "Martina Giovanna Belli and the RM crossed paths at a tech conference in Rome. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nMartina Giovanna Belli is a 34 year old Senior Trader from Italy.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Martina Giovanna Belli and Russo have been married since 2023. They are proud parents of 2 children: Conti and Landi.",
+        "Education Background": "Martina completed her secondary education at Istituto Tecnico Agrario Statale Giuseppe Garibaldi Parma in 2010.\nMartina completed her university studies at American University of Rome in 2014.\nShe pursued addtionally further eduaction by attending European University of Rome and graduating in 2018.\n",
+        "Occupation History": "Having worked for over 11 years, Martina Giovanna Belli brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nMartina Giovanna Belli began her professional journey as a Junior Trader at ERG S.p.A. in 2014, laying the foundation for future success.\nAfter gaining experience, she took on the role of Senior Trader at ENI S.p.A. in 2016, further expanding her skill set.\n",
+        "Wealth Summary": "She managed to save approximately 60000 EUR from her earnings at all companies.\nShe has flat located in Venice, worth 860000 EUR.\n\nIn 2018, she received an inheritance of 290000 EUR from her late grandfather, who was a prominent Venture Capitalist, and has since invested it in various assets.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

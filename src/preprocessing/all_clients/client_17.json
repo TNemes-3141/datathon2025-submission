@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Friso",
+        "middle_name": "",
+        "last_name": "Wagemakers",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1993-12-17",
+        "passport_number": "XO1568074",
+        "passport_mrz": [
+            "P<NLDWAGEMAKERS<<FRISO<<<<<<<<<<<<<<<<<<<<<<<",
+            "XO1568074NLD931217<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-08-08",
+        "passport_expiry_date": "2034-08-07"
+    },
+    "client_profile": {
+        "name": "Friso Wagemakers",
+        "address": {
+            "city": "Venlo",
+            "street name": "Nieuwmarkt",
+            "street number": 53,
+            "postal code": "3837 73"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1993-12-17",
+        "nationality": "Dutch",
+        "passport_number": "XO1568074",
+        "passport_issue_date": "2024-08-08",
+        "passport_expiry_date": "2034-08-07",
+        "gender": "F",
+        "phone_number": "+31 06 14094615",
+        "email_address": "friso.wagemakers@planet.nl",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Hoeksch Lyceum Rotterdam",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "Amsterdam University College",
+                "graduation_year": 2003
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "CMA CGM Nederland B.V.",
+                "position": "Ship Broker",
+                "salary": 42000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 250000,
+            "real_estate_value": 1840000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1840000,
+                "property location": "Venlo"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Friso Wagemakers",
+        "first_name": "Friso",
+        "middle_name": "",
+        "last_name": "Wagemakers",
+        "passport_number": "XO1568074",
+        "currency": "EUR",
+        "address": {
+            "city": "Venlo",
+            "street name": "Nieuwmarkt",
+            "street number": 53,
+            "postal code": "3837 73"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 14094615",
+        "email_address": "friso.wagemakers@planet.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Friso Wagemakers at a luxury car show in Amsterdam. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nFriso Wagemakers is a 31 year old Ship Broker from Netherlands.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Friso Wagemakers and Mulders have been married since 2019. They do not have any children.",
+        "Education Background": "Friso finished secondary school at Hoeksch Lyceum Rotterdam in 2000.\nFriso finished her studies at Amsterdam University College in 2017.\n",
+        "Occupation History": "Friso Wagemakers is a 31 year old Ship Broker from Netherlands.\nFriso Wagemakers launched her career as a Ship Broker at CMA CGM Nederland B.V., where she gained valuable experience from 2017 till now.\n",
+        "Wealth Summary": "She managed to save approximately 40000 EUR from her earnings at all companies.\nShe is not afraid to take risks in pursuit of higher returns.\nShe owns house in Venlo, where she resides. It is worth 1840000 EUR.\n\n\nFollowing the passing of her grandmother, a successful Oil and Gas Executive, she received an inheritance of 250000 EUR in 2015, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

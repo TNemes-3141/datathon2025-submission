@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Josefine",
+        "middle_name": "Katharina",
+        "last_name": "Rieder",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1964-05-10",
+        "passport_number": "RU8286200",
+        "passport_mrz": [
+            "P<AUTRIEDER<<JOSEFINE<KATHARINA<<<<<<<<<<<<<<",
+            "RU8286200AUT640510<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-10-29",
+        "passport_expiry_date": "2033-10-28"
+    },
+    "client_profile": {
+        "name": "Josefine Katharina Rieder",
+        "address": {
+            "city": "Gmunden",
+            "street name": "Untere Donaustra\u00dfe",
+            "street number": 1,
+            "postal code": "9688"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1964-05-10",
+        "nationality": "Austrian",
+        "passport_number": "RU8286200",
+        "passport_issue_date": "2023-10-29",
+        "passport_expiry_date": "2033-10-28",
+        "gender": "F",
+        "phone_number": "298 207 1264",
+        "email_address": "josefine.rieder@upc.at",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Franziskanergymnasium Hall in Tirol",
+            "graduation_year": 1983
+        },
+        "higher_education": [
+            {
+                "university": "University of Salzburg",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1989,
+                "end_year": 1990,
+                "company": "Constantia Industries AG",
+                "position": "Stockbroker",
+                "salary": 31000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1996,
+                "company": "Constantia Industries AG",
+                "position": "Portfolio Manager",
+                "salary": 47000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 1999,
+                "company": "Conwert Immobilien Invest AG",
+                "position": "Hedge Fund Manager",
+                "salary": 71000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2025,
+                "company": "Immofinanz AG",
+                "position": "Private Equity Investor",
+                "salary": 766000
+            }
+        ],
+        "aum": {
+            "savings": 1490000,
+            "inheritance": 3020000,
+            "real_estate_value": 850000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 850000,
+                "property location": "Gmunden"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Josefine Katharina Rieder",
+        "first_name": "Josefine",
+        "middle_name": "Katharina",
+        "last_name": "Rieder",
+        "passport_number": "RU8286200",
+        "currency": "EUR",
+        "address": {
+            "city": "Gmunden",
+            "street name": "Untere Donaustra\u00dfe",
+            "street number": 1,
+            "postal code": "9688"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "298 207 1264",
+        "email_address": "josefine.rieder@upc.at"
+    },
+    "client_description": {
+        "Summary Note": "Josefine Katharina Rieder and the RM are cousins, having grown up together in Vienna. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nWith a career spanning nearly 36 years, Josefine Katharina Rieder has established herself as a key player in the industry.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Josefine Katharina Rieder is currently divorced. She has 3 kids called Sarah, Emma and Luisa.",
+        "Education Background": "Josefine received her secondary school diploma from Franziskanergymnasium Hall in Tirol in 1983.\nJosefine attended University of Salzburg and graduated in 1989.\n",
+        "Occupation History": "Josefine Katharina Rieder is a 60 year old and comes from Austria.\nAt Constantia Industries AG, Josefine Katharina Rieder held the position of Stockbroker from 1989 to 1990, developing essential skills in the field.\nAfter gaining experience, she took on the role of Portfolio Manager at Constantia Industries AG in 1992, further expanding her skill set.\nHer tenure as a Hedge Fund Manager at Conwert Immobilien Invest AG from 1998 to 1999 was marked by significant achievements and a deepening understanding of the field.\nShe appointment as a Private Equity Investor at Immofinanz AG in 2000 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "She managed to save approximately 1490000 EUR from her earnings at all companies.\nShe has house located in Gmunden, worth 850000 EUR.\n\nShe inherited a significant sum of 3020000 EUR from her mother, a respected Real Estate Developer, in 2012, which she has wisely invested.\n",
+        "Client Summary": "In summary, Josefine has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

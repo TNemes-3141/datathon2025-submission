@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Hanna",
+        "middle_name": "Kristiina",
+        "last_name": "Lehtinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1973-10-05",
+        "passport_number": "BI4238351",
+        "passport_mrz": [
+            "P<FINLEHTINEN<<HANNA<KRISTIINA<<<<<<<<<<<<<<<",
+            "BI4238351FIN731005<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-09-09",
+        "passport_expiry_date": "2034-09-08"
+    },
+    "client_profile": {
+        "name": "Hanna Kristiina Lehtinen",
+        "address": {
+            "city": "Imatra",
+            "street name": "Kampintori",
+            "street number": 70,
+            "postal code": "26478"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1973-10-05",
+        "nationality": "Finnish",
+        "passport_number": "BI4238351",
+        "passport_issue_date": "2024-09-09",
+        "passport_expiry_date": "2034-09-08",
+        "gender": "F",
+        "phone_number": "+358 049 371 97 68",
+        "email_address": "hanna.lehtinen@luukku.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Siuntion lukio",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "JAMK University of Applied Sciences",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 2001,
+                "company": "Neste Corporation",
+                "position": "Drilling Engineer",
+                "salary": 36000
+            },
+            {
+                "start_year": 2003,
+                "end_year": null,
+                "company": "Neste Corporation",
+                "position": "Reservoir Engineer",
+                "salary": 217000
+            }
+        ],
+        "aum": {
+            "savings": 340000,
+            "inheritance": 4180000,
+            "real_estate_value": 1540000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2014,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 647000,
+                "property location": "Imatra"
+            },
+            {
+                "property type": "flat",
+                "property value": 893000,
+                "property location": "Porvoo"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hanna Kristiina Lehtinen",
+        "first_name": "Hanna",
+        "middle_name": "Kristiina",
+        "last_name": "Lehtinen",
+        "passport_number": "BI4238351",
+        "currency": "EUR",
+        "address": {
+            "city": "Imatra",
+            "street name": "Kampintori",
+            "street number": 70,
+            "postal code": "26478"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 049 371 97 68",
+        "email_address": "hanna.lehtinen@luukku.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Hanna Kristiina Lehtinen since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nHaving worked for over 28 years, Hanna Kristiina Lehtinen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Hanna Kristiina Lehtinen and Turunen tied the knot in 2001. Hanna and Turunen have 3 children, named Vilma, Jonna and Hiltunen.",
+        "Education Background": "Hanna completed her secondary education at Siuntion lukio in 1993.\nIn 1997, Hanna graduated from JAMK University of Applied Sciences with a degree.\n",
+        "Occupation History": "Hanna Kristiina Lehtinen is a seasoned professional with over 28 years of experience.\nIn 1997, Hanna Kristiina Lehtinen started working as a Drilling Engineer at Neste Corporation, marking the beginning of her successful career.\nIn 2003, she moved to Neste Corporation to work as a Reservoir Engineer, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 340000 EUR.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Imatra and Porvoo, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe inherited 4180000 EUR from her grandmother, a well-known Venture Capitalist, in 2014, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

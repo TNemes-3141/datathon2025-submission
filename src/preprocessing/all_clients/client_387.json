@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Margot",
+        "middle_name": "Gabriella",
+        "last_name": "Peeters",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1954-09-30",
+        "passport_number": "CG8528890",
+        "passport_mrz": [
+            "P<BELPEETERS<<MARGOT<GABRIELLA<<<<<<<<<<<<<<<",
+            "CG8528890BEL540930<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-18",
+        "passport_expiry_date": "2026-03-17"
+    },
+    "client_profile": {
+        "name": "Margot Gabriella Peeters",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Place de la Libert\u00e9",
+            "street number": 16,
+            "postal code": "8607"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1945-09-30",
+        "nationality": "Belgian",
+        "passport_number": "CG8528890",
+        "passport_issue_date": "2019-03-18",
+        "passport_expiry_date": "2026-03-17",
+        "gender": "F",
+        "phone_number": "0400 409 451",
+        "email_address": "margot.peeters@proximus.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Koninklijk Atheneum Anderlecht",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "Hasselt University",
+                "graduation_year": 1979
+            },
+            {
+                "university": "Vesalius College",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1982,
+                "company": "Nyrstar NV",
+                "position": "Plant Manager",
+                "salary": 40000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 1988,
+                "company": "Bekaert SA",
+                "position": "Operations Director",
+                "salary": 67000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 2015,
+                "company": "ArcelorMittal Belgium NV",
+                "position": "CEO",
+                "salary": 496000
+            }
+        ],
+        "aum": {
+            "savings": 860000,
+            "inheritance": 0,
+            "real_estate_value": 4630000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2270000,
+                "property location": "Antwerp"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1250000,
+                "property location": "Sint-Niklaas"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1110000,
+                "property location": "Lokeren"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Margot Gabriella Peeters",
+        "first_name": "Margot",
+        "middle_name": "Gabriella",
+        "last_name": "Peeters",
+        "passport_number": "CG8528890",
+        "currency": "EUR",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Place de la Libert\u00e9",
+            "street number": 16,
+            "postal code": "8607"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "040 409 451",
+        "email_address": "margot.peeters@proximus.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Margot Gabriella Peeters's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nMargot Gabriella Peeters is a seasoned professional with over 46 years of experience.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Margot Gabriella Peeters is currently single. She does not have any children.",
+        "Education Background": "In 1974, Margot graduated from Koninklijk Atheneum Anderlecht with a secondary school diploma.\nMargot received her degree from Hasselt University in 1979.\nMoreover she completed her extra university education at Vesalius College in 1983.\n",
+        "Occupation History": "Margot Gabriella Peeters is a 70 year old and comes from Belgium.\nMargot Gabriella Peeters began her professional journey as a Plant Manager at Nyrstar NV in 1979, laying the foundation for future success.\nAfter gaining experience, she took on the role of Operations Director at Bekaert SA in 1983, further expanding her skill set.\nFrom 1990 till retirement, she served as a CEO at ArcelorMittal Belgium NV, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "Throughout her career, she saved 860000 EUR, investing in various assets to grow her wealth.\nShe has villa located in Antwerp, worth 2270000 EUR.\n\nIn addition to her primary residence, she owns townhouse in Sint-Niklaas worth 1250000 EUR.\n\nMoreover, she has invested in additional property in Lokeren, giving possiblity for generating additional income. The townhouse is valued at 1110000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

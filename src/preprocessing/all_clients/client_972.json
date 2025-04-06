@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Fuchs",
+        "middle_name": "Weber",
+        "last_name": "Rieder",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1958-03-27",
+        "passport_number": "DI5098200",
+        "passport_mrz": [
+            "P<AUTRIEDER<<FUCHS<WEBER<<<<<<<<<<<<<<<<<<<<<",
+            "DI5098200AUT580327<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-09-28",
+        "passport_expiry_date": "2026-09-27"
+    },
+    "client_profile": {
+        "name": "Fuchs Weber Rieder",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Kohlmarkt",
+            "street number": 99,
+            "postal code": "7867"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1958-03-27",
+        "nationality": "Austrian",
+        "passport_number": "DI5098200",
+        "passport_issue_date": "2016-09-28",
+        "passport_expiry_date": "2026-09-27",
+        "gender": "M",
+        "phone_number": "+43 393 291 0597",
+        "email_address": "fuchs.rieder@kabsi.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Bisch\u00f6fliches Gymnasium Petrinum",
+            "graduation_year": 1977
+        },
+        "higher_education": [
+            {
+                "university": "Modul University Vienna",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1983,
+                "company": "Immofinanz AG",
+                "position": "Property Manager",
+                "salary": 31000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "Conwert Immobilien Invest AG",
+                "position": "Developer",
+                "salary": 48000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 2018,
+                "company": "Immofinanz AG",
+                "position": "Construction Company Owner",
+                "salary": 660000
+            }
+        ],
+        "aum": {
+            "savings": 1360000,
+            "inheritance": 0,
+            "real_estate_value": 1290000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1290000,
+                "property location": "Krems an der Donau"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fuchs Weber Rieder",
+        "first_name": "Fuchs",
+        "middle_name": "Weber",
+        "last_name": "Rieder",
+        "passport_number": "DI5098200",
+        "currency": "EUR",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Kohlmarkt",
+            "street number": 99,
+            "postal code": "7867"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 393 291 0597",
+        "email_address": "fuchs.rieder@kabsi.at"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Fuchs Weber Rieder at a charity gala in Vienna. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nHaving worked for over 43 years, Fuchs Weber Rieder brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Fuchs Weber Rieder and Andrea tied the knot in 1985. Together they have 1 kid called Josefine.",
+        "Education Background": "In 1977, Fuchs finished his secondary school education at Bisch\u00f6fliches Gymnasium Petrinum.\nFuchs completed his university education at Modul University Vienna in 1982.\n",
+        "Occupation History": "Fuchs Weber Rieder is a 67 year old and comes from Austria.\nFuchs Weber Rieder launched his career as a Property Manager at Immofinanz AG, where he gained valuable experience from 1982 to 1983.\nHis subsequent role was as a Developer at Conwert Immobilien Invest AG, where he continued to grow professionally from 1985 to 1987.\nHis tenure as a Construction Company Owner at Immofinanz AG from 1987 till retirement was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "While working, he saved 1360000 EUR, which he used to build a diversified investment portfolio.\nHe has house located in Krems an der Donau, worth 1290000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "In summary, Fuchs has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

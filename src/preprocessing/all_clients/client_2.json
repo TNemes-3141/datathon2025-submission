@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Fischer",
+        "middle_name": "Egger",
+        "last_name": "Schnell",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1958-07-11",
+        "passport_number": "BC4460180",
+        "passport_mrz": [
+            "P<AUTSCHNELL<<FISCHER<EGGER<<<<<<<<<<<<<<<<<<",
+            "BC4460180AUT580711<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-09-15",
+        "passport_expiry_date": "2033-09-14"
+    },
+    "client_profile": {
+        "name": "Fischer Egger Schnell",
+        "address": {
+            "city": "Kitzb\u00fchel",
+            "street name": "Mariahilfer Stra\u00dfe",
+            "street number": 15,
+            "postal code": "3714"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1958-07-11",
+        "nationality": "Austrian",
+        "passport_number": "BC4460180",
+        "passport_issue_date": "2023-09-15",
+        "passport_expiry_date": "2033-09-14",
+        "gender": "M",
+        "phone_number": "+43 379 813 5127",
+        "email_address": "fischer.schnell@magenta.at",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gymnasium Wasagasse",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "Vienna University of Technology",
+                "graduation_year": 1981
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1987,
+                "company": "AMSC Austria",
+                "position": "Aerospace Engineer",
+                "salary": 32000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 2019,
+                "company": "Diamond Aircraft Industries",
+                "position": "Program Manager",
+                "salary": 273000
+            }
+        ],
+        "aum": {
+            "savings": 540000,
+            "inheritance": 0,
+            "real_estate_value": 2847000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1020000,
+                "property location": "Kitzb\u00fchel"
+            },
+            {
+                "property type": "condo",
+                "property value": 687000,
+                "property location": "Tulln an der Donau"
+            },
+            {
+                "property type": "house",
+                "property value": 1140000,
+                "property location": "Baden bei Wien"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fischer Egger Schnell",
+        "first_name": "Fischer",
+        "middle_name": "Egger",
+        "last_name": "Schnell",
+        "passport_number": "BC4460180",
+        "currency": "EUR",
+        "address": {
+            "city": "Kitzb\u00fchel",
+            "street name": "Mariahilfer Stra\u00dfe",
+            "street number": 15,
+            "postal code": "3714"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 379 813 5127",
+        "email_address": "fischer.schnell@magenta.at"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Fischer Egger Schnell at a charity gala in Vienna. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nFischer Egger Schnell is a seasoned professional with over 43 years of experience.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Fischer Egger Schnell is currently widowed. He has 2 kids called Ilse and Victoria.",
+        "Education Background": "Fischer obtained his secondary school diploma from Gymnasium Wasagasse in 1978.\nFischer completed his university education at Vienna University of Technology in 1981.\n",
+        "Occupation History": "Fischer Egger Schnell is a 66 year old and comes from Austria.\nFischer Egger Schnell's first role was as a Aerospace Engineer at AMSC Austria, where he worked diligently from 1982 to 1987 to establish a strong reputation.\nHe then transitioned to Diamond Aircraft Industries as a Program Manager, leveraging his expertise to drive results from 1987 till retirement.\n",
+        "Wealth Summary": "While working, he saved 540000 EUR, which he used to build a diversified investment portfolio.\nHe owns townhouse in Kitzb\u00fchel, where he resides. It is worth 1020000 EUR.\n\nIn addition to his primary residence, he owns condo in Tulln an der Donau worth 687000 EUR.\n\nOn top of that he inherited a beautiful house in Baden bei Wien, which could be used as a weekend getaway. It is valued at 1140000 EUR.\nHe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

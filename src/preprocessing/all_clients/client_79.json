@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Apda",
+        "middle_name": "",
+        "last_name": "Koskinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1981-01-19",
+        "passport_number": "AO5734774",
+        "passport_mrz": [
+            "P<FINKOSKINEN<<AADA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "AO5734774FIN810119<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-04-20",
+        "passport_expiry_date": "2029-04-19"
+    },
+    "client_profile": {
+        "name": "Aada Koskinen",
+        "address": {
+            "city": "Mikkeli",
+            "street name": "Ratapihantie",
+            "street number": 80,
+            "postal code": "57378"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1981-01-19",
+        "nationality": "Finnish",
+        "passport_number": "AO5734774",
+        "passport_issue_date": "2016-04-20",
+        "passport_expiry_date": "2029-04-19",
+        "gender": "F",
+        "phone_number": "+358 041 890 17 10",
+        "email_address": "aada.koskinen@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Salpaussel\u00e4n lukio",
+            "graduation_year": 2000
+        },
+        "higher_education": [
+            {
+                "university": "\u00c5bo Akademi University School of Economics",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2004,
+                "end_year": 2007,
+                "company": "Nordea Private Banking",
+                "position": "Financial Advisor",
+                "salary": 36000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2011,
+                "company": "Danske Bank Wealth Management",
+                "position": "Portfolio Manager",
+                "salary": 60000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Danske Bank Wealth Management",
+                "position": "Wealth Manager",
+                "salary": 323000
+            }
+        ],
+        "aum": {
+            "savings": 430000,
+            "inheritance": 1150000,
+            "real_estate_value": 2130000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2015,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1060000,
+                "property location": "Mikkeli"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1070000,
+                "property location": "Pori"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Aada Koskinen",
+        "first_name": "Aada",
+        "middle_name": "",
+        "last_name": "Koskinen",
+        "passport_number": "AO5734774",
+        "currency": "EUR",
+        "address": {
+            "city": "Mikkeli",
+            "street name": "Ratapihantie",
+            "street number": 80,
+            "postal code": "57378"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 041 890 17 1",
+        "email_address": "aada.koskinen@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Aada Koskinen and the RM crossed paths at a mutual friend's dinner party in Helsinki. They discovered they had many common acquaintances and decided to explore business opportunities together.\nAada Koskinen is a 44 year old Wealth Manager from Finland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Aada Koskinen is married to Virtanen. Their children are named Anniina, Tiainen and Katriina.",
+        "Education Background": "Aada obtained her secondary school diploma from Salpaussel\u00e4n lukio in 2000.\nAada earned her degree from \u00c5bo Akademi University School of Economics in 2004.\n",
+        "Occupation History": "Aada Koskinen is a seasoned professional with over 21 years of experience.\nIn 2004, Aada Koskinen started working as a Financial Advisor at Nordea Private Banking, marking the beginning of her successful career.\nAfter gaining experience, she took on the role of Portfolio Manager at Danske Bank Wealth Management in 2007, further expanding her skill set.\nFrom 2011 till now, she served as a Wealth Manager at Danske Bank Wealth Management, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 430000 EUR.\nShe has townhouse located in Mikkeli, worth 1060000 EUR.\n\nIn addition to her primary residence, she owns townhouse in Pori worth 1070000 EUR.\n\nShe inherited a significant sum of 1150000 EUR from her mother, a respected Investment Banker, in 2015, which she has wisely invested.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

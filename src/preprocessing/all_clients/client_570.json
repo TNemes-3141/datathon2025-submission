@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Gabriella",
+        "middle_name": "Ad\u00e8le",
+        "last_name": "Vandenberghe",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1957-09-10",
+        "passport_number": "LL6542165",
+        "passport_mrz": [
+            "P<BELVANDENBERGHE<<GABRIELLA<AD\u00c8LE<<<<<<<<<<<",
+            "LL6542165BEL570910<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-12-28",
+        "passport_expiry_date": "2027-12-27"
+    },
+    "client_profile": {
+        "name": "Gabriella Ad\u00e8le Vandenberghe",
+        "address": {
+            "city": "Mechelen",
+            "street name": "Rue de la R\u00e9gence",
+            "street number": 93,
+            "postal code": "1691"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1957-09-10",
+        "nationality": "Belgian",
+        "passport_number": "LL6542165",
+        "passport_issue_date": "2020-12-28",
+        "passport_expiry_date": "2027-12-27",
+        "gender": "F",
+        "phone_number": "0448 385 013",
+        "email_address": "gabriella.vandenberghe@skynet.be",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Koninklijk Atheneum Anderlecht",
+            "graduation_year": 1976
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 1981
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1985,
+                "company": "Petercam SA",
+                "position": "Financial Advisor",
+                "salary": 37000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1988,
+                "company": "KBC Private Banking NV",
+                "position": "Portfolio Manager",
+                "salary": 56000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 2018,
+                "company": "KBC Private Banking NV",
+                "position": "Wealth Manager",
+                "salary": 531000
+            }
+        ],
+        "aum": {
+            "savings": 1060000,
+            "inheritance": 0,
+            "real_estate_value": 3658000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1698000,
+                "property location": "Mechelen"
+            },
+            {
+                "property type": "flat",
+                "property value": 980000,
+                "property location": "Geel"
+            },
+            {
+                "property type": "condo",
+                "property value": 980000,
+                "property location": "Ostend"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gabriella Ad\u00e8le Vandenberghe",
+        "first_name": "Gabriella",
+        "middle_name": "Ad\u00e8le",
+        "last_name": "Vandenberghe",
+        "passport_number": "LL6542165",
+        "currency": "EUR",
+        "address": {
+            "city": "Mechelen",
+            "street name": "Rue de la R\u00e9gence",
+            "street number": 93,
+            "postal code": "1691"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0448 385 013",
+        "email_address": "gabriella.vandenberghe@skynet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Gabriella Ad\u00e8le Vandenberghe since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nGabriella Ad\u00e8le Vandenberghe is a 67 year old retired Wealth Manager from Belgium. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Gabriella Ad\u00e8le Vandenberghe is currently widowed. She has 3 kids called  Jacobs, Vandenberghe and Ana\u00efs.",
+        "Education Background": "Gabriella completed her secondary education at Koninklijk Atheneum Anderlecht in 1976.\nGabriella finished her studies at Vesalius College in 1981.\n",
+        "Occupation History": "Gabriella Ad\u00e8le Vandenberghe is a seasoned professional with over 44 years of experience.\nAt Petercam SA, Gabriella Ad\u00e8le Vandenberghe held the position of Financial Advisor from 1981 to 1985, developing essential skills in the field.\nShe then transitioned to KBC Private Banking NV as a Portfolio Manager, leveraging her expertise to drive results from 1985 to 1988.\nAt KBC Private Banking NV, she worked as a Wealth Manager from 1990 till retirement, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "While working, she saved 1060000 EUR, which she used to build a diversified investment portfolio.\nShe has house located in Mechelen, worth 1698000 EUR.\n\nShe purchased flat in Geel, where she spends her holidays. It is valued at 980000 EUR.\nMoreover, she has invested in additional property in Ostend, giving possiblity for generating additional income. The condo is valued at 980000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

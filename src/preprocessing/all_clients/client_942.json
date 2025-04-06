@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Beatriz",
+        "middle_name": "Catalina",
+        "last_name": "Gil",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1957-10-17",
+        "passport_number": "RC7377224",
+        "passport_mrz": [
+            "P<ESPGIL<<BEATRIZ<CATALINA<<<<<<<<<<<<<<<<<<<",
+            "RC7377224ESP571017<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-08-27",
+        "passport_expiry_date": "2027-08-26"
+    },
+    "client_profile": {
+        "name": "Beatriz Catalina Gil",
+        "address": {
+            "city": "Madrid",
+            "street name": "Plaza de la Magdalena",
+            "street number": 88,
+            "postal code": "34541"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1957-10-17",
+        "nationality": "Spanish",
+        "passport_number": "RC7377224",
+        "passport_issue_date": "2017-08-27",
+        "passport_expiry_date": "2027-08-26",
+        "gender": "F",
+        "phone_number": "+34 665 761 047",
+        "email_address": "beatriz.gil@terra.es",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Colegio El Pilar Getafe",
+            "graduation_year": 1976
+        },
+        "higher_education": [
+            {
+                "university": "ESADE Business & Law School",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1984,
+                "company": "Cepsa Trading S.A.U.",
+                "position": "Junior Trader",
+                "salary": 26000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 1989,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Senior Trader",
+                "salary": 39000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1995,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Trading Desk Manager",
+                "salary": 55000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1997,
+                "company": "Endesa S.A.",
+                "position": "Head of Commodities",
+                "salary": 110000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2018,
+                "company": "Enag\u00e1s S.A.",
+                "position": "Proprietary Trader",
+                "salary": 866000
+            }
+        ],
+        "aum": {
+            "savings": 1470000,
+            "inheritance": 0,
+            "real_estate_value": 3630000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1020000,
+                "property location": "Madrid"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1400000,
+                "property location": "Murcia"
+            },
+            {
+                "property type": "house",
+                "property value": 1210000,
+                "property location": "Bilbao"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Beatriz Catalina Gil",
+        "first_name": "Beatriz",
+        "middle_name": "Catalina",
+        "last_name": "Gil",
+        "passport_number": "RC7377224",
+        "currency": "EUR",
+        "address": {
+            "city": "Madrid",
+            "street name": "Plaza de la Magdalena",
+            "street number": 88,
+            "postal code": "34541"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 665 761 047",
+        "email_address": "beatriz.gil@terra.es"
+    },
+    "client_description": {
+        "Summary Note": "Beatriz Catalina Gil and the RM crossed paths at a mutual friend's dinner party in Madrid. They discovered they had many common acquaintances and decided to explore business opportunities together.\nBeatriz Catalina Gil is a 67 year old retired Proprietary Trader from Spain.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Beatriz Catalina Gil is currently widowed. Her child is named Ruiz.",
+        "Education Background": "Beatriz finished secondary school at Colegio El Pilar Getafe in 1976.\nBeatriz graduated from ESADE Business & Law School in 1982, completing her higher education.\n",
+        "Occupation History": "Having worked for over 44 years, Beatriz Catalina Gil brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nBeatriz Catalina Gil's first role was as a Junior Trader at Cepsa Trading S.A.U., where she worked diligently from 1981 to 1984 to establish a strong reputation.\nShe then transitioned to Enag\u00e1s S.A. as a Senior Trader, leveraging her expertise to drive results from 1986 to 1989.\nHer tenure as a Trading Desk Manager at Enag\u00e1s S.A. from 1991 to 1995 was marked by significant achievements and a deepening understanding of the field.\nAfter 14 years of dedication, she assumed the role of Head of Commodities at Endesa S.A. in 1995, spearheading high-profile projects and mentoring junior colleagues.\nUntil retiring, Beatriz Catalina Gil served as a Proprietary Trader at Enag\u00e1s S.A., contributing significantly from 1997 to 2018.",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1470000 EUR.\nShe owns 3 exceptional properties: condo located in Madrid, valued at approximately 1,020,000.00 EUR, townhouse located in Murcia, valued at approximately 1,400,000.00 EUR, house located in Bilbao, valued at approximately 1,210,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Bilbao, Madrid and Murcia.\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

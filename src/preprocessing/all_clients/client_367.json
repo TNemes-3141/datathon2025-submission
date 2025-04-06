@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Savolainen",
+        "middle_name": "Heikkinen",
+        "last_name": "Piirainen",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "FIN",
+        "nationality": "Austrian",
+        "birth_date": "1992-12-26",
+        "passport_number": "UI6114622",
+        "passport_mrz": [
+            "P<FINPIIRAINEN<<HEIKKINEN<SAVOLAINEN<<<<<<<<<",
+            "UI6114622FIN921226<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-05-13",
+        "passport_expiry_date": "2027-05-12"
+    },
+    "client_profile": {
+        "name": "Savolainen Heikkinen Piirainen",
+        "address": {
+            "city": "Joensuu",
+            "street name": "L\u00f6nnrotinkatu",
+            "street number": 24,
+            "postal code": "76315"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1992-12-26",
+        "nationality": "Finnish",
+        "passport_number": "UI6114622",
+        "passport_issue_date": "2017-05-13",
+        "passport_expiry_date": "2027-05-12",
+        "gender": "M",
+        "phone_number": "+358 049 307 60 67",
+        "email_address": "savolainen.piirainen@saunalahti.fi",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lappeenranta Lyceum",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "University of Jyv\u00e4skyl\u00e4",
+                "graduation_year": 2001
+            },
+            {
+                "university": "University of Helsinki",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": 2019,
+                "company": "Tampere Art Museum",
+                "position": "Art Dealer",
+                "salary": 39000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Museum of Contemporary Art Kiasma",
+                "position": "Gallery Owner",
+                "salary": 63000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 170000,
+            "real_estate_value": 1780000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1780000,
+                "property location": "Joensuu"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Savolainen Heikkinen Piirainen",
+        "first_name": "Savolainen",
+        "middle_name": "Heikkinen",
+        "last_name": "Piirainen",
+        "passport_number": "UI6114622",
+        "currency": "EUR",
+        "address": {
+            "city": "Joensuu",
+            "street name": "L\u00f6nnrotinkatu",
+            "street number": 24,
+            "postal code": "76315"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 049 307 60 67",
+        "email_address": "savolainen.piirainen@saunalahti.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Savolainen Heikkinen Piirainen's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nSavolainen Heikkinen Piirainen is a 32 year old Gallery Owner from Finland.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Savolainen Heikkinen Piirainen is currently single. He does not have any children.",
+        "Education Background": "Savolainen obtained his secondary school diploma from Lappeenranta Lyceum in 2012.\nHe then attended University of Jyv\u00e4skyl\u00e4, which he graduated in 2016.\nIn 2019, he received extra education and graduated from University of Helsinki with an additional degree.\n",
+        "Occupation History": "Savolainen Heikkinen Piirainen is a 32 year old and comes from Finland.\nSavolainen Heikkinen Piirainen launched his career as a Art Dealer at Tampere Art Museum, where he gained valuable experience from 2016 to 2019.\nHe then transitioned to Museum of Contemporary Art Kiasma as a Gallery Owner, leveraging his expertise to drive results from 2019 till now.\n",
+        "Wealth Summary": "He managed to save approximately 70000 EUR from his earnings at all companies.\nHe has villa located in Joensuu, worth 1780000 EUR.\n\nIn 2016, he received an inheritance of 170000 EUR from his late grandfather, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

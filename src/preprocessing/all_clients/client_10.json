@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Josefiina",
+        "middle_name": "Emilia",
+        "last_name": "Hiltunen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "2000-08-18",
+        "passport_number": "JF8162700",
+        "passport_mrz": [
+            "P<FINHILTUNEN<<JOSEFIINA<EMILIA<<<<<<<<<<<<<<",
+            "JF8162700FIN000818<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-07-04",
+        "passport_expiry_date": "2029-07-03"
+    },
+    "client_profile": {
+        "name": "Josefiina Emilia Hiltunen",
+        "address": {
+            "city": "Vaasa",
+            "street name": "Aleksanterinkatu",
+            "street number": 88,
+            "postal code": "35364"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "2000-08-18",
+        "nationality": "Finnish",
+        "passport_number": "JF8162700",
+        "passport_issue_date": "2019-07-04",
+        "passport_expiry_date": "2029-07-03",
+        "gender": "F",
+        "phone_number": "+358 041 017 23 61",
+        "email_address": "josefiina.hiltunen@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Kirkkonummen lukio",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "University of Helsinki",
+                "graduation_year": 2010
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1200000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Josefiina Emilia Hiltunen",
+        "first_name": "Josefiina",
+        "middle_name": "Emilia",
+        "last_name": "Hiltunen",
+        "passport_number": "JF8162700",
+        "currency": "EUR",
+        "address": {
+            "city": "Vaasa",
+            "street name": "Aleksanterinkatu",
+            "street number": 88,
+            "postal code": "35364"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 041 017 23 61",
+        "email_address": "josefiina.hiltunen@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Josefiina Emilia Hiltunen and the RM crossed paths at a tech conference in Helsinki. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nJosefiina Emilia Hiltunen is a 24 year old and comes from Finland.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Josefiina Emilia Hiltunen is currently single. She does not have any children.",
+        "Education Background": "Josefiina received her secondary school diploma from Kirkkonummen lukio in 2019.\nJosefiina earned her degree from University of Helsinki in 2025.\n",
+        "Occupation History": "Josefiina Emilia Hiltunen is a 24 year old and comes from Finland.\nJosefiina Emilia Hiltunen did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.In 2017, she received an inheritance of 1200000 EUR from her late grandmother, who was a prominent Corporate Lawyer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is committed to helping Josefiina achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

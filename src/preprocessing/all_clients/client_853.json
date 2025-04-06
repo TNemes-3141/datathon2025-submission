@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "S\u00e1nchez",
+        "middle_name": "Mu\u00f1oz",
+        "last_name": "Gonz\u00e1lez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1992-08-13",
+        "passport_number": "UD3333636",
+        "passport_mrz": [
+            "P<ESPGONZ\u00c1LEZ<<S\u00c1NCHEZ<MU\u00d1OZ<<<<<<<<<<<<<<<<<",
+            "UD3333636ESP920813<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-25",
+        "passport_expiry_date": "2030-08-24"
+    },
+    "client_profile": {
+        "name": "S\u00e1nchez Mu\u00f1oz Gonz\u00e1lez",
+        "address": {
+            "city": "Barcelona",
+            "street name": "Calle de San Vicente M\u00e1rtir",
+            "street number": 64,
+            "postal code": "93771"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1992-08-13",
+        "nationality": "Spanish",
+        "passport_number": "UD3333636",
+        "passport_issue_date": "2020-08-25",
+        "passport_expiry_date": "2030-08-24",
+        "gender": "M",
+        "phone_number": "+34 675 060 117",
+        "email_address": "sanchez.gonzalez@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Andr\u00e9s Laguna Segovia",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "Complutense University of Madrid",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "Realia Business S.A.",
+                "position": "Property Manager",
+                "salary": 30000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 960000,
+            "real_estate_value": 1080000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1080000,
+                "property location": "Barcelona"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "S\u00e1nchez Mu\u00f1oz Gonz\u00e1lez",
+        "first_name": "S\u00e1nchez",
+        "middle_name": "Mu\u00f1oz",
+        "last_name": "Gonz\u00e1lez",
+        "passport_number": "UD3333636",
+        "currency": "EUR",
+        "address": {
+            "city": "Barcelona",
+            "street name": "Calle de San Vicente M\u00e1rtir",
+            "street number": 64,
+            "postal code": "93771"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 675 060 117",
+        "email_address": "sanchez.gonzalez@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "S\u00e1nchez Mu\u00f1oz Gonz\u00e1lez and the RM crossed paths at a tech conference in Madrid. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nS\u00e1nchez Mu\u00f1oz Gonz\u00e1lez is a 32 year old and comes from Spain.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "S\u00e1nchez Mu\u00f1oz Gonz\u00e1lez is currently divorced. He has 1 kid called Blanca.",
+        "Education Background": "S\u00e1nchez completed his secondary education at IES Andr\u00e9s Laguna Segovia in 2001.\nAfter that, he went on to study at Complutense University of Madrid until 2017.\n",
+        "Occupation History": "S\u00e1nchez Mu\u00f1oz Gonz\u00e1lez is a 32 year old and comes from Spain.\nIn 2016, S\u00e1nchez Mu\u00f1oz Gonz\u00e1lez started working as a Property Manager at Realia Business S.A., marking the beginning of his successful career.\n",
+        "Wealth Summary": "While working, he saved 30000 EUR, which he used to build a diversified investment portfolio.\nHe owns condo in Barcelona, where he resides. It is worth 1080000 EUR.\n\nIn 2018, he received an inheritance of 960000 EUR from his late grandmother, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have S\u00e1nchez as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

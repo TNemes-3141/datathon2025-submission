@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Lilli",
+        "middle_name": "Isabel",
+        "last_name": "Richter",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1973-12-29",
+        "passport_number": "IZ9588534",
+        "passport_mrz": [
+            "P<DEURICHTER<<LILLI<ISABEL<<<<<<<<<<<<<<<<<<<",
+            "IZ9588534DEU731229<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-05-09",
+        "passport_expiry_date": "2030-05-08"
+    },
+    "client_profile": {
+        "name": "Lilli Isabel Richter",
+        "address": {
+            "city": "Mannheim",
+            "street name": "Unter den Linden",
+            "street number": 5,
+            "postal code": "35981"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1973-12-29",
+        "nationality": "German",
+        "passport_number": "IZ9588534",
+        "passport_issue_date": "2020-05-09",
+        "passport_expiry_date": "2030-05-08",
+        "gender": "F",
+        "phone_number": "+49 2362 360786",
+        "email_address": "lilli.richter@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Otto-Hahn-Gymnasium Karlsruhe",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "Bucerius Law School",
+                "graduation_year": 1998
+            },
+            {
+                "university": "Ludwig Maximilian University of Munich",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 1999,
+                "company": "K\u00fchne + Nagel (Deutschland) GmbH",
+                "position": "Ship Broker",
+                "salary": 41000
+            },
+            {
+                "start_year": 2000,
+                "end_year": null,
+                "company": "DSV Air & Sea GmbH",
+                "position": "Shipping Company Owner",
+                "salary": 244000
+            }
+        ],
+        "aum": {
+            "savings": 400000,
+            "inheritance": 2750000,
+            "real_estate_value": 3612000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2013,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1282000,
+                "property location": "Mannheim"
+            },
+            {
+                "property type": "villa",
+                "property value": 2330000,
+                "property location": "Karlsruhe"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lilli Isabel Richter",
+        "first_name": "Lilli",
+        "middle_name": "Isabel",
+        "last_name": "Richter",
+        "passport_number": "IZ9588534",
+        "currency": "EUR",
+        "address": {
+            "city": "Mannheim",
+            "street name": "Unter den Linden",
+            "street number": 5,
+            "postal code": "35981"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 2362 360786",
+        "email_address": "lilli.richter@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Lilli Isabel Richter at a charity gala in Berlin. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nWith a career spanning nearly 28 years, Lilli Isabel Richter has established herself as a key player in the industry.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Lilli Isabel Richter has been happily married to Scholz since 2003. Together they have 3 kids called Jacqueline, Kr\u00fcger and Diana.",
+        "Education Background": "Lilli obtained her secondary school diploma from Otto-Hahn-Gymnasium Karlsruhe in 1993.\nAfter that, she went on to study at Bucerius Law School until 1998.\nShe pursued addtionally further eduaction by attending Ludwig Maximilian University of Munich and graduating in 2000.\n",
+        "Occupation History": "With a career spanning nearly 28 years, Lilli Isabel Richter has established herself as a key player in the industry.\nLilli Isabel Richter began her professional journey as a Ship Broker at K\u00fchne + Nagel (Deutschland) GmbH in 1997, laying the foundation for future success.\nAt DSV Air & Sea GmbH, she held the position of Shipping Company Owner from 2000 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 400000 EUR.\nShe owns flat in Mannheim, where she resides. It is worth 1282000 EUR.\n\nShe purchased villa in Karlsruhe, where she spends her holidays. It is valued at 2330000 EUR.\nShe inherited a significant sum of 2750000 EUR from her grandfather, a respected Stock Trader, in 2013, which she has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

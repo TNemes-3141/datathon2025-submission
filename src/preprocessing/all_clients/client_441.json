@@ -1,0 +1,116 @@
+{
+    "passport": {
+        "first_name": "Mathilde",
+        "middle_name": "Alma",
+        "last_name": "Nielsen",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DNK",
+        "nationality": "German",
+        "birth_date": "1994-05-28",
+        "passport_number": "ZW5326891",
+        "passport_mrz": [
+            "P<DNKNIELSEN<<MATHILDE<ALMA<<<<<<<<<<<<<<<<<<",
+            "ZW5326891DNK940528<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-09-07",
+        "passport_expiry_date": "2031-09-06"
+    },
+    "client_profile": {
+        "name": "Mathilde Alma Nielsen",
+        "address": {
+            "city": "Lucerne",
+            "street name": "Marktgasse",
+            "street number": 46,
+            "postal code": "0937"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1994-05-28",
+        "nationality": "Danish",
+        "passport_number": "ZW5326891",
+        "passport_issue_date": "2021-09-07",
+        "passport_expiry_date": "2031-09-06",
+        "gender": "F",
+        "phone_number": "+41 062 592 61 23",
+        "email_address": "mathilde.nielsen@swissonline.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "\u00d8stre Borgerdyd Gymnasium",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business Academy",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": 2023,
+                "company": "Z\u00fcblin Immobilien AG",
+                "position": "Property Manager",
+                "salary": 265000
+            },
+            {
+                "start_year": 2023,
+                "end_year": 2025,
+                "company": "Z\u00fcblin Immobilien AG",
+                "position": "Developer",
+                "salary": 355000
+            }
+        ],
+        "aum": {
+            "savings": 250000,
+            "inheritance": 720000,
+            "real_estate_value": 3220000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 3220000,
+                "property location": "Lucerne"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Denmark",
+            "Netherlands"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Mathilde Alma Nielsen",
+        "first_name": "Mathilde",
+        "middle_name": "Alma",
+        "last_name": "Nielsen",
+        "passport_number": "ZW5326891",
+        "currency": "CHF",
+        "address": {
+            "city": "Lucerne",
+            "street name": "Marktgasse",
+            "street number": 46,
+            "postal code": "0937"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 062 592 61 23",
+        "email_address": "mathilde.nielsen@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "Mathilde Alma Nielsen and the RM are cousins, having grown up together in Z\u00fcrich. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nMathilde Alma Nielsen is a 30 year old Developer from Switzerland.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Mathilde Alma Nielsen is currently single. She does not have any children.",
+        "Education Background": "Mathilde obtained her secondary school diploma from \u00d8stre Borgerdyd Gymnasium in 2013.\nMathilde pursued higher education at Copenhagen Business Academy, graduating in 2019.\n",
+        "Occupation History": "Mathilde Alma Nielsen is a 30 year old Developer from Switzerland.\nMathilde Alma Nielsen's first role was as a Property Manager at Z\u00fcblin Immobilien AG, where she worked diligently from 2019 to 2023 to establish a strong reputation.\nAt Z\u00fcblin Immobilien AG, she held the position of Developer from 2023 to 2025, making significant contributions to the organization.\n",
+        "Wealth Summary": "She managed to save approximately 250000 CHF from her earnings at all companies.\nShe owns house in Lucerne, where she resides. It is worth 3220000 CHF.\n\nShe inherited a significant sum of 720000 CHF from her grandfather, a respected Stock Trader, in 2016, which she has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Mathilde as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

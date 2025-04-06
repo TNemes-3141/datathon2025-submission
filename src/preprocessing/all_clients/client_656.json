@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Camilla",
+        "middle_name": "Agnes",
+        "last_name": "J\u00f8rgensen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1977-09-24",
+        "passport_number": "HY8391731",
+        "passport_mrz": [
+            "P<DNKJ\u00d8RGENSEN<<CAMILLA<AGNES<<<<<<<<<<<<<<<<",
+            "HY8391731DNK770924<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-05-29",
+        "passport_expiry_date": "2033-05-28"
+    },
+    "client_profile": {
+        "name": "Camilla Agnes J\u00f8rgensen",
+        "address": {
+            "city": "Schaffhausen",
+            "street name": "Rue de la Paix",
+            "street number": 37,
+            "postal code": "9146"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1977-09-24",
+        "nationality": "Danish",
+        "passport_number": "HY8391731",
+        "passport_issue_date": "2023-05-29",
+        "passport_expiry_date": "2033-05-28",
+        "gender": "F",
+        "phone_number": "045 452 52 29",
+        "email_address": "camilla.jrgensen@swisscom.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Nyborg Gymnasium",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "Aalborg University",
+                "graduation_year": 2001
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2003,
+                "company": "Swisspetro AG",
+                "position": "Drilling Engineer",
+                "salary": 273000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Swisspetro AG",
+                "position": "Reservoir Engineer",
+                "salary": 374000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "Oiltanking Switzerland AG",
+                "position": "Operations Manager",
+                "salary": 525000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2013,
+                "company": "Swisspetro AG",
+                "position": "VP of Exploration",
+                "salary": 904000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Swisspetro AG",
+                "position": "CEO",
+                "salary": 2225000
+            }
+        ],
+        "aum": {
+            "savings": 3090000,
+            "inheritance": 2270000,
+            "real_estate_value": 2980000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2009,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1830000,
+                "property location": "Schaffhausen"
+            },
+            {
+                "property type": "flat",
+                "property value": 1150000,
+                "property location": "Esbjerg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Denmark"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Camilla Agnes J\u00f8rgensen",
+        "first_name": "Camilla",
+        "middle_name": "Agnes",
+        "last_name": "J\u00f8rgensen",
+        "passport_number": "HY8391731",
+        "currency": "CHF",
+        "address": {
+            "city": "Schaffhausen",
+            "street name": "Rue de la Paix",
+            "street number": 37,
+            "postal code": "9146"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "045 452 52 29",
+        "email_address": "camilla.jrgensen@swisscom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Camilla Agnes J\u00f8rgensen on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nCamilla Agnes J\u00f8rgensen is a seasoned professional with over 24 years of experience.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Camilla Agnes J\u00f8rgensen is currently single. She does not have any children.",
+        "Education Background": "In 1997, Camilla graduated from Nyborg Gymnasium with a secondary school diploma.\nCamilla completed her university studies at Aalborg University in 2001.\n",
+        "Occupation History": "Having worked for over 24 years, Camilla Agnes J\u00f8rgensen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nCamilla Agnes J\u00f8rgensen began her professional journey as a Drilling Engineer at Swisspetro AG in 2001, laying the foundation for future success.\nAfter gaining experience, she took on the role of Reservoir Engineer at Swisspetro AG in 2005, further expanding her skill set.\nFrom 2008 to 2012, she served as a Operations Manager at Oiltanking Switzerland AG, solidifying her position as a leader in the industry.\nHer next role was as a VP of Exploration at Swisspetro AG, where she applied her extensive experience to drive innovation from 2012 to 2013.\nCurrently, she serves as a CEO at Swisspetro AG, continuing to make meaningful contributions to the industry since 2015.",
+        "Wealth Summary": "While working, she saved 3090000 CHF, which she used to build a diversified investment portfolio.\nShe owns 2 exceptional properties: flat located in Schaffhausen, valued at approximately 1,830,000.00 CHF, flat located in Esbjerg, valued at approximately 1,150,000.00 CHF. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Schaffhausen and Esbjerg.\n\nFollowing the passing of her father, a successful Stock Trader, she received an inheritance of 2270000 CHF in 2009, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "M\u00fcller",
+        "middle_name": "Binder",
+        "last_name": "Mayr",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1988-11-09",
+        "passport_number": "PY9975157",
+        "passport_mrz": [
+            "P<AUTMAYR<<M\u00dcLLER<BINDER<<<<<<<<<<<<<<<<<<<<<",
+            "PY9975157AUT881109<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-05-24",
+        "passport_expiry_date": "2026-05-23"
+    },
+    "client_profile": {
+        "name": "M\u00fcller Binder Mayr",
+        "address": {
+            "city": "Spittal an der Drau",
+            "street name": "Westbahnstra\u00dfe",
+            "street number": 40,
+            "postal code": "0116"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1988-11-09",
+        "nationality": "Austrian",
+        "passport_number": "PY9975157",
+        "passport_issue_date": "2016-05-24",
+        "passport_expiry_date": "2026-05-23",
+        "gender": "M",
+        "phone_number": "948 597 1333",
+        "email_address": "muller.mayr@gmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "BRG/BORG Dornbirn",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "University of Vienna",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": 2018,
+                "company": "Schoenherr Rechtsanwaelte GmbH",
+                "position": "Associate Attorney",
+                "salary": 44000
+            },
+            {
+                "start_year": 2018,
+                "end_year": 2021,
+                "company": "CMS Reich-Rohrwig Hainz",
+                "position": "Senior Associate",
+                "salary": 51000
+            },
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Freshfields Bruckhaus Deringer LLP",
+                "position": "Partner",
+                "salary": 64000
+            }
+        ],
+        "aum": {
+            "savings": 80000,
+            "inheritance": 2140000,
+            "real_estate_value": 1488000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 578000,
+                "property location": "Spittal an der Drau"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 910000,
+                "property location": "Vienna"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "M\u00fcller Binder Mayr",
+        "first_name": "M\u00fcller",
+        "middle_name": "Binder",
+        "last_name": "Mayr",
+        "passport_number": "PY9975157",
+        "currency": "EUR",
+        "address": {
+            "city": "Spittal an der Drau",
+            "street name": "Westbahnstra\u00dfe",
+            "street number": 40,
+            "postal code": "0116"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "++49948 597 1333",
+        "email_address": "muller.mayr@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "M\u00fcller Binder Mayr and the RM met at a financial seminar in Vienna. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nM\u00fcller Binder Mayr is a 36 year old Partner from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "M\u00fcller Binder Mayr is married to Renate. They are proud parents of 3 children: Leonie, Julia and Franziska.",
+        "Education Background": "In 2006, M\u00fcller finished his secondary school education at BRG/BORG Dornbirn.\nM\u00fcller pursued higher education at University of Vienna, graduating in 2013.\n",
+        "Occupation History": "With a career spanning nearly 12 years, M\u00fcller Binder Mayr has established himself as a key player in the industry.\nM\u00fcller Binder Mayr's first role was as a Associate Attorney at Schoenherr Rechtsanwaelte GmbH, where he worked diligently from 2013 to 2018 to establish a strong reputation.\nAfter gaining experience, he took on the role of Senior Associate at CMS Reich-Rohrwig Hainz in 2018, further expanding his skill set.\nIn 2022, he joined Freshfields Bruckhaus Deringer LLP as a Partner, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "Throughout his career, he saved 80000 EUR, investing in various assets to grow his wealth.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Vienna and Spittal an der Drau, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe inherited a significant sum of 2140000 EUR from his grandfather, a respected Private Equity Manager, in 2016, which he has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

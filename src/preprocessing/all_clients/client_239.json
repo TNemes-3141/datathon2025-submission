@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Herrera",
+        "middle_name": "Navarro",
+        "last_name": "V\u00e1zquez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1965-12-03",
+        "passport_number": "UB9170628",
+        "passport_mrz": [
+            "P<ESPV\u00c1ZQUEZ<<HERRERA<NAVARRO<<<<<<<<<<<<<<<<",
+            "UB9170628ESP651203<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1957-06-20",
+        "passport_expiry_date": "1967-06-19"
+    },
+    "client_profile": {
+        "name": "Herrera Navarro V\u00e1zquez",
+        "address": {
+            "city": "Granada",
+            "street name": "Calle de la Estrella",
+            "street number": 88,
+            "postal code": "39458"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1965-12-03",
+        "nationality": "Spanish",
+        "passport_number": "UB9170628",
+        "passport_issue_date": "2021-06-20",
+        "passport_expiry_date": "2031-06-19",
+        "gender": "M",
+        "phone_number": "+34 631 091 478",
+        "email_address": "herrera.vazquez@hotmail.es",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "IES Antonio Machado Logro\u00f1o",
+            "graduation_year": 1985
+        },
+        "higher_education": [
+            {
+                "university": "Complutense University of Madrid",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1992,
+                "company": "Endesa S.A.",
+                "position": "Junior Trader",
+                "salary": 23000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1996,
+                "company": "Cepsa Trading S.A.U.",
+                "position": "Senior Trader",
+                "salary": 39000
+            },
+            {
+                "start_year": 1998,
+                "end_year": null,
+                "company": "Endesa S.A.",
+                "position": "Trading Desk Manager",
+                "salary": 338000
+            }
+        ],
+        "aum": {
+            "savings": 570000,
+            "inheritance": 1300000,
+            "real_estate_value": 3220000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2005,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2270000,
+                "property location": "Granada"
+            },
+            {
+                "property type": "flat",
+                "property value": 950000,
+                "property location": "Zaragoza"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Herrera Navarro V\u00e1zquez",
+        "first_name": "Herrera",
+        "middle_name": "Navarro",
+        "last_name": "V\u00e1zquez",
+        "passport_number": "UB9170628",
+        "currency": "EUR",
+        "address": {
+            "city": "Granada",
+            "street name": "Calle de la Estrella",
+            "street number": 88,
+            "postal code": "39458"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 631 091 478",
+        "email_address": "herrera.vazquez@hotmail.es"
+    },
+    "client_description": {
+        "Summary Note": "Herrera Navarro V\u00e1zquez and the RM met at a financial seminar in Madrid. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nHerrera Navarro V\u00e1zquez is a 59 year old Trading Desk Manager from Spain. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Herrera Navarro V\u00e1zquez is currently divorced. He has 1 kid called Valeria.",
+        "Education Background": "In 1985, Herrera graduated from IES Antonio Machado Logro\u00f1o with a secondary school diploma.\nHerrera completed his university studies at Complutense University of Madrid in 1989.\n",
+        "Occupation History": "With a career spanning nearly 35 years, Herrera Navarro V\u00e1zquez has established himself as a key player in the industry.\nHerrera Navarro V\u00e1zquez began his professional journey as a Junior Trader at Endesa S.A. in 1990, laying the foundation for future success.\nAfter gaining experience, he took on the role of Senior Trader at Cepsa Trading S.A.U. in 1994, further expanding his skill set.\nAt Endesa S.A., he worked as a Trading Desk Manager from 1998 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "Throughout his career, he saved 570000 EUR, investing in various assets to grow his wealth.\nHe owns 2 exceptional properties: villa located in Granada, valued at approximately 2,270,000.00 EUR, flat located in Zaragoza, valued at approximately 950,000.00 EUR. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Granada and Zaragoza.\nHe inherited a significant sum of 1300000 EUR from his father, a respected Tech Entrepreneur, in 2005, which he has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

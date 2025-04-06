@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Maassen",
+        "middle_name": "Veenhoven",
+        "last_name": "Van Dijk",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1960-08-31",
+        "passport_number": "JG7842444",
+        "passport_mrz": [
+            "P<NLDVAN DIJK<<MAASSEN<VEENHOVEN<<<<<<<<<<<<<",
+            "JG7842444NLD600831<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-09-11",
+        "passport_expiry_date": "2033-09-10"
+    },
+    "client_profile": {
+        "name": "Maassen Veenhoven Van Dijk",
+        "address": {
+            "city": "Rotterdam",
+            "street name": "Waldeck Pyrmontkade",
+            "street number": 23,
+            "postal code": "2518 19"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1960-08-31",
+        "nationality": "Dutch",
+        "passport_number": "JG7842444",
+        "passport_issue_date": "2023-09-11",
+        "passport_expiry_date": "2033-09-10",
+        "gender": "M",
+        "phone_number": "+31 06 75331817",
+        "email_address": "maassen.vandijk@hotmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Zwijsen College Veghel",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "Utrecht University",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1989,
+                "company": "Airbus Netherlands B.V.",
+                "position": "Aerospace Engineer",
+                "salary": 39000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1994,
+                "company": "Fokker Technologies B.V.",
+                "position": "Program Manager",
+                "salary": 65000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2000,
+                "company": "Airbus Netherlands B.V.",
+                "position": "Director of Operations",
+                "salary": 157000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2021,
+                "company": "NLR - Netherlands Aerospace Centre",
+                "position": "VP of Business Development",
+                "salary": 679000
+            }
+        ],
+        "aum": {
+            "savings": 1220000,
+            "inheritance": 0,
+            "real_estate_value": 4672000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1952000,
+                "property location": "Rotterdam"
+            },
+            {
+                "property type": "flat",
+                "property value": 1090000,
+                "property location": "Haarlem"
+            },
+            {
+                "property type": "house",
+                "property value": 1630000,
+                "property location": "Almere"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Maassen Veenhoven Van Dijk",
+        "first_name": "Maassen",
+        "middle_name": "Veenhoven",
+        "last_name": "Van Dijk",
+        "passport_number": "JG7842444",
+        "currency": "EUR",
+        "address": {
+            "city": "Rotterdam",
+            "street name": "Waldeck Pyrmontkade",
+            "street number": 23,
+            "postal code": "2518 19"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 75331817",
+        "email_address": "maassen.vandijk@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Maassen Veenhoven Van Dijk's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nMaassen Veenhoven Van Dijk is a 64 year old and comes from Netherlands.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Maassen Veenhoven Van Dijk is currently single. He does not have any children.",
+        "Education Background": "Maassen received his secondary school diploma from Zwijsen College Veghel in 1979.\nMaassen finished his studies at Utrecht University in 1983.\n",
+        "Occupation History": "Maassen Veenhoven Van Dijk is a seasoned professional with over 40 years of experience.\nMaassen Veenhoven Van Dijk launched his career as a Aerospace Engineer at Airbus Netherlands B.V., where he gained valuable experience from 1985 to 1989.\nAfter gaining experience, he took on the role of Program Manager at Fokker Technologies B.V. in 1990, further expanding his skill set.\nIn 1995, he joined Airbus Netherlands B.V. as a Director of Operations, taking on new challenges and responsibilities that helped him grow both personally and professionally.\nHe worked as a VP of Business Development at NLR - Netherlands Aerospace Centre from 2000 till retirement, playing a pivotal role in shaping the company's vision and strategy.\n",
+        "Wealth Summary": "Throughout his career, he saved 1220000 EUR, investing in various assets to grow his wealth.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Almere, Haarlem and Rotterdam, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

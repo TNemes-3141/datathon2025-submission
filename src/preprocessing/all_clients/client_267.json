@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Virtanen",
+        "middle_name": "Paananen",
+        "last_name": "Laine",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1987-03-27",
+        "passport_number": "DK2374826",
+        "passport_mrz": [
+            "P<FINLAINE<<VIRTANEN<PAANANEN<<<<<<<<<<<<<<<<",
+            "DK2374826FIN870327<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-06-26",
+        "passport_expiry_date": "2026-06-25"
+    },
+    "client_profile": {
+        "name": "Virtanen Paananen Laine",
+        "address": {
+            "city": "H\u00e4meenlinna",
+            "street name": "Helsinginkatu",
+            "street number": 71,
+            "postal code": "57910"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1987-03-27",
+        "nationality": "Finnish",
+        "passport_number": "DK2374826",
+        "passport_issue_date": "2016-06-26",
+        "passport_expiry_date": "2026-06-25",
+        "gender": "M",
+        "phone_number": "+358 040 318 89 90",
+        "email_address": "virtanen.laine@surffi.net",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Eiran Apteekkarin Koulu",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "Hanken School of Economics",
+                "graduation_year": 2009
+            },
+            {
+                "university": "University of Oulu",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2016,
+                "company": "OP Private Bank",
+                "position": "Financial Advisor",
+                "salary": 42000
+            },
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "Handelsbanken Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 79000
+            }
+        ],
+        "aum": {
+            "savings": 100000,
+            "inheritance": 250000,
+            "real_estate_value": 800000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 800000,
+                "property location": "H\u00e4meenlinna"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Virtanen Paananen Laine",
+        "first_name": "Virtanen",
+        "middle_name": "Paananen",
+        "last_name": "Laine",
+        "passport_number": "DK2374826",
+        "currency": "EUR",
+        "address": {
+            "city": "H\u00e4meenlinna",
+            "street name": "Helsinginkatu",
+            "street number": 71,
+            "postal code": "57910"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 040 318 89 901",
+        "email_address": "virtanen.laine@surffi.net"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Virtanen Paananen Laine at a luxury car show in Helsinki. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nVirtanen Paananen Laine is a seasoned professional with over 14 years of experience.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Virtanen Paananen Laine is married to Johanna. They do not have any children.",
+        "Education Background": "Virtanen completed his secondary education at Eiran Apteekkarin Koulu in 2006.\nAfter that, he went on to study at Hanken School of Economics until 2009.\nVirtanen earned his additionally degree from University of Oulu in 2014.\n",
+        "Occupation History": "Virtanen Paananen Laine is a 38 year old and comes from Finland.\nIn 2011, Virtanen Paananen Laine started working as a Financial Advisor at OP Private Bank, marking the beginning of his successful career.\nAfter gaining experience, he took on the role of Portfolio Manager at Handelsbanken Private Banking in 2017, further expanding his skill set.\n",
+        "Wealth Summary": "He managed to save approximately 100000 EUR from his earnings at all companies.\nHe owns flat in H\u00e4meenlinna, where he resides. It is worth 800000 EUR.\n\nIn 2019, he received an inheritance of 250000 EUR from his late grandfather, who was a prominent Venture Capitalist, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Virtanen has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

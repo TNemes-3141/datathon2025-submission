@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Madsen",
+        "middle_name": "Bjerregaard",
+        "last_name": "Pedersen",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "DNK",
+        "nationality": "Italian",
+        "birth_date": "1957-04-26",
+        "passport_number": "ZV9148670",
+        "passport_mrz": [
+            "P<DNKPEDERSEN<<MADSEN<BJERREGAARD<<<<<<<<<<<<",
+            "ZV9148670DNK570426<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-02-21",
+        "passport_expiry_date": "2030-02-20"
+    },
+    "client_profile": {
+        "name": "Madsen Bjerregaard Pedersen",
+        "address": {
+            "city": "Frederiksberg",
+            "street name": "N\u00f8rrebrogade",
+            "street number": 4,
+            "postal code": "7032"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1957-04-26",
+        "nationality": "Danish",
+        "passport_number": "ZV9148670",
+        "passport_issue_date": "2020-02-21",
+        "passport_expiry_date": "2030-02-20",
+        "gender": "M",
+        "phone_number": "+45 38 60 08 80",
+        "email_address": "madsen.pedersen@webspace.dk",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "T\u00f8nder Gymnasium",
+            "graduation_year": 1967
+        },
+        "higher_education": [
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 1981
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1983,
+                "company": " Marriott International Danmark A/S",
+                "position": "Hotel Manager",
+                "salary": 297000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 1984,
+                "company": " Marriott International Danmark A/S",
+                "position": "General Manager",
+                "salary": 429000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1985,
+                "company": "Radisson Hotel Group Danmark A/S",
+                "position": "Regional Vice President",
+                "salary": 583000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 1990,
+                "company": "Choice Hotels Danmark A/S",
+                "position": "CEO",
+                "salary": 848000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 2018,
+                "company": "Choice Hotels Danmark A/S",
+                "position": "Hospitality Industry Leader",
+                "salary": 9941000
+            }
+        ],
+        "aum": {
+            "savings": 18290000,
+            "inheritance": 0,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {},
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Madsen Bjerregaard Pedersen",
+        "first_name": "Madsen",
+        "middle_name": "Bjerregaard",
+        "last_name": "Pedersen",
+        "passport_number": "ZV9148670",
+        "currency": "DKK",
+        "address": {
+            "city": "Frederiksberg",
+            "street name": "N\u00f8rrebrogade",
+            "street number": 4,
+            "postal code": "7032"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+4 38 60 08 80",
+        "email_address": "madsen.pedersen@webspace.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Madsen Bjerregaard Pedersen's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nMadsen Bjerregaard Pedersen is a 67 year old retired Hospitality Industry Leader from Denmark. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Madsen Bjerregaard Pedersen is currently divorced. His child is named Josephine.",
+        "Education Background": "Madsen earned his secondary school diploma from T\u00f8nder Gymnasium in 1976.\nMadsen completed his university education at Copenhagen Business School in 1981.\n",
+        "Occupation History": "Madsen Bjerregaard Pedersen is a seasoned professional with over 43 years of experience.\nMadsen Bjerregaard Pedersen's first role was as a Hotel Manager at  Marriott International Danmark A/S, where he worked diligently from 1982 to 1983 to establish a strong reputation.\nAfter gaining experience, he took on the role of General Manager at  Marriott International Danmark A/S in 1983, further expanding his skill set.\nHe spent 1 years working as a Regional Vice President at Radisson Hotel Group Danmark A/S, refining his expertise and building a strong network.\nHis next role was as a CEO at Choice Hotels Danmark A/S, where he applied his extensive experience to drive innovation from 1986 to 1990.\nBefore retiring, Madsen Bjerregaard Pedersen worked as a Hospitality Industry Leader at Choice Hotels Danmark A/S from 1990 to 2018.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 18290000 DKK.\nClient does not have any properties.He does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

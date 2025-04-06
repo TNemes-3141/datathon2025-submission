@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Celli",
+        "middle_name": "Giordano",
+        "last_name": "Santoro",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "2001-08-13",
+        "passport_number": "GD9334881",
+        "passport_mrz": [
+            "P<ITASANTORO<<CELLI<GIORDANO<<<<<<<<<<<<<<<<<",
+            "GD9334881ITA010813<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-02-04",
+        "passport_expiry_date": "2028-02-03"
+    },
+    "client_profile": {
+        "name": "Celli Giordano Santoro",
+        "address": {
+            "city": "Modena",
+            "street name": "Piazza della Repubblica",
+            "street number": 22,
+            "postal code": "11629"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "2001-08-13",
+        "nationality": "Italian",
+        "passport_number": "GD9334881",
+        "passport_issue_date": "2018-02-04",
+        "passport_expiry_date": "2028-02-03",
+        "gender": "M",
+        "phone_number": "+39 325 9645044",
+        "email_address": "celli.santoro@libero.it",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Luiss Guido Carli",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1920000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Celli Giordano Santoro",
+        "first_name": "Celli",
+        "middle_name": "Giordano",
+        "last_name": "Santoro",
+        "passport_number": "GD9334881",
+        "currency": "EUR",
+        "address": {
+            "city": "Modena",
+            "street name": "Piazza della Repubblica",
+            "street number": 22,
+            "postal code": "11629"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 325 9645044",
+        "email_address": "celli.santoro@libero.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Celli Giordano Santoro at a luxury car show in Rome. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nCelli Giordano Santoro is a 23 year old and comes from Italy.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Celli Giordano Santoro is currently single. He does not have any children.",
+        "Education Background": "In 2019, Celli graduated from Istituto Tecnico Industriale Statale Enrico Mattei Roma with a secondary school diploma.\nCelli finished his studies at Luiss Guido Carli in 2025.\n",
+        "Occupation History": "Celli Giordano Santoro is a 23 year old and comes from Italy.\nCelli Giordano Santoro did not start his professional career yet.",
+        "Wealth Summary": "He did not have any savings to invest in financial markets.\nClient does not have any properties.He inherited a significant sum of 1920000 EUR from his grandmother, a respected Hedge Fund Manager, in 2018, which he has wisely invested.\n",
+        "Client Summary": "The RM is excited to help Celli navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "G\u00f3mez",
+        "middle_name": "Fern\u00e1ndez",
+        "last_name": "Rodr\u00edguez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1991-04-19",
+        "passport_number": "HS6360346",
+        "passport_mrz": [
+            "P<ESPRODR\u00cdGUEZ<<G\u00d3MEZ<FERN\u00c1NDEZ<<<<<<<<<<<<<<",
+            "HS6360346ESP910419<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-01-01",
+        "passport_expiry_date": "2028-12-31"
+    },
+    "client_profile": {
+        "name": "G\u00f3mez Fern\u00e1ndez Rodr\u00edguez",
+        "address": {
+            "city": "Salamanca",
+            "street name": "Plaza de la Merced",
+            "street number": 40,
+            "postal code": "24814"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1991-04-19",
+        "nationality": "Spanish",
+        "passport_number": "HS6360346",
+        "passport_issue_date": "2019-01-01",
+        "passport_expiry_date": "2028-12-31",
+        "gender": "M",
+        "phone_number": "+34 680 461 888",
+        "email_address": "gomez.rodriguez@gmail.es",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "IES Juan Carlos I Burgos",
+            "graduation_year": 2010
+        },
+        "higher_education": [
+            {
+                "university": "ESADE Business & Law School",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": 2018,
+                "company": "Realia Business S.A.",
+                "position": "Property Manager",
+                "salary": 27000
+            },
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Inmobiliaria Colonial S.A.",
+                "position": "Developer",
+                "salary": 55000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 1640000,
+            "real_estate_value": 2580000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1630000,
+                "property location": "Salamanca"
+            },
+            {
+                "property type": "flat",
+                "property value": 950000,
+                "property location": "C\u00f3rdoba"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Denmark"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "G\u00f3mez Fern\u00e1ndez Rodr\u00edguez",
+        "first_name": "G\u00f3mez",
+        "middle_name": "Fern\u00e1ndez",
+        "last_name": "Rodr\u00edguez",
+        "passport_number": "HS6360346",
+        "currency": "EUR",
+        "address": {
+            "city": "Salamanca",
+            "street name": "Plaza de la Merced",
+            "street number": 40,
+            "postal code": "24814"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 680 461 888",
+        "email_address": "gomez.rodriguez@gmail.es"
+    },
+    "client_description": {
+        "Summary Note": "G\u00f3mez Fern\u00e1ndez Rodr\u00edguez and the RM crossed paths at a mutual friend's dinner party in Madrid. They discovered they had many common acquaintances and decided to explore business opportunities together.\nG\u00f3mez Fern\u00e1ndez Rodr\u00edguez is a 33 year old and comes from Spain.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "G\u00f3mez Fern\u00e1ndez Rodr\u00edguez is currently widowed. He has 2 kids called Blanca and Antonia.",
+        "Education Background": "In 2010, G\u00f3mez finished his secondary school education at IES Juan Carlos I Burgos.\nG\u00f3mez finished his studies at ESADE Business & Law School in 2014.\n",
+        "Occupation History": "G\u00f3mez Fern\u00e1ndez Rodr\u00edguez is a 33 year old Developer from Spain.\nG\u00f3mez Fern\u00e1ndez Rodr\u00edguez launched his career as a Property Manager at Realia Business S.A., where he gained valuable experience from 2015 to 2018.\nHe then transitioned to Inmobiliaria Colonial S.A. as a Developer, leveraging his expertise to drive results from 2020 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 60000 EUR, investing in various assets to grow his wealth.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across C\u00f3rdoba and Salamanca, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe inherited 1640000 EUR from his grandfather, a well-known Investment Banker, in 2019, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

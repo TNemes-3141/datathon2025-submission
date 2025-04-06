@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Haider",
+        "middle_name": "Koller",
+        "last_name": "Mayr",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1986-03-14",
+        "passport_number": "PF6360491",
+        "passport_mrz": [
+            "P<AUTMAYR<<HAIDER<KOLLER<<<<<<<<<<<<<<<<<<<<<",
+            "PF6360491AUT860314<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-07-29",
+        "passport_expiry_date": "2027-07-28"
+    },
+    "client_profile": {
+        "name": "Haider Koller Mayr",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Pile Alle",
+            "street number": 79,
+            "postal code": "6137"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1986-03-14",
+        "nationality": "Austrian",
+        "passport_number": "PF6360491",
+        "passport_issue_date": "2017-07-29",
+        "passport_expiry_date": "2027-07-28",
+        "gender": "M",
+        "phone_number": "52 49 41 28",
+        "email_address": "haider.mayr@tiscali.dk",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Walser Gymnasium",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "New Design University St. P\u00f6lten",
+                "graduation_year": 2010
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2012,
+                "company": "FLSmidth & Co. A/S",
+                "position": "Plant Manager",
+                "salary": 30000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2016,
+                "company": "Rockwool International A/S",
+                "position": "Operations Director",
+                "salary": 46000
+            },
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "FLSmidth & Co. A/S",
+                "position": "CEO",
+                "salary": 131000
+            }
+        ],
+        "aum": {
+            "savings": 160000,
+            "inheritance": 30270000,
+            "real_estate_value": 3391000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1460000,
+                "property location": "\u00c5rhus N"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 991000,
+                "property location": "M\u00f6dling"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 940000,
+                "property location": "Traun"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Haider Koller Mayr",
+        "first_name": "Haider",
+        "middle_name": "Koller",
+        "last_name": "Mayr",
+        "passport_number": "PF6360491",
+        "currency": "DKK",
+        "address": {
+            "city": "\u00c5rhus N",
+            "street name": "Pile Alle",
+            "street number": 79,
+            "postal code": "6137"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "52 49 41 28",
+        "email_address": "haider.mayr@tiscali.dk"
+    },
+    "client_description": {
+        "Summary Note": "Haider Koller Mayr and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nHaider Koller Mayr is a 39 year old and comes from Denmark.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Haider Koller Mayr is currently single. He does not have any children.",
+        "Education Background": "Haider finished secondary school at Walser Gymnasium in 2005.\nHaider received his degree from New Design University St. P\u00f6lten in 2010.\n",
+        "Occupation History": "Haider Koller Mayr is a 39 year old and comes from Denmark.\nIn 2009, Haider Koller Mayr started working as a Plant Manager at FLSmidth & Co. A/S, marking the beginning of his successful career.\nHis subsequent role was as a Operations Director at Rockwool International A/S, where he continued to grow professionally from 2014 to 2016.\nHis tenure as a CEO at FLSmidth & Co. A/S from 2017 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "Throughout his career, he saved 160000 DKK, investing in various assets to grow his wealth.\nHe owns 3 exceptional properties: townhouse located in \u00c5rhus N, valued at approximately 1,460,000.00 DKK, townhouse located in M\u00f6dling, valued at approximately 991,000.00 DKK, townhouse located in Traun, valued at approximately 940,000.00 DKK. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in M\u00f6dling, \u00c5rhus N and Traun.\n\nFollowing the passing of his grandmother, a successful Stock Trader, he received an inheritance of 30270000 DKK in 2017, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

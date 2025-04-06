@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Aino",
+        "middle_name": "Liisa",
+        "last_name": "Peltola",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1976-10-15",
+        "passport_number": "XN1491037",
+        "passport_mrz": [
+            "P<FINPELTOLA<<AINO<LIISA<<<<<<<<<<<<<<<<<<<<<",
+            "XN1491037FIN761015<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-02-02",
+        "passport_expiry_date": "2034-02-01"
+    },
+    "client_profile": {
+        "name": "Aino Liisa Peltola",
+        "address": {
+            "city": "Oulu",
+            "street name": "Paasivuorenkatu",
+            "street number": 65,
+            "postal code": "13364"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1976-10-15",
+        "nationality": "Finnish",
+        "passport_number": "XN1491037",
+        "passport_issue_date": "2024-02-02",
+        "passport_expiry_date": "2034-02-01",
+        "gender": "F",
+        "phone_number": "+358 045 908 38 23",
+        "email_address": "aino.peltola@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Joensuu Christian College",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "University of Turku",
+                "graduation_year": 2001
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2005,
+                "company": "Sentica Partners Oy",
+                "position": "Analyst",
+                "salary": 35000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2008,
+                "company": "Sentica Partners Oy",
+                "position": "Associate",
+                "salary": 61000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2012,
+                "company": "Intera Partners Oy",
+                "position": "Investment Director",
+                "salary": 76000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2015,
+                "company": "CapMan Oyj",
+                "position": "Partner",
+                "salary": 130000
+            },
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "CapMan Oyj",
+                "position": "Fund Manager",
+                "salary": 253000
+            }
+        ],
+        "aum": {
+            "savings": 320000,
+            "inheritance": 1400000,
+            "real_estate_value": 3080000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2009,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 950000,
+                "property location": "Oulu"
+            },
+            {
+                "property type": "villa",
+                "property value": 2130000,
+                "property location": "Kotka"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Aino Liisa Peltola",
+        "first_name": "Aino",
+        "middle_name": "Liisa",
+        "last_name": "Peltola",
+        "passport_number": "XN1491037",
+        "currency": "EUR",
+        "address": {
+            "city": "Oulu",
+            "street name": "Paasivuorenkatu",
+            "street number": 65,
+            "postal code": "13364"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 045 908 38 23",
+        "email_address": "aino.peltola@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Aino Liisa Peltola and the RM crossed paths at a tech conference in Helsinki. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nAino Liisa Peltola is a 48 year old Fund Manager from Finland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Aino Liisa Peltola has been happily married to Turunen since 2005. Aino and Turunen have 3 children, named Ella, Aurora and Uusitalo.",
+        "Education Background": "In 1994, Aino finished her secondary school education at Joensuu Christian College.\nAino received her degree from University of Turku in 2001.\n",
+        "Occupation History": "Aino Liisa Peltola is a 48 year old Fund Manager from Finland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAino Liisa Peltola launched her career as a Analyst at Sentica Partners Oy, where she gained valuable experience from 2001 to 2005.\nHer subsequent role was as a Associate at Sentica Partners Oy, where she continued to grow professionally from 2007 to 2008.\nAt Intera Partners Oy, she worked as a Investment Director from 2010 to 2012, focusing on strategic initiatives and team collaboration.\nAfter 11 years of dedication, she assumed the role of Partner at CapMan Oyj in 2013, spearheading high-profile projects and mentoring junior colleagues.\nCurrently, she serves as a Fund Manager at CapMan Oyj, continuing to make meaningful contributions to the industry since 2017.",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 320000 EUR.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 3080000 EUR.\n\nShe inherited a significant sum of 1400000 EUR from her grandmother, a respected Tech Entrepreneur, in 2009, which she has wisely invested.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

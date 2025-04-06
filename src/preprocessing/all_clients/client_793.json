@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Lechner",
+        "middle_name": "Fischer",
+        "last_name": "Bauer",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1976-12-02",
+        "passport_number": "BZ9107794",
+        "passport_mrz": [
+            "P<AUTBAUER<<LECHNER<FISCHER<<<<<<<<<<<<<<<<<<",
+            "BZ9107794AUT761202<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-07-07",
+        "passport_expiry_date": "2034-07-06"
+    },
+    "client_profile": {
+        "name": "Lechner Fischer Bauer",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Enzersdorfer Stra\u00dfe",
+            "street number": 68,
+            "postal code": "6069"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1976-12-02",
+        "nationality": "Austrian",
+        "passport_number": "BZ9107794",
+        "passport_issue_date": "2024-07-07",
+        "passport_expiry_date": "2034-07-06",
+        "gender": "M",
+        "phone_number": "+43 966 612 0200",
+        "email_address": "lechner.bauer@gmx.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Erzbisch\u00f6fliches Gymnasium Borrom\u00e4um",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2004,
+                "company": "Austrian Energy Agency",
+                "position": "Drilling Engineer",
+                "salary": 33000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2008,
+                "company": "Austrian Energy Agency",
+                "position": "Reservoir Engineer",
+                "salary": 44000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "RAG Rohol-Aufsuchungs AG",
+                "position": "Operations Manager",
+                "salary": 267000
+            }
+        ],
+        "aum": {
+            "savings": 380000,
+            "inheritance": 490000,
+            "real_estate_value": 950000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2011,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 950000,
+                "property location": "Krems an der Donau"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lechner Fischer Bauer",
+        "first_name": "Lechner",
+        "middle_name": "Fischer",
+        "last_name": "Bauer",
+        "passport_number": "BZ9107794",
+        "currency": "EUR",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Enzersdorfer Stra\u00dfe",
+            "street number": 68,
+            "postal code": ""
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "++49 966 612 0200",
+        "email_address": "lechner.bauer@gmx.at"
+    },
+    "client_description": {
+        "Summary Note": "Lechner Fischer Bauer and the RM were introduced at an art auction in Vienna. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nLechner Fischer Bauer is a 48 year old Operations Manager from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Lechner Fischer Bauer is currently single. He does not have any children.",
+        "Education Background": "In 1994, Lechner graduated from Erzbisch\u00f6fliches Gymnasium Borrom\u00e4um with a secondary school diploma.\nLechner graduated from Graz University of Technology in 2000, completing his higher education.\n",
+        "Occupation History": "Lechner Fischer Bauer is a 48 year old Operations Manager from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nLechner Fischer Bauer began his professional journey as a Drilling Engineer at Austrian Energy Agency in 2001, laying the foundation for future success.\nHis subsequent role was as a Reservoir Engineer at Austrian Energy Agency, where he continued to grow professionally from 2005 to 2008.\nHis tenure as a Operations Manager at RAG Rohol-Aufsuchungs AG from 2009 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 380000 EUR.\nHe has house located in Krems an der Donau, worth 950000 EUR.\n\n\nFollowing the passing of his father, a successful Stock Trader, he received an inheritance of 490000 EUR in 2011, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

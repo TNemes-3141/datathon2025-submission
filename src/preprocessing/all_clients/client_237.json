@@ -1,0 +1,134 @@
+{
+    "passport": {
+        "first_name": "K\u00e4gi",
+        "middle_name": "Brunner",
+        "last_name": "Wyss",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1962-05-23",
+        "passport_number": "WW7653196",
+        "passport_mrz": [
+            "P<CHEWYSS<<K\u00c4GI<BRUNNER<<<<<<<<<<<<<<<<<<<<<<",
+            "WW7653196CHE620523<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-10",
+        "passport_expiry_date": "2030-08-09"
+    },
+    "client_profile": {
+        "name": "K\u00e4gi Brunner Wyss",
+        "address": {
+            "city": "Chur",
+            "street name": "Marktgasse",
+            "street number": "",
+            "postal code": "0897"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1962-05-23",
+        "nationality": "Swiss",
+        "passport_number": "WW7653196",
+        "passport_issue_date": "2020-08-10",
+        "passport_expiry_date": "2030-08-09",
+        "gender": "M",
+        "phone_number": "+41 059 657 97 66",
+        "email_address": "kagi.wyss@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kantonschule Solothurn Solothurn",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Hotel Institute Montreux",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1992,
+                "company": "Lombard Odier Darier Hentsch & Cie",
+                "position": "Family Office Manager",
+                "salary": 77000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1998,
+                "company": "Julius Baer Gruppe AG",
+                "position": "Investment Director",
+                "salary": 103000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2003,
+                "company": "Julius Baer Gruppe AG",
+                "position": "CFO",
+                "salary": 128000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2023,
+                "company": "Lombard Odier Darier Hentsch & Cie",
+                "position": "COO",
+                "salary": 1382000
+            }
+        ],
+        "aum": {
+            "savings": 2350000,
+            "inheritance": 0,
+            "real_estate_value": 6530000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 2170000,
+                "property location": "Chur"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2380000,
+                "property location": "Locarno"
+            },
+            {
+                "property type": "flat",
+                "property value": 1980000,
+                "property location": "Brugg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "K\u00e4gi Brunner Wyss",
+        "first_name": "K\u00e4gi",
+        "middle_name": "Brunner",
+        "last_name": "Wyss",
+        "passport_number": "WW7653196",
+        "currency": "CHF",
+        "address": {
+            "city": "Chur",
+            "street name": "Marktgasse",
+            "street number": 48,
+            "postal code": "0897"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 059 657 97 66",
+        "email_address": "kagi.wyss@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "K\u00e4gi Brunner Wyss and the RM crossed paths at a mutual friend's dinner party in Z\u00fcrich. They discovered they had many common acquaintances and decided to explore business opportunities together.\nWith a career spanning nearly 38 years, K\u00e4gi Brunner Wyss has established himself as a key player in the industry.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "K\u00e4gi Brunner Wyss and Elisabeth tied the knot in 1993. They do not have any children.",
+        "Education Background": "K\u00e4gi received his secondary school diploma from Kantonschule Solothurn Solothurn in 1981.\nHe then attended Hotel Institute Montreux, which he graduated in 1985.\n",
+        "Occupation History": "K\u00e4gi Brunner Wyss is a seasoned professional with over 38 years of experience.\nK\u00e4gi Brunner Wyss began his professional journey as a Family Office Manager at Lombard Odier Darier Hentsch & Cie in 1987, laying the foundation for future success.\nAt Julius Baer Gruppe AG, he held the position of Investment Director from 1993 to 1998, making significant contributions to the organization.\nHe spent 3 years working as a CFO at Julius Baer Gruppe AG, refining his expertise and building a strong network.\nAfter 16 years of dedication, he assumed the role of COO at Lombard Odier Darier Hentsch & Cie in 2004, spearheading high-profile projects and mentoring junior colleagues.\n",
+        "Wealth Summary": "He managed to save approximately 2350000 CHF from his earnings at all companies.\nHe owns 3 exceptional properties: flat located in Chur, valued at approximately 2,170,000.00 CHF, townhouse located in Locarno, valued at approximately 2,380,000.00 CHF, flat located in Brugg, valued at approximately 1,980,000.00 CHF. This impressive collection showcases his flair for luxury living and investment prowess, with a notable presence in Brugg, Locarno and Chur.\nHe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have K\u00e4gi as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

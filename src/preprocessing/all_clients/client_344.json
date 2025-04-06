@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Schmitz",
+        "middle_name": "Sch\u00e4fer",
+        "last_name": "Kr\u00fcger",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1961-10-23",
+        "passport_number": "EG9608469",
+        "passport_mrz": [
+            "P<DEUKR\u00dcGER<<SCHMITZ<SCH\u00c4FER<<<<<<<<<<<<<<<<<",
+            "EG9608469DEU611023<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-06-22",
+        "passport_expiry_date": "2027-06-21"
+    },
+    "client_profile": {
+        "name": "Schmitz Sch\u00e4fer Kr\u00fcger",
+        "address": {
+            "city": "M\u00fcnster",
+            "street name": "Schlossplatz",
+            "street number": 86,
+            "postal code": "77382"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1961-10-23",
+        "nationality": "German",
+        "passport_number": "EG9608469",
+        "passport_issue_date": "2017-06-22",
+        "passport_expiry_date": "2027-06-21",
+        "gender": "M",
+        "phone_number": "+49 6506 981772",
+        "email_address": "schmitz.kruger@icloud.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Fichte-Gymnasium Halle",
+            "graduation_year": 1980
+        },
+        "higher_education": [
+            {
+                "university": "University of Hamburg",
+                "graduation_year": 1984
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "Bayer AG",
+                "position": "Research Scientist",
+                "salary": 40000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1990,
+                "company": "Qiagen N.V.",
+                "position": "Biotech Startup Founder",
+                "salary": 61000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1995,
+                "company": "Evonik Industries AG",
+                "position": "CEO",
+                "salary": 82000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1999,
+                "company": "Merck KGaA",
+                "position": "Venture Capitalist",
+                "salary": 162000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2022,
+                "company": "Qiagen N.V.",
+                "position": "Industry Leader",
+                "salary": 1819000
+            }
+        ],
+        "aum": {
+            "savings": 3100000,
+            "inheritance": 0,
+            "real_estate_value": 1020000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1020000,
+                "property location": "M\u00fcnster"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schmitz Sch\u00e4fer Kr\u00fcger",
+        "first_name": "Schmitz",
+        "middle_name": "Sch\u00e4fer",
+        "last_name": "Kr\u00fcger",
+        "passport_number": "EG9608469",
+        "currency": "EUR",
+        "address": {
+            "city": "M\u00fcnster",
+            "street name": "Schlossplatz",
+            "street number": 86,
+            "postal code": "77382"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 6506 981772",
+        "email_address": "schmitz.kruger@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Schmitz Sch\u00e4fer Kr\u00fcger at a charity gala in Berlin. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nWith a career spanning nearly 40 years, Schmitz Sch\u00e4fer Kr\u00fcger has established himself as a key player in the industry.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Schmitz Sch\u00e4fer Kr\u00fcger is currently widowed. He does not have any children.",
+        "Education Background": "Schmitz completed his secondary education at Fichte-Gymnasium Halle in 1980.\nIn 1984, Schmitz graduated from University of Hamburg with a degree.\n",
+        "Occupation History": "Schmitz Sch\u00e4fer Kr\u00fcger is a seasoned professional with over 40 years of experience.\nSchmitz Sch\u00e4fer Kr\u00fcger launched his career as a Research Scientist at Bayer AG, where he gained valuable experience from 1985 to 1987.\nHe then transitioned to Qiagen N.V. as a Biotech Startup Founder, leveraging his expertise to drive results from 1989 to 1990.\nAt Evonik Industries AG, he worked as a CEO from 1992 to 1995, focusing on strategic initiatives and team collaboration.\nAfter 10 years of dedication, he assumed the role of Venture Capitalist at Merck KGaA in 1995, spearheading high-profile projects and mentoring junior colleagues.\nUntil retiring, Schmitz Sch\u00e4fer Kr\u00fcger served as a Industry Leader at Qiagen N.V., contributing significantly from 1999 to 2022.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 3100000 EUR.\nHe owns townhouse in M\u00fcnster, where he resides. It is worth 1020000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

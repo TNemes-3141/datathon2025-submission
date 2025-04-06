@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Dominique",
+        "middle_name": "Anna",
+        "last_name": "Hagenbuch",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1998-01-29",
+        "passport_number": "KU2387160",
+        "passport_mrz": [
+            "P<CHEHAGENBUCH<<DOMINIQUE<ANNA<<<<<<<<<<<<<<<",
+            "KU2387160CHE980129<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-01-29",
+        "passport_expiry_date": "2027-01-28"
+    },
+    "client_profile": {
+        "name": "Dominique Anna Hagenbuch",
+        "address": {
+            "city": "Bern",
+            "street name": "Spalenberg",
+            "street number": 84,
+            "postal code": "5321"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1998-01-29",
+        "nationality": "Swiss",
+        "passport_number": "KU2387160",
+        "passport_issue_date": "2017-01-29",
+        "passport_expiry_date": "2027-01-28",
+        "gender": "F",
+        "phone_number": "+41 057 899 07 48",
+        "email_address": "dominique.hagenbuch@gmail.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e cantonal de Porrentruy Jura",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "EPFL",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": 2025,
+                "company": "SRF Schweizer Radio und Fernsehen",
+                "position": "Journalist",
+                "salary": 59000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 2640000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Spain"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Dominique Anna Hagenbuch",
+        "first_name": "Dominique",
+        "middle_name": "Anna",
+        "last_name": "Hagenbuch",
+        "passport_number": "KU2387160",
+        "currency": "CHF",
+        "address": {
+            "city": "Bern",
+            "street name": "Spalenberg",
+            "street number": 84,
+            "postal code": "5321"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 057 899 07 48",
+        "email_address": "dominique.hagenbuch@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Dominique Anna Hagenbuch and the RM crossed paths at a tech conference in Z\u00fcrich. They attended several keynote sessions together and realized they had a shared vision for the future of technology investments.\nDominique Anna Hagenbuch is a 27 year old and comes from Switzerland.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Dominique Anna Hagenbuch is currently single. She does not have any children.",
+        "Education Background": "Dominique completed her secondary education at Lyc\u00e9e cantonal de Porrentruy Jura in 2017.\nIn 2022, Dominique graduated from EPFL with a degree.\n",
+        "Occupation History": "Dominique Anna Hagenbuch is a 27 year old and comes from Switzerland.\nDominique Anna Hagenbuch's first role was as a Journalist at SRF Schweizer Radio und Fernsehen, where she worked diligently from 2021 to 2025 to establish a strong reputation.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 40000 CHF.\nClient does not have any properties.In 2016, she received an inheritance of 2640000 CHF from her late grandmother, who was a prominent Corporate Lawyer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Dominique as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

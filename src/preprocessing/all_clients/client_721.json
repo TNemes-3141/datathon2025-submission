@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Chlo\u00e9",
+        "middle_name": "",
+        "last_name": "Peters",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "2004-03-21",
+        "passport_number": "IZ1711354",
+        "passport_mrz": [
+            "P<BELPETERS<<CHLO\u00c9<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "IZ1711354BEL040321<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-17",
+        "passport_expiry_date": "2026-08-16"
+    },
+    "client_profile": {
+        "name": "Chlo\u00e9 Peters",
+        "address": {
+            "city": "Geel",
+            "street name": "Rue de la Vierge",
+            "street number": 75,
+            "postal code": "8576"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "2004-03-21",
+        "nationality": "Belgian",
+        "passport_number": "IZ1711354",
+        "passport_issue_date": "2019-08-17",
+        "passport_expiry_date": "2026-08-16",
+        "gender": "F",
+        "phone_number": "+32 0481 812 926",
+        "email_address": "chloe.peters@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut de la Sainte-Famille d'Helmet",
+            "graduation_year": 2022
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1280000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Chlo\u00e9 Peters",
+        "first_name": "Chlo\u00e9",
+        "middle_name": "",
+        "last_name": "Peters",
+        "passport_number": "IZ1711354",
+        "currency": "EUR",
+        "address": {
+            "city": "Geel",
+            "street name": "Rue de la Vierge",
+            "street number": 75,
+            "postal code": "8576"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0481 812 926",
+        "email_address": "chloe.peters@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Chlo\u00e9 Peters's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nChlo\u00e9 Peters is a 21 year old and comes from Belgium.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Chlo\u00e9 Peters is currently single. She does not have any children.",
+        "Education Background": "Chlo\u00e9 finished secondary school at Institut de la Sainte-Famille d'Helmet in 2022.\n",
+        "Occupation History": "Chlo\u00e9 Peters is a 21 year old and comes from Belgium.\nChlo\u00e9 Peters did not start her professional career yet.",
+        "Wealth Summary": "She did not manage to save any money during her career.\nClient does not have any properties.She inherited 1280000 EUR from her grandmother, a well-known Real Estate Developer, in 2020, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is excited to help Chlo\u00e9 navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

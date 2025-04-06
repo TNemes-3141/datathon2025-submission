@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Lucas",
+        "middle_name": "Justine",
+        "last_name": "De Smet",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1984-02-18",
+        "passport_number": "FQ0645736",
+        "passport_mrz": [
+            "P<BELDE SMET<<LUCAS<JUSTINE<<<<<<<<<<<<<<<<<<",
+            "FQ0645736BEL840218<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1978-10-22",
+        "passport_expiry_date": "1985-10-21"
+    },
+    "client_profile": {
+        "name": "Lucas Justine De Smet",
+        "address": {
+            "city": "Poperinge",
+            "street name": "Rue de la R\u00e9publique",
+            "street number": 53,
+            "postal code": "5238"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1984-02-18",
+        "nationality": "Belgian",
+        "passport_number": "FQ0645736",
+        "passport_issue_date": "2020-10-22",
+        "passport_expiry_date": "2027-10-21",
+        "gender": "F",
+        "phone_number": "0413 033 509",
+        "email_address": "lucas.desmet@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut Notre-Dame de la Paix",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "Hasselt University",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2010,
+                "company": "BNP Paribas Wealth Management Belgium",
+                "position": "Financial Advisor",
+                "salary": 40000
+            },
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": "KBC Private Banking NV",
+                "position": "Portfolio Manager",
+                "salary": 61000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "BNP Paribas Wealth Management Belgium",
+                "position": "Wealth Manager",
+                "salary": 114000
+            }
+        ],
+        "aum": {
+            "savings": 190000,
+            "inheritance": 7190000,
+            "real_estate_value": 770000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 770000,
+                "property location": "Poperinge"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lucas Justine De Smet",
+        "first_name": "Lucas",
+        "middle_name": "Justine",
+        "last_name": "De Smet",
+        "passport_number": "FQ0645736",
+        "currency": "EUR",
+        "address": {
+            "city": "Poperinge",
+            "street name": "Rue de la R\u00e9publique",
+            "street number": 53,
+            "postal code": "5238"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0413 033 509",
+        "email_address": "lucas.desmet@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Lucas Justine De Smet and the RM were introduced at an art auction in Brussels. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nLucas Justine De Smet is a seasoned professional with over 17 years of experience.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Lucas Justine De Smet is currently single. She does not have any children.",
+        "Education Background": "Lucas earned her secondary school diploma from Institut Notre-Dame de la Paix in 2002.\nLucas completed her university studies at Hasselt University in 2006.\n",
+        "Occupation History": "Having worked for over 17 years, Lucas Justine De Smet brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLucas Justine De Smet began her professional journey as a Financial Advisor at BNP Paribas Wealth Management Belgium in 2008, laying the foundation for future success.\nHer subsequent role was as a Portfolio Manager at KBC Private Banking NV, where she continued to grow professionally from 2010 to 2014.\nIn 2015, she joined BNP Paribas Wealth Management Belgium as a Wealth Manager, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 190000 EUR.\nShe has condo located in Poperinge, worth 770000 EUR.\n\n\nFollowing the passing of her grandmother, a successful Investment Banker, she received an inheritance of 7190000 EUR in 2007, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

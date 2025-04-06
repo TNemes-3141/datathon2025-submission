@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Peters",
+        "middle_name": "Peeters",
+        "last_name": "Lemaire",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1986-03-05",
+        "passport_number": "EY2896486",
+        "passport_mrz": [
+            "P<BELLEMAIRE<<PETERS<PEETERS<<<<<<<<<<<<<<<<<",
+            "EY2896486BEL860305<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-04-29",
+        "passport_expiry_date": "2027-04-28"
+    },
+    "client_profile": {
+        "name": "Peters Peeters Lemaire",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Rue du Tr\u00f4ne",
+            "street number": 67,
+            "postal code": "1627"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1986-03-05",
+        "nationality": "Belgian",
+        "passport_number": "EY2896486",
+        "passport_issue_date": "2020-04-29",
+        "passport_expiry_date": "2027-04-28",
+        "gender": "M",
+        "phone_number": "+32 0444 303 668",
+        "email_address": "peters.lemaire@belgacom.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Sint-Bavohumaniora",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "Universit\u00e9 catholique de Louvain",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2013,
+                "company": "Liedekerke Wolters Waelbroeck Kirkpatrick",
+                "position": "Associate Attorney",
+                "salary": 38000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2019,
+                "company": "Linklaters LLP",
+                "position": "Senior Associate",
+                "salary": 62000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Linklaters LLP",
+                "position": "Partner",
+                "salary": 73000
+            }
+        ],
+        "aum": {
+            "savings": 100000,
+            "inheritance": 3890000,
+            "real_estate_value": 2100000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1015000,
+                "property location": "Antwerp"
+            },
+            {
+                "property type": "house",
+                "property value": 1085000,
+                "property location": "Ostend"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Peters Peeters Lemaire",
+        "first_name": "Peters",
+        "middle_name": "Peeters",
+        "last_name": "Lemaire",
+        "passport_number": "EY2896486",
+        "currency": "EUR",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Rue du Tr\u00f4ne",
+            "street number": 67,
+            "postal code": "1627"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0444 303 668",
+        "email_address": "peters.lemaire@belgacom.be"
+    },
+    "client_description": {
+        "Summary Note": "Peters Peeters Lemaire and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nPeters Peeters Lemaire is a 39 year old Partner from Belgium.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Peters Peeters Lemaire is currently single. He does not have any children.",
+        "Education Background": "Peters finished secondary school at Sint-Bavohumaniora in 2004.\nPeters completed his university education at Universit\u00e9 catholique de Louvain in 2010.\n",
+        "Occupation History": "Peters Peeters Lemaire is a 39 year old Partner from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2010, Peters Peeters Lemaire started working as a Associate Attorney at Liedekerke Wolters Waelbroeck Kirkpatrick, marking the beginning of his successful career.\nAt Linklaters LLP, he held the position of Senior Associate from 2014 to 2019, making significant contributions to the organization.\nFrom 2021 till now, he served as a Partner at Linklaters LLP, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "He managed to save approximately 100000 EUR from his earnings at all companies.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Antwerp and Ostend, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe inherited a significant sum of 3890000 EUR from his grandfather, a respected Venture Capitalist, in 2017, which he has wisely invested.\n",
+        "Client Summary": "In summary, Peters has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

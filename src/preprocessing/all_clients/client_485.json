@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "Romane",
+        "middle_name": "Louise",
+        "last_name": "Vandenberghe",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1974-11-25",
+        "passport_number": "RU4873781",
+        "passport_mrz": [
+            "P<BELVANDENBERGHE<<ROMANE<LOUISE<<<<<<<<<<<<<",
+            "RU4873781BEL741125<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-05-25",
+        "passport_expiry_date": "2030-05-24"
+    },
+    "client_profile": {
+        "name": "Romane Louise Vandenberghe",
+        "address": {
+            "city": "Geel",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 41,
+            "postal code": "3496"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1974-11-25",
+        "nationality": "Belgian",
+        "passport_number": "RU4873781",
+        "passport_issue_date": "2023-05-25",
+        "passport_expiry_date": "2030-05-24",
+        "gender": "F",
+        "phone_number": "+32 0461 166 909",
+        "email_address": "romane.vandenberghe@tvcablenet.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Ath\u00e9n\u00e9e Royal Jules Bordet",
+            "graduation_year": 1985
+        },
+        "higher_education": [
+            {
+                "university": "PXL University of Applied Sciences and Arts",
+                "graduation_year": 1999
+            },
+            {
+                "university": "Hasselt University",
+                "graduation_year": 2001
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1998,
+                "end_year": 1999,
+                "company": "Thales Alenia Space Belgium",
+                "position": "Aerospace Engineer",
+                "salary": 36000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2003,
+                "company": "Sabca SA",
+                "position": "Program Manager",
+                "salary": 59000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2005,
+                "company": "Thales Alenia Space Belgium",
+                "position": "Director of Operations",
+                "salary": 75000
+            },
+            {
+                "start_year": 2005,
+                "end_year": null,
+                "company": "Thales Alenia Space Belgium",
+                "position": "VP of Business Development",
+                "salary": 711000
+            }
+        ],
+        "aum": {
+            "savings": 1150000,
+            "inheritance": 2930000,
+            "real_estate_value": 1200000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2013,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1200000,
+                "property location": "Geel"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Romane Louise Vandenberghe",
+        "first_name": "Romane",
+        "middle_name": "Louise",
+        "last_name": "Vandenberghe",
+        "passport_number": "",
+        "currency": "EUR",
+        "address": {
+            "city": "Geel",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 41,
+            "postal code": "3496"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0461 166 909",
+        "email_address": "romane.vandenberghe@tvcablenet.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Romane Louise Vandenberghe since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nRomane Louise Vandenberghe is a 50 year old and comes from Belgium.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Romane Louise Vandenberghe is currently divorced. She has 3 kids called Lemaire, Dumont and Janssens.",
+        "Education Background": "Romane finished secondary school at Ath\u00e9n\u00e9e Royal Jules Bordet in 1994.\nIn 1999, Romane graduated from PXL University of Applied Sciences and Arts with a degree.\nOn top of that she then attended Hasselt University, where she graduated in 2001.\n",
+        "Occupation History": "Romane Louise Vandenberghe is a 50 year old and comes from Belgium.\nRomane Louise Vandenberghe began her professional journey as a Aerospace Engineer at Thales Alenia Space Belgium in 1998, laying the foundation for future success.\nHer subsequent role was as a Program Manager at Sabca SA, where she continued to grow professionally from 1999 to 2003.\nIn 2004, she joined Thales Alenia Space Belgium as a Director of Operations, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nShe appointment as a VP of Business Development at Thales Alenia Space Belgium in 2005 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "Throughout her career, she saved 1150000 EUR, investing in various assets to grow her wealth.\nShe has townhouse located in Geel, worth 1200000 EUR.\n\nIn 2013, she received an inheritance of 2930000 EUR from her late grandmother, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

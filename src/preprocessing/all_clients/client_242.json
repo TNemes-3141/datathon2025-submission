@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Louise",
+        "middle_name": "Louna",
+        "last_name": "Janssens",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "2000-11-18",
+        "passport_number": "TR4854376",
+        "passport_mrz": [
+            "P<BELJANSSENS<<LOUISE<LOUNA<<<<<<<<<<<<<<<<<<",
+            "TR4854376BEL001118<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-11-16",
+        "passport_expiry_date": "2023-11-15"
+    },
+    "client_profile": {
+        "name": "Louise Louna Janssens",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Rue des Capucins",
+            "street number": 28,
+            "postal code": "9816"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "2000-11-18",
+        "nationality": "Belgian",
+        "passport_number": "TR4854376",
+        "passport_issue_date": "2016-11-16",
+        "passport_expiry_date": "2023-11-15",
+        "gender": "F",
+        "phone_number": "+32 0431 507 813",
+        "email_address": "louise.janssens@belgacom.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut Saint-Stanislas",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "KU Leuven",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1860000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Louise Louna Janssens",
+        "first_name": "Louise",
+        "middle_name": "Louna",
+        "last_name": "Janssens",
+        "passport_number": "TR4854376",
+        "currency": "EUR",
+        "address": {
+            "city": "Antwerp",
+            "street name": "Rue des Capucins",
+            "street number": 28,
+            "postal code": "9816"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0431 507 813",
+        "email_address": "louise.janssens@belgacom.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Louise Louna Janssens on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nLouise Louna Janssens is a 24 year old and comes from Belgium.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Louise Louna Janssens is currently single. She does not have any children.",
+        "Education Background": "Louise obtained her secondary school diploma from Institut Saint-Stanislas in 2019.\nLouise pursued higher education at KU Leuven, graduating in 2025.\n",
+        "Occupation History": "Louise Louna Janssens is a 24 year old and comes from Belgium.\nLouise Louna Janssens did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.She inherited 1860000 EUR from her grandmother, a well-known Corporate Lawyer, in 2015, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is excited to help Louise navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "passport": {
+        "first_name": "Keller",
+        "middle_name": "Werner",
+        "last_name": "Zbinden",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1965-07-18",
+        "passport_number": "JN6285612",
+        "passport_mrz": [
+            "P<CHEZBINDEN<<KELLER<WERNER<<<<<<<<<<<<<<<<<<",
+            "JN6285612CHE650718<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-08-07",
+        "passport_expiry_date": "2032-08-06"
+    },
+    "client_profile": {
+        "name": "Keller Werner Zbinden",
+        "address": {
+            "city": "Rotterdam",
+            "street name": "Markt",
+            "street number": 6,
+            "postal code": "3823 20"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1965-07-18",
+        "nationality": "Swiss",
+        "passport_number": "JN6285612",
+        "passport_issue_date": "2022-08-07",
+        "passport_expiry_date": "2032-08-06",
+        "gender": "M",
+        "phone_number": "06 63114395",
+        "email_address": "keller.zbinden@planet.nl",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Liceo scientifico Giovanni Polli Lugano",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "EPFL",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Gilde Buy Out Partners B.V.",
+                "position": "Analyst",
+                "salary": 69000
+            },
+            {
+                "start_year": 1993,
+                "end_year": null,
+                "company": "Alpinvest Partners B.V.",
+                "position": "Associate",
+                "salary": 571000
+            }
+        ],
+        "aum": {
+            "savings": 1130000,
+            "inheritance": 2520000,
+            "real_estate_value": 1480000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2009,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1480000,
+                "property location": "Rotterdam"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Keller Werner Zbinden",
+        "first_name": "Keller",
+        "middle_name": "Werner",
+        "last_name": "Zbinden",
+        "passport_number": "JN6285612",
+        "currency": "EUR",
+        "address": {
+            "city": "Rotterdam",
+            "street name": "Markt",
+            "street number": 6,
+            "postal code": "3823 20"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "06 63114395",
+        "email_address": "keller.zbinden@planet.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Keller Werner Zbinden's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nHaving worked for over 35 years, Keller Werner Zbinden brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Keller Werner Zbinden is currently single. He does not have any children.",
+        "Education Background": "Keller graduated from Liceo scientifico Giovanni Polli Lugano in 1984.\nAfter that, he went on to study at EPFL until 1989.\n",
+        "Occupation History": "Having worked for over 35 years, Keller Werner Zbinden brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nKeller Werner Zbinden's first role was as a Analyst at Gilde Buy Out Partners B.V., where he worked diligently from 1990 to 1991 to establish a strong reputation.\nHe then transitioned to Alpinvest Partners B.V. as a Associate, leveraging his expertise to drive results from 1993 till now.\n",
+        "Wealth Summary": "While working, he saved 1130000 EUR, which he used to build a diversified investment portfolio.\nHe owns house in Rotterdam, where he resides. It is worth 1480000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 2520000 EUR from his late grandmother, a renowned Hedge Fund Manager, in 2009.\n",
+        "Client Summary": "In summary, Keller has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "passport": {
+        "first_name": "Gis\u00e8le",
+        "middle_name": "D\u00e9borah",
+        "last_name": "Riedo",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1959-10-22",
+        "passport_number": "EI1066997",
+        "passport_mrz": [
+            "P<CHERIEDO<<GIS\u00c8LE<D\u00c9BORAH<<<<<<<<<<<<<<<<<<<",
+            "EI1066997CHE591022<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-24",
+        "passport_expiry_date": "2029-03-23"
+    },
+    "client_profile": {
+        "name": "Gis\u00e8le D\u00e9borah Riedo",
+        "address": {
+            "city": "Milan",
+            "street name": "Via Dante Alighieri",
+            "street number": 14,
+            "postal code": "98041"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1959-10-22",
+        "nationality": "Swiss",
+        "passport_number": "EI1066997",
+        "passport_issue_date": "2019-03-24",
+        "passport_expiry_date": "2029-03-23",
+        "gender": "F",
+        "phone_number": "362 2336157",
+        "email_address": "gisele.riedo@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kantonsschule Z\u00fcrich Nord Zurich",
+            "graduation_year": 1978
+        },
+        "higher_education": [
+            {
+                "university": "ETH Zurich",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1983,
+                "end_year": 1984,
+                "company": "Roche S.p.A.",
+                "position": "Research Scientist",
+                "salary": 66000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 90000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 1992,
+                "company": "Novartis Farma S.p.A.",
+                "position": "CEO",
+                "salary": 191000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 2020,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Venture Capitalist",
+                "salary": 1433000
+            }
+        ],
+        "aum": {
+            "savings": 2690000,
+            "inheritance": 0,
+            "real_estate_value": 1280000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1280000,
+                "property location": "Milan"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gis\u00e8le D\u00e9borah Riedo",
+        "first_name": "Gis\u00e8le",
+        "middle_name": "D\u00e9borah",
+        "last_name": "Riedo",
+        "passport_number": "EI1066997",
+        "currency": "EUR",
+        "address": {
+            "city": "Milan",
+            "street name": "Via Dante Alighieri",
+            "street number": 14,
+            "postal code": "98041"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "362 2336157",
+        "email_address": "gisele.riedo@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Gis\u00e8le D\u00e9borah Riedo and the RM met at a networking event in Rome. They quickly realized they had complementary skills and decided to collaborate on several projects.\nWith a career spanning nearly 42 years, Gis\u00e8le D\u00e9borah Riedo has established herself as a key player in the industry.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Gis\u00e8le D\u00e9borah Riedo is married to Schneider. They do not have any children.",
+        "Education Background": "Gis\u00e8le earned her secondary school diploma from Kantonsschule Z\u00fcrich Nord Zurich in 1978.\nGis\u00e8le completed her university education at ETH Zurich in 1982.\n",
+        "Occupation History": "Gis\u00e8le D\u00e9borah Riedo is a 65 year old retired Venture Capitalist from Italy. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Roche S.p.A., Gis\u00e8le D\u00e9borah Riedo held the position of Research Scientist from 1983 to 1984, developing essential skills in the field.\nAt Novartis Farma S.p.A., she held the position of Biotech Startup Founder from 1985 to 1987, making significant contributions to the organization.\nHer tenure as a CEO at Novartis Farma S.p.A. from 1987 to 1992 was marked by significant achievements and a deepening understanding of the field.\nIn 1992, she transitioned to Novartis Farma S.p.A. to take on the position of Venture Capitalist, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "She managed to save approximately 2690000 EUR from her earnings at all companies.\nShe has house located in Milan, worth 1280000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

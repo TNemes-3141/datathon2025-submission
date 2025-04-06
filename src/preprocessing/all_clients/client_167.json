@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Raes",
+        "middle_name": "Segers",
+        "last_name": "Roose",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1970-04-13",
+        "passport_number": "MG6021492",
+        "passport_mrz": [
+            "P<BELROOSE<<RAES<SEGERS<<<<<<<<<<<<<<<<<<<<<<",
+            "MG6021492BEL700413<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-03",
+        "passport_expiry_date": "2026-09-02"
+    },
+    "client_profile": {
+        "name": "Raes Segers Roose",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 16,
+            "postal code": "9325"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1970-04-13",
+        "nationality": "Belgian",
+        "passport_number": "MG6021492",
+        "passport_issue_date": "2019-09-03",
+        "passport_expiry_date": "2026-09-02",
+        "gender": "M",
+        "phone_number": "+32 0466 250 481",
+        "email_address": "raes.roose@proximus.be",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Institut Notre-Dame de la Paix",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "University of Mons",
+                "graduation_year": 1994
+            },
+            {
+                "university": "Vesalius College",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1999,
+                "company": "BNP Paribas Wealth Management Belgium",
+                "position": "Financial Advisor",
+                "salary": 49000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2001,
+                "company": "KBC Private Banking NV",
+                "position": "Portfolio Manager",
+                "salary": 50000
+            },
+            {
+                "start_year": 2002,
+                "end_year": null,
+                "company": "BNP Paribas Wealth Management Belgium",
+                "position": "Wealth Manager",
+                "salary": 608000
+            }
+        ],
+        "aum": {
+            "savings": 1160000,
+            "inheritance": 3160000,
+            "real_estate_value": 4540000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2013,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 925000,
+                "property location": "La Louvi\u00e8re"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 970000,
+                "property location": "Charleroi"
+            },
+            {
+                "property type": "villa",
+                "property value": 2645000,
+                "property location": "Herstal"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Raes Segers Roose",
+        "first_name": "Raes",
+        "middle_name": "Segers",
+        "last_name": "Roose",
+        "passport_number": "MG6021492",
+        "currency": "EUR",
+        "address": {
+            "city": "La Louvi\u00e8re",
+            "street name": "Chauss\u00e9e de Waterloo",
+            "street number": 16,
+            "postal code": "9325"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0466 250 481",
+        "email_address": "raes.roose@proximus.be"
+    },
+    "client_description": {
+        "Summary Note": "Raes Segers Roose and the RM were introduced at a charity run in Brussels. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nHaving worked for over 31 years, Raes Segers Roose brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Raes Segers Roose has been happily married to Ingrid since 2004. Together they have 3 kids called Roose, Am\u00e9lie and Joris.",
+        "Education Background": "In 1990, Raes finished his secondary school education at Institut Notre-Dame de la Paix.\nHe then attended University of Mons, which he graduated in 1994.\nOn top of that he then attended Vesalius College, where he graduated in 1997.\n",
+        "Occupation History": "Raes Segers Roose is a 54 year old Wealth Manager from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nRaes Segers Roose's first role was as a Financial Advisor at BNP Paribas Wealth Management Belgium, where he worked diligently from 1994 to 1999 to establish a strong reputation.\nHe then transitioned to KBC Private Banking NV as a Portfolio Manager, leveraging his expertise to drive results from 1999 to 2001.\nIn 2002, he joined BNP Paribas Wealth Management Belgium as a Wealth Manager, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "He managed to save approximately 1160000 EUR from his earnings at all companies.\nHe has invested in several rental properties across various locations, generating additional income. The properties are valued at 4540000 EUR.\n\nHe inherited 3160000 EUR from his grandmother, a well-known Private Equity Manager, in 2013, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

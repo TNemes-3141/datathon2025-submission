@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Lynn",
+        "middle_name": "Julia",
+        "last_name": "Roth",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1965-09-16",
+        "passport_number": "AQ1449756",
+        "passport_mrz": [
+            "P<CHEROTH<<LYNN<JULIA<<<<<<<<<<<<<<<<<<<<<<<<",
+            "AQ1449756CHE650916<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-06-04",
+        "passport_expiry_date": "2032-06-03"
+    },
+    "client_profile": {
+        "name": "Lynn Julia Roth",
+        "address": {
+            "city": "Lugano",
+            "street name": "Place des Halles",
+            "street number": 38,
+            "postal code": "5948"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1965-09-16",
+        "nationality": "Swiss",
+        "passport_number": "AQ1449756",
+        "passport_issue_date": "2022-06-04",
+        "passport_expiry_date": "2032-06-03",
+        "gender": "F",
+        "phone_number": "+41 006 005 06 63",
+        "email_address": "lynn.roth@swisscom.ch",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gymnasium am M\u00fcnster Schaffhausen",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "Bern University of Applied Sciences",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1989,
+                "end_year": 1992,
+                "company": "Novartis AG",
+                "position": "Research Scientist",
+                "salary": 65000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1998,
+                "company": "Johnson & Johnson Switzerland",
+                "position": "Clinical Trials Manager",
+                "salary": 126000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2005,
+                "company": "Roche Holding AG",
+                "position": "Regulatory Affairs Director",
+                "salary": 228000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2008,
+                "company": "Pfizer AG (Swiss branch)",
+                "position": "CEO",
+                "salary": 227000
+            },
+            {
+                "start_year": 2010,
+                "end_year": null,
+                "company": "Pfizer AG (Swiss branch)",
+                "position": "Industry Leader",
+                "salary": 994000
+            }
+        ],
+        "aum": {
+            "savings": 1800000,
+            "inheritance": 260000,
+            "real_estate_value": 2670000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2005,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 2670000,
+                "property location": "Lugano"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Spain"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Lynn Julia Roth",
+        "first_name": "Lynn",
+        "middle_name": "Julia",
+        "last_name": "Roth",
+        "passport_number": "AQ1449756",
+        "currency": "CHF",
+        "address": {
+            "city": "Lugano",
+            "street name": "Place des Halles",
+            "street number": 38,
+            "postal code": "5948"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 006 005 06 63",
+        "email_address": "lynn.roth@swisscom.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Lynn Julia Roth's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nLynn Julia Roth is a 59 year old and comes from Switzerland.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Lynn Julia Roth is currently widowed. She does not have any children.",
+        "Education Background": "Lynn completed her secondary education at Gymnasium am M\u00fcnster Schaffhausen in 1984.\nLynn completed her university education at Bern University of Applied Sciences in 1988.\n",
+        "Occupation History": "Having worked for over 36 years, Lynn Julia Roth brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLynn Julia Roth began her professional journey as a Research Scientist at Novartis AG in 1989, laying the foundation for future success.\nShe then transitioned to Johnson & Johnson Switzerland as a Clinical Trials Manager, leveraging her expertise to drive results from 1993 to 1998.\nFrom 2000 to 2005, she served as a Regulatory Affairs Director at Roche Holding AG, solidifying her position as a leader in the industry.\nAfter 16 years of dedication, she assumed the role of CEO at Pfizer AG (Swiss branch) in 2005, spearheading high-profile projects and mentoring junior colleagues.\nShe has been a Industry Leader at Pfizer AG (Swiss branch) since 2010, consistently demonstrating her ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "While working, she saved 1800000 CHF, which she used to build a diversified investment portfolio.\nShe has condo located in Lugano, worth 2670000 CHF.\n\n\nIn addition to her career success, she also received an inheritance of 260000 CHF from her late grandfather, a renowned Investment Banker, in 2005.\n",
+        "Client Summary": "In summary, Lynn has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

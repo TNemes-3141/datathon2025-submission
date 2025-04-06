@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Victoria",
+        "middle_name": "Beatrix",
+        "last_name": "Reiter",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1977-12-31",
+        "passport_number": "JR6315365",
+        "passport_mrz": [
+            "P<AUTREITER<<VICTORIA<BEATRIX<<<<<<<<<<<<<<<<",
+            "JR6315365AUT771231<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-01-14",
+        "passport_expiry_date": "2033-01-13"
+    },
+    "client_profile": {
+        "name": "Victoria Beatrix Reiter",
+        "address": {
+            "city": "Gmunden",
+            "street name": "Gro\u00df-Enzersdorf",
+            "street number": 44,
+            "postal code": "9710"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1977-12-31",
+        "nationality": "Austrian",
+        "passport_number": "JR6315365",
+        "passport_issue_date": "2023-01-14",
+        "passport_expiry_date": "2033-01-13",
+        "gender": "F",
+        "phone_number": "+43 463 755 5166",
+        "email_address": "victoria.reiter@telekom.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Akademisches Gymnasium Innsbruck",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "Modul University Vienna",
+                "graduation_year": 2002
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2005,
+                "company": "B&C Private Equity GmbH",
+                "position": "Analyst",
+                "salary": 33000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2010,
+                "company": "Quadriga Capital GmbH",
+                "position": "Associate",
+                "salary": 46000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Quadriga Capital GmbH",
+                "position": "Investment Director",
+                "salary": 191000
+            }
+        ],
+        "aum": {
+            "savings": 290000,
+            "inheritance": 7030000,
+            "real_estate_value": 890000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2005,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 890000,
+                "property location": "Gmunden"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Victoria Beatrix Reiter",
+        "first_name": "Victoria",
+        "middle_name": "Beatrix",
+        "last_name": "Reiter",
+        "passport_number": "JR6315365",
+        "currency": "EUR",
+        "address": {
+            "city": "Gmunden",
+            "street name": "Gro\u00df-Enzersdorf",
+            "street number": 44,
+            "postal code": "9710"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 463 755 5166",
+        "email_address": "victoria.reiter@telekom.at"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Victoria Beatrix Reiter at a charity gala in Vienna. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nHaving worked for over 23 years, Victoria Beatrix Reiter brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Victoria Beatrix Reiter has been happily married to Schwarz since 2011. They do not have any children.",
+        "Education Background": "Victoria received her secondary school diploma from Akademisches Gymnasium Innsbruck in 1997.\nIn 2002, Victoria graduated from Modul University Vienna with a degree.\n",
+        "Occupation History": "Victoria Beatrix Reiter is a 47 year old Investment Director from Austria.\nVictoria Beatrix Reiter began her professional journey as a Analyst at B&C Private Equity GmbH in 2002, laying the foundation for future success.\nAt Quadriga Capital GmbH, she held the position of Associate from 2007 to 2010, making significant contributions to the organization.\nShe spent 14 years working as a Investment Director at Quadriga Capital GmbH, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "She managed to save approximately 290000 EUR from her earnings at all companies.\nShe owns townhouse in Gmunden, where she resides. It is worth 890000 EUR.\n\nIn 2005, she received an inheritance of 7030000 EUR from her late grandfather, who was a prominent Oil and Gas Executive, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

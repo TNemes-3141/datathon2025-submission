@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Julia",
+        "middle_name": "Franziska",
+        "last_name": "Schmid",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1965-09-12",
+        "passport_number": "BC3597145",
+        "passport_mrz": [
+            "P<AUTSCHMID<<JULIA<FRANZISKA<<<<<<<<<<<<<<<<<",
+            "BC3597145AUT650912<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-05-16",
+        "passport_expiry_date": "2034-05-15"
+    },
+    "client_profile": {
+        "name": "Julia Franziska Schmid",
+        "address": {
+            "city": "Wels",
+            "street name": "Naschmarkt",
+            "street number": 24,
+            "postal code": "6850"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1965-09-12",
+        "nationality": "Austrian",
+        "passport_number": "BC3597145",
+        "passport_issue_date": "2024-05-16",
+        "passport_expiry_date": "2034-05-15",
+        "gender": "F",
+        "phone_number": "658 581 5391",
+        "email_address": "julia.schmid@upc.at",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Bundesgymnasium und Bundesrealgymnasium Mattersburg",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "University of Salzburg",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1989,
+                "end_year": 1990,
+                "company": "Octapharma AG",
+                "position": "Research Scientist",
+                "salary": 35000
+            },
+            {
+                "start_year": 1991,
+                "end_year": 1992,
+                "company": "Intercell AG",
+                "position": "Biotech Startup Founder",
+                "salary": 51000
+            },
+            {
+                "start_year": 1993,
+                "end_year": null,
+                "company": "Baxter BioScience",
+                "position": "CEO",
+                "salary": 643000
+            }
+        ],
+        "aum": {
+            "savings": 1120000,
+            "inheritance": 3130000,
+            "real_estate_value": 1220000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2007,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1220000,
+                "property location": "Wels"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Julia Franziska Schmid",
+        "first_name": "Julia",
+        "middle_name": "Franziska",
+        "last_name": "Schmid",
+        "passport_number": "BC3597145",
+        "currency": "EUR",
+        "address": {
+            "city": "Wels",
+            "street name": "Naschmarkt",
+            "street number": 24,
+            "postal code": "6850"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "658 581 5391",
+        "email_address": "julia.schmid@upc.at"
+    },
+    "client_description": {
+        "Summary Note": "Julia Franziska Schmid and the RM are cousins, having grown up together in Vienna. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nJulia Franziska Schmid is a 59 year old and comes from Austria.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Julia Franziska Schmid is currently divorced. She does not have any children.",
+        "Education Background": "In 1984, Julia graduated from Bundesgymnasium und Bundesrealgymnasium Mattersburg with a secondary school diploma.\nJulia finished her studies at University of Salzburg in 1989.\n",
+        "Occupation History": "With a career spanning nearly 36 years, Julia Franziska Schmid has established herself as a key player in the industry.\nIn 1989, Julia Franziska Schmid started working as a Research Scientist at Octapharma AG, marking the beginning of her successful career.\nAt Intercell AG, she held the position of Biotech Startup Founder from 1991 to 1992, making significant contributions to the organization.\nHer tenure as a CEO at Baxter BioScience from 1993 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "She managed to save approximately 1120000 EUR from her earnings at all companies.\nShe has house located in Wels, worth 1220000 EUR.\n\n\nFollowing the passing of her grandfather, a successful Tech Entrepreneur, she received an inheritance of 3130000 EUR in 2007, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

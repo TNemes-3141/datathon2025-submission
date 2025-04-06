@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Mia",
+        "middle_name": "Anna",
+        "last_name": "Richter",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1984-11-18",
+        "passport_number": "FT1411291",
+        "passport_mrz": [
+            "P<DEURICHTER<<MIA<ANNA<<<<<<<<<<<<<<<<<<<<<<<",
+            "FT1411291DEU841118<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-10-20",
+        "passport_expiry_date": "2026-10-19"
+    },
+    "client_profile": {
+        "name": "Mia Anna Richter",
+        "address": {
+            "city": "M\u00fcnster",
+            "street name": "Berliner Stra\u00dfe",
+            "street number": 72,
+            "postal code": "24028"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1984-11-18",
+        "nationality": "German",
+        "passport_number": "FT1411291",
+        "passport_issue_date": "2016-10-20",
+        "passport_expiry_date": "2026-10-19",
+        "gender": "F",
+        "phone_number": "9642 478692",
+        "email_address": "mia.richter@o2online.de",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Maria-Theresia-Gymnasium M\u00fcnchen",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "ISM Dortmund",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2013,
+                "company": "K\u00fchne + Nagel (Deutschland) GmbH",
+                "position": "Ship Broker",
+                "salary": 44000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2015,
+                "company": "Hapag-Lloyd AG",
+                "position": "Shipping Company Owner",
+                "salary": 57000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2023,
+                "company": "K\u00fchne + Nagel (Deutschland) GmbH",
+                "position": "Fleet Manager",
+                "salary": 134000
+            }
+        ],
+        "aum": {
+            "savings": 160000,
+            "inheritance": 3400000,
+            "real_estate_value": 4200000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1190000,
+                "property location": "M\u00fcnster"
+            },
+            {
+                "property type": "villa",
+                "property value": 3010000,
+                "property location": "Bochum"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Belgium",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Mia Anna Richter",
+        "first_name": "Mia",
+        "middle_name": "Anna",
+        "last_name": "Richter",
+        "passport_number": "FT1411291",
+        "currency": "EUR",
+        "address": {
+            "city": "M\u00fcnster",
+            "street name": "Berliner Stra\u00dfe",
+            "street number": 72,
+            "postal code": "24028"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "9642 478692",
+        "email_address": "mia.richter@o2online.de"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Mia Anna Richter's brother-in-law, having married her's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nWith a career spanning nearly 17 years, Mia Anna Richter has established herself as a key player in the industry.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Mia Anna Richter has been happily married to Mayer since 2018. They do not have any children.",
+        "Education Background": "Mia received her secondary school diploma from Maria-Theresia-Gymnasium M\u00fcnchen in 2004.\nMia attended ISM Dortmund and graduated in 2009.\n",
+        "Occupation History": "With a career spanning nearly 17 years, Mia Anna Richter has established herself as a key player in the industry.\nMia Anna Richter launched her career as a Ship Broker at K\u00fchne + Nagel (Deutschland) GmbH, where she gained valuable experience from 2008 to 2013.\nHer subsequent role was as a Shipping Company Owner at Hapag-Lloyd AG, where she continued to grow professionally from 2014 to 2015.\nShe spent 8 years working as a Fleet Manager at K\u00fchne + Nagel (Deutschland) GmbH, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "Throughout her career, she saved 160000 EUR, investing in various assets to grow her wealth.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 4200000 EUR.\n\nShe inherited 3400000 EUR from her grandmother, a well-known Investment Banker, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

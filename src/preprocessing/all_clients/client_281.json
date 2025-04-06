@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Josefine",
+        "middle_name": "Melanie",
+        "last_name": "Fischer",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1954-12-30",
+        "passport_number": "MA8275446",
+        "passport_mrz": [
+            "P<AUTFISCHER<<JOSEFINE<MELANIE<<<<<<<<<<<<<<<",
+            "MA8275446AUT541230<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-13",
+        "passport_expiry_date": "2030-08-12"
+    },
+    "client_profile": {
+        "name": "Josefine Melanie Fischer",
+        "address": {
+            "city": "Ried im Innkreis",
+            "street name": "Liechtensteinstra\u00dfe",
+            "street number": 16,
+            "postal code": "7343"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1954-12-30",
+        "nationality": "Austrian",
+        "passport_number": "MA8275446",
+        "passport_issue_date": "2020-08-13",
+        "passport_expiry_date": "2030-08-12",
+        "gender": "F",
+        "phone_number": "+43 685 104 9332",
+        "email_address": "josefine.fischer@aon.at",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "HTL M\u00f6dling",
+            "graduation_year": 1973
+        },
+        "higher_education": [
+            {
+                "university": "Modul University Vienna",
+                "graduation_year": 1977
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1978,
+                "end_year": 1983,
+                "company": "Intercell AG",
+                "position": "Research Scientist",
+                "salary": 31000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 1987,
+                "company": "Marinomed Biotechnologie GmbH",
+                "position": "Biotech Startup Founder",
+                "salary": 47000
+            },
+            {
+                "start_year": 1989,
+                "end_year": 1993,
+                "company": "Baxter BioScience",
+                "position": "CEO",
+                "salary": 71000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2000,
+                "company": "Marinomed Biotechnologie GmbH",
+                "position": "Venture Capitalist",
+                "salary": 144000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2015,
+                "company": "Octapharma AG",
+                "position": "Industry Leader",
+                "salary": 567000
+            }
+        ],
+        "aum": {
+            "savings": 960000,
+            "inheritance": 0,
+            "real_estate_value": 4283000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 643000,
+                "property location": "Ried im Innkreis"
+            },
+            {
+                "property type": "house",
+                "property value": 1360000,
+                "property location": "Dornbirn"
+            },
+            {
+                "property type": "villa",
+                "property value": 2280000,
+                "property location": "Spittal an der Drau"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Josefine Melanie Fischer",
+        "first_name": "Josefine",
+        "middle_name": "Melanie",
+        "last_name": "Fischer",
+        "passport_number": "MA8275446",
+        "currency": "EUR",
+        "address": {
+            "city": "Ried im Innkreis",
+            "street name": "Liechtensteinstra\u00dfe",
+            "street number": 16,
+            "postal code": "7343"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 685 104 9332",
+        "email_address": "josefine.fischer@aon.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Josefine Melanie Fischer since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nJosefine Melanie Fischer is a 70 year old retired Industry Leader from Austria. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Josefine Melanie Fischer is currently divorced. Her children are named Mayr, Karoline and Schwarz.",
+        "Education Background": "Josefine graduated from HTL M\u00f6dling in 1973.\nShe then attended Modul University Vienna, which she graduated in 1977.\n",
+        "Occupation History": "Josefine Melanie Fischer is a 70 year old retired Industry Leader from Austria. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Intercell AG, Josefine Melanie Fischer held the position of Research Scientist from 1978 to 1983, developing essential skills in the field.\nAt Marinomed Biotechnologie GmbH, she held the position of Biotech Startup Founder from 1984 to 1987, making significant contributions to the organization.\nIn 1989, she joined Baxter BioScience as a CEO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nIn 1995, she transitioned to Marinomed Biotechnologie GmbH to take on the position of Venture Capitalist, capitalizing on her expertise to propel business growth.\nJosefine Melanie Fischer retired after holding the position of Industry Leader at Octapharma AG from 2000 to 2015.",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 960000 EUR.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 4283000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

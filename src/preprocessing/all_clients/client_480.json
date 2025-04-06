@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Julia",
+        "middle_name": "Sophia",
+        "last_name": "Zbinden",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1967-04-20",
+        "passport_number": "AS8908394",
+        "passport_mrz": [
+            "P<CHEZBINDEN<<JULIA<SOPHIA<<<<<<<<<<<<<<<<<<<",
+            "AS8908394CHE670420<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-10-30",
+        "passport_expiry_date": "2034-10-29"
+    },
+    "client_profile": {
+        "name": "Julia Sophia Zbinden",
+        "address": {
+            "city": "Chur",
+            "street name": "B\u00e4renplatz",
+            "street number": 29,
+            "postal code": "6047"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1967-04-20",
+        "nationality": "Swiss",
+        "passport_number": "AS8908394",
+        "passport_issue_date": "2024-10-30",
+        "passport_expiry_date": "2034-10-29",
+        "gender": "F",
+        "phone_number": "+41 055 840 99 29",
+        "email_address": "julia.zbinden@teli.ch",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden",
+            "graduation_year": 1986
+        },
+        "higher_education": [
+            {
+                "university": "Hotel Institute Montreux",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1992,
+                "end_year": 1997,
+                "company": "UBS AG",
+                "position": "Family Office Manager",
+                "salary": 74000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2002,
+                "company": "Julius Baer Gruppe AG",
+                "position": "Investment Director",
+                "salary": 99000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2009,
+                "company": "Credit Suisse AG",
+                "position": "CFO",
+                "salary": 215000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Julius Baer Gruppe AG",
+                "position": "COO",
+                "salary": 787000
+            }
+        ],
+        "aum": {
+            "savings": 1360000,
+            "inheritance": 280000,
+            "real_estate_value": 2910000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2014,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 2910000,
+                "property location": "Chur"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Netherlands"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Julia Sophia Zbinden",
+        "first_name": "Julia",
+        "middle_name": "Sophia",
+        "last_name": "Zbinden",
+        "passport_number": "AS8908394",
+        "currency": "CHF",
+        "address": {
+            "city": "Chur",
+            "street name": "B\u00e4renplatz",
+            "street number": 29,
+            "postal code": "6047"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 055 840 99 29",
+        "email_address": "julia.zbinden@teli.ch"
+    },
+    "client_description": {
+        "Summary Note": "Julia Sophia Zbinden and the RM crossed paths at a mutual friend's dinner party in Z\u00fcrich. They discovered they had many common acquaintances and decided to explore business opportunities together.\nJulia Sophia Zbinden is a 57 year old and comes from Switzerland.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Julia Sophia Zbinden is currently widowed. Her children are named Larissa and Anna.",
+        "Education Background": "In 1986, Julia graduated from Gymnasium und Wirtschaftsmittelschule Sarnen Obwalden with a secondary school diploma.\nJulia earned her degree from Hotel Institute Montreux in 1991.\n",
+        "Occupation History": "Julia Sophia Zbinden is a 57 year old COO from Switzerland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt UBS AG, Julia Sophia Zbinden held the position of Family Office Manager from 1992 to 1997, developing essential skills in the field.\nIn 1999, she moved to Julius Baer Gruppe AG to work as a Investment Director, applying her knowledge to achieve outstanding performance.\nAt Credit Suisse AG, she worked as a CFO from 2004 to 2009, focusing on strategic initiatives and team collaboration.\nShe appointment as a COO at Julius Baer Gruppe AG in 2011 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "Throughout her career, she saved 1360000 CHF, investing in various assets to grow her wealth.\nShe owns townhouse in Chur, where she resides. It is worth 2910000 CHF.\n\n\nFollowing the passing of her mother, a successful Venture Capitalist, she received an inheritance of 280000 CHF in 2014, which she has used to secure her financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

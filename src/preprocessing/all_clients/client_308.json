@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Ferrari",
+        "middle_name": "Rizzo",
+        "last_name": "Celli",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "2002-01-23",
+        "passport_number": "BO2654125",
+        "passport_mrz": [
+            "P<ITACELLI<<FERRARI<RIZZO<<<<<<<<<<<<<<<<<<<<",
+            "BO2654125ITA020123<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-06-10",
+        "passport_expiry_date": "2028-06-09"
+    },
+    "client_profile": {
+        "name": "Ferrari Rizzo Celli",
+        "address": {
+            "city": "Catania",
+            "street name": "Via XXV Aprile",
+            "street number": 95,
+            "postal code": "01447"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "2002-01-23",
+        "nationality": "Italian",
+        "passport_number": "BO2654125",
+        "passport_issue_date": "2018-06-10",
+        "passport_expiry_date": "2028-06-09",
+        "gender": "M",
+        "phone_number": "+39 352 5362295",
+        "email_address": "ferrari.celli@wind.it",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia",
+            "graduation_year": 2020
+        },
+        "higher_education": [
+            {
+                "university": "University of Turin",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1110000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ferrari Rizzo Celli",
+        "first_name": "Ferrari",
+        "middle_name": "Rizzo",
+        "last_name": "Celli",
+        "passport_number": "BO2654125",
+        "currency": "EUR",
+        "address": {
+            "city": "Catania",
+            "street name": "Via XXV Aprile",
+            "street number": 95,
+            "postal code": "01447"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 352 5362295",
+        "email_address": "ferrari.celli@wind.it"
+    },
+    "client_description": {
+        "Summary Note": "Ferrari Rizzo Celli and the RM were introduced at an art auction in Rome. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nFerrari Rizzo Celli is a 23 year old and comes from Italy.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Ferrari Rizzo Celli is currently single. He does not have any children.",
+        "Education Background": "In 2020, Ferrari graduated from Istituto Tecnico Agrario Statale Francesco De Sanctis Foggia with a secondary school diploma.\nFerrari completed his university education at University of Turin in 2025.\n",
+        "Occupation History": "Ferrari Rizzo Celli is a 23 year old and comes from Italy.\nFerrari Rizzo Celli did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.In 2019, he received an inheritance of 1110000 EUR from his late grandmother, who was a prominent Neurosurgeon, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is excited to help Ferrari navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

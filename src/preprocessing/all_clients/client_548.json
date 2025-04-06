@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Mathilde",
+        "middle_name": "Line",
+        "last_name": "Petersen",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DNK",
+        "nationality": "German",
+        "birth_date": "1962-03-11",
+        "passport_number": "WR0162034",
+        "passport_mrz": [
+            "P<DNKPETERSEN<<MATHILDE<LINE<<<<<<<<<<<<<<<<<",
+            "WR0162034DNK031162<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-12-10",
+        "passport_expiry_date": "2032-12-09"
+    },
+    "client_profile": {
+        "name": "Mathilde Line Petersen",
+        "address": {
+            "city": "Esbjerg",
+            "street name": "Gr\u00e5br\u00f8dretorv",
+            "street number": 27,
+            "postal code": "2581"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1967-12-29",
+        "nationality": "Danish",
+        "passport_number": "WR0162034",
+        "passport_issue_date": "2022-12-10",
+        "passport_expiry_date": "2032-12-09",
+        "gender": "F",
+        "phone_number": "+45 42 82 86 65",
+        "email_address": "mathilde.petersen@siminn.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Slagelse Gymnasium",
+            "graduation_year": 1985
+        },
+        "higher_education": [
+            {
+                "university": "University College Capital",
+                "graduation_year": 1991
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1991,
+                "end_year": 1992,
+                "company": "Maersk Oil A/S",
+                "position": "Drilling Engineer",
+                "salary": 273000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1996,
+                "company": "Chevron Denmark A/S",
+                "position": "Reservoir Engineer",
+                "salary": 413000
+            },
+            {
+                "start_year": 1996,
+                "end_year": null,
+                "company": "Total E&P Danmark A/S",
+                "position": "Operations Manager",
+                "salary": 4513000
+            }
+        ],
+        "aum": {
+            "savings": 8550000,
+            "inheritance": 440000,
+            "real_estate_value": 2690000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2010,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1090000,
+                "property location": "Esbjerg"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1600000,
+                "property location": "Horsens"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Mathilde Line Petersen",
+        "first_name": "Mathilde",
+        "middle_name": "Line",
+        "last_name": "Petersen",
+        "passport_number": "WR0162034",
+        "currency": "DKK",
+        "address": {
+            "city": "Esbjerg",
+            "street name": "Gr\u00e5br\u00f8dretorv",
+            "street number": 27,
+            "postal code": "2581"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 42 82 86 65",
+        "email_address": "mathilde.petersen@siminn.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Mathilde Line Petersen at a yacht party in Copenhagen. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nMathilde Line Petersen is a 57 year old and comes from Denmark.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Mathilde Line Petersen has been happily married to N\u00f8rregaard since 1995. Their child is  named Olsen.",
+        "Education Background": "Mathilde completed her secondary education at Slagelse Gymnasium in 1985.\nMathilde completed her university studies at University College Capital in 1991.\n",
+        "Occupation History": "Mathilde Line Petersen is a 57 year old and comes from Denmark.\nMathilde Line Petersen launched her career as a Drilling Engineer at Maersk Oil A/S, where she gained valuable experience from 1991 to 1992.\nAfter gaining experience, she took on the role of Reservoir Engineer at Chevron Denmark A/S in 1992, further expanding her skill set.\nHer tenure as a Operations Manager at Total E&P Danmark A/S from 1996 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "Throughout her career, she saved 8550000 DKK, investing in various assets to grow her wealth.\nShe owns condo in Esbjerg, where she resides. It is worth 1090000 DKK.\n\nIn addition to her primary residence, she owns townhouse in Horsens worth 1600000 DKK.\n\nIn 2010, she received an inheritance of 440000 DKK from her late grandfather, who was a prominent Stock Trader, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

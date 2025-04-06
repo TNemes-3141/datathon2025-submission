@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "Sofia",
+        "middle_name": "Gitte",
+        "last_name": "S\u00f8rensen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1989-02-04",
+        "passport_number": "TJ5688546",
+        "passport_mrz": [
+            "P<DNKS\u00d8RENSEN<<SOFIA<GITTE<<<<<<<<<<<<<<<<<<<",
+            "TJ5688546DNK890204<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-06-06",
+        "passport_expiry_date": "2030-06-05"
+    },
+    "client_profile": {
+        "name": "Sofia Gitte S\u00f8rensen",
+        "address": {
+            "city": "N\u00e6stved",
+            "street name": "\u00d8sterbrogade",
+            "street number": 65,
+            "postal code": "5792"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1989-02-04",
+        "nationality": "Danish",
+        "passport_number": "TJ5688546",
+        "passport_issue_date": "2020-06-06",
+        "passport_expiry_date": "2030-06-05",
+        "gender": "F",
+        "phone_number": "64 25 69 17",
+        "email_address": "sofia.srensen@icloud.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Holstebro Gymnasium",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "University of Southern Denmark",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": 2014,
+                "company": "Total E&P Danmark A/S",
+                "position": "Drilling Engineer",
+                "salary": 248000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2020,
+                "company": "Maersk Oil A/S",
+                "position": "Reservoir Engineer",
+                "salary": 502000
+            },
+            {
+                "start_year": 2021,
+                "end_year": 2024,
+                "company": "Total E&P Danmark A/S",
+                "position": "Operations Manager",
+                "salary": 546000
+            }
+        ],
+        "aum": {
+            "savings": 590000,
+            "inheritance": 8280000,
+            "real_estate_value": 5550000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2970000,
+                "property location": "N\u00e6stved"
+            },
+            {
+                "property type": "house",
+                "property value": 1620000,
+                "property location": "Randers"
+            },
+            {
+                "property type": "flat",
+                "property value": 960000,
+                "property location": "Skanderborg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Sofia Gitte S\u00f8rensen",
+        "first_name": "Sofia",
+        "middle_name": "Gitte",
+        "last_name": "S\u00f8rensen",
+        "passport_number": "TJ5688546",
+        "currency": "DKK",
+        "address": {
+            "city": "N\u00e6stved",
+            "street name": "\u00d8sterbrogade",
+            "street number": 65,
+            "postal code": "5792"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "64 25 69 17",
+        "email_address": "sofia.srensen@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Sofia Gitte S\u00f8rensen and the RM met at a financial seminar in Copenhagen. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nSofia Gitte S\u00f8rensen is a 36 year old and comes from Denmark.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Sofia Gitte S\u00f8rensen is currently divorced. Her child is named Laura.",
+        "Education Background": "Sofia received her secondary school diploma from Holstebro Gymnasium in 2006.\nSofia completed her university studies at University of Southern Denmark in 2013.\n",
+        "Occupation History": "Having worked for over 12 years, Sofia Gitte S\u00f8rensen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAt Total E&P Danmark A/S, Sofia Gitte S\u00f8rensen held the position of Drilling Engineer from 2013 to 2014, developing essential skills in the field.\nShe then transitioned to Maersk Oil A/S as a Reservoir Engineer, leveraging her expertise to drive results from 2015 to 2020.\nFrom 2021 to 2024, she served as a Operations Manager at Total E&P Danmark A/S, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "Throughout her career, she saved 590000 DKK, investing in various assets to grow her wealth.\nShe owns villa in N\u00e6stved, where she resides. It is worth 2970000 DKK.\n\nIn addition to her primary residence, she owns house in Randers worth 1620000 DKK.\n\nMoreover, she has invested in additional property in Skanderborg, giving possiblity for generating additional income. The flat is valued at 960000 DKK.\n\nShe inherited 8280000 DKK from her grandfather, a well-known Tech Entrepreneur, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have Sofia as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

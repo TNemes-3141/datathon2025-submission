@@ -1,0 +1,107 @@
+{
+    "passport": {
+        "first_name": "Koch",
+        "middle_name": "Kr\u00fcger",
+        "last_name": "Uhlig",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1990-02-13",
+        "passport_number": "JW5748195",
+        "passport_mrz": [
+            "P<DEUUHLIG<<KOCH<KR\u00dcGER<<<<<<<<<<<<<<<<<<<<<<",
+            "JW5748195DEU900213<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-08-29",
+        "passport_expiry_date": "2030-08-28"
+    },
+    "client_profile": {
+        "name": "Koch Kr\u00fcger Uhlig",
+        "address": {
+            "city": "Gelsenkirchen",
+            "street name": "Zeil",
+            "street number": 20,
+            "postal code": "06938"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1990-02-13",
+        "nationality": "German",
+        "passport_number": "JW5748195",
+        "passport_issue_date": "2020-08-29",
+        "passport_expiry_date": "2030-08-28",
+        "gender": "M",
+        "phone_number": "5087 287883",
+        "email_address": "koch.uhlig@arcor.de",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Albert-Schweitzer-Gymnasium Hamburg",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "University of G\u00f6ttingen",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "Glencore Deutschland GmbH",
+                "position": "Junior Trader",
+                "salary": 101000
+            }
+        ],
+        "aum": {
+            "savings": 110000,
+            "inheritance": 300000,
+            "real_estate_value": 1240000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1240000,
+                "property location": "Gelsenkirchen"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Koch Kr\u00fcger Uhlig",
+        "first_name": "Koch",
+        "middle_name": "Kr\u00fcger",
+        "last_name": "Uhlig",
+        "passport_number": "JW5748195",
+        "currency": "EUR",
+        "address": {
+            "city": "Gelsenkirchen",
+            "street name": "Zeil",
+            "street number": 20,
+            "postal code": "06938"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "5087 287883",
+        "email_address": "koch.uhlig@arcor.de"
+    },
+    "client_description": {
+        "Summary Note": "Koch Kr\u00fcger Uhlig and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nKoch Kr\u00fcger Uhlig is a 35 year old Junior Trader from Germany.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Koch Kr\u00fcger Uhlig and Greta have been married since 2022. They do not have any children.",
+        "Education Background": "In 2007, Koch finished his secondary school education at Albert-Schweitzer-Gymnasium Hamburg.\nKoch graduated from University of G\u00f6ttingen in 2014, completing his higher education.\n",
+        "Occupation History": "Koch Kr\u00fcger Uhlig is a 35 year old and comes from Germany.\nAt Glencore Deutschland GmbH, Koch Kr\u00fcger Uhlig held the position of Junior Trader from 2014 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "He managed to save approximately 110000 EUR from his earnings at all companies.\nHe owns townhouse in Gelsenkirchen, where he resides. It is worth 1240000 EUR.\n\nHe inherited 300000 EUR from his grandmother, a well-known Corporate Lawyer, in 2016, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is very happy to have Koch as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

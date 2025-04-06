@@ -1,0 +1,117 @@
+{
+    "passport": {
+        "first_name": "Gis\u00e8le",
+        "middle_name": "Evelyne",
+        "last_name": "B\u00fchler",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1957-09-13",
+        "passport_number": "HI7027463",
+        "passport_mrz": [
+            "P<CHEB\u00dcHLER<<GIS\u00c8LE<EVELYNE<<<<<<<<<<<<<<<<<<",
+            "HI7027463CHE570913<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-27",
+        "passport_expiry_date": "2030-10-26"
+    },
+    "client_profile": {
+        "name": "Gis\u00e8le Evelyne B\u00fchler",
+        "address": {
+            "city": "Zurich",
+            "street name": "Niederdorf",
+            "street number": 4,
+            "postal code": "0772"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1957-09-13",
+        "nationality": "Swiss",
+        "passport_number": "HI7027463",
+        "passport_issue_date": "2020-10-27",
+        "passport_expiry_date": "2030-10-26",
+        "gender": "F",
+        "phone_number": "026 172 87 92",
+        "email_address": "gisele.buhler@sunrise.ch",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Gymnasium Hofwil Bern",
+            "graduation_year": 1976
+        },
+        "higher_education": [
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1984,
+                "company": "SRF Schweizer Radio und Fernsehen",
+                "position": "Journalist",
+                "salary": 67000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "SRF Schweizer Radio und Fernsehen",
+                "position": "Editor",
+                "salary": 97000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 2018,
+                "company": "NZZ Mediengruppe",
+                "position": "Publisher",
+                "salary": 1140000
+            }
+        ],
+        "aum": {
+            "savings": 2090000,
+            "inheritance": 0,
+            "real_estate_value": 5080000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 5080000,
+                "property location": "Zurich"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Gis\u00e8le Evelyne B\u00fchler",
+        "first_name": "Gis\u00e8le",
+        "middle_name": "Evelyne",
+        "last_name": "B\u00fchler",
+        "passport_number": "HI7027463",
+        "currency": "CHF",
+        "address": {
+            "city": "Zurich",
+            "street name": "Niederdorf",
+            "street number": 4,
+            "postal code": "0772"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "026 172 87 92",
+        "email_address": "gisele.buhler@sunrise.ch"
+    },
+    "client_description": {
+        "Summary Note": "Gis\u00e8le Evelyne B\u00fchler and the RM are cousins, having grown up together in Z\u00fcrich. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nGis\u00e8le Evelyne B\u00fchler is a seasoned professional with over 44 years of experience.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Gis\u00e8le Evelyne B\u00fchler is currently divorced. Her children are named C\u00e9line and Hagenbuch.",
+        "Education Background": "Gis\u00e8le finished secondary school at Gymnasium Hofwil Bern in 1976.\nGis\u00e8le pursued higher education at Suffolk University in Geneva, graduating in 1982.\n",
+        "Occupation History": "Gis\u00e8le Evelyne B\u00fchler is a 67 year old retired Publisher from Switzerland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nGis\u00e8le Evelyne B\u00fchler's first role was as a Journalist at SRF Schweizer Radio und Fernsehen, where she worked diligently from 1981 to 1984 to establish a strong reputation.\nIn 1985, she moved to SRF Schweizer Radio und Fernsehen to work as a Editor, applying her knowledge to achieve outstanding performance.\nHer tenure as a Publisher at NZZ Mediengruppe from 1988 till retirement was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "Throughout her career, she saved 2090000 CHF, investing in various assets to grow her wealth.\nShe owns villa in Zurich, where she resides. It is worth 5080000 CHF.\n\nShe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

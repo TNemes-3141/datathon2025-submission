@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Simon",
+        "middle_name": "Renault",
+        "last_name": "Lema\u00eetre",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1986-12-30",
+        "passport_number": "FB9550756",
+        "passport_mrz": [
+            "P<FRALEMA\u00ceTRE<<SIMON<RENAULT<<<<<<<<<<<<<<<<<",
+            "FB9550756FRA861230<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-05-03",
+        "passport_expiry_date": "2026-05-02"
+    },
+    "client_profile": {
+        "name": "Simon Renault Lema\u00eetre",
+        "address": {
+            "city": "Metz",
+            "street name": "Boulevard Richard Lenoir",
+            "street number": 67,
+            "postal code": "19946"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1986-12-30",
+        "nationality": "French",
+        "passport_number": "FB9550756",
+        "passport_issue_date": "2016-05-03",
+        "passport_expiry_date": "2026-05-02",
+        "gender": "M",
+        "phone_number": "+33 04 84 44 95 30",
+        "email_address": "simon.lemaitre@laposte.net",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e \u00c9mile Zola",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "University of Toulouse",
+                "graduation_year": 2011
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2015,
+                "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Assurances",
+                "position": "Stockbroker",
+                "salary": 32000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2017,
+                "company": "AXA S.A.",
+                "position": "Portfolio Manager",
+                "salary": 49000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "CNP Assurances S.A.",
+                "position": "Hedge Fund Manager",
+                "salary": 103000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 420000,
+            "real_estate_value": 2920000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1680000,
+                "property location": "Metz"
+            },
+            {
+                "property type": "condo",
+                "property value": 1240000,
+                "property location": "Montpellier"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Simon Renault Lema\u00eetre",
+        "first_name": "Simon",
+        "middle_name": "Renault",
+        "last_name": "Lema\u00eetre",
+        "passport_number": "FB9550756",
+        "currency": "EUR",
+        "address": {
+            "city": "Metz",
+            "street name": "Boulevard Richard Lenoir",
+            "street number": 67,
+            "postal code": "19946"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 04 84 44 95 30",
+        "email_address": "simon.lemaitre@laposte.net"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Simon Renault Lema\u00eetre's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nWith a career spanning nearly 15 years, Simon Renault Lema\u00eetre has established himself as a key player in the industry.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Simon Renault Lema\u00eetre is married to Laur\u00e8ne. Their children are named Colombe and Faure.",
+        "Education Background": "In 2005, Simon graduated from Lyc\u00e9e \u00c9mile Zola with a secondary school diploma.\nAfter that, he went on to study at University of Toulouse until 2011.\n",
+        "Occupation History": "Simon Renault Lema\u00eetre is a seasoned professional with over 15 years of experience.\nSimon Renault Lema\u00eetre launched his career as a Stockbroker at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Assurances, where he gained valuable experience from 2010 to 2015.\nIn 2015, he moved to AXA S.A. to work as a Portfolio Manager, applying his knowledge to achieve outstanding performance.\nIn 2018, he joined CNP Assurances S.A. as a Hedge Fund Manager, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "While working, he saved 140000 EUR, which he used to build a diversified investment portfolio.\nHe has house located in Metz, worth 1680000 EUR.\n\nIn addition to his primary residence, he owns condo in Montpellier worth 1240000 EUR.\n\n\nFollowing the passing of his grandmother, a successful Private Equity Manager, he received an inheritance of 420000 EUR in 2017, which he has used to secure his financial future.\n\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

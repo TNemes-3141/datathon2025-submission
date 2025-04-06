@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Hanna",
+        "middle_name": "",
+        "last_name": "Peltola",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1979-03-10",
+        "passport_number": "GR3491794",
+        "passport_mrz": [
+            "P<FINPELTOLA<<HANNA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "GR3491794FIN790310<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-06-03",
+        "passport_expiry_date": "2028-06-02"
+    },
+    "client_profile": {
+        "name": "Hanna Peltola",
+        "address": {
+            "city": "Oulu",
+            "street name": "Siltasaarenkatu",
+            "street number": 66,
+            "postal code": "84387"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1979-03-10",
+        "nationality": "Finnish",
+        "passport_number": "GR3491794",
+        "passport_issue_date": "2018-06-03",
+        "passport_expiry_date": "2028-06-02",
+        "gender": "F",
+        "phone_number": "+358 047 389 02 90",
+        "email_address": "hanna.peltola@finet.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Meilahden Yl\u00e4aste ja Lukio",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "Metropolia University of Applied Sciences",
+                "graduation_year": 2002
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "Receptal Oy",
+                "position": "Research Scientist",
+                "salary": 45000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2010,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "Biotech Startup Founder",
+                "salary": 53000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2024,
+                "company": "Finnish Red Cross Blood Service",
+                "position": "CEO",
+                "salary": 286000
+            }
+        ],
+        "aum": {
+            "savings": 410000,
+            "inheritance": 4680000,
+            "real_estate_value": 1475000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 635000,
+                "property location": "Oulu"
+            },
+            {
+                "property type": "flat",
+                "property value": 840000,
+                "property location": "H\u00e4meenlinna"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hanna Peltola",
+        "first_name": "Hanna",
+        "middle_name": "",
+        "last_name": "Peltola",
+        "passport_number": "GR3491794",
+        "currency": "EUR",
+        "address": {
+            "city": "Oulu",
+            "street name": "Siltasaarenkatu",
+            "street number": 66,
+            "postal code": "84387"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 047 389 02 90",
+        "email_address": "hanna.peltola@finet.fi"
+    },
+    "client_description": {
+        "Summary Note": "Hanna Peltola and the RM met at a networking event in Helsinki. They quickly realized they had complementary skills and decided to collaborate on several projects.\nHaving worked for over 23 years, Hanna Peltola brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Hanna Peltola and Piirainen tied the knot in 2012. Their children are named Turunen, Salo and Uusitalo.",
+        "Education Background": "Hanna graduated from Meilahden Yl\u00e4aste ja Lukio in 1996.\nHanna completed her university studies at Metropolia University of Applied Sciences in 2002.\n",
+        "Occupation History": "Hanna Peltola is a seasoned professional with over 23 years of experience.\nIn 2002, Hanna Peltola started working as a Research Scientist at Receptal Oy, marking the beginning of her successful career.\nIn 2007, she moved to Finnish Red Cross Blood Service to work as a Biotech Startup Founder, applying her knowledge to achieve outstanding performance.\nFrom 2011 to 2024, she served as a CEO at Finnish Red Cross Blood Service, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "Throughout her career, she saved 410000 EUR, investing in various assets to grow her wealth.\nShe owns 2 exceptional properties: condo located in Oulu, valued at approximately 635,000.00 EUR, flat located in H\u00e4meenlinna, valued at approximately 840,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in H\u00e4meenlinna and Oulu.\nIn 2009, she received an inheritance of 4680000 EUR from her late grandfather, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

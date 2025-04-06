@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Sofia",
+        "middle_name": "Carlotta",
+        "last_name": "Ricci",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1987-07-09",
+        "passport_number": "OH5367114",
+        "passport_mrz": [
+            "P<ITARICCI<<SOFIA<CARLOTTA<<<<<<<<<<<<<<<<<<<",
+            "OH5367114ITA870709<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-08-13",
+        "passport_expiry_date": "2033-08-12"
+    },
+    "client_profile": {
+        "name": "Sofia Carlotta Ricci",
+        "address": {
+            "city": "Pisa",
+            "street name": "Corso Vittorio Emanuele II",
+            "street number": 90,
+            "postal code": "38020"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1987-07-09",
+        "nationality": "Italian",
+        "passport_number": "OH5367114",
+        "passport_issue_date": "2023-08-13",
+        "passport_expiry_date": "2033-08-12",
+        "gender": "F",
+        "phone_number": "+39 398 7960873",
+        "email_address": "sofia.ricci@wind.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Istituto Tecnico Industriale Statale Enrico Mattei Roma",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "University of Rome La Sapienza",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2012,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Research Scientist",
+                "salary": 24000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2018,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 51000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Novartis Farma S.p.A.",
+                "position": "CEO",
+                "salary": 99000
+            }
+        ],
+        "aum": {
+            "savings": 120000,
+            "inheritance": 3120000,
+            "real_estate_value": 2488000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1588000,
+                "property location": "Pisa"
+            },
+            {
+                "property type": "condo",
+                "property value": 900000,
+                "property location": "Reggio Calabria"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sofia Carlotta Ricci",
+        "first_name": "Sofia",
+        "middle_name": "Carlotta",
+        "last_name": "Ricci",
+        "passport_number": "OH5367114",
+        "currency": "EUR",
+        "address": {
+            "city": "Pisa",
+            "street name": "Corso Vittorio Emanuele II",
+            "street number": 90,
+            "postal code": "38020"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 398 7960873",
+        "email_address": "sofia.ricci@wind.it"
+    },
+    "client_description": {
+        "Summary Note": "Sofia Carlotta Ricci and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nSofia Carlotta Ricci is a 37 year old CEO from Italy.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Sofia Carlotta Ricci has been happily married to Fantini since 2020. Sofia and Fantini have 2 children, named Isabella and Costanza.",
+        "Education Background": "In 2007, Sofia graduated from Istituto Tecnico Industriale Statale Enrico Mattei Roma with a secondary school diploma.\nSofia pursued higher education at University of Rome La Sapienza, graduating in 2012.\n",
+        "Occupation History": "Sofia Carlotta Ricci is a 37 year old and comes from Italy.\nAt Novartis Farma S.p.A., Sofia Carlotta Ricci held the position of Research Scientist from 2011 to 2012, developing essential skills in the field.\nIn 2013, she moved to Novartis Farma S.p.A. to work as a Biotech Startup Founder, applying her knowledge to achieve outstanding performance.\nAt Novartis Farma S.p.A., she worked as a CEO from 2018 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 120000 EUR.\nShe owns 2 exceptional properties: villa located in Pisa, valued at approximately 1,588,000.00 EUR, condo located in Reggio Calabria, valued at approximately 900,000.00 EUR. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Reggio Calabria and Pisa.\nShe inherited 3120000 EUR from her grandfather, a well-known Investment Banker, in 2020, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

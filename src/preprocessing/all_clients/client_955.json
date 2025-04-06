@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "V\u00e1zquez",
+        "middle_name": "Soto",
+        "last_name": "Gonz\u00e1lez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1966-06-25",
+        "passport_number": "WG3911595",
+        "passport_mrz": [
+            "P<ESPGONZ\u00c1LEZ<<V\u00c1ZQUEZ<SOTO<<<<<<<<<<<<<<<<<<",
+            "WG3911595ESP660625<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-09-13",
+        "passport_expiry_date": "2026-09-12"
+    },
+    "client_profile": {
+        "name": "V\u00e1zquez Soto Gonz\u00e1lez",
+        "address": {
+            "city": "M\u00e1laga",
+            "street name": "Calle de la Universidad",
+            "street number": 92,
+            "postal code": "81279"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1966-06-25",
+        "nationality": "Spanish",
+        "passport_number": "WG3911595",
+        "passport_issue_date": "2016-09-13",
+        "passport_expiry_date": "2026-09-12",
+        "gender": "M",
+        "phone_number": "+34 605 946 867",
+        "email_address": "vazquez.gonzalez@telefonica.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Instituto de Educaci\u00f3n Secundaria IES Ramiro de Maeztu Madrid",
+            "graduation_year": 1984
+        },
+        "higher_education": [
+            {
+                "university": "University of Valencia",
+                "graduation_year": 1989
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1990,
+                "end_year": 1995,
+                "company": "Esteve Teijin Healthcare S.L.",
+                "position": "Research Scientist",
+                "salary": 29000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 1998,
+                "company": "PharmaMar S.A.",
+                "position": "Clinical Trials Manager",
+                "salary": 39000
+            },
+            {
+                "start_year": 2000,
+                "end_year": null,
+                "company": "Almirall S.A.",
+                "position": "Regulatory Affairs Director",
+                "salary": 429000
+            }
+        ],
+        "aum": {
+            "savings": 750000,
+            "inheritance": 570000,
+            "real_estate_value": 1060000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2012,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1060000,
+                "property location": "M\u00e1laga"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "V\u00e1zquez Soto Gonz\u00e1lez",
+        "first_name": "V\u00e1zquez",
+        "middle_name": "Soto",
+        "last_name": "Gonz\u00e1lez",
+        "passport_number": "WG3911595",
+        "currency": "EUR",
+        "address": {
+            "city": "M\u00e1laga",
+            "street name": "Calle de la Universidad",
+            "street number": 92,
+            "postal code": "81279"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 605 946 867",
+        "email_address": "vazquez.gonzalez@telefonica.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered V\u00e1zquez Soto Gonz\u00e1lez on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nV\u00e1zquez Soto Gonz\u00e1lez is a seasoned professional with over 35 years of experience.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "V\u00e1zquez Soto Gonz\u00e1lez and Carmen tied the knot in 2002. V\u00e1zquez and Carmen have 1 child, named Mu\u00f1oz.",
+        "Education Background": "V\u00e1zquez earned his secondary school diploma from Instituto de Educaci\u00f3n Secundaria IES Ramiro de Maeztu Madrid in 1984.\nV\u00e1zquez received his degree from University of Valencia in 1989.\n",
+        "Occupation History": "With a career spanning nearly 35 years, V\u00e1zquez Soto Gonz\u00e1lez has established himself as a key player in the industry.\nIn 1990, V\u00e1zquez Soto Gonz\u00e1lez started working as a Research Scientist at Esteve Teijin Healthcare S.L., marking the beginning of his successful career.\nAt PharmaMar S.A., he held the position of Clinical Trials Manager from 1997 to 1998, making significant contributions to the organization.\nHe spent 25 years working as a Regulatory Affairs Director at Almirall S.A., refining his expertise and building a strong network.\n",
+        "Wealth Summary": "While working, he saved 750000 EUR, which he used to build a diversified investment portfolio.\nHe owns condo in M\u00e1laga, where he resides. It is worth 1060000 EUR.\n\nHe inherited 570000 EUR from his grandfather, a well-known Private Equity Manager, in 2012, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In summary, V\u00e1zquez has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "S\u00e1nchez",
+        "last_name": "Hern\u00e1ndez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "2003-06-30",
+        "passport_number": "VN5531045",
+        "passport_mrz": [
+            "P<ESPHERN\u00c1NDEZ<<FERN\u00c1NDEZ<S\u00c1NCHEZ<<<<<<<<<<<<",
+            "VN5531045ESP030630<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-04-02",
+        "passport_expiry_date": "2024-04-01"
+    },
+    "client_profile": {
+        "name": "Fern\u00e1ndez S\u00e1nchez Hern\u00e1ndez",
+        "address": {
+            "city": "Palma de Mallorca",
+            "street name": "Calle de la Paz",
+            "street number": 14,
+            "postal code": "73868"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "2003-06-30",
+        "nationality": "Spanish",
+        "passport_number": "VN5531045",
+        "passport_issue_date": "2019-04-02",
+        "passport_expiry_date": "2024-04-01",
+        "gender": "M",
+        "phone_number": "+34 696 505 955",
+        "email_address": "fernandez.hernandez@gmail.es",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Virgen del Carmen M\u00e1laga",
+            "graduation_year": 2023
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2990000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fern\u00e1ndez S\u00e1nchez Hern\u00e1ndez",
+        "first_name": "Fern\u00e1ndez",
+        "middle_name": "S\u00e1nchez",
+        "last_name": "Hern\u00e1ndez",
+        "passport_number": "VN5531045",
+        "currency": "EUR",
+        "address": {
+            "city": "Palma de Mallorca",
+            "street name": "Calle de la Paz",
+            "street number": 14,
+            "postal code": "73868"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 696 505 955",
+        "email_address": "fernandez.hernandez@gmail.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM is a close family friend of Fern\u00e1ndez S\u00e1nchez Hern\u00e1ndez's parents, having known him since birth. This deep-rooted connection has facilitated a strong and trustworthy professional relationship.\nFern\u00e1ndez S\u00e1nchez Hern\u00e1ndez is a 21 year old and comes from Spain.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Fern\u00e1ndez S\u00e1nchez Hern\u00e1ndez is currently single. He does not have any children.",
+        "Education Background": "In 2023, Fern\u00e1ndez finished his secondary school education at IES Virgen del Carmen M\u00e1laga.\n",
+        "Occupation History": "Fern\u00e1ndez S\u00e1nchez Hern\u00e1ndez is a 21 year old and comes from Spain.\nFern\u00e1ndez S\u00e1nchez Hern\u00e1ndez did not start his professional career yet.",
+        "Wealth Summary": "He did not manage to save any money during his career.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 2990000 EUR from his late grandmother, a renowned Hedge Fund Manager, in 2019.\n",
+        "Client Summary": "The RM is committed to helping Fern\u00e1ndez achieve financial success and security as he embarks on his professional journey.\n"
+    }
+}

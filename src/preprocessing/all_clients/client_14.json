@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Steiner",
+        "middle_name": "Brandstetter",
+        "last_name": "Koller",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1957-06-09",
+        "passport_number": "AS0569349",
+        "passport_mrz": [
+            "P<AUTKOLLER<<STEINER<BRANDSTETTER<<<<<<<<<<<<",
+            "AS0569349AUT570609<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-02-08",
+        "passport_expiry_date": "2031-02-07"
+    },
+    "client_profile": {
+        "name": "Steiner Brandstetter Koller",
+        "address": {
+            "city": "Hallein",
+            "street name": "Kohlmarkt",
+            "street number": 8,
+            "postal code": "0784"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1957-06-09",
+        "nationality": "Austrian",
+        "passport_number": "AS0569349",
+        "passport_issue_date": "2021-02-08",
+        "passport_expiry_date": "2031-02-07",
+        "gender": "M",
+        "phone_number": "879 040 6532",
+        "email_address": "steiner.koller@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Fran\u00e7ais de Vienne",
+            "graduation_year": 1976
+        },
+        "higher_education": [
+            {
+                "university": "Johannes Kepler University Linz",
+                "graduation_year": 1980
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1983,
+                "company": "Octapharma AG",
+                "position": "Research Scientist",
+                "salary": 32000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 1986,
+                "company": "Marinomed Biotechnologie GmbH",
+                "position": "Biotech Startup Founder",
+                "salary": 48000
+            },
+            {
+                "start_year": 1986,
+                "end_year": 2018,
+                "company": "Octapharma AG",
+                "position": "CEO",
+                "salary": 645000
+            }
+        ],
+        "aum": {
+            "savings": 1370000,
+            "inheritance": 0,
+            "real_estate_value": 4057000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1090000,
+                "property location": "Hallein"
+            },
+            {
+                "property type": "villa",
+                "property value": 1937000,
+                "property location": "Stockerau"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1030000,
+                "property location": "Amstetten"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Steiner Brandstetter Koller",
+        "first_name": "Steiner",
+        "middle_name": "Brandstetter",
+        "last_name": "Koller",
+        "passport_number": "AS0569349",
+        "currency": "EUR",
+        "address": {
+            "city": "Hallein",
+            "street name": "Kohlmarkt",
+            "street number": 8,
+            "postal code": "0784"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "879 040 6532",
+        "email_address": "steiner.koller@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Steiner Brandstetter Koller since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nWith a career spanning nearly 44 years, Steiner Brandstetter Koller has established himself as a key player in the industry.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Steiner Brandstetter Koller has been happily married to Gertrud since 1988. They do not have any children.",
+        "Education Background": "In 1976, Steiner graduated from Lyc\u00e9e Fran\u00e7ais de Vienne with a secondary school diploma.\nSteiner graduated from Johannes Kepler University Linz in 1980, completing his higher education.\n",
+        "Occupation History": "Steiner Brandstetter Koller is a seasoned professional with over 44 years of experience.\nSteiner Brandstetter Koller launched his career as a Research Scientist at Octapharma AG, where he gained valuable experience from 1981 to 1983.\nIn 1983, he moved to Marinomed Biotechnologie GmbH to work as a Biotech Startup Founder, applying his knowledge to achieve outstanding performance.\nAt Octapharma AG, he worked as a CEO from 1986 till retirement, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1370000 EUR.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Amstetten, Stockerau and Hallein, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "In summary, Steiner has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

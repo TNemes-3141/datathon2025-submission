@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Giovanna",
+        "middle_name": "Anna",
+        "last_name": "Galli",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1987-06-07",
+        "passport_number": "WZ3489699",
+        "passport_mrz": [
+            "P<ITAGALLI<<GIOVANNA<ANNA<<<<<<<<<<<<<<<<<<<<",
+            "WZ3489699ITA870607<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-01-31",
+        "passport_expiry_date": "2030-01-30"
+    },
+    "client_profile": {
+        "name": "Giovanna Anna Galli",
+        "address": {
+            "city": "Perugia",
+            "street name": "Galleria Vittorio Emanuele II",
+            "street number": 93,
+            "postal code": "98829"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1987-06-07",
+        "nationality": "Spanish",
+        "passport_number": "WZ3489699",
+        "passport_issue_date": "2020-01-31",
+        "passport_expiry_date": "2030-01-30",
+        "gender": "F",
+        "phone_number": "+39 331 5098609",
+        "email_address": "giovanna.galli@tiscali.it",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Liceo Scientifico Niccol\u00f2 Copernico Padova",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "University of Turin",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2013,
+                "company": "Reply S.p.A.",
+                "position": "Software Developer",
+                "salary": 28000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2019,
+                "company": "STMicroelectronics S.p.A.",
+                "position": "Startup Founder",
+                "salary": 51000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "STMicroelectronics S.p.A.",
+                "position": "CEO",
+                "salary": 55000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 1800000,
+            "real_estate_value": 2749000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1359000,
+                "property location": "Perugia"
+            },
+            {
+                "property type": "flat",
+                "property value": 660000,
+                "property location": "Livorno"
+            },
+            {
+                "property type": "condo",
+                "property value": 730000,
+                "property location": "Modena"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Giovanna Anna Galli",
+        "first_name": "Giovanna",
+        "middle_name": "Anna",
+        "last_name": "Galli",
+        "passport_number": "WZ3489699",
+        "currency": "EUR",
+        "address": {
+            "city": "Perugia",
+            "street name": "Galleria Vittorio Emanuele II",
+            "street number": 93,
+            "postal code": "98829"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 331 5098609",
+        "email_address": "giovanna.galli@tiscali.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Giovanna Anna Galli on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 14 years, Giovanna Anna Galli brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Giovanna Anna Galli has been happily married to Malatesta since 2023. Together they have 2 kids called Emanuela and Ginevra.",
+        "Education Background": "Giovanna graduated from Liceo Scientifico Niccol\u00f2 Copernico Padova in 2005.\nGiovanna attended University of Turin and graduated in 2012.\n",
+        "Occupation History": "With a career spanning nearly 14 years, Giovanna Anna Galli has established herself as a key player in the industry.\nGiovanna Anna Galli began her professional journey as a Software Developer at Reply S.p.A. in 2011, laying the foundation for future success.\nIn 2014, she moved to STMicroelectronics S.p.A. to work as a Startup Founder, applying her knowledge to achieve outstanding performance.\nAt STMicroelectronics S.p.A., she worked as a CEO from 2021 till now, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "Throughout her career, she saved 70000 EUR, investing in various assets to grow her wealth.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 2749000 EUR.\n\nShe inherited a significant sum of 1800000 EUR from her grandmother, a respected Stock Trader, in 2017, which she has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

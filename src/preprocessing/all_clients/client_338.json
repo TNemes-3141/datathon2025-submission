@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Anniina",
+        "middle_name": "Liisa",
+        "last_name": "Uusitalo",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1980-02-19",
+        "passport_number": "PD7049735",
+        "passport_mrz": [
+            "P<FINUUSITALO<<ANNIINA<LIISA<<<<<<<<<<<<<<<<<",
+            "PD7049735FIN800219<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-11-20",
+        "passport_expiry_date": "2026-11-19"
+    },
+    "client_profile": {
+        "name": "Anniina Liisa Uusitalo",
+        "address": {
+            "city": "Pori",
+            "street name": "Helsinginkatu",
+            "street number": 17,
+            "postal code": "45044"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1980-02-19",
+        "nationality": "Finnish",
+        "passport_number": "PD7049735",
+        "passport_issue_date": "2016-11-20",
+        "passport_expiry_date": "2026-11-19",
+        "gender": "F",
+        "phone_number": "+358 046 788 95 67",
+        "email_address": "anniina.uusitalo@saunalahti.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Espoonlahden koulu",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "Oulu University of Applied Science",
+                "graduation_year": 2002
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2005,
+                "company": "Valmet Oyj",
+                "position": "Plant Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Konecranes Oyj",
+                "position": "Operations Director",
+                "salary": 61000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "Valmet Oyj",
+                "position": "CEO",
+                "salary": 414000
+            }
+        ],
+        "aum": {
+            "savings": 610000,
+            "inheritance": 2310000,
+            "real_estate_value": 1190000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1190000,
+                "property location": "Pori"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Anniina Liisa Uusitalo",
+        "first_name": "Anniina",
+        "middle_name": "Liisa",
+        "last_name": "Uusitalo",
+        "passport_number": "PD7049735",
+        "currency": "EUR",
+        "address": {
+            "city": "Pori",
+            "street name": "Helsinginkatu",
+            "street number": 17,
+            "postal code": "45044"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 046 788 95 67",
+        "email_address": "anniina.uusitalo@saunalahti.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Anniina Liisa Uusitalo at a yacht party in Helsinki. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nAnniina Liisa Uusitalo is a 45 year old CEO from Finland.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Anniina Liisa Uusitalo is married to Salminen. They are proud parents of 2 children: Ruotsalainen and Aurora.",
+        "Education Background": "Anniina graduated from Espoonlahden koulu in 1997.\nAnniina completed her university studies at Oulu University of Applied Science in 2002.\n",
+        "Occupation History": "Having worked for over 22 years, Anniina Liisa Uusitalo brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIn 2003, Anniina Liisa Uusitalo started working as a Plant Manager at Valmet Oyj, marking the beginning of her successful career.\nAfter gaining experience, she took on the role of Operations Director at Konecranes Oyj in 2005, further expanding her skill set.\nIn 2007, she joined Valmet Oyj as a CEO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 610000 EUR.\nShe owns townhouse in Pori, where she resides. It is worth 1190000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 2310000 EUR from her late grandmother, a renowned Neurosurgeon, in 2007.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

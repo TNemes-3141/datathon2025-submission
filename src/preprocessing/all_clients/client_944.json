@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Garance",
+        "middle_name": "Laetitia",
+        "last_name": "Bernard",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1961-03-14",
+        "passport_number": "DX4559677",
+        "passport_mrz": [
+            "P<FRABERNARD<<GARANCE<LAETITIA<<<<<<<<<<<<<<<",
+            "DX4559677FRA610314<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-28",
+        "passport_expiry_date": "2033-02-27"
+    },
+    "client_profile": {
+        "name": "Garance Laetitia Bernard",
+        "address": {
+            "city": "Lyon",
+            "street name": "Quai d'Orsay",
+            "street number": 49,
+            "postal code": "87531"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1961-03-14",
+        "nationality": "French",
+        "passport_number": "DX4559677",
+        "passport_issue_date": "2023-02-28",
+        "passport_expiry_date": "2033-02-27",
+        "gender": "F",
+        "phone_number": "03 86 70 09 67",
+        "email_address": "garance.bernard@numericable.fr",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e du Parc",
+            "graduation_year": 1979
+        },
+        "higher_education": [
+            {
+                "university": "University of Montpellier",
+                "graduation_year": 1984
+            },
+            {
+                "university": "ESSEC Business School",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1990,
+                "company": "Engie S.A.",
+                "position": "Drilling Engineer",
+                "salary": 37000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1995,
+                "company": "Total S.A.",
+                "position": "Reservoir Engineer",
+                "salary": 44000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 2021,
+                "company": "Total S.A.",
+                "position": "Operations Manager",
+                "salary": 434000
+            }
+        ],
+        "aum": {
+            "savings": 720000,
+            "inheritance": 0,
+            "real_estate_value": 1450000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1450000,
+                "property location": "Lyon"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Garance Laetitia Bernard",
+        "first_name": "Garance",
+        "middle_name": "Laetitia",
+        "last_name": "Bernard",
+        "passport_number": "DX4559677",
+        "currency": "EUR",
+        "address": {
+            "city": "Lyon",
+            "street name": "Quai d'Orsay",
+            "street number": 49,
+            "postal code": "87531"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "03 86 70 09 67",
+        "email_address": "garance.bernard@numericable.fr"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Garance Laetitia Bernard at a charity gala in Paris. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nHaving worked for over 40 years, Garance Laetitia Bernard brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Garance Laetitia Bernard is currently divorced. She has 2 kids called Bonnet and Renault.",
+        "Education Background": "Garance obtained her secondary school diploma from Lyc\u00e9e du Parc in 1979.\nGarance completed her university studies at University of Montpellier in 1984.\nAdditionally, she went on to study at ESSEC Business School until 1988.\n",
+        "Occupation History": "Garance Laetitia Bernard is a 64 year old retired Operations Manager from France. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nGarance Laetitia Bernard began her professional journey as a Drilling Engineer at Engie S.A. in 1985, laying the foundation for future success.\nAfter gaining experience, she took on the role of Reservoir Engineer at Total S.A. in 1992, further expanding her skill set.\nFrom 1995 till retirement, she served as a Operations Manager at Total S.A., solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 720000 EUR.\nShe has townhouse located in Lyon, worth 1450000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

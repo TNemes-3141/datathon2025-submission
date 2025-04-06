@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Wagemakers",
+        "middle_name": "Vogel",
+        "last_name": "Maassen",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1978-01-02",
+        "passport_number": "XW5570843",
+        "passport_mrz": [
+            "P<NLDMAASSEN<<WAGEMAKERS<VOGEL<<<<<<<<<<<<<<<",
+            "XW5570843NLD780102<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-11-20",
+        "passport_expiry_date": "2033-11-19"
+    },
+    "client_profile": {
+        "name": "Wagemakers Vogel Maassen",
+        "address": {
+            "city": "Assen",
+            "street name": "Torenstraat",
+            "street number": 78,
+            "postal code": "9971 27"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1978-01-02",
+        "nationality": "Dutch",
+        "passport_number": "XW5570843",
+        "passport_issue_date": "2023-11-20",
+        "passport_expiry_date": "2033-11-19",
+        "gender": "M",
+        "phone_number": "+31 06 29324982",
+        "email_address": "wagemakers.maassen@hetnet.nl",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Meerwaert College Weesp",
+            "graduation_year": 1996
+        },
+        "higher_education": [
+            {
+                "university": "University of Amsterdam",
+                "graduation_year": 2002
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2004,
+                "company": "Novartis Farma B.V.",
+                "position": "Research Scientist",
+                "salary": 45000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2005,
+                "company": "GlaxoSmithKline Nederland B.V.",
+                "position": "Clinical Trials Manager",
+                "salary": 62000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2007,
+                "company": "GlaxoSmithKline Nederland B.V.",
+                "position": "Regulatory Affairs Director",
+                "salary": 81000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2014,
+                "company": "Novartis Farma B.V.",
+                "position": "CEO",
+                "salary": 338000
+            },
+            {
+                "start_year": 2014,
+                "end_year": null,
+                "company": "GlaxoSmithKline Nederland B.V.",
+                "position": "Industry Leader",
+                "salary": 580000
+            }
+        ],
+        "aum": {
+            "savings": 1040000,
+            "inheritance": 2310000,
+            "real_estate_value": 1720000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2010,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1720000,
+                "property location": "Assen"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Wagemakers Vogel Maassen",
+        "first_name": "Wagemakers",
+        "middle_name": "Vogel",
+        "last_name": "Maassen",
+        "passport_number": "XW5570843",
+        "currency": "EUR",
+        "address": {
+            "city": "Assen",
+            "street name": "Torenstraat",
+            "street number": 78,
+            "postal code": "9971 27"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 29324982",
+        "email_address": "wagemakers.maassen@hetnet.nl"
+    },
+    "client_description": {
+        "Summary Note": "Wagemakers Vogel Maassen and the RM met at a financial seminar in Amsterdam. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nWagemakers Vogel Maassen is a 47 year old Industry Leader from Netherlands.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Wagemakers Vogel Maassen is currently divorced. His children are named Jasmijn and Willems.",
+        "Education Background": "Wagemakers graduated from Meerwaert College Weesp in 1996.\nWagemakers attended University of Amsterdam and graduated in 2002.\n",
+        "Occupation History": "Having worked for over 23 years, Wagemakers Vogel Maassen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAt Novartis Farma B.V., Wagemakers Vogel Maassen held the position of Research Scientist from 2002 to 2004, developing essential skills in the field.\nHe then transitioned to GlaxoSmithKline Nederland B.V. as a Clinical Trials Manager, leveraging his expertise to drive results from 2004 to 2005.\nHe spent 2 years working as a Regulatory Affairs Director at GlaxoSmithKline Nederland B.V., refining his expertise and building a strong network.\nAfter 5 years of dedication, he assumed the role of CEO at Novartis Farma B.V. in 2009, spearheading high-profile projects and mentoring junior colleagues.\nSince joining GlaxoSmithKline Nederland B.V. as a Industry Leader in 2014, he has established himself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 1040000 EUR.\nHe has townhouse located in Assen, worth 1720000 EUR.\n\nHe inherited a significant sum of 2310000 EUR from his father, a respected Private Equity Manager, in 2010, which he has wisely invested.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

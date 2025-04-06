@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Sabrina",
+        "middle_name": "Victoria",
+        "last_name": "Fuchs",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1999-09-07",
+        "passport_number": "PM5442285",
+        "passport_mrz": [
+            "P<AUTFUCHS<<SABRINA<VICTORIA<<<<<<<<<<<<<<<<<",
+            "PM5442285AUT990907<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-10-07",
+        "passport_expiry_date": "2027-10-06"
+    },
+    "client_profile": {
+        "name": "Sabrina Victoria Fuchs",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Dominikanerbastei",
+            "street number": 67,
+            "postal code": "3442"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1999-09-07",
+        "nationality": "Austrian",
+        "passport_number": "PM5442285",
+        "passport_issue_date": "2017-10-07",
+        "passport_expiry_date": "2027-10-06",
+        "gender": "F",
+        "phone_number": "+43 445 036 7984",
+        "email_address": "sabrina.fuchs@vol.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Bisch\u00f6fliches Gymnasium Petrinum",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "Danube Private University Krems",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2024,
+                "end_year": null,
+                "company": "Wolford AG",
+                "position": "Assistant Designer",
+                "salary": 32000
+            }
+        ],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2120000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sabrina Victoria Fuchs",
+        "first_name": "Sabrina",
+        "middle_name": "Victoria",
+        "last_name": "Fuchs",
+        "passport_number": "PM5442285",
+        "currency": "EUR",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Dominikanerbastei",
+            "street number": 67,
+            "postal code": "3442"
+        },
+        "country_of_domicile": "Austria,Switzerland",
+        "phone_number": "+43 445 036 7984",
+        "email_address": "sabrina.fuchs@vol.at"
+    },
+    "client_description": {
+        "Summary Note": "Sabrina Victoria Fuchs and the RM were introduced at a charity run in Vienna. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nSabrina Victoria Fuchs is a 25 year old Assistant Designer from Austria.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Sabrina Victoria Fuchs is currently single. She does not have any children.",
+        "Education Background": "Sabrina completed her secondary education at Bisch\u00f6fliches Gymnasium Petrinum in 2018.\nSabrina received her degree from Danube Private University Krems in 2024.\n",
+        "Occupation History": "Sabrina Victoria Fuchs is a 25 year old Assistant Designer from Austria.\nSabrina Victoria Fuchs launched her career as a Assistant Designer at Wolford AG, where she gained valuable experience from 2024 till now.\n",
+        "Wealth Summary": "She did not save any money from her earnings.\nClient does not have any properties.She inherited 2120000 EUR from her grandmother, a well-known Hedge Fund Manager, in 2020, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

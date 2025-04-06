@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Erika",
+        "middle_name": "Gabriella",
+        "last_name": "Livi",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "2002-03-30",
+        "passport_number": "EQ1601376",
+        "passport_mrz": [
+            "P<ITALIVI<<ERIKA<GABRIELLA<<<<<<<<<<<<<<<<<<<",
+            "EQ1601376ITA020330<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-02-19",
+        "passport_expiry_date": "2033-02-18"
+    },
+    "client_profile": {
+        "name": "Erika Gabriella Livi",
+        "address": {
+            "city": "Palermo",
+            "street name": "Piazza San Marco",
+            "street number": 17,
+            "postal code": "00234"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "2002-03-30",
+        "nationality": "Italian",
+        "passport_number": "EQ1601376",
+        "passport_issue_date": "2023-02-19",
+        "passport_expiry_date": "2033-02-18",
+        "gender": "F",
+        "phone_number": "+39 315 1488239",
+        "email_address": "erika.livi@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Liceo Linguistico Internazionale Gabriele d'Annunzio Pescara",
+            "graduation_year": 2021
+        },
+        "higher_education": [
+            {
+                "university": "John Cabot University",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2210000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Erika Gabriella Livi",
+        "first_name": "Erika",
+        "middle_name": "Gabriella",
+        "last_name": "Livi",
+        "passport_number": "EQ1601376",
+        "currency": "EUR",
+        "address": {
+            "city": "Palermo",
+            "street name": "Piazza San Marco",
+            "street number": 17,
+            "postal code": "00234"
+        },
+        "country_of_domicile": "Italy,Belgium",
+        "phone_number": "+39 315 1488239",
+        "email_address": "erika.livi@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Erika Gabriella Livi during a business conference in Rome. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nErika Gabriella Livi is a 23 year old and comes from Italy.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Erika Gabriella Livi is currently single. She does not have any children.",
+        "Education Background": "Erika finished secondary school at Liceo Linguistico Internazionale Gabriele d'Annunzio Pescara in 2021.\nErika completed her university studies at John Cabot University in 2025.\n",
+        "Occupation History": "Erika Gabriella Livi is a 23 year old and comes from Italy.\nErika Gabriella Livi did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 2210000 EUR from her late grandfather, a renowned Stock Trader, in 2015.\n",
+        "Client Summary": "The RM is committed to helping Erika achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

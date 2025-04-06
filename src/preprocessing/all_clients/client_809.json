@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "Lambert",
+        "middle_name": "Richard",
+        "last_name": "Marchand",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1985-11-01",
+        "passport_number": "RR2975574",
+        "passport_mrz": [
+            "P<FRAMARCHAND<<LAMBERT<RICHARD<<<<<<<<<<<<<<<",
+            "RR2975574FRA851101<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-09-04",
+        "passport_expiry_date": "2033-09-03"
+    },
+    "client_profile": {
+        "name": "Lambert Richard Marchand",
+        "address": {
+            "city": "Brest",
+            "street name": "Rue de Belleville",
+            "street number": 45,
+            "postal code": "87821"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1985-11-01",
+        "nationality": "French",
+        "passport_number": "RR2975574",
+        "passport_issue_date": "2023-09-04",
+        "passport_expiry_date": "2033-09-03",
+        "gender": "M",
+        "phone_number": "+33 00 35 76 90 99",
+        "email_address": "lambert.marchand@hotmail.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Marcel Pagnol",
+            "graduation_year": 2005
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Polytechnique",
+                "graduation_year": 2010
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": "PAI Partners",
+                "position": "Analyst",
+                "salary": 34000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2018,
+                "company": "BC Partners",
+                "position": "Associate",
+                "salary": 51000
+            },
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Apax Partners SAS",
+                "position": "Investment Director",
+                "salary": 105000
+            }
+        ],
+        "aum": {
+            "savings": 150000,
+            "inheritance": 4340000,
+            "real_estate_value": 7130000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2050000,
+                "property location": "Brest"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2110000,
+                "property location": "Clermont-Ferrand"
+            },
+            {
+                "property type": "villa",
+                "property value": 2970000,
+                "property location": "Toulon"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lambert Richard Marchand",
+        "first_name": "Marchand",
+        "middle_name": "Richard",
+        "last_name": "Lambert",
+        "passport_number": "RR2975574",
+        "currency": "EUR",
+        "address": {
+            "city": "Brest",
+            "street name": "Rue de Belleville",
+            "street number": 45,
+            "postal code": "87821"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 00 35 76 90 99",
+        "email_address": "lambert.marchand@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Lambert Richard Marchand at a luxury car show in Paris. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nLambert Richard Marchand is a 39 year old Investment Director from France. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Lambert Richard Marchand and Louise tied the knot in 2010. They are proud parents of 2 children: Marchand and Floriane.",
+        "Education Background": "Lambert obtained his secondary school diploma from Lyc\u00e9e Marcel Pagnol in 2005.\nLambert received his degree from \u00c9cole Polytechnique in 2010.\n",
+        "Occupation History": "Lambert Richard Marchand is a 39 year old and comes from France.\nAt PAI Partners, Lambert Richard Marchand held the position of Analyst from 2010 to 2014, developing essential skills in the field.\nHe then transitioned to BC Partners as a Associate, leveraging his expertise to drive results from 2014 to 2018.\nFrom 2019 till now, he served as a Investment Director at Apax Partners SAS, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "Throughout his career, he saved 150000 EUR, investing in various assets to grow his wealth.\nHe has invested in several rental properties across various locations, generating additional income. The properties are valued at 7130000 EUR.\n\nHe inherited a significant sum of 4340000 EUR from his grandfather, a respected Hedge Fund Manager, in 2017, which he has wisely invested.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

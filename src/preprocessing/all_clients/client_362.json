@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Pedersen",
+        "middle_name": "Gundersen",
+        "last_name": "Larsen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1998-01-13",
+        "passport_number": "TJ0064767",
+        "passport_mrz": [
+            "P<DNKLARSEN<<PEDERSEN<GUNDERSEN<<<<<<<<<<<<<<",
+            "TJ0064767DNK980113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-03-07",
+        "passport_expiry_date": "2032-03-06"
+    },
+    "client_profile": {
+        "name": "Pedersen Gundersen Larsen",
+        "address": {
+            "city": "Stuttgart",
+            "street name": "Schlossplatz",
+            "street number": 6,
+            "postal code": "93723"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1998-01-13",
+        "nationality": "Danish",
+        "passport_number": "TJ0064767",
+        "passport_issue_date": "2022-03-07",
+        "passport_expiry_date": "2032-03-06",
+        "gender": "M",
+        "phone_number": "+49 6881 874682",
+        "email_address": "pedersen.larsen@vodafone.de",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "S\u00f8nderborg Statsskole",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "Roskilde University",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2021,
+                "end_year": 2023,
+                "company": "Blackstone Deutschland GmbH",
+                "position": "Analyst",
+                "salary": 297000
+            }
+        ],
+        "aum": {
+            "savings": 90000,
+            "inheritance": 1940000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Pedersen Gundersen Larsen",
+        "first_name": "Pedersen",
+        "middle_name": "Gundersen",
+        "last_name": "Larsen",
+        "passport_number": "TJ0064767",
+        "currency": "EUR",
+        "address": {
+            "city": "Stuttgart",
+            "street name": "Schlossplatz",
+            "street number": 6,
+            "postal code": "93723"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 6881 874682",
+        "email_address": "pedersen.larsen@vodafone.de"
+    },
+    "client_description": {
+        "Summary Note": "Pedersen Gundersen Larsen and the RM met at a financial seminar in Berlin. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nPedersen Gundersen Larsen is a 27 year old and comes from Germany.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Pedersen Gundersen Larsen is currently divorced. He does not have any children.",
+        "Education Background": "In 2015, Pedersen finished his secondary school education at S\u00f8nderborg Statsskole.\nPedersen graduated from Roskilde University in 2021, completing his higher education.\n",
+        "Occupation History": "Pedersen Gundersen Larsen is a 27 year old Analyst from Germany.\nAt Blackstone Deutschland GmbH, Pedersen Gundersen Larsen held the position of Analyst from 2021 to 2023, developing essential skills in the field.\n",
+        "Wealth Summary": "While working, he saved 90000 EUR, which he used to build a diversified investment portfolio.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 1940000 EUR from his late grandfather, a renowned Hedge Fund Manager, in 2016.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

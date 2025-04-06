@@ -1,0 +1,137 @@
+{
+    "passport": {
+        "first_name": "Kaiser",
+        "middle_name": "Hofer",
+        "last_name": "Koller",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1965-11-08",
+        "passport_number": "DO2503244",
+        "passport_mrz": [
+            "P<AUTKOLLER<<KAISER<HOFER<<<<<<<<<<<<<<<<<<<<",
+            "DO2503244AUT651108<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-12-24",
+        "passport_expiry_date": "2026-12-23"
+    },
+    "client_profile": {
+        "name": "Kaiser Hofer Koller",
+        "address": {
+            "city": "Dornbirn",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 57,
+            "postal code": "5304"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1965-11-08",
+        "nationality": "Austrian",
+        "passport_number": "DO2503244",
+        "passport_issue_date": "2016-12-24",
+        "passport_expiry_date": "2026-12-23",
+        "gender": "M",
+        "phone_number": "+43 210 519 2861",
+        "email_address": "kaiser.koller@kabsi.at",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "BORG Deutschlandsberg",
+            "graduation_year": 1985
+        },
+        "higher_education": [
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 1990
+            },
+            {
+                "university": "University of Salzburg",
+                "graduation_year": 1992
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1989,
+                "end_year": 1993,
+                "company": "Gerry Weber International AG",
+                "position": "Assistant Designer",
+                "salary": 31000
+            },
+            {
+                "start_year": 1995,
+                "end_year": 1997,
+                "company": "Wolford AG",
+                "position": "Senior Designer",
+                "salary": 45000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2002,
+                "company": "Gerry Weber International AG",
+                "position": "Creative Director",
+                "salary": 122000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2023,
+                "company": "Wolford AG",
+                "position": "Founder/Designer",
+                "salary": 539000
+            }
+        ],
+        "aum": {
+            "savings": 960000,
+            "inheritance": 610000,
+            "real_estate_value": 3377000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2015,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1157000,
+                "property location": "Dornbirn"
+            },
+            {
+                "property type": "villa",
+                "property value": 2220000,
+                "property location": "Bregenz"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Kaiser Hofer Koller",
+        "first_name": "Kaiser",
+        "middle_name": "Hofer",
+        "last_name": "Koller",
+        "passport_number": "DO2503244",
+        "currency": "EUR",
+        "address": {
+            "city": "Dornbirn",
+            "street name": "Rotenturmstra\u00dfe",
+            "street number": 57,
+            "postal code": "5304"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 210 519 2861",
+        "email_address": "kaiser.koller@kabsi.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Kaiser Hofer Koller at a luxury car show in Vienna. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nKaiser Hofer Koller is a 59 year old Founder/Designer from Austria.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Kaiser Hofer Koller is currently divorced. His child is named Beatrix.",
+        "Education Background": "Kaiser completed his secondary education at BORG Deutschlandsberg in 1985.\nKaiser pursued higher education at Graz University of Technology, graduating in 1990.\nHe pursued addtionally further eduaction by attending University of Salzburg and graduating in 1992.\n",
+        "Occupation History": "With a career spanning nearly 36 years, Kaiser Hofer Koller has established himself as a key player in the industry.\nKaiser Hofer Koller launched his career as a Assistant Designer at Gerry Weber International AG, where he gained valuable experience from 1989 to 1993.\nHis subsequent role was as a Senior Designer at Wolford AG, where he continued to grow professionally from 1995 to 1997.\nHe spent 5 years working as a Creative Director at Gerry Weber International AG, refining his expertise and building a strong network.\nHe appointment as a Founder/Designer at Wolford AG in 2004 marked a significant milestone in his career, as he took on increasingly complex challenges and delivered exceptional results.\n",
+        "Wealth Summary": "While working, he saved 960000 EUR, which he used to build a diversified investment portfolio.\nHe has house located in Dornbirn, worth 1157000 EUR.\n\nHe purchased villa in Bregenz, where he spends his holidays. It is valued at 2220000 EUR.\nHe inherited 610000 EUR from his father, a well-known Stock Trader, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "passport": {
+        "first_name": "D\u00edaz",
+        "middle_name": "P\u00e9rez",
+        "last_name": "\u00c1lvarez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1957-12-12",
+        "passport_number": "MO5576987",
+        "passport_mrz": [
+            "P<ESP\u00c1LVAREZ<<D\u00cdAZ<P\u00c9REZ<<<<<<<<<<<<<<<<<<<<<",
+            "MO5576987ESP571212<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-06-08",
+        "passport_expiry_date": "2034-06-07"
+    },
+    "client_profile": {
+        "name": "D\u00edaz P\u00e9rez \u00c1lvarez",
+        "address": {
+            "city": "Cartagena",
+            "street name": "Plaza de la Independencia",
+            "street number": 71,
+            "postal code": "79488"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1957-12-12",
+        "nationality": "Spanish",
+        "passport_number": "MO5576987",
+        "passport_issue_date": "2024-06-08",
+        "passport_expiry_date": "2034-06-07",
+        "gender": "M",
+        "phone_number": "638 192 321",
+        "email_address": "diaz.alvarez@wanadoo.es",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Instituto de Educaci\u00f3n Secundaria IES Pedro Salinas Ja\u00e9n",
+            "graduation_year": 1975
+        },
+        "higher_education": [
+            {
+                "university": "ESADE Business & Law School",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1986,
+                "company": "Cepsa Trading S.A.U.",
+                "position": "Junior Trader",
+                "salary": 30000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 2018,
+                "company": "Repsol S.A.",
+                "position": "Senior Trader",
+                "salary": 197000
+            }
+        ],
+        "aum": {
+            "savings": 420000,
+            "inheritance": 0,
+            "real_estate_value": 1220000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1220000,
+                "property location": "Cartagena"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "D\u00edaz P\u00e9rez \u00c1lvarez",
+        "first_name": "D\u00edaz",
+        "middle_name": "P\u00e9rez",
+        "last_name": "\u00c1lvarez",
+        "passport_number": "MO5576987",
+        "currency": "EUR",
+        "address": {
+            "city": "Cartagena",
+            "street name": "Plaza de la Independencia",
+            "street number": 71,
+            "postal code": "79488"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "638 192 321",
+        "email_address": "diaz.alvarez@wanadoo.es"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered D\u00edaz P\u00e9rez \u00c1lvarez on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nD\u00edaz P\u00e9rez \u00c1lvarez is a seasoned professional with over 44 years of experience.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "D\u00edaz P\u00e9rez \u00c1lvarez is currently divorced. His child is named Carmen.",
+        "Education Background": "D\u00edaz received his secondary school diploma from Instituto de Educaci\u00f3n Secundaria IES Pedro Salinas Ja\u00e9n in 1964.\nD\u00edaz pursued higher education at ESADE Business & Law School, graduating in 1982.\n",
+        "Occupation History": "D\u00edaz P\u00e9rez \u00c1lvarez is a 67 year old and comes from Spain.\nD\u00edaz P\u00e9rez \u00c1lvarez began his professional journey as a Junior Trader at Cepsa Trading S.A.U. in 1981, laying the foundation for future success.\nIn 1988, he moved to Repsol S.A. to work as a Senior Trader, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 420000 EUR, which he used to build a diversified investment portfolio.\nHe has house located in Cartagena, worth 1220000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "The RM is very happy to have D\u00edaz as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "passport": {
+        "first_name": "Chiara",
+        "middle_name": "",
+        "last_name": "Wyss",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1992-01-20",
+        "passport_number": "XI4440857",
+        "passport_mrz": [
+            "P<CHEWYSS<<CHIARA<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "XI4440857CHE920120<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-07-23",
+        "passport_expiry_date": "2034-07-22"
+    },
+    "client_profile": {
+        "name": "Chiara Wyss",
+        "address": {
+            "city": "Appenzell",
+            "street name": "Rue de l'Ath\u00e9n\u00e9e",
+            "street number": 24,
+            "postal code": "4627"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1992-01-20",
+        "nationality": "Swiss",
+        "passport_number": "XI4440857",
+        "passport_issue_date": "2024-07-23",
+        "passport_expiry_date": "2034-07-22",
+        "gender": "F",
+        "phone_number": "086 196 18 89",
+        "email_address": "chiara.wyss@swissonline.ch",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Kantonsschule Frauenfeld Thurgau",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "University of Bern",
+                "graduation_year": 2014
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": 2025,
+                "company": "Partners Group Holding AG",
+                "position": "Analyst",
+                "salary": 84000
+            }
+        ],
+        "aum": {
+            "savings": 100000,
+            "inheritance": 5740000,
+            "real_estate_value": 4690000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 4690000,
+                "property location": "Appenzell"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Chiara Wyss",
+        "first_name": "Chiara",
+        "middle_name": "",
+        "last_name": "Wyss",
+        "passport_number": "XI4440857",
+        "currency": "CHF",
+        "address": {
+            "city": "Appenzell",
+            "street name": "Rue de l'Ath\u00e9n\u00e9e",
+            "street number": 24,
+            "postal code": "4627"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "086 196 18 89",
+        "email_address": "chiara.wyss@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "Chiara Wyss and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nChiara Wyss is a 33 year old and comes from Switzerland.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Chiara Wyss is currently widowed. Her children are named Keller and Anna.",
+        "Education Background": "In 2009, Chiara graduated from Kantonsschule Frauenfeld Thurgau with a secondary school diploma.\nChiara graduated from University of Bern in 2014, completing her higher education.\n",
+        "Occupation History": "Chiara Wyss is a 33 year old Analyst from Switzerland.\nChiara Wyss's first role was as a Analyst at Partners Group Holding AG, where she worked diligently from 2015 to 2025 to establish a strong reputation.\n",
+        "Wealth Summary": "She managed to save approximately 100000 CHF from her earnings at all companies.\nShe has villa located in Appenzell, worth 4690000 CHF.\n\n\nIn addition to her career success, she also received an inheritance of 5740000 CHF from her late grandmother, a renowned Neurosurgeon, in 2017.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

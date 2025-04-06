@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Louise",
+        "middle_name": "",
+        "last_name": "S\u00f8rensen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1990-10-20",
+        "passport_number": "HR9277012",
+        "passport_mrz": [
+            "P<DNKS\u00d8RENSEN<<LOUISE<<<<<<<<<<<<<<<<<<<<<<<<",
+            "HR9277012DNK901020<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-06-19",
+        "passport_expiry_date": "2034-06-18"
+    },
+    "client_profile": {
+        "name": "Louise S\u00f8rensen",
+        "address": {
+            "city": "Gladsaxe",
+            "street name": "Vesterbrogade",
+            "street number": 29,
+            "postal code": "0224"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1990-10-20",
+        "nationality": "Danish",
+        "passport_number": "HR9277012",
+        "passport_issue_date": "2024-06-19",
+        "passport_expiry_date": "2034-06-18",
+        "gender": "F",
+        "phone_number": "+45 22 41 29 00",
+        "email_address": "louise.srensen@telia.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Skive Gymnasium",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 2015
+            },
+            {
+                "university": "Aarhus University",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2015,
+                "end_year": 2017,
+                "company": "Scandic Hotels Danmark A/S",
+                "position": "Hotel Manager",
+                "salary": 262000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Radisson Hotel Group Danmark A/S",
+                "position": "General Manager",
+                "salary": 449000
+            }
+        ],
+        "aum": {
+            "savings": 450000,
+            "inheritance": 3960000,
+            "real_estate_value": 4116000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1150000,
+                "property location": "Gladsaxe"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1586000,
+                "property location": "Ikast"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1380000,
+                "property location": "Vejle"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Louise S\u00f8rensen",
+        "first_name": "Louise",
+        "middle_name": "",
+        "last_name": "S\u00f8rensen",
+        "passport_number": "HR9277012",
+        "currency": "DKK",
+        "address": {
+            "city": "Gladsaxe",
+            "street name": "Vesterbrogade",
+            "street number": 29,
+            "postal code": "0224"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 22 41 29 00",
+        "email_address": "louise.srensen@telia.dk"
+    },
+    "client_description": {
+        "Summary Note": "Louise S\u00f8rensen and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nLouise S\u00f8rensen is a 34 year old General Manager from Denmark. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Louise S\u00f8rensen has been happily married to Friis since 2017. Their children are named Laursen and Petersen.",
+        "Education Background": "Louise finished secondary school at Skive Gymnasium in 2009.\nIn 2002, Louise graduated from University of Copenhagen with a degree.\nShe also pursued further higher education at Aarhus University, graduating in 2019.\n",
+        "Occupation History": "Having worked for over 10 years, Louise S\u00f8rensen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLouise S\u00f8rensen launched her career as a Hotel Manager at Scandic Hotels Danmark A/S, where she gained valuable experience from 2015 to 2017.\nHer subsequent role was as a General Manager at Radisson Hotel Group Danmark A/S, where she continued to grow professionally from 2018 till now.\n",
+        "Wealth Summary": "She managed to save approximately 450000 DKK from her earnings at all companies.\nShe owns 3 exceptional properties: flat located in Gladsaxe, valued at approximately 1,150,000.00 DKK, townhouse located in Ikast, valued at approximately 1,586,000.00 DKK, townhouse located in Vejle, valued at approximately 1,380,000.00 DKK. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Ikast, Vejle and Gladsaxe.\nIn 2015, she received an inheritance of 3960000 DKK from her late grandmother, who was a prominent Stock Trader, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

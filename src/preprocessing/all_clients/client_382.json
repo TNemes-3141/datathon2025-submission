@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Lotta",
+        "middle_name": "Emilia",
+        "last_name": "Heikkinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1998-05-14",
+        "passport_number": "WL9096762",
+        "passport_mrz": [
+            "P<FINHEIKKINEN<<LOTTA<EMILIA<<<<<<<<<<<<<<<<<",
+            "WL9096762FIN980514<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-12-07",
+        "passport_expiry_date": "2029-12-06"
+    },
+    "client_profile": {
+        "name": "Lotta Emilia Heikkinen",
+        "address": {
+            "city": "Joensuu",
+            "street name": "Neitsytpolku",
+            "street number": 66,
+            "postal code": "07835"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1998-05-14",
+        "nationality": "Finnish",
+        "passport_number": "WL9096762",
+        "passport_issue_date": "2019-12-07",
+        "passport_expiry_date": "2029-12-06",
+        "gender": "F",
+        "phone_number": "+358 043 991 59 14",
+        "email_address": "lotta.heikkinen@pp.inet.fi",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Joensuu Christian College",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "University of Turku",
+                "graduation_year": 2022
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Sentica Partners Oy",
+                "position": "Analyst",
+                "salary": 43000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 1240000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lotta Emilia Heikkinen",
+        "first_name": "Lotta",
+        "middle_name": "Emilia",
+        "last_name": "Heikkinen",
+        "passport_number": "WL9096762",
+        "currency": "EUR",
+        "address": {
+            "city": "Joensuu",
+            "street name": "Neitsytpolku",
+            "street number": 66,
+            "postal code": "07835"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 043 991 59 14",
+        "email_address": "lotta.heikkinen@pp.inet.fi"
+    },
+    "client_description": {
+        "Summary Note": "Lotta Emilia Heikkinen and the RM crossed paths at a mutual friend's dinner party in Helsinki. They discovered they had many common acquaintances and decided to explore business opportunities together.\nLotta Emilia Heikkinen is a 26 year old Analyst from Finland.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Lotta Emilia Heikkinen is currently single. She does not have any children.",
+        "Education Background": "Lotta received her secondary school diploma from Joensuu Christian College in 2016.\nLotta attended University of Turku and graduated in 2022.\n",
+        "Occupation History": "Lotta Emilia Heikkinen is a 26 year old and comes from Finland.\nLotta Emilia Heikkinen began her professional journey as a Analyst at Sentica Partners Oy in 2023, laying the foundation for future success.\n",
+        "Wealth Summary": "While working, she saved 10000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 1240000 EUR from her late grandmother, a renowned Private Equity Manager, in 2018.\n",
+        "Client Summary": "In summary, Lotta has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

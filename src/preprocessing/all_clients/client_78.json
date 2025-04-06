@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Gasser",
+        "middle_name": "Egli",
+        "last_name": "Brunner",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1987-06-06",
+        "passport_number": "GV2170860",
+        "passport_mrz": [
+            "P<CHEBRUNNER<<GASSER<EGLI<<<<<<<<<<<<<<<<<<<<",
+            "GV2170860CHE870606<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-11-29",
+        "passport_expiry_date": "2028-11-28"
+    },
+    "client_profile": {
+        "name": "Gasser Egli Brunner",
+        "address": {
+            "city": "Fribourg",
+            "street name": "Metzgergasse",
+            "street number": 86,
+            "postal code": "2531"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1987-06-06",
+        "nationality": "Swiss",
+        "passport_number": "GV2170860",
+        "passport_issue_date": "2018-11-29",
+        "passport_expiry_date": "2028-11-28",
+        "gender": "M",
+        "phone_number": "062 590 19 57",
+        "email_address": "gasser.brunner@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Kantonsschule Sursee Luzern",
+            "graduation_year": 2006
+        },
+        "higher_education": [
+            {
+                "university": "University of Fribourg",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2011,
+                "end_year": 2012,
+                "company": "Swisspetro AG",
+                "position": "Drilling Engineer",
+                "salary": 60000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "Varo Energy AG",
+                "position": "Reservoir Engineer",
+                "salary": 276000
+            }
+        ],
+        "aum": {
+            "savings": 320000,
+            "inheritance": 1650000,
+            "real_estate_value": 3010000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2019,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 3010000,
+                "property location": "Fribourg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Gasser Egli Brunner",
+        "first_name": "Gasser",
+        "middle_name": "Egli",
+        "last_name": "Brunner",
+        "passport_number": "GV2170860",
+        "currency": "CHF",
+        "address": {
+            "city": "Fribourg",
+            "street name": "Metzgergasse",
+            "street number": 86,
+            "postal code": "2531"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "062 590 19 57",
+        "email_address": "gasser.brunner@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Gasser Egli Brunner and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nWith a career spanning nearly 14 years, Gasser Egli Brunner has established himself as a key player in the industry.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Gasser Egli Brunner is currently divorced. He does not have any children.",
+        "Education Background": "Gasser completed his secondary education at Kantonsschule Sursee Luzern in 2006.\nGasser earned his degree from University of Fribourg in 2012.\n",
+        "Occupation History": "With a career spanning nearly 14 years, Gasser Egli Brunner has established himself as a key player in the industry.\nGasser Egli Brunner launched his career as a Drilling Engineer at Swisspetro AG, where he gained valuable experience from 2011 to 2012.\nAfter gaining experience, he took on the role of Reservoir Engineer at Varo Energy AG in 2013, further expanding his skill set.\n",
+        "Wealth Summary": "He managed to save approximately 320000 CHF from his earnings at all companies.\nHe owns house in Fribourg, where he resides. It is worth 3010000 CHF.\n\nHe inherited 1650000 CHF from his grandmother, a well-known Stock Trader, in 2019, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

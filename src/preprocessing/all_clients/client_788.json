@@ -1,0 +1,139 @@
+{
+    "passport": {
+        "first_name": "Gonz\u00e1lez",
+        "middle_name": "",
+        "last_name": "Mart\u00edn",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1956-12-25",
+        "passport_number": "GZ4555758",
+        "passport_mrz": [
+            "P<ESPMART\u00cdN<<GONZ\u00c1LEZ<<<<<<<<<<<<<<<<<<<<<<<<",
+            "GZ4555758ESP561225<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-02-18",
+        "passport_expiry_date": "2028-02-17"
+    },
+    "client_profile": {
+        "name": "Gonz\u00e1lez Mart\u00edn",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Calle de Alcal\u00e1",
+            "street number": 47,
+            "postal code": "76823"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1956-12-25",
+        "nationality": "Spanish",
+        "passport_number": "GZ4555758",
+        "passport_issue_date": "2018-02-18",
+        "passport_expiry_date": "2028-02-17",
+        "gender": "M",
+        "phone_number": "+34 653 929 713",
+        "email_address": "gonzalez.martin@hotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Colegio Jes\u00fas-Mar\u00eda Tarragona",
+            "graduation_year": 1975
+        },
+        "higher_education": [
+            {
+                "university": "Universidad Pontificia Comillas",
+                "graduation_year": 1981
+            },
+            {
+                "university": "IE University",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1981,
+                "end_year": 1986,
+                "company": "KKR Iberia Asesoramiento S.A.",
+                "position": "Analyst",
+                "salary": 28000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 1993,
+                "company": "Groupe Carlyle S.A.R.L.",
+                "position": "Associate",
+                "salary": 38000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1994,
+                "company": "Apax Partners Espa\u00f1a S.A.",
+                "position": "Investment Director",
+                "salary": 56000
+            },
+            {
+                "start_year": 1996,
+                "end_year": 2017,
+                "company": "Groupe Carlyle S.A.R.L.",
+                "position": "Partner",
+                "salary": 467000
+            }
+        ],
+        "aum": {
+            "savings": 850000,
+            "inheritance": 0,
+            "real_estate_value": 2430000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 950000,
+                "property location": "Bilbao"
+            },
+            {
+                "property type": "flat",
+                "property value": 710000,
+                "property location": "Cartagena"
+            },
+            {
+                "property type": "condo",
+                "property value": 770000,
+                "property location": "Guadalajara"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain",
+            "Switzerland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Gonz\u00e1lez Mart\u00edn",
+        "first_name": "Gonz\u00e1lez",
+        "middle_name": "",
+        "last_name": "Mart\u00edn",
+        "passport_number": "GZ4555758",
+        "currency": "EUR",
+        "address": {
+            "city": "Bilbao",
+            "street name": "Calle de Alcal\u00e1",
+            "street number": 47,
+            "postal code": "76823"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 653 929 713",
+        "email_address": "gonzalez.martin@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Gonz\u00e1lez Mart\u00edn since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nWith a career spanning nearly 44 years, Gonz\u00e1lez Mart\u00edn has established himself as a key player in the industry.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Gonz\u00e1lez Mart\u00edn is currently divorced. He has 3 kids called Alejandra, Beatriz and Alba.",
+        "Education Background": "Gonz\u00e1lez graduated from Colegio Jes\u00fas-Mar\u00eda Tarragona in 1975.\nGonz\u00e1lez received his degree from Universidad Pontificia Comillas in 1981.\nIn 1983, he received extra education and graduated from IE University with an additional degree.\n",
+        "Occupation History": "Having worked for over 44 years, Gonz\u00e1lez Mart\u00edn brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nGonz\u00e1lez Mart\u00edn launched his career as a Analyst at KKR Iberia Asesoramiento S.A., where he gained valuable experience from 1981 to 1986.\nHis subsequent role was as a Associate at Groupe Carlyle S.A.R.L., where he continued to grow professionally from 1988 to 1993.\nAt Apax Partners Espa\u00f1a S.A., he worked as a Investment Director from 1993 to 1994, focusing on strategic initiatives and team collaboration.\nHis next role was as a Partner at Groupe Carlyle S.A.R.L., where he applied his extensive experience to drive innovation from 1996 till retirement.\n",
+        "Wealth Summary": "He managed to save approximately 850000 EUR from his earnings at all companies.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Bilbao, Guadalajara and Cartagena, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

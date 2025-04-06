@@ -1,0 +1,142 @@
+{
+    "passport": {
+        "first_name": "Ingrid",
+        "middle_name": "\u00c9lodie",
+        "last_name": "Roelandts",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1963-10-27",
+        "passport_number": "ZW9719494",
+        "passport_mrz": [
+            "P<BELROELANDTS<<INGRID<\u00c9LODIE<<<<<<<<<<<<<<<<",
+            "ZW9719494BEL631027<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-20",
+        "passport_expiry_date": "2027-10-19"
+    },
+    "client_profile": {
+        "name": "Ingrid \u00c9lodie Roelandts",
+        "address": {
+            "city": "Wavre",
+            "street name": "Avenue de Tervuren",
+            "street number": 29,
+            "postal code": "0528"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1963-10-27",
+        "nationality": "Belgian",
+        "passport_number": "ZW9719494",
+        "passport_issue_date": "2020-10-20",
+        "passport_expiry_date": "2027-10-19",
+        "gender": "F",
+        "phone_number": "+32 0440 554 965",
+        "email_address": "ingrid.roelandts@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lycee Royal Athenee Vauboisy",
+            "graduation_year": 1983
+        },
+        "higher_education": [
+            {
+                "university": "Brussels School of International Studies",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1988,
+                "end_year": 1992,
+                "company": "Umicore SA",
+                "position": "Plant Manager",
+                "salary": 37000
+            },
+            {
+                "start_year": 1994,
+                "end_year": 1998,
+                "company": "Bekaert SA",
+                "position": "Operations Director",
+                "salary": 60000
+            },
+            {
+                "start_year": 1998,
+                "end_year": 1999,
+                "company": "ArcelorMittal Belgium NV",
+                "position": "CEO",
+                "salary": 68000
+            },
+            {
+                "start_year": 2000,
+                "end_year": 2004,
+                "company": "Nyrstar NV",
+                "position": "Chairman",
+                "salary": 132000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2024,
+                "company": "Umicore SA",
+                "position": "Conglomerate Owner",
+                "salary": 1159000
+            }
+        ],
+        "aum": {
+            "savings": 1700000,
+            "inheritance": 0,
+            "real_estate_value": 3168000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1040000,
+                "property location": "Wavre"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1068000,
+                "property location": "Roeselare"
+            },
+            {
+                "property type": "condo",
+                "property value": 1060000,
+                "property location": "Hasselt"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ingrid \u00c9lodie Roelandts",
+        "first_name": "Ingrid",
+        "middle_name": "\u00c9lodie",
+        "last_name": "Roelandts",
+        "passport_number": "ZW9719494",
+        "currency": "EUR",
+        "address": {
+            "city": "Wavre",
+            "street name": "Avenue de Tervuren",
+            "street number": 29,
+            "postal code": "0528"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0440 554 965",
+        "email_address": "ingrid.roelandts@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Ingrid \u00c9lodie Roelandts at a corporate retreat in Brussels. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nIngrid \u00c9lodie Roelandts is a 61 year old retired Conglomerate Owner from Belgium.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Ingrid \u00c9lodie Roelandts is currently single. She does not have any children.",
+        "Education Background": "Ingrid obtained her secondary school diploma from Lycee Royal Athenee Vauboisy in 1983.\nIngrid received her degree from Brussels School of International Studies in 1988.\n",
+        "Occupation History": "Ingrid \u00c9lodie Roelandts is a seasoned professional with over 37 years of experience.\nIngrid \u00c9lodie Roelandts began her professional journey as a Plant Manager at Umicore SA in 1988, laying the foundation for future success.\nAt Bekaert SA, she held the position of Operations Director from 1994 to 1998, making significant contributions to the organization.\nIn 1998, she joined ArcelorMittal Belgium NV as a CEO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nHer next role was as a Chairman at Nyrstar NV, where she applied her extensive experience to drive innovation from 2000 to 2004.\nUntil retiring, Ingrid \u00c9lodie Roelandts served as a Conglomerate Owner at Umicore SA, contributing significantly from 2006 to 2024.",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 1700000 EUR.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Roeselare, Hasselt and Wavre, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

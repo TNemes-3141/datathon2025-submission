@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Friis",
+        "middle_name": "N\u00f8rregaard",
+        "last_name": "Haugaard",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1975-04-04",
+        "passport_number": "KD8473770",
+        "passport_mrz": [
+            "P<DNKHAUGAARD<<FRIIS<N\u00d8RREGAARD<<<<<<<<<<<<<<",
+            "KD8473770DNK750404<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-04-29",
+        "passport_expiry_date": "2034-04-28"
+    },
+    "client_profile": {
+        "name": "Friis N\u00f8rregaard Haugaard",
+        "address": {
+            "city": "Horsens",
+            "street name": "Krystalgade",
+            "street number": 97,
+            "postal code": "8714"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1975-04-04",
+        "nationality": "Danish",
+        "passport_number": "KD8473770",
+        "passport_issue_date": "2024-04-29",
+        "passport_expiry_date": "2034-04-28",
+        "gender": "M",
+        "phone_number": "+45 94 67 11 53",
+        "email_address": "friis.haugaard@wanadoo.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Birker\u00f8d Gymnasium",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "Technical University of Denmark (DTU)",
+                "graduation_year": 2000
+            },
+            {
+                "university": "Copenhagen Business School",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2000,
+                "end_year": 2003,
+                "company": "SAP Danmark A/S",
+                "position": "Software Developer",
+                "salary": 267000
+            },
+            {
+                "start_year": 2005,
+                "end_year": null,
+                "company": "SAP Danmark A/S",
+                "position": "Startup Founder",
+                "salary": 1435000
+            }
+        ],
+        "aum": {
+            "savings": 2570000,
+            "inheritance": 7800000,
+            "real_estate_value": 5590000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2010,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 900000,
+                "property location": "Horsens"
+            },
+            {
+                "property type": "house",
+                "property value": 1960000,
+                "property location": "Hiller\u00f8d"
+            },
+            {
+                "property type": "villa",
+                "property value": 2730000,
+                "property location": "S\u00f8nderborg"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Italy"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Friis N\u00f8rregaard Haugaard",
+        "first_name": "Friis",
+        "middle_name": "N\u00f8rregaard",
+        "last_name": "Haugaard",
+        "passport_number": "KD8473770",
+        "currency": "DKK",
+        "address": {
+            "city": "Horsens",
+            "street name": "Krystalgade",
+            "street number": 97,
+            "postal code": "8714"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 94 67 11 53",
+        "email_address": "friis.haugaard@wanadoo.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Friis N\u00f8rregaard Haugaard at a luxury car show in Copenhagen. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nFriis N\u00f8rregaard Haugaard is a seasoned professional with over 25 years of experience.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Friis N\u00f8rregaard Haugaard is married to Camilla. They do not have any children.",
+        "Education Background": "Friis received his secondary school diploma from Birker\u00f8d Gymnasium in 1995.\nFriis completed his university studies at Technical University of Denmark (DTU) in 2000.\nHe also pursued further higher education at Copenhagen Business School, graduating in 2004.\n",
+        "Occupation History": "With a career spanning nearly 25 years, Friis N\u00f8rregaard Haugaard has established himself as a key player in the industry.\nFriis N\u00f8rregaard Haugaard began his professional journey as a Software Developer at SAP Danmark A/S in 2000, laying the foundation for future success.\nHis subsequent role was as a Startup Founder at SAP Danmark A/S, where he continued to grow professionally from 2005 till now.\n",
+        "Wealth Summary": "While working, he saved 2570000 DKK, which he used to build a diversified investment portfolio.\nHe has flat located in Horsens, worth 900000 DKK.\n\nIn addition to his primary residence, he owns house in Hiller\u00f8d worth 1960000 DKK.\n\nOn top of that he inherited a beautiful villa in S\u00f8nderborg, which could be used as a weekend getaway. It is valued at 2730000 DKK.\nIn 2010, he received an inheritance of 7800000 DKK from his late mother, who was a prominent Venture Capitalist, and has since invested it in various assets.\n",
+        "Client Summary": "In summary, Friis has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

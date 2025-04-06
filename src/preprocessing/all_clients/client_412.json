@@ -1,0 +1,89 @@
+{
+    "passport": {
+        "first_name": "Franziska",
+        "middle_name": "Sophia",
+        "last_name": "Mayr",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "2003-03-25",
+        "passport_number": "TY1812000",
+        "passport_mrz": [
+            "P<AUTMAYR<<FRANZISKA<SOPHIA<<<<<<<<<<<<<<<<<<",
+            "TY1812000AUT030325<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-06-27",
+        "passport_expiry_date": "2029-06-26"
+    },
+    "client_profile": {
+        "name": "Franziska Sophia Mayr",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Enzersdorfer Stra\u00dfe",
+            "street number": 12,
+            "postal code": "5869"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "2003-03-25",
+        "nationality": "Austrian",
+        "passport_number": "TY1812000",
+        "passport_issue_date": "2019-06-27",
+        "passport_expiry_date": "2029-06-26",
+        "gender": "F",
+        "phone_number": "395 510 2698",
+        "email_address": "franziska.mayr@vol.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Theresianum",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1190000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Franziska Sophia Mayr",
+        "first_name": "Franziska",
+        "middle_name": "Sophia",
+        "last_name": "Mayr",
+        "passport_number": "TY1812000",
+        "currency": "EUR",
+        "address": {
+            "city": "Krems an der Donau",
+            "street name": "Enzersdorfer Stra\u00dfe",
+            "street number": 12,
+            "postal code": "5869"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "395 510 2698",
+        "email_address": "franziska.mayr@vol.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Franziska Sophia Mayr at a yacht party in Vienna. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nFranziska Sophia Mayr is a 22 year old and comes from Austria.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Franziska Sophia Mayr is currently single. She does not have any children.",
+        "Education Background": "Franziska finished secondary school at Theresianum in 2021.\n",
+        "Occupation History": "Franziska Sophia Mayr is a 22 year old and comes from Austria.\nFranziska Sophia Mayr did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.She inherited 1190000 EUR from her grandfather, a well-known Hedge Fund Manager, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is excited to help Franziska navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

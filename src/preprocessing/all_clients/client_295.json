@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Chlo\u00e9",
+        "middle_name": "",
+        "last_name": "Bernard",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1984-10-31",
+        "passport_number": "RA1392587",
+        "passport_mrz": [
+            "P<FRABERNARD<<CHLO\u00c9<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "RA1392587FRA841031<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-08-28",
+        "passport_expiry_date": "2031-08-27"
+    },
+    "client_profile": {
+        "name": "Chlo\u00e9 Bernard",
+        "address": {
+            "city": "Saint-\u00c9tienne",
+            "street name": "Quai d'Orsay",
+            "street number": 42,
+            "postal code": "86441"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1984-10-31",
+        "nationality": "French",
+        "passport_number": "RA1392587",
+        "passport_issue_date": "2021-08-28",
+        "passport_expiry_date": "2031-08-27",
+        "gender": "F",
+        "phone_number": "+33 03 23 41 84 94",
+        "email_address": "chloe.bernard@live.fr",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Paul Val\u00e9ry",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "University of Lyon",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2008,
+                "end_year": 2010,
+                "company": "Cellectis S.A.",
+                "position": "Research Scientist",
+                "salary": 33000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2015,
+                "company": "Ipsen S.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 44000
+            },
+            {
+                "start_year": 2015,
+                "end_year": null,
+                "company": "Cellectis S.A.",
+                "position": "CEO",
+                "salary": 101000
+            }
+        ],
+        "aum": {
+            "savings": 150000,
+            "inheritance": 1460000,
+            "real_estate_value": 1670000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1670000,
+                "property location": "Saint-\u00c9tienne"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Chlo\u00e9 Bernard",
+        "first_name": "Chlo\u00e9",
+        "middle_name": "",
+        "last_name": "Bernard",
+        "passport_number": "RA1392587",
+        "currency": "EUR",
+        "address": {
+            "city": "Saint-\u00c9tienne",
+            "street name": "Quai d'Orsay",
+            "street number": 42,
+            "postal code": "86441"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "++31 03 23 41 84 94",
+        "email_address": "chloe.bernard@live.fr"
+    },
+    "client_description": {
+        "Summary Note": "Chlo\u00e9 Bernard and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nChlo\u00e9 Bernard is a 40 year old and comes from France.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Chlo\u00e9 Bernard is currently divorced. She has 1 kid called Marchand.",
+        "Education Background": "In 2003, Chlo\u00e9 finished her secondary school education at Lyc\u00e9e Paul Val\u00e9ry.\nChlo\u00e9 graduated from University of Lyon in 2009, completing her higher education.\n",
+        "Occupation History": "Chlo\u00e9 Bernard is a 40 year old CEO from France.\nChlo\u00e9 Bernard launched her career as a Research Scientist at Cellectis S.A., where she gained valuable experience from 2008 to 2010.\nHer subsequent role was as a Biotech Startup Founder at Ipsen S.A., where she continued to grow professionally from 2011 to 2015.\nFrom 2015 till now, she served as a CEO at Cellectis S.A., solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 150000 EUR.\nShe owns house in Saint-\u00c9tienne, where she resides. It is worth 1670000 EUR.\n\nShe inherited 1460000 EUR from her grandmother, a well-known Hedge Fund Manager, in 2017, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

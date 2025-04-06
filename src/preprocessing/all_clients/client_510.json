@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Emma",
+        "middle_name": "Louna",
+        "last_name": "Bertrand",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1976-11-15",
+        "passport_number": "CG6803206",
+        "passport_mrz": [
+            "P<FRABERTRAND<<EMMA<LOUNA<<<<<<<<<<<<<<<<<<<<",
+            "CG6803206FRA761115<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-01-06",
+        "passport_expiry_date": "2032-01-05"
+    },
+    "client_profile": {
+        "name": "Emma Louna Bertrand",
+        "address": {
+            "city": "Paris",
+            "street name": "Place Vend\u00f4me",
+            "street number": 90,
+            "postal code": "93904"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1976-11-15",
+        "nationality": "French",
+        "passport_number": "CG6803206",
+        "passport_issue_date": "2022-01-06",
+        "passport_expiry_date": "2032-01-05",
+        "gender": "F",
+        "phone_number": "03 20 64 89 96",
+        "email_address": "emma.bertrand@icloud.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Polyvalent Fran\u00e7ois Mauriac",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "American Graduate School of Business in Paris",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2004,
+                "company": "Alstom S.A.",
+                "position": "Plant Manager",
+                "salary": 31000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2011,
+                "company": "Saint-Gobain S.A.",
+                "position": "Operations Director",
+                "salary": 48000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2016,
+                "company": "Alstom S.A.",
+                "position": "CEO",
+                "salary": 65000
+            },
+            {
+                "start_year": 2017,
+                "end_year": 2018,
+                "company": "Saint-Gobain S.A.",
+                "position": "Chairman",
+                "salary": 128000
+            },
+            {
+                "start_year": 2020,
+                "end_year": 2023,
+                "company": "Saint-Gobain S.A.",
+                "position": "Conglomerate Owner",
+                "salary": 171000
+            }
+        ],
+        "aum": {
+            "savings": 190000,
+            "inheritance": 760000,
+            "real_estate_value": 1590000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2005,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1590000,
+                "property location": "Paris"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Emma Louna Bertrand",
+        "first_name": "Emma",
+        "middle_name": "Louna",
+        "last_name": "Bertrand",
+        "passport_number": "CG6803206",
+        "currency": "EUR",
+        "address": {
+            "city": "Paris",
+            "street name": "Place Vend\u00f4me",
+            "street number": 90,
+            "postal code": "93904"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "03 20 64 89 96",
+        "email_address": "emma.bertrand@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Emma Louna Bertrand and the RM met at a financial seminar in Paris. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nWith a career spanning nearly 24 years, Emma Louna Bertrand has established herself as a key player in the industry.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Emma Louna Bertrand is currently widowed. She does not have any children.",
+        "Education Background": "In 1995, Emma finished her secondary school education at Lyc\u00e9e Polyvalent Fran\u00e7ois Mauriac.\nEmma completed her university studies at American Graduate School of Business in Paris in 1999.\n",
+        "Occupation History": "Emma Louna Bertrand is a 48 year old Conglomerate Owner from France. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nEmma Louna Bertrand began her professional journey as a Plant Manager at Alstom S.A. in 2001, laying the foundation for future success.\nAt Saint-Gobain S.A., she held the position of Operations Director from 2006 to 2011, making significant contributions to the organization.\nShe spent 4 years working as a CEO at Alstom S.A., refining her expertise and building a strong network.\nShe appointment as a Chairman at Saint-Gobain S.A. in 2017 marked a significant milestone in her career, as she took on increasingly complex challenges and delivered exceptional results.\nShe has been a Conglomerate Owner at Saint-Gobain S.A. since 2020, consistently demonstrating her ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "Throughout her career, she saved 190000 EUR, investing in various assets to grow her wealth.\nShe has townhouse located in Paris, worth 1590000 EUR.\n\nIn 2005, she received an inheritance of 760000 EUR from her late grandfather, who was a prominent Oil and Gas Executive, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

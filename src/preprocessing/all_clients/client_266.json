@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Fatima",
+        "middle_name": "Margot",
+        "last_name": "Joris",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1997-05-17",
+        "passport_number": "OL4579709",
+        "passport_mrz": [
+            "P<BELJORIS<<FATIMA<MARGOT<<<<<<<<<<<<<<<<<<<<",
+            "OL4579709BEL970517<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-04-13",
+        "passport_expiry_date": "2026-04-12"
+    },
+    "client_profile": {
+        "name": "Fatima Margot Joris",
+        "address": {
+            "city": "Maaseik",
+            "street name": "Rue du Houblon",
+            "street number": 99,
+            "postal code": "6583"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1997-05-17",
+        "nationality": "Belgian",
+        "passport_number": "OL4579709",
+        "passport_issue_date": "2019-04-13",
+        "passport_expiry_date": "2026-04-12",
+        "gender": "F",
+        "phone_number": "+32 0437 339 067",
+        "email_address": "fatima.joris@voo.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut de la Sainte-Famille d'Helmet",
+            "graduation_year": 2015
+        },
+        "higher_education": [
+            {
+                "university": "Group T \u2013 International University College Leuven",
+                "graduation_year": 2021
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "ArcelorMittal Belgium NV",
+                "position": "Plant Manager",
+                "salary": 42000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 1600000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Fatima Margot Joris",
+        "first_name": "Fatima",
+        "middle_name": "Margot",
+        "last_name": "Joris",
+        "passport_number": "OL4579709",
+        "currency": "EUR",
+        "address": {
+            "city": "Maaseik",
+            "street name": "Rue du Houblon",
+            "street number": 99,
+            "postal code": "6583"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0437 339 067",
+        "email_address": "fatima.joris@voo.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Fatima Margot Joris at a golf tournament in Brussels. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nFatima Margot Joris is a 27 year old Plant Manager from Belgium.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Fatima Margot Joris is currently single. She does not have any children.",
+        "Education Background": "In 2015, Fatima graduated from Institut de la Sainte-Famille d'Helmet with a secondary school diploma.\nFatima finished her studies at Group T \u2013 International University College Leuven in 2021.\n",
+        "Occupation History": "Fatima Margot Joris is a 27 year old and comes from Belgium.\nFatima Margot Joris launched her career as a Plant Manager at ArcelorMittal Belgium NV, where she gained valuable experience from 2022 till now.\n",
+        "Wealth Summary": "While working, she saved 20000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.She inherited a significant sum of 1600000 EUR from her grandmother, a respected Real Estate Developer, in 2020, which she has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Fatima as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Scholz",
+        "middle_name": "M\u00fcller",
+        "last_name": "Schulz",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1997-02-13",
+        "passport_number": "OE2565540",
+        "passport_mrz": [
+            "P<DEUSCHULZ<<SCHOLZ<M\u00dcLLER<<<<<<<<<<<<<<<<<<<",
+            "OE2565540DEU970213<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-12-08",
+        "passport_expiry_date": "2027-12-07"
+    },
+    "client_profile": {
+        "name": "Scholz M\u00fcller Schulz",
+        "address": {
+            "city": "Leipzig",
+            "street name": "Breitscheidplatz",
+            "street number": 20,
+            "postal code": "66079"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1997-02-13",
+        "nationality": "German",
+        "passport_number": "OE2565540",
+        "passport_issue_date": "2017-12-08",
+        "passport_expiry_date": "2027-12-07",
+        "gender": "M",
+        "phone_number": "+49 2557 896791",
+        "email_address": "scholz.schulz@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Pestalozzi-Gymnasium N\u00fcrnberg",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Ludwig Maximilian University of Munich",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": 2022,
+                "company": "Boehringer Ingelheim GmbH",
+                "position": "Research Scientist",
+                "salary": 43000
+            },
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Fresenius SE & Co. KGaA",
+                "position": "Clinical Trials Manager",
+                "salary": 64000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 1910000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Scholz M\u00fcller Schulz",
+        "first_name": "Scholz",
+        "middle_name": "M\u00fcller",
+        "last_name": "Schulz",
+        "passport_number": "OE2565540",
+        "currency": "EUR",
+        "address": {
+            "city": "Leipzig",
+            "street name": "Breitscheidplatz",
+            "street number": 20,
+            "postal code": "66079"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "+49 2557 896791",
+        "email_address": "scholz.schulz@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Scholz M\u00fcller Schulz and the RM were introduced at a gourmet food festival in Berlin. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nScholz M\u00fcller Schulz is a 28 year old and comes from Germany.\nHe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Scholz M\u00fcller Schulz is currently single. He does not have any children.",
+        "Education Background": "Scholz graduated from Pestalozzi-Gymnasium N\u00fcrnberg in 2016.\nScholz completed his university studies at Ludwig Maximilian University of Munich in 2021.\n",
+        "Occupation History": "Scholz M\u00fcller Schulz is a 28 year old Clinical Trials Manager from Germany.\nAt Boehringer Ingelheim GmbH, Scholz M\u00fcller Schulz held the position of Research Scientist from 2020 to 2022, developing essential skills in the field.\nAt Fresenius SE & Co. KGaA, he held the position of Clinical Trials Manager from 2023 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 30000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.\nFollowing the passing of his grandfather, a successful Tech Entrepreneur, he received an inheritance of 1910000 EUR in 2020, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Scholz as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

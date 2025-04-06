@@ -1,0 +1,108 @@
+{
+    "passport": {
+        "first_name": "Rieder",
+        "middle_name": "Reiter",
+        "last_name": "Steiner",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1990-06-13",
+        "passport_number": "FH1078082",
+        "passport_mrz": [
+            "P<AUTSTEINER<<RIEDER<REITER<<<<<<<<<<<<<<<<<<",
+            "FH1078082AUT900613<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-07-09",
+        "passport_expiry_date": "2034-07-08"
+    },
+    "client_profile": {
+        "name": "Rieder Reiter Steiner",
+        "address": {
+            "city": "Rosenheim",
+            "street name": "Ringstra\u00dfe",
+            "street number": 97,
+            "postal code": "8703"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1990-06-13",
+        "nationality": "Austrian",
+        "passport_number": "FH1078082",
+        "passport_issue_date": "2024-07-09",
+        "passport_expiry_date": "2034-07-08",
+        "gender": "M",
+        "phone_number": "970 154 4861",
+        "email_address": "rieder.steiner@gmx.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Akademisches Gymnasium Graz",
+            "graduation_year": 2009
+        },
+        "higher_education": [
+            {
+                "university": "Vienna University of Technology",
+                "graduation_year": 2013
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2014,
+                "end_year": 2023,
+                "company": "Palfinger AG",
+                "position": "Plant Manager",
+                "salary": 39000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 1630000,
+            "real_estate_value": 1500000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1500000,
+                "property location": "Rosenheim"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Rieder Reiter Steiner",
+        "first_name": "Rieder",
+        "middle_name": "Reiter",
+        "last_name": "Steiner",
+        "passport_number": "FH1078082",
+        "currency": "EUR",
+        "address": {
+            "city": "Rosenheim",
+            "street name": "Ringstra\u00dfe",
+            "street number": 97,
+            "postal code": "8703"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "970 154 4861",
+        "email_address": "rieder.steiner@gmx.at"
+    },
+    "client_description": {
+        "Summary Note": "Rieder Reiter Steiner and the RM met at a networking event in Vienna. They quickly realized they had complementary skills and decided to collaborate on several projects.\nRieder Reiter Steiner is a 34 year old Plant Manager from Austria.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Rieder Reiter Steiner is currently single. He does not have any children.",
+        "Education Background": "In 2009, Rieder finished his secondary school education at Akademisches Gymnasium Graz.\nRieder received his degree from Vienna University of Technology in 2013.\n",
+        "Occupation History": "Rieder Reiter Steiner is a 34 year old Plant Manager from Austria.\nRieder Reiter Steiner's first role was as a Plant Manager at Palfinger AG, where he worked diligently from 2014 to 2023 to establish a strong reputation.\n",
+        "Wealth Summary": "Throughout his career, he saved 40000 EUR, investing in various assets to grow his wealth.\nHe has villa located in Rosenheim, worth 1500000 EUR.\n\n\nFollowing the passing of his grandfather, a successful Neurosurgeon, he received an inheritance of 1630000 EUR in 2019, which he has used to secure his financial future.\n\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

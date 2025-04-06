@@ -1,0 +1,141 @@
+{
+    "passport": {
+        "first_name": "Alejandra",
+        "middle_name": "Carmen",
+        "last_name": "Herrera",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1960-09-17",
+        "passport_number": "DJ0808656",
+        "passport_mrz": [
+            "P<ESPHERRERA<<ALEJANDRA<CARMEN<<<<<<<<<<<<<<<",
+            "DJ0808656ESP600917<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-12-05",
+        "passport_expiry_date": "2033-12-04"
+    },
+    "client_profile": {
+        "name": "Alejandra Carmen Herrera",
+        "address": {
+            "city": "C\u00f3rdoba",
+            "street name": "Rambla",
+            "street number": 50,
+            "postal code": "15524"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1960-09-17",
+        "nationality": "Spanish",
+        "passport_number": "DJ0808656",
+        "passport_issue_date": "2023-12-05",
+        "passport_expiry_date": "2033-12-04",
+        "gender": "F",
+        "phone_number": "602 807 744",
+        "email_address": "alejandra.herrera@wanadoo.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Jorge Guill\u00e9n Salamanca",
+            "graduation_year": 1980
+        },
+        "higher_education": [
+            {
+                "university": "University of Granada",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1990,
+                "company": "Metrovacesa S.A.",
+                "position": "Property Manager",
+                "salary": 31000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 1996,
+                "company": "Realia Business S.A.",
+                "position": "Developer",
+                "salary": 36000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2002,
+                "company": "Realia Business S.A.",
+                "position": "Construction Company Owner",
+                "salary": 97000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2006,
+                "company": "Merlin Properties SOCIMI S.A.",
+                "position": "Real Estate Investment Trust (REIT) CEO",
+                "salary": 85000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2021,
+                "company": "Metrovacesa S.A.",
+                "position": "Landlord",
+                "salary": 562000
+            }
+        ],
+        "aum": {
+            "savings": 890000,
+            "inheritance": 0,
+            "real_estate_value": 2773000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1088000,
+                "property location": "C\u00f3rdoba"
+            },
+            {
+                "property type": "flat",
+                "property value": 755000,
+                "property location": "Segovia"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 930000,
+                "property location": "Segovia"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Alejandra Carmen Herrera",
+        "first_name": "Alejandra",
+        "middle_name": "Carmen",
+        "last_name": "Herrera",
+        "passport_number": "DJ0808656",
+        "currency": "EUR",
+        "address": {
+            "city": "C\u00f3rdoba",
+            "street name": "Rambla",
+            "street number": 50,
+            "postal code": "15524"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "602 807 744",
+        "email_address": "alejandra.herrera@wanadoo.es"
+    },
+    "client_description": {
+        "Summary Note": "Alejandra Carmen Herrera and the RM are cousins, having grown up together in Madrid. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nWith a career spanning nearly 40 years, Alejandra Carmen Herrera has established herself as a key player in the industry.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Alejandra Carmen Herrera has been happily married to Navarro since 1990. Alejandra and Navarro have 2 children, named Alejandra and Morales.",
+        "Education Background": "Alejandra completed her university studies at University of Granada in 1985.\n",
+        "Occupation History": "Alejandra Carmen Herrera is a 64 year old and comes from Spain.\nAlejandra Carmen Herrera launched her career as a Property Manager at Metrovacesa S.A., where she gained valuable experience from 1985 to 1990.\nAfter gaining experience, she took on the role of Developer at Realia Business S.A. in 1992, further expanding her skill set.\nFrom 1997 to 2002, she served as a Construction Company Owner at Realia Business S.A., solidifying her position as a leader in the industry.\nIn 2002, she transitioned to Merlin Properties SOCIMI S.A. to take on the position of Real Estate Investment Trust (REIT) CEO, capitalizing on her expertise to propel business growth.\nUntil retiring, Alejandra Carmen Herrera served as a Landlord at Metrovacesa S.A., contributing significantly from 2007 to 2021.",
+        "Wealth Summary": "While working, she saved 890000 EUR, which she used to build a diversified investment portfolio.\nShe owns townhouse in C\u00f3rdoba, where she resides. It is worth 1088000 EUR.\n\nShe purchased flat in Segovia, where she spends her holidays. It is valued at 755000 EUR.\nOn top of that she inherited a beautiful townhouse in Segovia, which could be used as a weekend getaway. It is valued at 930000 EUR.\nShe does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

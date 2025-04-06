@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Bruno",
+        "middle_name": "Malatesta",
+        "last_name": "Landi",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1955-02-25",
+        "passport_number": "TO3848241",
+        "passport_mrz": [
+            "P<ITALANDI<<BRUNO<MALATESTA<<<<<<<<<<<<<<<<<<",
+            "TO3848241ITA550225<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-04-03",
+        "passport_expiry_date": "2031-04-02"
+    },
+    "client_profile": {
+        "name": "Bruno Malatesta Landi",
+        "address": {
+            "city": "Leeuwarden",
+            "street name": "Willemsparkweg",
+            "street number": 49,
+            "postal code": "2966 51"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1955-02-25",
+        "nationality": "Italian",
+        "passport_number": "TO3848241",
+        "passport_issue_date": "2021-04-03",
+        "passport_expiry_date": "2031-04-02",
+        "gender": "M",
+        "phone_number": "+31 06 36125469",
+        "email_address": "bruno.landi@gmail.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Liceo Artistico Statale Umberto Boccioni Milano",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "American University of Rome",
+                "graduation_year": 1977
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1981,
+                "company": "Crucell N.V.",
+                "position": "Research Scientist",
+                "salary": 28000
+            },
+            {
+                "start_year": 1981,
+                "end_year": 1984,
+                "company": "Philips Healthcare",
+                "position": "Biotech Startup Founder",
+                "salary": 37000
+            },
+            {
+                "start_year": 1985,
+                "end_year": 2015,
+                "company": "Philips Healthcare",
+                "position": "CEO",
+                "salary": 459000
+            }
+        ],
+        "aum": {
+            "savings": 890000,
+            "inheritance": 0,
+            "real_estate_value": 4041000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1148000,
+                "property location": "Leeuwarden"
+            },
+            {
+                "property type": "flat",
+                "property value": 563000,
+                "property location": "Naples"
+            },
+            {
+                "property type": "villa",
+                "property value": 2330000,
+                "property location": "Reggio Calabria"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Bruno Malatesta Landi",
+        "first_name": "Bruno",
+        "middle_name": "Malatesta",
+        "last_name": "Landi",
+        "passport_number": "TO3848241",
+        "currency": "EUR",
+        "address": {
+            "city": "Leeuwarden",
+            "street name": "Willemsparkweg",
+            "street number": 49,
+            "postal code": "2966 51"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 36125469",
+        "email_address": "bruno.landi@gmail.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Bruno Malatesta Landi's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nWith a career spanning nearly 46 years, Bruno Malatesta Landi has established himself as a key player in the industry.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Bruno Malatesta Landi is currently widowed. His child is named Sofia.",
+        "Education Background": "Bruno earned his secondary school diploma from Liceo Artistico Statale Umberto Boccioni Milano in 1974.\nBruno earned his degree from American University of Rome in 1977.\n",
+        "Occupation History": "Bruno Malatesta Landi is a seasoned professional with over 46 years of experience.\nAt Crucell N.V., Bruno Malatesta Landi held the position of Research Scientist from 1979 to 1981, developing essential skills in the field.\nAfter gaining experience, he took on the role of Biotech Startup Founder at Philips Healthcare in 1981, further expanding his skill set.\nIn 1985, he joined Philips Healthcare as a CEO, taking on new challenges and responsibilities that helped him grow both personally and professionally.\n",
+        "Wealth Summary": "Throughout his career, he saved 890000 EUR, investing in various assets to grow his wealth.\nHe owns condo in Leeuwarden, where he resides. It is worth 1148000 EUR.\n\nIn addition to his primary residence, he owns flat in Naples worth 563000 EUR.\n\nMoreover, he has invested in additional property in Reggio Calabria, giving possiblity for generating additional income. The villa is valued at 2330000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

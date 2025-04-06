@@ -1,0 +1,136 @@
+{
+    "passport": {
+        "first_name": "Oph\u00e9lie",
+        "middle_name": "Ingrid",
+        "last_name": "Lefebvre",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1987-05-29",
+        "passport_number": "GO4385349",
+        "passport_mrz": [
+            "P<FRALEFEBVRE<<OPH\u00c9LIE<INGRID<<<<<<<<<<<<<<<<",
+            "GO4385349FRA870529<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-09-22",
+        "passport_expiry_date": "2030-09-21"
+    },
+    "client_profile": {
+        "name": "Oph\u00e9lie Ingrid Lefebvre",
+        "address": {
+            "city": "Copenhagen",
+            "street name": "Vesterbrogade",
+            "street number": 75,
+            "postal code": "4811"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1987-05-29",
+        "nationality": "French",
+        "passport_number": "GO4385349",
+        "passport_issue_date": "2020-09-22",
+        "passport_expiry_date": "2030-09-21",
+        "gender": "F",
+        "phone_number": "91 74 48 39",
+        "email_address": "ophelie.lefebvre@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Henri IV",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "EMIC de Nice",
+                "graduation_year": 2010
+            },
+            {
+                "university": "EMIC de Paris",
+                "graduation_year": 2016
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2012,
+                "end_year": 2016,
+                "company": "EQT Partners A/S",
+                "position": "Analyst",
+                "salary": 33000
+            },
+            {
+                "start_year": 2017,
+                "end_year": 2021,
+                "company": "Advent International Danmark A/S",
+                "position": "Associate",
+                "salary": 48000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Axcel Management A/S",
+                "position": "Investment Director",
+                "salary": 69000
+            }
+        ],
+        "aum": {
+            "savings": 80000,
+            "inheritance": 6990000,
+            "real_estate_value": 4192000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1017000,
+                "property location": "Copenhagen"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1505000,
+                "property location": "Orl\u00e9ans"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1670000,
+                "property location": "Nice"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "France"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Oph\u00e9lie Ingrid Lefebvre",
+        "first_name": "Oph\u00e9lie",
+        "middle_name": "Ingrid",
+        "last_name": "Lefebvre",
+        "passport_number": "GO4385349",
+        "currency": "DKK",
+        "address": {
+            "city": "Copenhagen",
+            "street name": "Vesterbrogade",
+            "street number": 75,
+            "postal code": "4811"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "91 74 48 39",
+        "email_address": "ophelie.lefebvre@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Oph\u00e9lie Ingrid Lefebvre at a golf tournament in Copenhagen. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nOph\u00e9lie Ingrid Lefebvre is a seasoned professional with over 13 years of experience.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Oph\u00e9lie Ingrid Lefebvre is currently single. She does not have any children.",
+        "Education Background": "Oph\u00e9lie completed her secondary education at Lyc\u00e9e Henri IV in 2007.\nOph\u00e9lie received her degree from EMIC de Nice in 2010.\nIn 2016, she received extra education and graduated from EMIC de Paris with an additional degree.\n",
+        "Occupation History": "Oph\u00e9lie Ingrid Lefebvre is a seasoned professional with over 13 years of experience.\nOph\u00e9lie Ingrid Lefebvre began her professional journey as a Analyst at EQT Partners A/S in 2012, laying the foundation for future success.\nShe then transitioned to Advent International Danmark A/S as a Associate, leveraging her expertise to drive results from 2017 to 2021.\nShe spent 4 years working as a Investment Director at Axcel Management A/S, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "She managed to save approximately 80000 DKK from her earnings at all companies.\nShe has flat located in Copenhagen, worth 1017000 DKK.\n\nShe purchased townhouse in Orl\u00e9ans, where she spends her holidays. It is valued at 1505000 DKK.\nMoreover, she has invested in additional property in Nice, giving possiblity for generating additional income. The townhouse is valued at 1670000 DKK.\n\nShe inherited 6990000 DKK from her grandfather, a well-known Stock Trader, in 2019, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

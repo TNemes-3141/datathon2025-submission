@@ -1,0 +1,132 @@
+{
+    "passport": {
+        "first_name": "Chlo\u00e9",
+        "middle_name": "Colombe",
+        "last_name": "Garcia",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1985-04-26",
+        "passport_number": "RE5935689",
+        "passport_mrz": [
+            "P<FRAGARCIA<<CHLO\u00c9<COLOMBE<<<<<<<<<<<<<<<<<<<",
+            "RE5935689FRA850426<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-09-08",
+        "passport_expiry_date": "2032-09-07"
+    },
+    "client_profile": {
+        "name": "Chlo\u00e9 Colombe Garcia",
+        "address": {
+            "city": "Saint-\u00c9tienne",
+            "street name": "Avenue Montaigne",
+            "street number": 3,
+            "postal code": "38864"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1985-04-26",
+        "nationality": "French",
+        "passport_number": "RE5935689",
+        "passport_issue_date": "2022-09-08",
+        "passport_expiry_date": "2032-09-07",
+        "gender": "F",
+        "phone_number": "09 89 79 01 33",
+        "email_address": "chloe.garcia@neuf.fr",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Claude Debussy",
+            "graduation_year": 2004
+        },
+        "higher_education": [
+            {
+                "university": "Skema Business School",
+                "graduation_year": 1994
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2012,
+                "company": "CMA CGM S.A.",
+                "position": "Ship Broker",
+                "salary": 31000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2016,
+                "company": "Louis Dreyfus Armateurs",
+                "position": "Shipping Company Owner",
+                "salary": 47000
+            },
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "Neptune Lines France",
+                "position": "Fleet Manager",
+                "salary": 123000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 5410000,
+            "real_estate_value": 5910000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1880000,
+                "property location": "Saint-\u00c9tienne"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1900000,
+                "property location": "Aix-en-Provence"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 2130000,
+                "property location": "Le Mans"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Chlo\u00e9 Colombe Garcia",
+        "first_name": "Chlo\u00e9",
+        "middle_name": "Colombe",
+        "last_name": "Gvarcia",
+        "passport_number": "RE5935689",
+        "currency": "EUR",
+        "address": {
+            "city": "Saint-\u00c9tienne",
+            "street name": "Avenue Montaigne",
+            "street number": 3,
+            "postal code": "38864"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "09 89 79 01 33",
+        "email_address": "chloe.garcia@neuf.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Chlo\u00e9 Colombe Garcia on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHaving worked for over 15 years, Chlo\u00e9 Colombe Garcia brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Chlo\u00e9 Colombe Garcia is currently divorced. Her children are named Gabrielle and Cl\u00e9mentine.",
+        "Education Background": "In 2004, Chlo\u00e9 graduated from Lyc\u00e9e Claude Debussy with a secondary school diploma.\nChlo\u00e9 completed her university education at Skema Business School in 2009.\n",
+        "Occupation History": "Chlo\u00e9 Colombe Garcia is a seasoned professional with over 15 years of experience.\nAt CMA CGM S.A., Chlo\u00e9 Colombe Garcia held the position of Ship Broker from 2010 to 2012, developing essential skills in the field.\nAt Louis Dreyfus Armateurs, she held the position of Shipping Company Owner from 2012 to 2016, making significant contributions to the organization.\nShe spent 8 years working as a Fleet Manager at Neptune Lines France, refining her expertise and building a strong network.\n",
+        "Wealth Summary": "Throughout her career, she saved 140000 EUR, investing in various assets to grow her wealth.\nShe owns townhouse in Saint-\u00c9tienne, where she resides. It is worth 1880000 EUR.\n\nIn addition to her primary residence, she owns townhouse in Aix-en-Provence worth 1900000 EUR.\n\nOn top of that she inherited a beautiful townhouse in Le Mans, which could be used as a weekend getaway. It is valued at 2130000 EUR.\n\nFollowing the passing of her grandmother, a successful Stock Trader, she received an inheritance of 5410000 EUR in 2016, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

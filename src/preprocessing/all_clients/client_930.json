@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Olsen",
+        "middle_name": "Andersen",
+        "last_name": "Kristensen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1973-08-16",
+        "passport_number": "EH3621771",
+        "passport_mrz": [
+            "P<DNKKRISTENSEN<<OLSEN<ANDERSEN<<<<<<<<<<<<<<",
+            "EH3621771DNK730816<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-04-06",
+        "passport_expiry_date": "2029-04-05"
+    },
+    "client_profile": {
+        "name": "Olsen Andersen Kristensen",
+        "address": {
+            "city": "Kolding",
+            "street name": "Store Kongensgade",
+            "street number": 68,
+            "postal code": "7624"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1973-08-16",
+        "nationality": "Danish",
+        "passport_number": "EH3621771",
+        "passport_issue_date": "2019-04-06",
+        "passport_expiry_date": "2029-04-05",
+        "gender": "M",
+        "phone_number": "00 33 93 43",
+        "email_address": "olsen.kristensen@tiscali.dk",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Faaborg Gymnasium",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 2002,
+                "company": "Plesner",
+                "position": "Associate Attorney",
+                "salary": 389000
+            },
+            {
+                "start_year": 2003,
+                "end_year": null,
+                "company": "Bech-Bruun",
+                "position": "Senior Associate",
+                "salary": 1265000
+            }
+        ],
+        "aum": {
+            "savings": 2230000,
+            "inheritance": 48180000,
+            "real_estate_value": 5794000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2011,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2850000,
+                "property location": "Kolding"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1784000,
+                "property location": "Slagelse"
+            },
+            {
+                "property type": "flat",
+                "property value": 1160000,
+                "property location": "Kolding"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Olsen Andersen Kristensen",
+        "first_name": "Olsen",
+        "middle_name": "Andersen",
+        "last_name": "Kristensen",
+        "passport_number": "EH3621771",
+        "currency": "DKK",
+        "address": {
+            "city": "Kolding",
+            "street name": "Store Kongensgade",
+            "street number": 68,
+            "postal code": "7624"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "00 33 93 43",
+        "email_address": "olsen.kristensen@tiscali.dk"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Olsen Andersen Kristensen on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nOlsen Andersen Kristensen is a seasoned professional with over 28 years of experience.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Olsen Andersen Kristensen is currently divorced. He has 2 kids called M\u00f8ller and Idun.",
+        "Education Background": "In 1991, Olsen graduated from Faaborg Gymnasium with a secondary school diploma.\nOlsen graduated from Aarhus University in 1998, completing his higher education.\n",
+        "Occupation History": "Having worked for over 28 years, Olsen Andersen Kristensen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nAt Plesner, Olsen Andersen Kristensen held the position of Associate Attorney from 1997 to 2002, developing essential skills in the field.\nAt Bech-Bruun, he held the position of Senior Associate from 2003 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "While working, he saved 2230000 DKK, which he used to build a diversified investment portfolio.\nHe owns villa in Kolding, where he resides. It is worth 2850000 DKK.\n\nIn addition to his primary residence, he owns townhouse in Slagelse worth 1784000 DKK.\n\nOn top of that he inherited a beautiful flat in Kolding, which could be used as a weekend getaway. It is valued at 1160000 DKK.\nIn 2011, he received an inheritance of 48180000 DKK from his late grandmother, who was a prominent Private Equity Manager, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Olsen as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

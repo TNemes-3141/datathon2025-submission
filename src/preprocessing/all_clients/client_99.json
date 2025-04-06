@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Hannah",
+        "middle_name": "Gertrud",
+        "last_name": "M\u00fcller",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1978-10-07",
+        "passport_number": "QR9183549",
+        "passport_mrz": [
+            "P<AUTM\u00dcLLER<<HANNAH<GERTRUD<<<<<<<<<<<<<<<<<<",
+            "QR9183549AUT781007<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-10-09",
+        "passport_expiry_date": "2026-10-08"
+    },
+    "client_profile": {
+        "name": "Hannah Gertrud M\u00fcller",
+        "address": {
+            "city": "Bruck an der Mur",
+            "street name": "Kohlmarkt",
+            "street number": 52,
+            "postal code": "9420"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1978-10-07",
+        "nationality": "Austrian",
+        "passport_number": "QR9183549",
+        "passport_issue_date": "2016-10-09",
+        "passport_expiry_date": "2026-10-08",
+        "gender": "F",
+        "phone_number": "461 230 9158",
+        "email_address": "hannah.muller@vol.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "HAK/HAS Gr\u00f6dig",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "Graz University of Technology",
+                "graduation_year": 2002
+            },
+            {
+                "university": "Montanuniversit\u00e4t Leoben",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2005,
+                "company": "Baxter BioScience",
+                "position": "Research Scientist",
+                "salary": 35000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2011,
+                "company": "Baxter BioScience",
+                "position": "Biotech Startup Founder",
+                "salary": 61000
+            },
+            {
+                "start_year": 2011,
+                "end_year": null,
+                "company": "Marinomed Biotechnologie GmbH",
+                "position": "CEO",
+                "salary": 206000
+            }
+        ],
+        "aum": {
+            "savings": 300000,
+            "inheritance": 2060000,
+            "real_estate_value": 1170000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2014,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1170000,
+                "property location": "Bruck an der Mur"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Austria",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hannah Gertrud M\u00fcller",
+        "first_name": "Hannah",
+        "middle_name": "Gertrud",
+        "last_name": "M\u00fcller",
+        "passport_number": "QR9183549",
+        "currency": "EUR",
+        "address": {
+            "city": "Bruck an der Mur",
+            "street name": "Kohlmarkt",
+            "street number": 52,
+            "postal code": "9420"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "461 230 9158",
+        "email_address": "hannah.muller@vol.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Hannah Gertrud M\u00fcller on a skiing trip in the Swiss Alps. They spent the weekend skiing and discussing various investment strategies, which laid the foundation for a strong professional relationship.\nHannah Gertrud M\u00fcller is a 46 year old CEO from Austria. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Hannah Gertrud M\u00fcller is married to Schmidt. They do not have any children.",
+        "Education Background": "Hannah completed her secondary education at HAK/HAS Gr\u00f6dig in 1997.\nHannah earned her degree from Graz University of Technology in 2002.\nShe also pursued further higher education at Montanuniversit\u00e4t Leoben, graduating in 2007.\n",
+        "Occupation History": "Hannah Gertrud M\u00fcller is a 46 year old and comes from Austria.\nHannah Gertrud M\u00fcller's first role was as a Research Scientist at Baxter BioScience, where she worked diligently from 2002 to 2005 to establish a strong reputation.\nIn 2006, she moved to Baxter BioScience to work as a Biotech Startup Founder, applying her knowledge to achieve outstanding performance.\nFrom 2011 till now, she served as a CEO at Marinomed Biotechnologie GmbH, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "She managed to save approximately 300000 EUR from her earnings at all companies.\nShe has townhouse located in Bruck an der Mur, worth 1170000 EUR.\n\nShe inherited 2060000 EUR from her grandfather, a well-known Hedge Fund Manager, in 2014, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

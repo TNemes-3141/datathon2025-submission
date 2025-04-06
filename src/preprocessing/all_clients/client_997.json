@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Franziska",
+        "middle_name": "Emma",
+        "last_name": "Weber",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1964-07-11",
+        "passport_number": "RI8853811",
+        "passport_mrz": [
+            "P<DEUWEBER<<FRANZISKA<EMMA<<<<<<<<<<<<<<<<<<<",
+            "RI8853811DEU640711<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-02-03",
+        "passport_expiry_date": "2028-02-02"
+    },
+    "client_profile": {
+        "name": "Franziska Emma Weber",
+        "address": {
+            "city": "Frankfurt am Main",
+            "street name": "Neuer Markt",
+            "street number": 26,
+            "postal code": "59813"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1964-07-11",
+        "nationality": "German",
+        "passport_number": "RI8853811",
+        "passport_issue_date": "2018-02-03",
+        "passport_expiry_date": "2028-02-02",
+        "gender": "F",
+        "phone_number": "6803 131797",
+        "email_address": "franziska.weber@gmx.de",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Staatliches Gymnasium am Obersalzberg",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "Munich University of Fine Arts",
+                "graduation_year": 1988
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1989,
+                "end_year": 1993,
+                "company": "Software AG",
+                "position": "Software Developer",
+                "salary": 45000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 1996,
+                "company": "Software AG",
+                "position": "Startup Founder",
+                "salary": 65000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 1999,
+                "company": "Bosch Software Innovations GmbH",
+                "position": "CEO",
+                "salary": 76000
+            },
+            {
+                "start_year": 2001,
+                "end_year": 2002,
+                "company": "Bosch Software Innovations GmbH",
+                "position": "Venture Capitalist",
+                "salary": 128000
+            },
+            {
+                "start_year": 2002,
+                "end_year": 2025,
+                "company": "Siemens AG",
+                "position": "Tech Industry Leader",
+                "salary": 1450000
+            }
+        ],
+        "aum": {
+            "savings": 2240000,
+            "inheritance": 580000,
+            "real_estate_value": 2090000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2090000,
+                "property location": "Frankfurt am Main"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Franziska Emma Weber",
+        "first_name": "Franziska",
+        "middle_name": "Emma",
+        "last_name": "Weber",
+        "passport_number": "RI8853811",
+        "currency": "EUR",
+        "address": {
+            "city": "Frankfurt am Main",
+            "street name": "Neuer Markt",
+            "street number": 26,
+            "postal code": "59813"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "6803 131797",
+        "email_address": "franziska.weber@gmx.de"
+    },
+    "client_description": {
+        "Summary Note": "Franziska Emma Weber and the RM were introduced at an art auction in Berlin. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nWith a career spanning nearly 36 years, Franziska Emma Weber has established herself as a key player in the industry.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Franziska Emma Weber is currently divorced. She has 3 kids called Fischer, Juliane and Mia.",
+        "Education Background": "Franziska obtained her secondary school diploma from Staatliches Gymnasium am Obersalzberg in 1982.\nFranziska graduated from Weingarten University of Education in 1977, completing her higher education.\n",
+        "Occupation History": "With a career spanning nearly 36 years, Franziska Emma Weber has established herself as a key player in the industry.\nIn 1989, Franziska Emma Weber started working as a Software Developer at Software AG, marking the beginning of her successful career.\nAfter gaining experience, she took on the role of Startup Founder at Software AG in 1993, further expanding her skill set.\nIn 1997, she joined Bosch Software Innovations GmbH as a CEO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nShe worked as a Venture Capitalist at Bosch Software Innovations GmbH from 2001 to 2002, playing a pivotal role in shaping the company's vision and strategy.\nFranziska Emma Weber retired after holding the position of Tech Industry Leader at Siemens AG from 2002 to 2025.",
+        "Wealth Summary": "She managed to save approximately 2240000 EUR from her earnings at all companies.\nShe has house located in Frankfurt am Main, worth 2090000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 580000 EUR from her late grandmother, a renowned Stock Trader, in 2015.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

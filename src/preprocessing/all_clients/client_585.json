@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Aino",
+        "middle_name": "Anniina",
+        "last_name": "M\u00e4kinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1974-07-11",
+        "passport_number": "UX4549354",
+        "passport_mrz": [
+            "P<FINM\u00c4KINEN<<AINO<ANNIINA<<<<<<<<<<<<<<<<<<<",
+            "UX4549354FIN740711<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-22",
+        "passport_expiry_date": "2029-09-21"
+    },
+    "client_profile": {
+        "name": "Aino Anniina M\u00e4kinen",
+        "address": {
+            "city": "Mikkeli",
+            "street name": "Kauppakartanonkatu",
+            "street number": 13,
+            "postal code": "35917"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1974-07-11",
+        "nationality": "Finnish",
+        "passport_number": "UX4549354",
+        "passport_issue_date": "2019-09-22",
+        "passport_expiry_date": "2029-09-21",
+        "gender": "F",
+        "phone_number": "+358 047 676 91 29",
+        "email_address": "aino.makinen@luukku.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Karjaan lukio",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "\u00c5bo Akademi University School of Economics",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2003,
+                "company": "Nordea Bank ABp",
+                "position": "Family Office Manager",
+                "salary": 41000
+            },
+            {
+                "start_year": 2003,
+                "end_year": null,
+                "company": "Handelsbanken plc",
+                "position": "Investment Director",
+                "salary": 219000
+            }
+        ],
+        "aum": {
+            "savings": 410000,
+            "inheritance": 430000,
+            "real_estate_value": 3230000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2009,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2430000,
+                "property location": "Mikkeli"
+            },
+            {
+                "property type": "condo",
+                "property value": 800000,
+                "property location": "Sipoo"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Aino Anniina M\u00e4kinen",
+        "first_name": "Aino",
+        "middle_name": "Anniina",
+        "last_name": "M\u00e4kinen",
+        "passport_number": "UX4549354",
+        "currency": "EUR",
+        "address": {
+            "city": "Mikkeli",
+            "street name": "Kauppakartanonkatu",
+            "street number": 13,
+            "postal code": "35917"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 047 676 91 29",
+        "email_address": "aino.makinen@luukku.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Aino Anniina M\u00e4kinen at a luxury car show in Helsinki. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nAino Anniina M\u00e4kinen is a seasoned professional with over 26 years of experience.\nJulius Baer's personalized approach and dedication to client success were key factors in her decision to join.\n",
+        "Family Background": "Aino Anniina M\u00e4kinen and J\u00e4rvinen tied the knot in 2004. They are proud parents of 3 children: Tiainen, Laura and Iiris.",
+        "Education Background": "Aino earned her secondary school diploma from Karjaan lukio in 1993.\nAino completed her university studies at \u00c5bo Akademi University School of Economics in 1997.\n",
+        "Occupation History": "Aino Anniina M\u00e4kinen is a 50 year old Investment Director from Finland.\nAino Anniina M\u00e4kinen launched her career as a Family Office Manager at Nordea Bank ABp, where she gained valuable experience from 1999 to 2003.\nAt Handelsbanken plc, she held the position of Investment Director from 2003 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "While working, she saved 410000 EUR, which she used to build a diversified investment portfolio.\nShe has villa located in Mikkeli, worth 2430000 EUR.\n\nShe purchased condo in Sipoo, where she spends her holidays. It is valued at 800000 EUR.\n\nIn addition to her career success, she also received an inheritance of 430000 EUR from her late mother, a renowned Neurosurgeon, in 2009.\n",
+        "Client Summary": "The RM is very happy to have Aino as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Anne",
+        "middle_name": "Jasmijn",
+        "last_name": "Schipper",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1986-01-12",
+        "passport_number": "KO7796308",
+        "passport_mrz": [
+            "P<NLDSCHIPPER<<ANNE<JASMIJN<<<<<<<<<<<<<<<<<<",
+            "KO7796308NLD860112<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-10-25",
+        "passport_expiry_date": "2031-10-24"
+    },
+    "client_profile": {
+        "name": "Anne Jasmijn Schipper",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Waterlooplein",
+            "street number": 99,
+            "postal code": "8830 73"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1986-01-12",
+        "nationality": "Dutch",
+        "passport_number": "KO7796308",
+        "passport_issue_date": "2021-10-25",
+        "passport_expiry_date": "2031-10-24",
+        "gender": "F",
+        "phone_number": "+31 06 85917727",
+        "email_address": "anne.schipper@kpnmail.nl",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Leonardo College 's-Hertogenbosch",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "University of Amsterdam",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2011,
+                "company": "Stater Nederland N.V.",
+                "position": "Financial Advisor",
+                "salary": 43000
+            },
+            {
+                "start_year": 2012,
+                "end_year": 2016,
+                "company": "Rabobank Private Banking",
+                "position": "Portfolio Manager",
+                "salary": 63000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Stater Nederland N.V.",
+                "position": "Wealth Manager",
+                "salary": 167000
+            }
+        ],
+        "aum": {
+            "savings": 180000,
+            "inheritance": 230000,
+            "real_estate_value": 2630000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2630000,
+                "property location": "Hoofddorp"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Anne Jasmijn Schipper",
+        "first_name": "Anne",
+        "middle_name": "Jasmijn",
+        "last_name": "Schipper",
+        "passport_number": "KO7796308",
+        "currency": "EUR",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Waterlooplein",
+            "street number": 99,
+            "postal code": "8830 73"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 85917727",
+        "email_address": "anne.schipper@kpnmail.nl"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Anne Jasmijn Schipper at a golf tournament in Amsterdam. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nAnne Jasmijn Schipper is a 39 year old Wealth Manager from Netherlands. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Anne Jasmijn Schipper is currently widowed. She has 3 kids called Yara, Peeters and Eva.",
+        "Education Background": "Anne obtained her secondary school diploma from Leonardo College 's-Hertogenbosch in 2003.\nAfter that, she went on to study at University of Amsterdam until 2008.\n",
+        "Occupation History": "Having worked for over 16 years, Anne Jasmijn Schipper brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nAnne Jasmijn Schipper's first role was as a Financial Advisor at Stater Nederland N.V., where she worked diligently from 2009 to 2011 to establish a strong reputation.\nIn 2012, she moved to Rabobank Private Banking to work as a Portfolio Manager, applying her knowledge to achieve outstanding performance.\nIn 2018, she joined Stater Nederland N.V. as a Wealth Manager, taking on new challenges and responsibilities that helped her grow both personally and professionally.\n",
+        "Wealth Summary": "She managed to save approximately 180000 EUR from her earnings at all companies.\nShe owns villa in Hoofddorp, where she resides. It is worth 2630000 EUR.\n\n\nFollowing the passing of her , a successful Stock Trader, she received an inheritance of 230000 EUR in , which she has used to secure her financial future.\n\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

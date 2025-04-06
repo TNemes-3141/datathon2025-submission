@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Hannelore",
+        "middle_name": "Anouk",
+        "last_name": "Krol",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "2002-07-24",
+        "passport_number": "NH5683801",
+        "passport_mrz": [
+            "P<NLDKROL<<HANNELORE<ANOUK<<<<<<<<<<<<<<<<<<<",
+            "NH5683801NLD020724<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2023-01-04",
+        "passport_expiry_date": "2033-01-03"
+    },
+    "client_profile": {
+        "name": "Hannelore Anouk Krol",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Kalverstraat",
+            "street number": 4,
+            "postal code": "5785 52"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "2002-07-24",
+        "nationality": "Dutch",
+        "passport_number": "NH5683801",
+        "passport_issue_date": "2023-01-04",
+        "passport_expiry_date": "2033-01-03",
+        "gender": "F",
+        "phone_number": "+31 06 90206880",
+        "email_address": "hannelore.krol@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Openbaar Lyceum Hengelo",
+            "graduation_year": 2021
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 2780000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2016,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Hannelore Anouk Krol",
+        "first_name": "Hannelore",
+        "middle_name": "Anouk",
+        "last_name": "Krol",
+        "passport_number": "NH5683801",
+        "currency": "EUR",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": "Kalverstraat",
+            "street number": 4,
+            "postal code": "5785 52"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "+31 06 90206880",
+        "email_address": "hannelore.krol@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Hannelore Anouk Krol and the RM crossed paths at a mutual friend's dinner party in Amsterdam. They discovered they had many common acquaintances and decided to explore business opportunities together.\nHannelore Anouk Krol is a 22 year old and comes from Netherlands.\nAttracted by Julius Baer's reputation for excellence, she chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Hannelore Anouk Krol is currently single. She does not have any children.",
+        "Education Background": "Hannelore finished secondary school at Openbaar Lyceum Hengelo in 2021.\n",
+        "Occupation History": "Hannelore Anouk Krol is a 22 year old and comes from Netherlands.\nHannelore Anouk Krol did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.She inherited a significant sum of 2780000 EUR from her grandmother, a respected Neurosurgeon, in 2016, which she has wisely invested.\n",
+        "Client Summary": "The RM is committed to helping Hannelore achieve financial success and security as she embarks on her professional journey.\n"
+    }
+}

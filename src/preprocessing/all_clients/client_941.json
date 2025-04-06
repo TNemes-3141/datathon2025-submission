@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Kristensen",
+        "middle_name": "\u00d8stergaard",
+        "last_name": "Madsen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1976-04-06",
+        "passport_number": "VZ3877738",
+        "passport_mrz": [
+            "P<DNKMADSEN<<KRISTENSEN<\u00d8STERGAARD<<<<<<<<<<<",
+            "VZ3877738DNK760406<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-03",
+        "passport_expiry_date": "2029-03-02"
+    },
+    "client_profile": {
+        "name": "Kristensen \u00d8stergaard Madsen",
+        "address": {
+            "city": "Clermont-Ferrand",
+            "street name": "Rue Royale",
+            "street number": 1,
+            "postal code": "80680"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1976-04-06",
+        "nationality": "Danish",
+        "passport_number": "VZ3877738",
+        "passport_issue_date": "2019-03-03",
+        "passport_expiry_date": "2029-03-02",
+        "gender": "M",
+        "phone_number": "",
+        "email_address": "kristensen.madsenyahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kolding Gymnasium",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2000,
+                "end_year": 2003,
+                "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A.",
+                "position": "Investment Banker",
+                "salary": 254000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2008,
+                "company": "Natixis S.A.",
+                "position": "Private Equity Investor",
+                "salary": 410000
+            },
+            {
+                "start_year": 2009,
+                "end_year": null,
+                "company": "Cr\u00e9dit Agricole S.A.",
+                "position": "Hedge Fund Manager",
+                "salary": 2162000
+            }
+        ],
+        "aum": {
+            "savings": 3020000,
+            "inheritance": 1360000,
+            "real_estate_value": 2191000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2005,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1071000,
+                "property location": "Clermont-Ferrand"
+            },
+            {
+                "property type": "condo",
+                "property value": 1120000,
+                "property location": "Hiller\u00f8d"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Kristensen \u00d8stergaard Madsen",
+        "first_name": "Kristensen",
+        "middle_name": "\u00d8stergaard",
+        "last_name": "Madsen",
+        "passport_number": "VZ3877738",
+        "currency": "EUR",
+        "address": {
+            "city": "Clermont-Ferrand",
+            "street name": "Rue Royale",
+            "street number": 1,
+            "postal code": "80680"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "05 19 10 56 24",
+        "email_address": "kristensen.madsen@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Kristensen \u00d8stergaard Madsen at a wine tasting event in Paris. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nKristensen \u00d8stergaard Madsen is a 48 year old Hedge Fund Manager from France. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Kristensen \u00d8stergaard Madsen is married to Josephine. Together they have 1 kid called Oddershede.",
+        "Education Background": "Kristensen received his secondary school diploma from Kolding Gymnasium in 1994.\nKristensen completed his university studies at Aarhus University in 2000.\n",
+        "Occupation History": "Having worked for over 25 years, Kristensen \u00d8stergaard Madsen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nKristensen \u00d8stergaard Madsen began his professional journey as a Investment Banker at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A. in 2000, laying the foundation for future success.\nAfter gaining experience, he took on the role of Private Equity Investor at Natixis S.A. in 2005, further expanding his skill set.\nHe spent 16 years working as a Hedge Fund Manager at Cr\u00e9dit Agricole S.A., refining his expertise and building a strong network.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 3020000 EUR.\nHe has flat located in Clermont-Ferrand, worth 1071000 EUR.\n\nIn addition to his primary residence, he owns condo in Hiller\u00f8d worth 1120000 EUR.\n\nHe inherited 1360000 EUR from his grandfather, a well-known Hedge Fund Manager, in 2005, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Dominique",
+        "middle_name": "Julia",
+        "last_name": "Suter",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "2001-01-02",
+        "passport_number": "OP3780905",
+        "passport_mrz": [
+            "P<CHESUTER<<DOMINIQUE<JULIA<<<<<<<<<<<<<<<<<<",
+            "OP3780905CHE010102<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-05-11",
+        "passport_expiry_date": "2027-05-10"
+    },
+    "client_profile": {
+        "name": "Dominique Julia Suter",
+        "address": {
+            "city": "Geneva",
+            "street name": "Untere Hauptgasse",
+            "street number": 83,
+            "postal code": "3864"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "2001-01-02",
+        "nationality": "Swiss",
+        "passport_number": "OP3780905",
+        "passport_issue_date": "2017-05-11",
+        "passport_expiry_date": "2027-05-10",
+        "gender": "F",
+        "phone_number": "+41 075 755 20 99",
+        "email_address": "dominique.suter@yahoo.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Gymnasium am See Kreuzlingen",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "Suffolk University in Geneva",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1950000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Dominique Julia Suter",
+        "first_name": "Dominique",
+        "middle_name": "Julia",
+        "last_name": "Suter",
+        "passport_number": "OP3780905",
+        "currency": "CHF",
+        "address": {
+            "city": "Geneva",
+            "street name": "Untere Hauptgasse",
+            "street number": 83,
+            "postal code": "3864"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 075 755 20 99",
+        "email_address": "dominique.suter@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Dominique Julia Suter and the RM were introduced at a charity run in Z\u00fcrich. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nDominique Julia Suter is a 24 year old and comes from Switzerland.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Dominique Julia Suter is currently single. She does not have any children.",
+        "Education Background": "In 2019, Dominique graduated from Gymnasium am See Kreuzlingen with a secondary school diploma.\nDominique pursued higher education at Suffolk University in Geneva, graduating in 2025.\n",
+        "Occupation History": "Dominique Julia Suter is a 24 year old and comes from Switzerland.\nDominique Julia Suter did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.She inherited 1950000 CHF from her grandmother, a well-known Tech Entrepreneur, in 2018, allowing her to expand her investment portfolio.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

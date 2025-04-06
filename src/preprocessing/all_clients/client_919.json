@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Marta",
+        "middle_name": "Carmen",
+        "last_name": "Morales",
+        "gender": "F",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1999-12-29",
+        "passport_number": "RM7276993",
+        "passport_mrz": [
+            "P<ESPMORALES<<MARTA<CARMEN<<<<<<<<<<<<<<<<<<<",
+            "RM7276993ESP991229<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-10-28",
+        "passport_expiry_date": "2029-10-27"
+    },
+    "client_profile": {
+        "name": "Marta Carmen Morales",
+        "address": {
+            "city": "Cartagena",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 79,
+            "postal code": "73955"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1999-12-29",
+        "nationality": "Spanish",
+        "passport_number": "RM7276993",
+        "passport_issue_date": "2024-10-28",
+        "passport_expiry_date": "2029-10-27",
+        "gender": "F",
+        "phone_number": "691 463 622",
+        "email_address": "marta.morales@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "IES Antonio Machado Logro\u00f1o",
+            "graduation_year": 2017
+        },
+        "higher_education": [
+            {
+                "university": "University of Valencia",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Meli\u00e1 Hotels International S.A.",
+                "position": "Hotel Manager",
+                "salary": 25000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2680000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Marta Carmen Morales",
+        "first_name": "Marta",
+        "middle_name": "Carmen",
+        "last_name": "Morales",
+        "passport_number": "RM7276993",
+        "currency": "EUR",
+        "address": {
+            "city": "Cartagena",
+            "street name": "Calle de San Juan Bautista",
+            "street number": 79,
+            "postal code": "73955"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "691 463 622",
+        "email_address": "marta.morales@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Marta Carmen Morales at a charity gala in Madrid. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nMarta Carmen Morales is a 25 year old Hotel Manager from Spain.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Marta Carmen Morales is currently single. She does not have any children.",
+        "Education Background": "Marta graduated from IES Antonio Machado Logro\u00f1o in 2017.\nMarta received her degree from University of Valencia in 2023.\n",
+        "Occupation History": "Marta Carmen Morales is a 25 year old Hotel Manager from Spain.\nMarta Carmen Morales launched her career as a Hotel Manager at Meli\u00e1 Hotels International S.A., where she gained valuable experience from 2023 till now.\n",
+        "Wealth Summary": "While working, she saved 10000 EUR, which she used to build a diversified investment portfolio.\nClient does not have any properties.\nFollowing the passing of her grandmother, a successful Venture Capitalist, she received an inheritance of 2680000 EUR in 2015, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

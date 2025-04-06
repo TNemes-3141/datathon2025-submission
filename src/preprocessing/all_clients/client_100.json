@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Janssens",
+        "middle_name": "Peters",
+        "last_name": "Michiels",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1985-08-21",
+        "passport_number": "AU5045416",
+        "passport_mrz": [
+            "P<BELMICHIELS<<JANSSENS<PETERS<<<<<<<<<<<<<<<",
+            "AU5045416BEL850821<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-08-08",
+        "passport_expiry_date": "2026-08-07"
+    },
+    "client_profile": {
+        "name": "Janssens Peters Michiels",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Avenue Louise",
+            "street number": 31,
+            "postal code": "5241"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1985-08-21",
+        "nationality": "Belgian",
+        "passport_number": "AU5045416",
+        "passport_issue_date": "2019-08-08",
+        "passport_expiry_date": "2026-08-07",
+        "gender": "M",
+        "phone_number": "+32 0450 158 582",
+        "email_address": "janssens.michiels@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Institut Saint-Joseph",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "Brussels School of International Studies",
+                "graduation_year": 2010
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2010,
+                "end_year": 2014,
+                "company": "ING Belgium SA/NV",
+                "position": "Family Office Manager",
+                "salary": 35000
+            },
+            {
+                "start_year": 2016,
+                "end_year": 2023,
+                "company": "KBC Bank NV",
+                "position": "Investment Director",
+                "salary": 59000
+            }
+        ],
+        "aum": {
+            "savings": 70000,
+            "inheritance": 4480000,
+            "real_estate_value": 1030000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2020,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1030000,
+                "property location": "Li\u00e8ge"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Janssens Peters Michiels",
+        "first_name": "Janssens",
+        "middle_name": "Peters",
+        "last_name": "Michiels",
+        "passport_number": "AU5045416",
+        "currency": "EUR",
+        "address": {
+            "city": "Li\u00e8ge",
+            "street name": "Avenue Louise",
+            "street number": 31,
+            "postal code": "5241"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0450 158 582",
+        "email_address": "janssens.michiels@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Janssens Peters Michiels and the RM are cousins, having grown up together in Brussels. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nJanssens Peters Michiels is a 39 year old Investment Director from Belgium. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Janssens Peters Michiels is currently single. He does not have any children.",
+        "Education Background": "In 2003, Janssens finished his secondary school education at Institut Saint-Joseph.\nJanssens graduated from Brussels School of International Studies in 2010, completing his higher education.\n",
+        "Occupation History": "Janssens Peters Michiels is a 39 year old Investment Director from Belgium.\nJanssens Peters Michiels's first role was as a Family Office Manager at ING Belgium SA/NV, where he worked diligently from 2010 to 2014 to establish a strong reputation.\nHe then transitioned to KBC Bank NV as a Investment Director, leveraging his expertise to drive results from 2016 to 2023.\n",
+        "Wealth Summary": "He managed to save approximately 70000 EUR from his earnings at all companies.\nHe has condo located in Li\u00e8ge, worth 1030000 EUR.\n\nHe inherited 4480000 EUR from his grandfather, a well-known Oil and Gas Executive, in 2020, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

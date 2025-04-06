@@ -1,0 +1,109 @@
+{
+    "passport": {
+        "first_name": "Lotti",
+        "middle_name": "Landi",
+        "last_name": "Livi",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1995-09-01",
+        "passport_number": "OV6873766",
+        "passport_mrz": [
+            "P<ITALIVI<<LOTTI<LANDI<<<<<<<<<<<<<<<<<<<<<<<",
+            "OV6873766ITA950901<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-10-17",
+        "passport_expiry_date": "2030-10-16"
+    },
+    "client_profile": {
+        "name": "Lotti Landi Livi",
+        "address": {
+            "city": "Udine",
+            "street name": "Piazza del Popolo",
+            "street number": 48,
+            "postal code": "39427"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1995-09-01",
+        "nationality": "Italian",
+        "passport_number": "OV6873766",
+        "passport_issue_date": "2020-10-17",
+        "passport_expiry_date": "2030-10-16",
+        "gender": "M",
+        "phone_number": "+39 333 1549470",
+        "email_address": "lotti.livi@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Liceo Classico Marco Polo Venezia",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "European University of Rome",
+                "graduation_year": 2019
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": 2022,
+                "company": "Ignazio Messina & C. S.p.A.",
+                "position": "Ship Broker",
+                "salary": 25000
+            },
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Grimaldi Group S.p.A.",
+                "position": "Shipping Company Owner",
+                "salary": 44000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 2420000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2018,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lotti Landi Livi",
+        "first_name": "Lotti",
+        "middle_name": "Landi",
+        "last_name": "Livi",
+        "passport_number": "OV6873766",
+        "currency": "EUR",
+        "address": {
+            "city": "Udine",
+            "street name": "Piazza del Popolo",
+            "street number": 48,
+            "postal code": "39427"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 333 1549470",
+        "email_address": "lotti.livi@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Lotti Landi Livi and the RM crossed paths at a mutual friend's dinner party in Rome. They discovered they had many common acquaintances and decided to explore business opportunities together.\nLotti Landi Livi is a 29 year old Shipping Company Owner from Italy.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Lotti Landi Livi is currently single. He does not have any children.",
+        "Education Background": "In 2013, Lotti graduated from Liceo Classico Marco Polo Venezia with a secondary school diploma.\nLotti pursued higher education at European University of Rome, graduating in 2019.\n",
+        "Occupation History": "Lotti Landi Livi is a 29 year old and comes from Italy.\nAt Ignazio Messina & C. S.p.A., Lotti Landi Livi held the position of Ship Broker from 2019 to 2022, developing essential skills in the field.\nAt Grimaldi Group S.p.A., he held the position of Shipping Company Owner from 2022 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 30000 EUR, investing in various assets to grow his wealth.\nClient does not have any properties.\nIn addition to his career success, he also received an inheritance of 2420000 EUR from his late grandmother, a renowned Hedge Fund Manager, in 2018.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

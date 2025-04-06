@@ -1,0 +1,145 @@
+{
+    "passport": {
+        "first_name": "Charlotte",
+        "middle_name": "Julia",
+        "last_name": "Smeets",
+        "gender": "F",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1970-05-18",
+        "passport_number": "OQ3847252",
+        "passport_mrz": [
+            "P<NLDSMEETS<<CHARLOTTE<JULIA<<<<<<<<<<<<<<<<<",
+            "OQ3847252NLD700518<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-08-20",
+        "passport_expiry_date": "2028-08-19"
+    },
+    "client_profile": {
+        "name": "Charlotte Julia Smeets",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": " Stationsplein",
+            "street number": 63,
+            "postal code": "0231 48"
+        },
+        "country_of_domicile": "Netherlands",
+        "birth_date": "1970-05-18",
+        "nationality": "Dutch",
+        "passport_number": "OQ3847252",
+        "passport_issue_date": "2018-08-20",
+        "passport_expiry_date": "2028-08-19",
+        "gender": "F",
+        "phone_number": "+31 06 05503765",
+        "email_address": "charlotte.smeets@outlook.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Gomarus College Groningen",
+            "graduation_year": 1990
+        },
+        "higher_education": [
+            {
+                "university": "TNO - Netherlands Organisation for Applied Scientific Research",
+                "graduation_year": 1993
+            },
+            {
+                "university": "NWO - Netherlands Organisation for Scientific Research",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1994,
+                "end_year": 1995,
+                "company": "Royal DSM N.V.",
+                "position": "Research Scientist",
+                "salary": 44000
+            },
+            {
+                "start_year": 1997,
+                "end_year": 2002,
+                "company": "Crucell N.V.",
+                "position": "Biotech Startup Founder",
+                "salary": 79000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2006,
+                "company": "Crucell N.V.",
+                "position": "CEO",
+                "salary": 79000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2009,
+                "company": "Philips Healthcare",
+                "position": "Venture Capitalist",
+                "salary": 156000
+            },
+            {
+                "start_year": 2010,
+                "end_year": null,
+                "company": "Philips Healthcare",
+                "position": "Industry Leader",
+                "salary": 667000
+            }
+        ],
+        "aum": {
+            "savings": 1130000,
+            "inheritance": 1520000,
+            "real_estate_value": 3860000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2007,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2570000,
+                "property location": "Hoofddorp"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1290000,
+                "property location": "Leiden"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Charlotte Julia Smeets",
+        "first_name": "Charlotte",
+        "middle_name": "Julia",
+        "last_name": "mmeets",
+        "passport_number": "OQ3847252",
+        "currency": "EUR",
+        "address": {
+            "city": "Hoofddorp",
+            "street name": " Stationsplein",
+            "street number": 63,
+            "postal code": "0231 48"
+        },
+        "country_of_domicile": "Netherlands",
+        "phone_number": "++358 06 05503765",
+        "email_address": "charlotte.smeets@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Charlotte Julia Smeets at a yacht party in Amsterdam. They enjoyed a scenic cruise and discussed various investment strategies, which marked the beginning of a successful partnership.\nCharlotte Julia Smeets is a 54 year old Industry Leader from Netherlands.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Charlotte Julia Smeets is currently divorced. She has 3 kids called Brinkman, Teunissen and Van der Meer.",
+        "Education Background": "In 1990, Charlotte finished her secondary school education at Gomarus College Groningen.\nCharlotte finished her studies at TNO - Netherlands Organisation for Applied Scientific Research in 1993.\nOn top of that she then attended NWO - Netherlands Organisation for Scientific Research, where she graduated in 1999.\n",
+        "Occupation History": "Charlotte Julia Smeets is a 54 year old Industry Leader from Netherlands.\nCharlotte Julia Smeets launched her career as a Research Scientist at Royal DSM N.V., where she gained valuable experience from 1994 to 1995.\nShe then transitioned to Crucell N.V. as a Biotech Startup Founder, leveraging her expertise to drive results from 1997 to 2002.\nIn 2004, she joined Crucell N.V. as a CEO, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nHer next role was as a Venture Capitalist at Philips Healthcare, where she applied her extensive experience to drive innovation from 2006 to 2009.\nSince joining Philips Healthcare as a Industry Leader in 2010, she has established herself as a respected authority, fostering collaboration and pushing boundaries to achieve groundbreaking results.",
+        "Wealth Summary": "While working, she saved 1130000 EUR, which she used to build a diversified investment portfolio.\nShe owns villa in Hoofddorp, where she resides. It is worth 2570000 EUR.\n\nShe purchased townhouse in Leiden, where she spends her holidays. It is valued at 1290000 EUR.\nIn 2007, she received an inheritance of 1520000 EUR from her late father, who was a prominent Oil and Gas Executive, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in her ability to achieve financial success and security.\n"
+    }
+}

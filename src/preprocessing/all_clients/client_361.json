@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Schneider",
+        "middle_name": "Kammermann",
+        "last_name": "Kuhn",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1970-01-08",
+        "passport_number": "WA8259428",
+        "passport_mrz": [
+            "P<KUHN<<SCHNEIDER<KAMMERMANN<<<<<<<<<<<<<<<<<",
+            "WA8259428700108<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "1964-11-26",
+        "passport_expiry_date": "1974-11-25"
+    },
+    "client_profile": {
+        "name": "Schneider Kammermann Kuhn",
+        "address": {
+            "city": "St. Gallen",
+            "street name": "Rathausgasse",
+            "street number": 19,
+            "postal code": "4051"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1970-01-08",
+        "nationality": "Swiss",
+        "passport_number": "WA8259428",
+        "passport_issue_date": "2022-11-26",
+        "passport_expiry_date": "2032-11-25",
+        "gender": "M",
+        "phone_number": "086 213 10 81",
+        "email_address": "schneider kuhn@swissonline ch",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Gewerblich-industrielles Berufsbildungszentrum (BIG) Bern",
+            "graduation_year": 1989
+        },
+        "higher_education": [
+            {
+                "university": "University of Basel",
+                "graduation_year": 1993
+            },
+            {
+                "university": "University of Neuch\u00e2tel",
+                "graduation_year": 1996
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1993,
+                "end_year": 1994,
+                "company": "Oiltanking Switzerland AG",
+                "position": "Drilling Engineer",
+                "salary": 64000
+            },
+            {
+                "start_year": 1996,
+                "end_year": null,
+                "company": "Swisspetro AG",
+                "position": "Reservoir Engineer",
+                "salary": 559000
+            }
+        ],
+        "aum": {
+            "savings": 1000000,
+            "inheritance": 5390000,
+            "real_estate_value": 7630000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2012,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2420000,
+                "property location": "St. Gallen"
+            },
+            {
+                "property type": "villa",
+                "property value": 5210000,
+                "property location": "Bienna"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "France"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Schneider Kammermann Kuhn",
+        "first_name": "Schneider",
+        "middle_name": "Kammermann",
+        "last_name": "Kuhn",
+        "passport_number": "WA8259428",
+        "currency": "CHF",
+        "address": {
+            "city": "St. Gallen",
+            "street name": "Rathausgasse",
+            "street number": 19,
+            "postal code": "4051"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "086 213 10 81",
+        "email_address": "schneider.kuhn@swissonline.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Schneider Kammermann Kuhn at a wine tasting event in Z\u00fcrich. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nSchneider Kammermann Kuhn is a 55 year old Reservoir Engineer from Switzerland. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Schneider Kammermann Kuhn is married to Evelyne. Together they have 3 kids called Noemi, Nina and Meier.",
+        "Education Background": "Schneider earned his secondary school diploma from Gewerblich-industrielles Berufsbildungszentrum (BIG) Bern in 1989.\nSchneider received his degree from University of Basel in 1993.\nHe also pursued further higher education at University of Neuch\u00e2tel, graduating in 1996.\n",
+        "Occupation History": "Having worked for over 32 years, Schneider Kammermann Kuhn brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nSchneider Kammermann Kuhn's first role was as a Drilling Engineer at Oiltanking Switzerland AG, where he worked diligently from 1993 to 1994 to establish a strong reputation.\nHis subsequent role was as a Reservoir Engineer at Swisspetro AG, where he continued to grow professionally from 1996 till now.\n",
+        "Wealth Summary": "While working, he saved 1000000 CHF, which he used to build a diversified investment portfolio.\nHe owns house in St. Gallen, where he resides. It is worth 2420000 CHF.\n\nHe purchased villa in Bienna, where he spends his holidays. It is valued at 5210000 CHF.\n\nIn addition to his career success, he also received an inheritance of 5390000 CHF from his late mother, a renowned Neurosurgeon, in 2012.\n",
+        "Client Summary": "The RM is very happy to have Schneider as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

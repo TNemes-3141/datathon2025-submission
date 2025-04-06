@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Marini",
+        "middle_name": "",
+        "last_name": "Giordano",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1993-09-08",
+        "passport_number": "SC5437038",
+        "passport_mrz": [
+            "P<ITAGIORDANO<<MARINI<<<<<<<<<<<<<<<<<<<<<<<<",
+            "SC5437038ITA930908<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-17",
+        "passport_expiry_date": "2029-03-16"
+    },
+    "client_profile": {
+        "name": "Marini Giordano",
+        "address": {
+            "city": "Siena",
+            "street name": "Piazza di Spagna",
+            "street number": 23,
+            "postal code": "89226"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1993-09-08",
+        "nationality": "Italian",
+        "passport_number": "SC5437038",
+        "passport_issue_date": "2019-03-17",
+        "passport_expiry_date": "2029-03-16",
+        "gender": "M",
+        "phone_number": "+39 376 3224253",
+        "email_address": "marini.giordano@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Scuola Superiore di Studi Musicali e Coreografici Lucca",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "University of Rome La Sapienza",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2018,
+                "end_year": 2021,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "Research Scientist",
+                "salary": 26000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Pfizer Italia S.r.l.",
+                "position": "Clinical Trials Manager",
+                "salary": 38000
+            }
+        ],
+        "aum": {
+            "savings": 40000,
+            "inheritance": 620000,
+            "real_estate_value": 4130000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1630000,
+                "property location": "Siena"
+            },
+            {
+                "property type": "flat",
+                "property value": 700000,
+                "property location": "Perugia"
+            },
+            {
+                "property type": "villa",
+                "property value": 1800000,
+                "property location": "Bologna"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Marini Giordano",
+        "first_name": "Marini",
+        "middle_name": "",
+        "last_name": "Giordano",
+        "passport_number": "SC5437038",
+        "currency": "EUR",
+        "address": {
+            "city": "Siena",
+            "street name": "Piazza di Spagna",
+            "street number": 23,
+            "postal code": "89226"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "+39 376 3224253",
+        "email_address": "marini.giordano@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Marini Giordano at a luxury car show in Rome. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nMarini Giordano is a 31 year old Clinical Trials Manager from Italy.\nAfter extensive research, he chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Marini Giordano is currently single. He does not have any children.",
+        "Education Background": "Marini finished secondary school at Scuola Superiore di Studi Musicali e Coreografici Lucca in 2012.\nAfter that, he went on to study at University of Rome La Sapienza until 2017.\n",
+        "Occupation History": "Marini Giordano is a 31 year old and comes from Italy.\nMarini Giordano's first role was as a Research Scientist at Menarini Industrie Farmaceutiche Riunite S.r.l., where he worked diligently from 2018 to 2021 to establish a strong reputation.\nIn 2021, he moved to Pfizer Italia S.r.l. to work as a Clinical Trials Manager, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 40000 EUR.\nHe has house located in Siena, worth 1630000 EUR.\n\nIn addition to his primary residence, he owns flat in Perugia worth 700000 EUR.\n\nMoreover, he has invested in additional property in Bologna, giving possiblity for generating additional income. The villa is valued at 1800000 EUR.\n\n\nFollowing the passing of his grandfather, a successful Venture Capitalist, he received an inheritance of 620000 EUR in 2018, which he has used to secure his financial future.\n\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

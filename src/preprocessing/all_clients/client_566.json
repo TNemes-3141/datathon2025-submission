@@ -1,0 +1,114 @@
+{
+    "passport": {
+        "first_name": "Louna",
+        "middle_name": "",
+        "last_name": "Van den Berghe",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1974-09-02",
+        "passport_number": "ZF1692462",
+        "passport_mrz": [
+            "P<BELVAN DEN BERGHE<<LOUNA<<<<<<<<<<<<<<<<<<<",
+            "ZF1692462BEL740902<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-04-27",
+        "passport_expiry_date": "2023-04-26"
+    },
+    "client_profile": {
+        "name": "Louna Van den Berghe",
+        "address": {
+            "city": "Leuven",
+            "street name": "Rue de l'\u00c9glise",
+            "street number": 51,
+            "postal code": "4419"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1974-09-02",
+        "nationality": "Belgian",
+        "passport_number": "ZF1692462",
+        "passport_issue_date": "2016-04-27",
+        "passport_expiry_date": "2023-04-26",
+        "gender": "F",
+        "phone_number": "+32 0488 966 842",
+        "email_address": "louna.vandenberghe@proximus.be",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Institut Saint-Stanislas",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "ICHEC Brussels Management School",
+                "graduation_year": 1983
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2000,
+                "company": "Warehouses De Pauw SA",
+                "position": "Property Manager",
+                "salary": 40000
+            },
+            {
+                "start_year": 2000,
+                "end_year": null,
+                "company": "Cofinimmo SA",
+                "position": "Developer",
+                "salary": 224000
+            }
+        ],
+        "aum": {
+            "savings": 370000,
+            "inheritance": 3000000,
+            "real_estate_value": 890000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2012,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 890000,
+                "property location": "Leuven"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Louna Van den Berghe",
+        "first_name": "Louna",
+        "middle_name": "",
+        "last_name": "Van den Berghe",
+        "passport_number": "ZF1692462",
+        "currency": "EUR",
+        "address": {
+            "city": "Leuven",
+            "street name": "Rue de l'\u00c9glise",
+            "street number": 51,
+            "postal code": "4419"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0488 966 842",
+        "email_address": "louna.vandenberghe@proximus.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Louna Van den Berghe during a business conference in Brussels. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nLouna Van den Berghe is a 50 year old and comes from Belgium.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Louna Van den Berghe is currently divorced. Her child is named De Smet.",
+        "Education Background": "In 1994, Louna finished her secondary school education at Institut Saint-Stanislas.\nLouna received her degree from ICHEC Brussels Management School in 1999.\n",
+        "Occupation History": "Louna Van den Berghe is a 50 year old Developer from Belgium.\nLouna Van den Berghe launched her career as a Property Manager at Warehouses De Pauw SA, where she gained valuable experience from 1999 to 2000.\nAt Cofinimmo SA, she held the position of Developer from 2000 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "She managed to save approximately 370000 EUR from her earnings at all companies.\nShe owns flat in Leuven, where she resides. It is worth 890000 EUR.\n\nShe inherited a significant sum of 3000000 EUR from her grandmother, a respected Investment Banker, in 2012, which she has wisely invested.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

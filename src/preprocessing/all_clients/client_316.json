@@ -1,0 +1,101 @@
+{
+    "passport": {
+        "first_name": "Koskinen",
+        "middle_name": "Virtanen",
+        "last_name": "J\u00e4rvinen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1999-07-16",
+        "passport_number": "ZG6569305",
+        "passport_mrz": [
+            "P<FINJ\u00c4RVINEN<<KOSKINEN<VIRTANEN<<<<<<<<<<<<<",
+            "ZG6569305FIN990716<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-07-23",
+        "passport_expiry_date": "2028-07-22"
+    },
+    "client_profile": {
+        "name": "Koskinen Virtanen J\u00e4rvinen",
+        "address": {
+            "city": "Porvoo",
+            "street name": "Nelj\u00e4s linja",
+            "street number": 35,
+            "postal code": "30836"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1999-07-16",
+        "nationality": "Finnish",
+        "passport_number": "ZG6569305",
+        "passport_issue_date": "2018-07-23",
+        "passport_expiry_date": "2028-07-22",
+        "gender": "M",
+        "phone_number": "+38 044 447 20 08",
+        "email_address": "koskinen.jarvinen@elisa.fi",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Kiteen lukio",
+            "graduation_year": 2019
+        },
+        "higher_education": [
+            {
+                "university": "University of Turku",
+                "graduation_year": 2023
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2023,
+                "end_year": null,
+                "company": "Fimmic Oy",
+                "position": "Research Scientist",
+                "salary": 42000
+            }
+        ],
+        "aum": {
+            "savings": 10000,
+            "inheritance": 2600000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Koskinen Virtanen J\u00e4rvinen",
+        "first_name": "Koskinen",
+        "middle_name": "Virtanen",
+        "last_name": "J\u00e4rvinen",
+        "passport_number": "ZG6569305",
+        "currency": "EUR",
+        "address": {
+            "city": "Porvoo",
+            "street name": "Nelj\u00e4s linja",
+            "street number": 35,
+            "postal code": "30836"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 044 447 20 08",
+        "email_address": "koskinen.jarvinen@elisa.fi"
+    },
+    "client_description": {
+        "Summary Note": "The RM has known Koskinen Virtanen J\u00e4rvinen since childhood, as their families have been close friends for many years. This long-standing relationship has fostered a deep trust and understanding between them.\nKoskinen Virtanen J\u00e4rvinen is a 25 year old Research Scientist from Finland.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Koskinen Virtanen J\u00e4rvinen is currently single. He does not have any children.",
+        "Education Background": "Koskinen graduated from Kiteen lukio in 2019.\nKoskinen completed his university studies at University of Turku in 2023.\n",
+        "Occupation History": "Koskinen Virtanen J\u00e4rvinen is a 25 year old and comes from Finland.\nIn 2023, Koskinen Virtanen J\u00e4rvinen started working as a Research Scientist at Fimmic Oy, marking the beginning of his successful career.\n",
+        "Wealth Summary": "While working, he saved 10000 EUR, which he used to build a diversified investment portfolio.\nClient does not have any properties.He inherited 2600000 EUR from his grandmother, a well-known Tech Entrepreneur, in 2015, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In summary, Koskinen has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

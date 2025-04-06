@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Victoria",
+        "middle_name": "Luisa",
+        "last_name": "Schwarz",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1972-07-15",
+        "passport_number": "ER9982905",
+        "passport_mrz": [
+            "P<AUTSCHWARZ<<VICTORIA<LUISA<<<<<<<<<<<<<<<<<",
+            "ER9982905AUT720715<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-01-31",
+        "passport_expiry_date": "2031-01-30"
+    },
+    "client_profile": {
+        "name": "Victoria Luisa Schwarz",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Ringstra\u00dfe",
+            "street number": 73,
+            "postal code": "5355"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1972-07-15",
+        "nationality": "Austrian",
+        "passport_number": "ER9982905",
+        "passport_issue_date": "2021-01-31",
+        "passport_expiry_date": "2031-01-30",
+        "gender": "F",
+        "phone_number": "+43 310 282 2120",
+        "email_address": "victoria.schwarz@chello.at",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "BRG/BORG Marchfeldstra\u00dfe",
+            "graduation_year": 1991
+        },
+        "higher_education": [
+            {
+                "university": "IMC University of Applied Sciences Krems",
+                "graduation_year": 1997
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1996,
+                "end_year": 2001,
+                "company": "B&C Private Equity GmbH",
+                "position": "Analyst",
+                "salary": 33000
+            },
+            {
+                "start_year": 2001,
+                "end_year": null,
+                "company": "B&C Private Equity GmbH",
+                "position": "Associate",
+                "salary": 247000
+            }
+        ],
+        "aum": {
+            "savings": 420000,
+            "inheritance": 4370000,
+            "real_estate_value": 1420000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2008,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1420000,
+                "property location": "Klagenfurt"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Victoria Luisa Schwarz",
+        "first_name": "Victoria",
+        "middle_name": "Luisa",
+        "last_name": "Schwarz",
+        "passport_number": "ER9982905",
+        "currency": "EUR",
+        "address": {
+            "city": "Klagenfurt",
+            "street name": "Ringstra\u00dfe",
+            "street number": 73,
+            "postal code": "5355"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 310 282 2120",
+        "email_address": "victoria.schwarz@chello.at"
+    },
+    "client_description": {
+        "Summary Note": "Victoria Luisa Schwarz and the RM were introduced at an art auction in Vienna. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nVictoria Luisa Schwarz is a 52 year old Associate from Austria.\nShe was impressed by Julius Baer's global presence and expertise in private banking, leading to the decision to join.\n",
+        "Family Background": "Victoria Luisa Schwarz is married to Kr\u00e4mer. They do not have any children.",
+        "Education Background": "Victoria graduated from BRG/BORG Marchfeldstra\u00dfe in 1991.\nVictoria completed her university studies at IMC University of Applied Sciences Krems in 1997.\n",
+        "Occupation History": "Victoria Luisa Schwarz is a 52 year old Associate from Austria.\nAt B&C Private Equity GmbH, Victoria Luisa Schwarz held the position of Analyst from 1996 to 2001, developing essential skills in the field.\nAt B&C Private Equity GmbH, she held the position of Associate from 2001 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "She managed to save approximately 420000 EUR from her earnings at all companies.\nShe has house located in Klagenfurt, worth 1420000 EUR.\n\nIn 2008, she received an inheritance of 4370000 EUR from her late mother, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "The RM is very happy to have Victoria as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

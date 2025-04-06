@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Herrmann",
+        "middle_name": "Kr\u00fcger",
+        "last_name": "Schulze",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1983-09-23",
+        "passport_number": "KG1256831",
+        "passport_mrz": [
+            "P<DEUSCHULZE<<HERRMANN<KR\u00dcGER<<<<<<<<<<<<<<<<",
+            "KG1256831DEU830923<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-09-16",
+        "passport_expiry_date": "2028-09-15"
+    },
+    "client_profile": {
+        "name": "Herrmann Kr\u00fcger Schulze",
+        "address": {
+            "city": "M\u00fcnster",
+            "street name": "Brandenburgische Stra\u00dfe",
+            "street number": 4,
+            "postal code": "06096"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1983-09-23",
+        "nationality": "German",
+        "passport_number": "KG1256831",
+        "passport_issue_date": "2018-09-16",
+        "passport_expiry_date": "2028-09-15",
+        "gender": "M",
+        "phone_number": "8787 605590",
+        "email_address": "herrmann.schulze@versatel.de",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Helmut-Schmidt-Gymnasium Hamburg",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "D\u00fcsseldorf University of Applied Sciences",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2007,
+                "end_year": 2012,
+                "company": "Bosch Software Innovations GmbH",
+                "position": "Software Developer",
+                "salary": 44000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2023,
+                "company": "Software AG",
+                "position": "Startup Founder",
+                "salary": 77000
+            }
+        ],
+        "aum": {
+            "savings": 130000,
+            "inheritance": 1070000,
+            "real_estate_value": 3772000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2009,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 762000,
+                "property location": "M\u00fcnster"
+            },
+            {
+                "property type": "villa",
+                "property value": 3010000,
+                "property location": "Leipzig"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Herrmann Kr\u00fcger Schulze",
+        "first_name": "Herrmann",
+        "middle_name": "Kr\u00fcger",
+        "last_name": "Schulze",
+        "passport_number": "KG1256831",
+        "currency": "EUR",
+        "address": {
+            "city": "M\u00fcnster",
+            "street name": "Brandenburgische Stra\u00dfe",
+            "street number": 4,
+            "postal code": "06096"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "8787 605590",
+        "email_address": "herrmann.schulze@versatel.de"
+    },
+    "client_description": {
+        "Summary Note": "Herrmann Kr\u00fcger Schulze and the RM met at a financial seminar in Berlin. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nHerrmann Kr\u00fcger Schulze is a 41 year old Startup Founder from Germany. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Herrmann Kr\u00fcger Schulze has been happily married to Isabel since 2009. They do not have any children.",
+        "Education Background": "Herrmann finished secondary school at Helmut-Schmidt-Gymnasium Hamburg in 2002.\nHerrmann earned his degree from D\u00fcsseldorf University of Applied Sciences in 2007.\n",
+        "Occupation History": "With a career spanning nearly 18 years, Herrmann Kr\u00fcger Schulze has established himself as a key player in the industry.\nHerrmann Kr\u00fcger Schulze's first role was as a Software Developer at Bosch Software Innovations GmbH, where he worked diligently from 2007 to 2012 to establish a strong reputation.\nAfter gaining experience, he took on the role of Startup Founder at Software AG in 2013, further expanding his skill set.\n",
+        "Wealth Summary": "While working, he saved 130000 EUR, which he used to build a diversified investment portfolio.\nHe has invested in several rental properties across various locations, generating additional income. The properties are valued at 3772000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1070000 EUR from his late mother, a renowned Venture Capitalist, in 2009.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

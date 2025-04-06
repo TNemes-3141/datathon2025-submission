@@ -1,0 +1,135 @@
+{
+    "passport": {
+        "first_name": "Jenna",
+        "middle_name": "Kaisa",
+        "last_name": "Turunen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1974-06-27",
+        "passport_number": "QO9438452",
+        "passport_mrz": [
+            "P<FINTURUNEN<<JENNA<KAISA<<<<<<<<<<<<<<<<<<<<",
+            "QO9438452FIN740627<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-11-20",
+        "passport_expiry_date": "2031-11-19"
+    },
+    "client_profile": {
+        "name": "Jenna Kaisa Turunen",
+        "address": {
+            "city": "Kuopio",
+            "street name": "Tehtaankatu",
+            "street number": 70,
+            "postal code": "01635"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1974-06-27",
+        "nationality": "Finnish",
+        "passport_number": "QO9438452",
+        "passport_issue_date": "2021-11-20",
+        "passport_expiry_date": "2031-11-19",
+        "gender": "F",
+        "phone_number": "+358 042 060 81 20",
+        "email_address": "jenna.turunen@luukku.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Heinolan lukio",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "University of Lapland Faculty of Art and Design",
+                "graduation_year": 1998
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1999,
+                "end_year": 2003,
+                "company": "Sanoma Media Finland Oy",
+                "position": "Journalist",
+                "salary": 39000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Sanoma Media Finland Oy",
+                "position": "Editor",
+                "salary": 54000
+            },
+            {
+                "start_year": 2008,
+                "end_year": 2012,
+                "company": "Yleisradio Oy",
+                "position": "Publisher",
+                "salary": 76000
+            },
+            {
+                "start_year": 2014,
+                "end_year": 2016,
+                "company": "Alma Media Corporation",
+                "position": "TV/Radio Host",
+                "salary": 149000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Yleisradio Oy",
+                "position": "Media Conglomerate Owner",
+                "salary": 406000
+            }
+        ],
+        "aum": {
+            "savings": 480000,
+            "inheritance": 1060000,
+            "real_estate_value": 760000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2015,
+            "profession": "Neurosurgeon"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 760000,
+                "property location": "Kuopio"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Jenna Kaisa Turunen",
+        "first_name": "Jenna",
+        "middle_name": "Kaisa",
+        "last_name": "Turunen",
+        "passport_number": "QO9438452",
+        "currency": "EUR",
+        "address": {
+            "city": "Kuopio",
+            "street name": "Tehtaankatu",
+            "street number": 70,
+            "postal code": "01635"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 042 060 81 20",
+        "email_address": "jenna.turunen@luukku.com"
+    },
+    "client_description": {
+        "Summary Note": "Jenna Kaisa Turunen and the RM are cousins, having grown up together in Helsinki. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nWith a career spanning nearly 26 years, Jenna Kaisa Turunen has established herself as a key player in the industry.\nShe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Jenna Kaisa Turunen is currently divorced. Her children are named Turunen, Salminen and Voutilainen.",
+        "Education Background": "Jenna received her secondary school diploma from Heinolan lukio in 1994.\nAfter that, she went on to study at University of Lapland Faculty of Art and Design until 1998.\n",
+        "Occupation History": "Jenna Kaisa Turunen is a 50 year old Media Conglomerate Owner from Finland.\nIn 1999, Jenna Kaisa Turunen started working as a Journalist at Sanoma Media Finland Oy, marking the beginning of her successful career.\nShe then transitioned to Sanoma Media Finland Oy as a Editor, leveraging her expertise to drive results from 2005 to 2006.\nIn 2008, she joined Yleisradio Oy as a Publisher, taking on new challenges and responsibilities that helped her grow both personally and professionally.\nAfter 13 years of dedication, she assumed the role of TV/Radio Host at Alma Media Corporation in 2014, spearheading high-profile projects and mentoring junior colleagues.\nShe has been a Media Conglomerate Owner at Yleisradio Oy since 2018, consistently demonstrating her ability to adapt, innovate, and thrive in an ever-changing environment.",
+        "Wealth Summary": "She managed to save approximately 480000 EUR from her earnings at all companies.\nShe has townhouse located in Kuopio, worth 760000 EUR.\n\n\nFollowing the passing of her grandfather, a successful Neurosurgeon, she received an inheritance of 1060000 EUR in 2015, which she has used to secure her financial future.\n\n",
+        "Client Summary": "In summary, Jenna has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

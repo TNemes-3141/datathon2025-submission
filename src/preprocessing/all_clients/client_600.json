@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Laurent",
+        "middle_name": "Garcia",
+        "last_name": "Thomas",
+        "gender": "M",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1977-10-15",
+        "passport_number": "OM8795378",
+        "passport_mrz": [
+            "P<FRATHOMAS<<LAURENT<GARCIA<<<<<<<<<<<<<<<<<<",
+            "OM8795378FRA771015<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-08-04",
+        "passport_expiry_date": "2034-08-03"
+    },
+    "client_profile": {
+        "name": "Laurent Garcia Thomas",
+        "address": {
+            "city": "Reims",
+            "street name": "Rue de Vaugirard",
+            "street number": 66,
+            "postal code": "25387"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1977-10-15",
+        "nationality": "French",
+        "passport_number": "OM8795378",
+        "passport_issue_date": "2024-08-04",
+        "passport_expiry_date": "2034-08-03",
+        "gender": "M",
+        "phone_number": "03 19 26 43 14",
+        "email_address": "laurent.thomas@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Voltaire",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Normale Sup\u00e9rieure (ENS) Paris",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2002,
+                "company": "PAI Partners",
+                "position": "Analyst",
+                "salary": 33000
+            },
+            {
+                "start_year": 2004,
+                "end_year": 2009,
+                "company": "Apax Partners SAS",
+                "position": "Associate",
+                "salary": 67000
+            },
+            {
+                "start_year": 2010,
+                "end_year": null,
+                "company": "PAI Partners",
+                "position": "Investment Director",
+                "salary": 215000
+            }
+        ],
+        "aum": {
+            "savings": 340000,
+            "inheritance": 6760000,
+            "real_estate_value": 2630000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2013,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1570000,
+                "property location": "Reims"
+            },
+            {
+                "property type": "condo",
+                "property value": 1060000,
+                "property location": "Strasbourg"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Laurent Garcia Thomas",
+        "first_name": "Laurent",
+        "middle_name": "Garcia",
+        "last_name": "Thomas",
+        "passport_number": "OM8795378",
+        "currency": "EUR",
+        "address": {
+            "city": "Reims",
+            "street name": "Rue de Vaugirard",
+            "street number": 66,
+            "postal code": "25387"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "03 19 26 43 148",
+        "email_address": "laurent.thomas@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "Laurent Garcia Thomas and the RM are cousins, having grown up together in Paris. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nHaving worked for over 24 years, Laurent Garcia Thomas brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, he joined Julius Baer for its expertise.\n",
+        "Family Background": "Laurent Garcia Thomas has been happily married to Laur\u00e8ne since 2010. Together they have 2 kids called Lefebvre and Colombe.",
+        "Education Background": "Laurent finished secondary school at Lyc\u00e9e Voltaire in 1995.\nLaurent finished his studies at \u00c9cole Normale Sup\u00e9rieure (ENS) Paris in 2000.\n",
+        "Occupation History": "Laurent Garcia Thomas is a seasoned professional with over 24 years of experience.\nLaurent Garcia Thomas's first role was as a Analyst at PAI Partners, where he worked diligently from 2001 to 2002 to establish a strong reputation.\nHis subsequent role was as a Associate at Apax Partners SAS, where he continued to grow professionally from 2004 to 2009.\nFrom 2010 till now, he served as a Investment Director at PAI Partners, solidifying his position as a leader in the industry.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 340000 EUR.\nHe owns townhouse in Reims, where he resides. It is worth 1570000 EUR.\n\nIn addition to his primary residence, he owns condo in Strasbourg worth 1060000 EUR.\n\nHe inherited 6760000 EUR from his father, a well-known Oil and Gas Executive, in 2013, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

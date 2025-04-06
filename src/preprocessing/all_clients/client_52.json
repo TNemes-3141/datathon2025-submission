@@ -1,0 +1,128 @@
+{
+    "passport": {
+        "first_name": "Diana",
+        "middle_name": "",
+        "last_name": "Schmidt",
+        "gender": "F",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "1957-05-05",
+        "passport_number": "JF8417538",
+        "passport_mrz": [
+            "P<DEUSCHMIDT<<DIANA<<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "JF8417538DEU570505<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-03-29",
+        "passport_expiry_date": "2028-03-28"
+    },
+    "client_profile": {
+        "name": "Diana Schmidt",
+        "address": {
+            "city": "Cologne",
+            "street name": "Schlachte",
+            "street number": 93,
+            "postal code": "75259"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "1957-05-05",
+        "nationality": "German",
+        "passport_number": "JF8417538",
+        "passport_issue_date": "2018-03-29",
+        "passport_expiry_date": "2028-03-28",
+        "gender": "F",
+        "phone_number": "+49 1684 350927",
+        "email_address": "diana.schmidt@outlook.com",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gymnasium zum Grauen Kloster",
+            "graduation_year": 1977
+        },
+        "higher_education": [
+            {
+                "university": "Bucerius Law School",
+                "graduation_year": 1981
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1983,
+                "company": "Commerzbank AG",
+                "position": "Family Office Manager",
+                "salary": 40000
+            },
+            {
+                "start_year": 1983,
+                "end_year": 1985,
+                "company": "Dresdner Bank AG",
+                "position": "Investment Director",
+                "salary": 68000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 2018,
+                "company": "Dresdner Bank AG",
+                "position": "CFO",
+                "salary": 729000
+            }
+        ],
+        "aum": {
+            "savings": 1510000,
+            "inheritance": 0,
+            "real_estate_value": 4280000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1100000,
+                "property location": "Cologne"
+            },
+            {
+                "property type": "flat",
+                "property value": 880000,
+                "property location": "Munich"
+            },
+            {
+                "property type": "villa",
+                "property value": 2300000,
+                "property location": "Nuremberg"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Diana Schmidt",
+        "first_name": "Diana",
+        "middle_name": "",
+        "last_name": "Schmidt",
+        "passport_number": "JF8417538",
+        "currency": "EUR",
+        "address": {
+            "city": "Cologne",
+            "street name": "Schlachte",
+            "street number": 93,
+            "postal code": "75259"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "++41 1684 350927",
+        "email_address": "diana.schmidt@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Diana Schmidt during a business conference in Berlin. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nWith a career spanning nearly 43 years, Diana Schmidt has established herself as a key player in the industry.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Diana Schmidt is currently widowed. Her children are named Lorenz, Hoffmann and Charlotte.",
+        "Education Background": "In 1977, Diana graduated from Gymnasium zum Grauen Kloster with a secondary school diploma.\nDiana completed her university studies at Bucerius Law School in 1981.\n",
+        "Occupation History": "Having worked for over 43 years, Diana Schmidt brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nIn 1982, Diana Schmidt started working as a Family Office Manager at Commerzbank AG, marking the beginning of her successful career.\nShe then transitioned to Dresdner Bank AG as a Investment Director, leveraging her expertise to drive results from 1983 to 1985.\nFrom 1987 till retirement, she served as a CFO at Dresdner Bank AG, solidifying her position as a leader in the industry.\n",
+        "Wealth Summary": "She managed to save approximately 1510000 EUR from her earnings at all companies.\nHer remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Munich, Cologne and Nuremberg, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nShe does not have any inheritances.",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

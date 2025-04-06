@@ -1,0 +1,130 @@
+{
+    "passport": {
+        "first_name": "Schmidt",
+        "middle_name": "Fischer",
+        "last_name": "Maier",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1954-12-03",
+        "passport_number": "HX3577067",
+        "passport_mrz": [
+            "P<AUTMAIER<<SCHMIDT<FISCHER<<<<<<<<<<<<<<<<<<",
+            "HX3577067AUT541203<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-05-20",
+        "passport_expiry_date": "2031-05-19"
+    },
+    "client_profile": {
+        "name": "Schmidt Fischer Maier",
+        "address": {
+            "city": "Kitzb\u00fchel",
+            "street name": "Blutgasse",
+            "street number": 28,
+            "postal code": "1579"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1954-12-03",
+        "nationality": "Austrian",
+        "passport_number": "HX3577067",
+        "passport_issue_date": "2021-05-20",
+        "passport_expiry_date": "2031-05-19",
+        "gender": "M",
+        "phone_number": "+43 979 522 4860",
+        "email_address": "schmidt.maier@chello.at",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Akademisches Gymnasium Graz",
+            "graduation_year": 1974
+        },
+        "higher_education": [
+            {
+                "university": "Johannes Kepler University Linz",
+                "graduation_year": 1978
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 1980,
+                "company": "Kunsthistorisches Museum",
+                "position": "Art Dealer",
+                "salary": 30000
+            },
+            {
+                "start_year": 1982,
+                "end_year": 1986,
+                "company": "Belvedere Museum",
+                "position": "Gallery Owner",
+                "salary": 51000
+            },
+            {
+                "start_year": 1988,
+                "end_year": 1991,
+                "company": "Leopold Museum",
+                "position": "Art Advisor",
+                "salary": 64000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 2015,
+                "company": "Belvedere Museum",
+                "position": "Curator",
+                "salary": 564000
+            }
+        ],
+        "aum": {
+            "savings": 960000,
+            "inheritance": 0,
+            "real_estate_value": 2840000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 990000,
+                "property location": "Kitzb\u00fchel"
+            },
+            {
+                "property type": "villa",
+                "property value": 1850000,
+                "property location": "Traun"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Schmidt Fischer Maier",
+        "first_name": "Schmidt",
+        "middle_name": "Fischer",
+        "last_name": "Maier",
+        "passport_number": "HX3577067",
+        "currency": "EUR",
+        "address": {
+            "city": "Kitzb\u00fchel",
+            "street name": "Blutgasse",
+            "street number": 28,
+            "postal code": "1579"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 979 522 4860",
+        "email_address": "schmidt.maier@chello.at"
+    },
+    "client_description": {
+        "Summary Note": "Schmidt Fischer Maier and the RM were introduced at an art auction in Vienna. They bonded over their appreciation for contemporary art and exchanged contact information to discuss potential collaborations.\nSchmidt Fischer Maier is a 70 year old retired Curator from Austria.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Schmidt Fischer Maier is currently widowed. He has 2 kids called Lang and Victoria.",
+        "Education Background": "Schmidt finished secondary school at Akademisches Gymnasium Graz in 1974.\nSchmidt graduated from Johannes Kepler University Linz in 1978, completing his higher education.\n",
+        "Occupation History": "Schmidt Fischer Maier is a 70 year old and comes from Austria.\nSchmidt Fischer Maier launched his career as a Art Dealer at Kunsthistorisches Museum, where he gained valuable experience from 1979 to 1980.\nHe then transitioned to Belvedere Museum as a Gallery Owner, leveraging his expertise to drive results from 1982 to 1986.\nAt Leopold Museum, he worked as a Art Advisor from 1988 to 1991, focusing on strategic initiatives and team collaboration.\nHis next role was as a Curator at Belvedere Museum, where he applied his extensive experience to drive innovation from 1993 till retirement.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 960000 EUR.\nHe owns house in Kitzb\u00fchel, where he resides. It is worth 990000 EUR.\n\nIn addition to his primary residence, he owns villa in Traun worth 1850000 EUR.\n\nHe does not have any inheritances.",
+        "Client Summary": "In summary, Schmidt has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

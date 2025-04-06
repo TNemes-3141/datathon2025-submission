@@ -1,0 +1,88 @@
+{
+    "passport": {
+        "first_name": "Delphine",
+        "middle_name": "Ana\u00efs",
+        "last_name": "Guillaume",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "2001-08-23",
+        "passport_number": "YE3914208",
+        "passport_mrz": [
+            "P<FRAGUILLAUME<<DELPHINE<ANA\u00cfS<<<<<<<<<<<<<<<",
+            "YE3914208FRA010823<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-08-24",
+        "passport_expiry_date": "2031-08-23"
+    },
+    "client_profile": {
+        "name": "Delphine Ana\u00efs Guillaume",
+        "address": {
+            "city": "Paris",
+            "street name": "Place des Vosges",
+            "street number": 54,
+            "postal code": "85263"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "2001-08-23",
+        "nationality": "French",
+        "passport_number": "YE3914208",
+        "passport_issue_date": "2021-08-24",
+        "passport_expiry_date": "2031-08-23",
+        "gender": "F",
+        "phone_number": "+33 09 59 87 46 38",
+        "email_address": "delphine.guillaume@aliceadsl.fr",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Gustave Eiffel",
+            "graduation_year": 2019
+        },
+        "higher_education": [],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1130000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Delphine Ana\u00efs Guillaume",
+        "first_name": "Delphine",
+        "middle_name": "Ana\u00efs",
+        "last_name": "Guillaume",
+        "passport_number": "YE3914208",
+        "currency": "EUR",
+        "address": {
+            "city": "Paris",
+            "street name": "Place des Vosges",
+            "street number": 54,
+            "postal code": "85263"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 09 59 87 46 38",
+        "email_address": "delphine.guillaume@aliceadsl.fr"
+    },
+    "client_description": {
+        "Summary Note": "Delphine Ana\u00efs Guillaume and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nDelphine Ana\u00efs Guillaume is a 23 year old and comes from France.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Delphine Ana\u00efs Guillaume is currently single. She does not have any children.",
+        "Education Background": "Delphine earned her secondary school diploma from Lyc\u00e9e Gustave Eiffel in 2019.\n",
+        "Occupation History": "Delphine Ana\u00efs Guillaume is a 23 year old and comes from France.\nDelphine Ana\u00efs Guillaume did not start her professional career yet.",
+        "Wealth Summary": "She did not have any savings to invest in financial markets.\nClient does not have any properties.\nIn addition to her career success, she also received an inheritance of 1130000 EUR from her late grandmother, a renowned Oil and Gas Executive, in 2020.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

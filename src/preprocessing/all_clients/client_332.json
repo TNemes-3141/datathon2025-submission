@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "J\u00f8rgensen",
+        "middle_name": "Gundersen",
+        "last_name": "Knudsen",
+        "gender": "M",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1993-03-08",
+        "passport_number": "QS2556729",
+        "passport_mrz": [
+            "P<DNKKNUDSEN<<J\u00d8RGENSEN<GUNDERSEN<<<<<<<<<<<<",
+            "QS2556729DNK930308<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-01-28",
+        "passport_expiry_date": "2034-01-27"
+    },
+    "client_profile": {
+        "name": "J\u00f8rgensen Gundersen Knudsen",
+        "address": {
+            "city": "Slagelse",
+            "street name": "\u00d8sterbrogade",
+            "street number": 86,
+            "postal code": "2140"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1993-03-08",
+        "nationality": "Danish",
+        "passport_number": "QS2556729",
+        "passport_issue_date": "2024-01-28",
+        "passport_expiry_date": "2034-01-27",
+        "gender": "M",
+        "phone_number": "+45 63 28 30 68",
+        "email_address": "jrgensen.knudsen@icloud.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Nyborg Gymnasium",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "Aarhus University",
+                "graduation_year": 2016
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": 2019,
+                "company": "Danske Bank A/S",
+                "position": "Investment Banker",
+                "salary": 281000
+            },
+            {
+                "start_year": 2021,
+                "end_year": null,
+                "company": "Nykredit A/S",
+                "position": "Private Equity Investor",
+                "salary": 413000
+            }
+        ],
+        "aum": {
+            "savings": 360000,
+            "inheritance": 2740000,
+            "real_estate_value": 4021000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 1281000,
+                "property location": "Slagelse"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1460000,
+                "property location": "Holb\u00e6k"
+            },
+            {
+                "property type": "condo",
+                "property value": 1280000,
+                "property location": "S\u00f8nderborg"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "J\u00f8rgensen Gundersen Knudsen",
+        "first_name": "J\u00f8rgensen",
+        "middle_name": "Gundersen",
+        "last_name": "Knudsen",
+        "passport_number": "QS2556729",
+        "currency": "DKK",
+        "address": {
+            "city": "Slagelse",
+            "street name": "\u00d8sterbrogade",
+            "street number": 86,
+            "postal code": "2140"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 63 28 30 68",
+        "email_address": "jrgensen.knudsen@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "J\u00f8rgensen Gundersen Knudsen and the RM met at a networking event in Copenhagen. They quickly realized they had complementary skills and decided to collaborate on several projects.\nJ\u00f8rgensen Gundersen Knudsen is a 32 year old and comes from Denmark.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "J\u00f8rgensen Gundersen Knudsen has been happily married to Caroline since 2025. They do not have any children.",
+        "Education Background": "J\u00f8rgensen finished secondary school at Nyborg Gymnasium in 2012.\nJ\u00f8rgensen pursued higher education at Aarhus University, graduating in 2016.\n",
+        "Occupation History": "J\u00f8rgensen Gundersen Knudsen is a 32 year old Private Equity Investor from Denmark.\nIn 2017, J\u00f8rgensen Gundersen Knudsen started working as a Investment Banker at Danske Bank A/S, marking the beginning of his successful career.\nHe then transitioned to Nykredit A/S as a Private Equity Investor, leveraging his expertise to drive results from 2021 till now.\n",
+        "Wealth Summary": "Throughout his career, he saved 360000 DKK, investing in various assets to grow his wealth.\nHe owns flat in Slagelse, where he resides. It is worth 1281000 DKK.\n\nHe purchased townhouse in Holb\u00e6k, where he spends his holidays. It is valued at 1460000 DKK.\nMoreover, he has invested in additional property in S\u00f8nderborg, giving possiblity for generating additional income. The condo is valued at 1280000 DKK.\n\nIn 2018, he received an inheritance of 2740000 DKK from his late grandfather, who was a prominent Stock Trader, and has since invested it in various assets.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "passport": {
+        "first_name": "V\u00e1zquez",
+        "middle_name": "",
+        "last_name": "Rodr\u00edguez",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1976-12-06",
+        "passport_number": "BL8329913",
+        "passport_mrz": [
+            "P<ESPRODR\u00cdGUEZ<<V\u00c1ZQUEZ<<<<<<<<<<<<<<<<<<<<<<",
+            "BL8329913ESP761206<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-12-17",
+        "passport_expiry_date": "2032-12-16"
+    },
+    "client_profile": {
+        "name": "V\u00e1zquez Rodr\u00edguez",
+        "address": {
+            "city": "Toledo",
+            "street name": "Calle de las Huertas",
+            "street number": 1,
+            "postal code": "89878"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1976-12-06",
+        "nationality": "Spanish",
+        "passport_number": "BL8329913",
+        "passport_issue_date": "2022-12-17",
+        "passport_expiry_date": "2032-12-16",
+        "gender": "M",
+        "phone_number": "633 774 135",
+        "email_address": "vazquez.rodriguez@gmail.es",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "IES Alfonso X el Sabio Murcia",
+            "graduation_year": 1995
+        },
+        "higher_education": [
+            {
+                "university": "Universidad Comercial de Deusto",
+                "graduation_year": 2000
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2001,
+                "end_year": 2006,
+                "company": "BBVA S.A.",
+                "position": "Family Office Manager",
+                "salary": 24000
+            },
+            {
+                "start_year": 2006,
+                "end_year": 2011,
+                "company": "Banco Santander S.A.",
+                "position": "Investment Director",
+                "salary": 39000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "CaixaBank S.A.",
+                "position": "CFO",
+                "salary": 206000
+            }
+        ],
+        "aum": {
+            "savings": 330000,
+            "inheritance": 1630000,
+            "real_estate_value": 3701000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2007,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 910000,
+                "property location": "Toledo"
+            },
+            {
+                "property type": "house",
+                "property value": 1621000,
+                "property location": "Almer\u00eda"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1170000,
+                "property location": "Castell\u00f3n de la Plana"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "V\u00e1zquez Rodr\u00edguez",
+        "first_name": "V\u00e1zquez",
+        "middle_name": "",
+        "last_name": "Rodr\u00edguez",
+        "passport_number": "BL8329913",
+        "currency": "EUR",
+        "address": {
+            "city": "Toledo",
+            "street name": "Calle de las Huertas",
+            "street number": 1,
+            "postal code": "89878"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "633 774 135",
+        "email_address": "vazquez.rodriguez@gmail.es"
+    },
+    "client_description": {
+        "Summary Note": "V\u00e1zquez Rodr\u00edguez and the RM met at a financial seminar in Madrid. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nV\u00e1zquez Rodr\u00edguez is a seasoned professional with over 24 years of experience.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "V\u00e1zquez Rodr\u00edguez is married to Emma. They are proud parents of 3 children: Antonia, Alejandra and Guti\u00e9rrez.",
+        "Education Background": "V\u00e1zquez obtained his secondary school diploma from IES Alfonso X el Sabio Murcia in 1995.\nV\u00e1zquez pursued higher education at Universidad Comercial de Deusto, graduating in 2000.\n",
+        "Occupation History": "V\u00e1zquez Rodr\u00edguez is a 48 year old CFO from Spain. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nIn 2001, V\u00e1zquez Rodr\u00edguez started working as a Family Office Manager at BBVA S.A., marking the beginning of his successful career.\nHis subsequent role was as a Investment Director at Banco Santander S.A., where he continued to grow professionally from 2006 to 2011.\nHis tenure as a CFO at CaixaBank S.A. from 2013 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 330000 EUR.\nHe has flat located in Toledo, worth 910000 EUR.\n\nIn addition to his primary residence, he owns house in Almer\u00eda worth 1621000 EUR.\n\nMoreover, he has invested in additional property in Castell\u00f3n de la Plana, giving possiblity for generating additional income. The townhouse is valued at 1170000 EUR.\n\n\nIn addition to his career success, he also received an inheritance of 1630000 EUR from his late grandmother, a renowned Investment Banker, in 2007.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome him as a new client.\n"
+    }
+}

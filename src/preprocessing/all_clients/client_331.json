@@ -1,0 +1,111 @@
+{
+    "passport": {
+        "first_name": "Riedo",
+        "middle_name": "Werner",
+        "last_name": "Gasser",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1963-03-31",
+        "passport_number": "FB2075506",
+        "passport_mrz": [
+            "P<CHEGASSER<<RIEDO<WERNER<<<<<<<<<<<<<<<<<<<<",
+            "FB2075506CHE630331<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2020-11-15",
+        "passport_expiry_date": "2030-11-14"
+    },
+    "client_profile": {
+        "name": "Riedo Werner Gasser",
+        "address": {
+            "city": "Zurich",
+            "street name": "Place des Halles",
+            "street number": 80,
+            "postal code": "7994"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1963-03-31",
+        "nationality": "Swiss",
+        "passport_number": "FB2075506",
+        "passport_issue_date": "2020-11-15",
+        "passport_expiry_date": "2030-11-14",
+        "gender": "M",
+        "phone_number": "075 947 44 12",
+        "email_address": "riedo.gasserhotmail.com",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Lyc\u00e9e des Templiers Fribourg",
+            "graduation_year": 1982
+        },
+        "higher_education": [
+            {
+                "university": "University of Geneva",
+                "graduation_year": 1987
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1987,
+                "end_year": 1988,
+                "company": "Swatch Group AG",
+                "position": "Assistant Designer",
+                "salary": 65000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1992,
+                "company": "Akris AG",
+                "position": "Senior Designer",
+                "salary": 85000
+            },
+            {
+                "start_year": 1993,
+                "end_year": 2023,
+                "company": "Akris AG",
+                "position": "Creative Director",
+                "salary": 0
+            }
+        ],
+        "aum": {
+            "savings": 2570000,
+            "inheritance": 0,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {},
+        "real_estate_details": [],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Riedo Werner Gasser",
+        "first_name": "Riedo",
+        "middle_name": "Werner",
+        "last_name": "Gasser",
+        "passport_number": "FB2075506",
+        "currency": "CHF",
+        "address": {
+            "city": "Zurich",
+            "street name": "Place des Halles",
+            "street number": 80,
+            "postal code": "7994"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "++34075 947 44 12",
+        "email_address": "riedo.gasser@hotmail.com"
+    },
+    "client_description": {
+        "Summary Note": "Riedo Werner Gasser and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nRiedo Werner Gasser is a seasoned professional with over 38 years of experience.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Riedo Werner Gasser is currently divorced. He does not have any children.",
+        "Education Background": "Riedo received his secondary school diploma from Lyc\u00e9e des Templiers Fribourg in 1982.\nRiedo graduated from University of Geneva in 1987, completing his higher education.\n",
+        "Occupation History": "Riedo Werner Gasser is a 62 year old retired Creative Director from Switzerland.\nRiedo Werner Gasser launched his career as a Assistant Designer at Swatch Group AG, where he gained valuable experience from 1987 to 1988.\nAfter gaining experience, he took on the role of Senior Designer at Akris AG in 1990, further expanding his skill set.\nAt Akris AG, he worked as a Creative Director from 1993 till retirement, focusing on strategic initiatives and team collaboration.\n",
+        "Wealth Summary": "He managed to save approximately 2570000 CHF from his earnings at all companies.\nClient does not have any properties.He does not have any inheritances.",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

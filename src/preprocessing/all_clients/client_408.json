@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Chiara",
+        "middle_name": "Costanza",
+        "last_name": "Esposito",
+        "gender": "F",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1981-08-22",
+        "passport_number": "KA3379595",
+        "passport_mrz": [
+            "P<ITAESPOSITO<<CHIARA<COSTANZA<<<<<<<<<<<<<<<",
+            "KA3379595ITA810822<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-11-18",
+        "passport_expiry_date": "2032-11-17"
+    },
+    "client_profile": {
+        "name": "Chiara Costanza Esposito",
+        "address": {
+            "city": "Rome",
+            "street name": "Piazza Farnese",
+            "street number": 76,
+            "postal code": "70149"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1981-08-22",
+        "nationality": "Italian",
+        "passport_number": "KA3379595",
+        "passport_issue_date": "2022-11-18",
+        "passport_expiry_date": "2032-11-17",
+        "gender": "F",
+        "phone_number": "345 6102185",
+        "email_address": "chiara.esposito@tiscali.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Scuola Media Statale Giovanni Pascoli Napoli",
+            "graduation_year": 1999
+        },
+        "higher_education": [
+            {
+                "university": "University of Turin",
+                "graduation_year": 2005
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2006,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "Research Scientist",
+                "salary": 28000
+            },
+            {
+                "start_year": 2007,
+                "end_year": null,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Clinical Trials Manager",
+                "salary": 155000
+            }
+        ],
+        "aum": {
+            "savings": 230000,
+            "inheritance": 3260000,
+            "real_estate_value": 1636000
+        },
+        "inheritance_details": {
+            "relationship": "mother",
+            "inheritance year": 2007,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1036000,
+                "property location": "Rome"
+            },
+            {
+                "property type": "flat",
+                "property value": 600000,
+                "property location": "Pisa"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Italy",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Chiara Costanza Esposito",
+        "first_name": "Chiara",
+        "middle_name": "Costanza",
+        "last_name": "Esposito",
+        "passport_number": "KA3379595",
+        "currency": "EUR",
+        "address": {
+            "city": "Rome",
+            "street name": "Piazza Farnese",
+            "street number": 76,
+            "postal code": "70149"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "345 6102185",
+        "email_address": "chiara.esposito@tiscali.it"
+    },
+    "client_description": {
+        "Summary Note": "Chiara Costanza Esposito and the RM were introduced at a gourmet food festival in Rome. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nChiara Costanza Esposito is a 43 year old and comes from Italy.\nAfter extensive research, she chose Julius Baer for its strong track record in managing high-net-worth clients.\n",
+        "Family Background": "Chiara Costanza Esposito is married to Russo. They do not have any children.",
+        "Education Background": "Chiara earned her secondary school diploma from Scuola Media Statale Giovanni Pascoli Napoli in 1999.\nAfter that, she went on to study at University of Turin until 2005.\n",
+        "Occupation History": "With a career spanning nearly 20 years, Chiara Costanza Esposito has established herself as a key player in the industry.\nIn 2005, Chiara Costanza Esposito started working as a Research Scientist at Menarini Industrie Farmaceutiche Riunite S.r.l., marking the beginning of her successful career.\nShe then transitioned to Novartis Farma S.p.A. as a Clinical Trials Manager, leveraging her expertise to drive results from 2007 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 230000 EUR.\nHer remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Rome and Pisa, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nFollowing the passing of her mother, a successful Private Equity Manager, she received an inheritance of 3260000 EUR in 2007, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Chiara as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Brandstetter",
+        "middle_name": "Schmidt",
+        "last_name": "Hinterleitner",
+        "gender": "M",
+        "country": "Austria",
+        "country_code": "A",
+        "nationality": "Austrian",
+        "birth_date": "1985-03-01",
+        "passport_number": "ZF6451190",
+        "passport_mrz": [
+            "P<AUTHINTERLEITNER<<BRANDSTETTER<SCHMIDT<<<<<",
+            "ZF6451190AUT850301<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-11-28",
+        "passport_expiry_date": "2034-11-27"
+    },
+    "client_profile": {
+        "name": "Brandstetter Schmidt Hinterleitner",
+        "address": {
+            "city": "Stockerau",
+            "street name": "K\u00e4rntner Stra\u00dfe",
+            "street number": 68,
+            "postal code": "2110"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1985-03-01",
+        "nationality": "Austrian",
+        "passport_number": "ZF6451190",
+        "passport_issue_date": "2024-11-28",
+        "passport_expiry_date": "2034-11-27",
+        "gender": "M",
+        "phone_number": "+43 202 616 3321",
+        "email_address": "brandstetter.hinterleitner@liwest.at",
+        "marital_status": "widowed",
+        "secondary_school": {
+            "name": "Gymnasium Sacr\u00e9 Coeur Pressbaum",
+            "graduation_year": 2002
+        },
+        "higher_education": [
+            {
+                "university": "University of Innsbruck",
+                "graduation_year": 2009
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2012,
+                "company": "FACC AG",
+                "position": "Aerospace Engineer",
+                "salary": 32000
+            },
+            {
+                "start_year": 2013,
+                "end_year": null,
+                "company": "AMSC Austria",
+                "position": "Program Manager",
+                "salary": 111000
+            }
+        ],
+        "aum": {
+            "savings": 160000,
+            "inheritance": 310000,
+            "real_estate_value": 2060000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2018,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1090000,
+                "property location": "Stockerau"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 970000,
+                "property location": "Wels"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Brandstetter Schmidt Hinterleitner",
+        "first_name": "Brandstetter",
+        "middle_name": "Schmidt",
+        "last_name": "Hinterleitner",
+        "passport_number": "ZF6451190",
+        "currency": "EUR",
+        "address": {
+            "city": "Stockerau",
+            "street name": "K\u00e4rntner Stra\u00dfe",
+            "street number": 68,
+            "postal code": "2110"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 202 616 3321",
+        "email_address": "brandstetter.hinterleitner@liwest.at"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Brandstetter Schmidt Hinterleitner at a charity gala in Vienna. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nBrandstetter Schmidt Hinterleitner is a 40 year old Program Manager from Austria. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nSeeking a trusted partner for wealth management, he joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Brandstetter Schmidt Hinterleitner is currently widowed. He does not have any children.",
+        "Education Background": "Brandstetter received his secondary school diploma from Gymnasium Sacr\u00e9 Coeur Pressbaum in 2002.\nBrandstetter received his degree from University of Innsbruck in 2009.\n",
+        "Occupation History": "With a career spanning nearly 16 years, Brandstetter Schmidt Hinterleitner has established himself as a key player in the industry.\nBrandstetter Schmidt Hinterleitner launched his career as a Aerospace Engineer at FACC AG, where he gained valuable experience from 2009 to 2012.\nAt AMSC Austria, he held the position of Program Manager from 2013 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "Throughout his career, he saved 160000 EUR, investing in various assets to grow his wealth.\nHe owns condo in Stockerau, where he resides. It is worth 1090000 EUR.\n\nHe purchased townhouse in Wels, where he spends his holidays. It is valued at 970000 EUR.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

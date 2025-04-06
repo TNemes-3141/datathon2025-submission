@@ -1,0 +1,134 @@
+{
+    "passport": {
+        "first_name": "Kuhn",
+        "middle_name": "Wyss",
+        "last_name": "Burkart",
+        "gender": "M",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1979-03-09",
+        "passport_number": "VD6133821",
+        "passport_mrz": [
+            "P<CHEBURKART<<KUHN<WYSS<<<<<<<<<<<<<<<<<<<<<<",
+            "VD6133821CHE790309<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-10-31",
+        "passport_expiry_date": "2027-10-30"
+    },
+    "client_profile": {
+        "name": "Kuhn Wyss Burkart",
+        "address": {
+            "city": "Lugano",
+            "street name": "Heimplatz",
+            "street number": 8,
+            "postal code": "6049"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1979-03-09",
+        "nationality": "Swiss",
+        "passport_number": "VD6133821",
+        "passport_issue_date": "2017-10-31",
+        "passport_expiry_date": "2027-10-30",
+        "gender": "M",
+        "phone_number": "+41 064 038 96 04",
+        "email_address": "kuhn.burkart@lycos.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Kantonsschule Wettingen Wettingen",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "University of Geneva",
+                "graduation_year": 2001
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2002,
+                "end_year": 2007,
+                "company": "Kunstmuseum Basel",
+                "position": "Art Dealer",
+                "salary": 80000
+            },
+            {
+                "start_year": 2007,
+                "end_year": 2008,
+                "company": "Fondation Beyeler",
+                "position": "Gallery Owner",
+                "salary": 101000
+            },
+            {
+                "start_year": 2009,
+                "end_year": 2012,
+                "company": "Kunsthaus Z\u00fcrich",
+                "position": "Art Advisor",
+                "salary": 120000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "Kunsthaus Z\u00fcrich",
+                "position": "Curator",
+                "salary": 961000
+            }
+        ],
+        "aum": {
+            "savings": 1260000,
+            "inheritance": 510000,
+            "real_estate_value": 5950000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2013,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2840000,
+                "property location": "Lugano"
+            },
+            {
+                "property type": "house",
+                "property value": 3110000,
+                "property location": "Bellinzona"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Germany"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Kuhn Wyss Burkart",
+        "first_name": "Kuhn",
+        "middle_name": "Wyss",
+        "last_name": "Burkart",
+        "passport_number": "VD6133821",
+        "currency": "CHF",
+        "address": {
+            "city": "Lugano",
+            "street name": "Heimplatz",
+            "street number": 8,
+            "postal code": "6049"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 064 038 96 04",
+        "email_address": "kuhn.burkart@lycos.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Kuhn Wyss Burkart at a golf tournament in Z\u00fcrich. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nHaving worked for over 23 years, Kuhn Wyss Burkart brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Kuhn Wyss Burkart is currently single. He does not have any children.",
+        "Education Background": "Kuhn completed his secondary education at Kantonsschule Wettingen Wettingen in 1997.\nKuhn earned his degree from University of Geneva in 2001.\n",
+        "Occupation History": "Kuhn Wyss Burkart is a 46 year old and comes from Switzerland.\nKuhn Wyss Burkart's first role was as a Art Dealer at Kunstmuseum Basel, where he worked diligently from 2002 to 2007 to establish a strong reputation.\nHe then transitioned to Fondation Beyeler as a Gallery Owner, leveraging his expertise to drive results from 2007 to 2008.\nFrom 2009 to 2012, he served as a Art Advisor at Kunsthaus Z\u00fcrich, solidifying his position as a leader in the industry.\nIn 2012, he transitioned to Kunsthaus Z\u00fcrich to take on the position of Curator, capitalizing on his expertise to propel business growth.\n",
+        "Wealth Summary": "While working, he saved 1260000 CHF, which he used to build a diversified investment portfolio.\nHe owns house in Lugano, where he resides. It is worth 2840000 CHF.\n\nHe purchased house in Bellinzona, where he spends his holidays. It is valued at 3110000 CHF.\nHe inherited 510000 CHF from his grandmother, a well-known Hedge Fund Manager, in 2013, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

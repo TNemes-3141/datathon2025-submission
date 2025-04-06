@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Lecomte",
+        "middle_name": "Lemaire",
+        "last_name": "Peters",
+        "gender": "M",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1973-04-09",
+        "passport_number": "NR3374988",
+        "passport_mrz": [
+            "P<BELPETERS<<LECOMTE<LEMAIRE<<<<<<<<<<<<<<<<<",
+            "NR3374988BEL730409<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-09-16",
+        "passport_expiry_date": "2026-09-15"
+    },
+    "client_profile": {
+        "name": "Lecomte Lemaire Peters",
+        "address": {
+            "city": "Hasselt",
+            "street name": "Rue de la Convention",
+            "street number": 100,
+            "postal code": "0635"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1973-04-09",
+        "nationality": "Belgian",
+        "passport_number": "NR3374988",
+        "passport_issue_date": "2019-09-16",
+        "passport_expiry_date": "2026-09-15",
+        "gender": "M",
+        "phone_number": "0470 156 557",
+        "email_address": "lecomte.peters@base.be",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur",
+            "graduation_year": 1993
+        },
+        "higher_education": [
+            {
+                "university": "KU Leuven",
+                "graduation_year": 1996
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1997,
+                "end_year": 1999,
+                "company": "Louis Dreyfus Commodities Belgium",
+                "position": "Junior Trader",
+                "salary": 40000
+            },
+            {
+                "start_year": 1999,
+                "end_year": 2023,
+                "company": "Louis Dreyfus Commodities Belgium",
+                "position": "Senior Trader",
+                "salary": 246000
+            }
+        ],
+        "aum": {
+            "savings": 430000,
+            "inheritance": 930000,
+            "real_estate_value": 3569000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2006,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1349000,
+                "property location": "Hasselt"
+            },
+            {
+                "property type": "flat",
+                "property value": 800000,
+                "property location": "Sint-Niklaas"
+            },
+            {
+                "property type": "house",
+                "property value": 1420000,
+                "property location": "Poperinge"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lecomte Lemaire Peters",
+        "first_name": "Lecomte",
+        "middle_name": "Lemaire",
+        "last_name": "Peters",
+        "passport_number": "NR3374988",
+        "currency": "EUR",
+        "address": {
+            "city": "Hasselt",
+            "street name": "Rue de la Convention",
+            "street number": 100,
+            "postal code": "0635"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0470 156 557",
+        "email_address": "lecomte.peters@base.be"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Lecomte Lemaire Peters at a wine tasting event in Brussels. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nHaving worked for over 28 years, Lecomte Lemaire Peters brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Lecomte Lemaire Peters is currently divorced. He does not have any children.",
+        "Education Background": "Lecomte finished secondary school at Ecole Secondaire Libre du Sacr\u00e9-C\u0153ur in 1993.\nAfter that, he went on to study at KU Leuven until 1996.\n",
+        "Occupation History": "Lecomte Lemaire Peters is a 51 year old and comes from Belgium.\nIn 1997, Lecomte Lemaire Peters started working as a Junior Trader at Louis Dreyfus Commodities Belgium, marking the beginning of his successful career.\nAt Louis Dreyfus Commodities Belgium, he held the position of Senior Trader from 1999 to 2023, making significant contributions to the organization.\n",
+        "Wealth Summary": "While working, he saved 430000 EUR, which he used to build a diversified investment portfolio.\nHe has townhouse located in Hasselt, worth 1349000 EUR.\n\nIn addition to his primary residence, he owns flat in Sint-Niklaas worth 800000 EUR.\n\nOn top of that he inherited a beautiful house in Poperinge, which could be used as a weekend getaway. It is valued at 1420000 EUR.\nHe inherited a significant sum of 930000 EUR from his grandmother, a respected Private Equity Manager, in 2006, which he has wisely invested.\n",
+        "Client Summary": "In summary, Lecomte has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

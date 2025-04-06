@@ -1,0 +1,94 @@
+{
+    "passport": {
+        "first_name": "Bauer",
+        "middle_name": "Schmitz",
+        "last_name": "Herrmann",
+        "gender": "M",
+        "country": "Germany",
+        "country_code": "DEU",
+        "nationality": "German",
+        "birth_date": "2000-12-10",
+        "passport_number": "XI7043567",
+        "passport_mrz": [
+            "P<DEUHERRMANN<<BAUER<SCHMITZ<<<<<<<<<<<<<<<<<",
+            "XI7043567DEU001210<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-05-02",
+        "passport_expiry_date": "2029-05-01"
+    },
+    "client_profile": {
+        "name": "Bauer Schmitz Herrmann",
+        "address": {
+            "city": "Cologne",
+            "street name": "Augustusplatz",
+            "street number": 9,
+            "postal code": "56714"
+        },
+        "country_of_domicile": "Germany",
+        "birth_date": "2000-12-10",
+        "nationality": "German",
+        "passport_number": "XI7043567",
+        "passport_issue_date": "2019-05-02",
+        "passport_expiry_date": "2029-05-01",
+        "gender": "M",
+        "phone_number": "4689 061477",
+        "email_address": "bauer.herrmann@o2online.de",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Maria-Theresia-Gymnasium M\u00fcnchen",
+            "graduation_year": 2018
+        },
+        "higher_education": [
+            {
+                "university": "Jacobs University Bremen",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1560000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2016,
+            "profession": "Oil and Gas Executive"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France",
+            "Germany"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Bauer Schmitz Herrmann",
+        "first_name": "Bauer",
+        "middle_name": "Schmitz",
+        "last_name": "Herrmann",
+        "passport_number": "XI7043567",
+        "currency": "EUR",
+        "address": {
+            "city": "Cologne",
+            "street name": "Augustusplatz",
+            "street number": 9,
+            "postal code": "56714"
+        },
+        "country_of_domicile": "Germany",
+        "phone_number": "4689 061477",
+        "email_address": "bauer.herrmann@o2online.de"
+    },
+    "client_description": {
+        "Summary Note": "Bauer Schmitz Herrmann and the RM were introduced at a charity run in Berlin. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nBauer Schmitz Herrmann is a 24 year old and comes from Germany.\nHe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Bauer Schmitz Herrmann is currently single. He does not have any children.",
+        "Education Background": "Bauer completed his secondary education at Maria-Theresia-Gymnasium M\u00fcnchen in 2018.\nBauer received his degree from Jacobs University Bremen in 2025.\n",
+        "Occupation History": "Bauer Schmitz Herrmann is a 24 year old and comes from Germany.\nBauer Schmitz Herrmann did not start his professional career yet.",
+        "Wealth Summary": "He did not have any savings to invest in financial markets.\nClient does not have any properties.He inherited a significant sum of 1560000 EUR from his grandfather, a respected Oil and Gas Executive, in 2016, which he has wisely invested.\n",
+        "Client Summary": "The RM is looking forward to supporting the client in building a successful career and achieving financial stability.\n"
+    }
+}

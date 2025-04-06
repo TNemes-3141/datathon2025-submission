@@ -1,0 +1,118 @@
+{
+    "passport": {
+        "first_name": "Evelyne",
+        "middle_name": "C\u00e9line",
+        "last_name": "M\u00fcller",
+        "gender": "F",
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "nationality": "Swiss",
+        "birth_date": "1994-08-30",
+        "passport_number": "GL4791002",
+        "passport_mrz": [
+            "P<CHEM\u00dcLLER<<EVELYNE<C\u00c9LINE<<<<<<<<<<<<<<<<<<",
+            "GL4791002CHE940830<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2022-06-13",
+        "passport_expiry_date": "2032-06-12"
+    },
+    "client_profile": {
+        "name": "Evelyne C\u00e9line M\u00fcller",
+        "address": {
+            "city": "Frauenfeld",
+            "street name": "Untere Hauptgasse",
+            "street number": 89,
+            "postal code": "5093"
+        },
+        "country_of_domicile": "Switzerland",
+        "birth_date": "1994-08-30",
+        "nationality": "Swiss",
+        "passport_number": "GL4791002",
+        "passport_issue_date": "2022-06-13",
+        "passport_expiry_date": "2032-06-12",
+        "gender": "F",
+        "phone_number": "+41 074 059 24 47",
+        "email_address": "evelyne.muller@teli.ch",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Gymnasium K\u00f6niz Bern",
+            "graduation_year": 2012
+        },
+        "higher_education": [
+            {
+                "university": "University of Fribourg",
+                "graduation_year": 2017
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2019,
+                "end_year": null,
+                "company": "Credit Suisse AG",
+                "position": "Investment Banker",
+                "salary": 75000
+            }
+        ],
+        "aum": {
+            "savings": 60000,
+            "inheritance": 1450000,
+            "real_estate_value": 8150000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 2900000,
+                "property location": "Frauenfeld"
+            },
+            {
+                "property type": "house",
+                "property value": 2700000,
+                "property location": "Appenzell"
+            },
+            {
+                "property type": "house",
+                "property value": 2550000,
+                "property location": "St. Gallen"
+            }
+        ],
+        "investment_risk_profile": "High",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Switzerland",
+            "Netherlands"
+        ],
+        "currency": "CHF"
+    },
+    "account_form": {
+        "name": "Evelyne C\u00e9line M\u00fcller",
+        "first_name": "Evelyne",
+        "middle_name": "C\u00e9line",
+        "last_name": "M\u00fcller",
+        "passport_number": "GL4791002",
+        "currency": "CHF",
+        "address": {
+            "city": "Frauenfeld",
+            "street name": "Untere Hauptgasse",
+            "street number": 89,
+            "postal code": "5093"
+        },
+        "country_of_domicile": "Switzerland",
+        "phone_number": "+41 074 059 24 47",
+        "email_address": "evelyne.muller@teli.ch"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Evelyne C\u00e9line M\u00fcller at a wine tasting event in Z\u00fcrich. They discovered a shared passion for fine wines and decided to explore potential business ventures together.\nEvelyne C\u00e9line M\u00fcller is a 30 year old Investment Banker from Switzerland.\nShe decided to join Julius Baer for its renowned wealth management services and personalized client approach.\n",
+        "Family Background": "Evelyne C\u00e9line M\u00fcller is currently single. She does not have any children.",
+        "Education Background": "Evelyne earned her secondary school diploma from Gymnasium K\u00f6niz Bern in 2012.\nEvelyne completed her university studies at University of Fribourg in 2017.\n",
+        "Occupation History": "Evelyne C\u00e9line M\u00fcller is a 30 year old and comes from Switzerland.\nAt Credit Suisse AG, Evelyne C\u00e9line M\u00fcller held the position of Investment Banker from 2019 till now, developing essential skills in the field.\n",
+        "Wealth Summary": "Throughout her career, she saved 60000 CHF, investing in various assets to grow her wealth.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 8150000 CHF.\n\n\nIn addition to her career success, she also received an inheritance of 1450000 CHF from her late grandmother, a renowned Venture Capitalist, in 2017.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

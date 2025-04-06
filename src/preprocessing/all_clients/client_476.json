@@ -1,0 +1,102 @@
+{
+    "passport": {
+        "first_name": "Anna",
+        "middle_name": "Monika",
+        "last_name": "Koller",
+        "gender": "F",
+        "country": "Austria",
+        "country_code": "AUT",
+        "nationality": "Austrian",
+        "birth_date": "1996-08-26",
+        "passport_number": "IR5159358",
+        "passport_mrz": [
+            "P<AUTKOLLER<<ANNA<MONIKA<<<<<<<<<<<<<<<<<<<<<",
+            "IR5159358AUT960826<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-09-21",
+        "passport_expiry_date": "2031-09-20"
+    },
+    "client_profile": {
+        "name": "Anna Monika Koller",
+        "address": {
+            "city": "Traun",
+            "street name": "Schlossallee",
+            "street number": 50,
+            "postal code": "7601"
+        },
+        "country_of_domicile": "Austria",
+        "birth_date": "1996-08-26",
+        "nationality": "Austrian",
+        "passport_number": "IR5159358",
+        "passport_issue_date": "2021-09-21",
+        "passport_expiry_date": "2031-09-20",
+        "gender": "F",
+        "phone_number": "+43 665 645 4235",
+        "email_address": "anna.koller@magenta.at",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Akademisches Gymnasium Graz",
+            "graduation_year": 2016
+        },
+        "higher_education": [
+            {
+                "university": "Mozarteum University Salzburg",
+                "graduation_year": 2020
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2020,
+                "end_year": null,
+                "company": "Gunvor Group",
+                "position": "Junior Trader",
+                "salary": 34000
+            }
+        ],
+        "aum": {
+            "savings": 20000,
+            "inheritance": 2670000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2020,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "",
+        "investment_horizon": "Short",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Austria"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Anna Monika Koller",
+        "first_name": "Anna",
+        "middle_name": "Monika",
+        "last_name": "Koller",
+        "passport_number": "IR5159358",
+        "currency": "EUR",
+        "address": {
+            "city": "Traun",
+            "street name": "Schlossallee",
+            "street number": 50,
+            "postal code": "7601"
+        },
+        "country_of_domicile": "Austria",
+        "phone_number": "+43 665 645 4235",
+        "email_address": "anna.koller@magenta.at"
+    },
+    "client_description": {
+        "Summary Note": "The RM first encountered Anna Monika Koller at a golf tournament in Vienna. They played a round of golf together and discussed potential business ventures, which led to a strong professional relationship.\nAnna Monika Koller is a 28 year old Junior Trader from Austria.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Anna Monika Koller is currently single. She does not have any children.",
+        "Education Background": "In 2016, Anna finished her secondary school education at Akademisches Gymnasium Graz.\nIn 2020, Anna graduated from Johannes Kepler University Linz with a degree.\n",
+        "Occupation History": "Anna Monika Koller is a 28 year old and comes from Austria.\nAnna Monika Koller began her professional journey as a Junior Trader at Gunvor Group in 2020, laying the foundation for future success.\n",
+        "Wealth Summary": "She managed to save approximately 20000 EUR from her earnings at all companies.\nClient does not have any properties.In 2020, she received an inheritance of 2670000 EUR from her late grandmother, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

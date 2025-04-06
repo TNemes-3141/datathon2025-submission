@@ -1,0 +1,116 @@
+{
+    "passport": {
+        "first_name": "Aurora",
+        "middle_name": "Anniina",
+        "last_name": "M\u00e4kinen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1962-09-04",
+        "passport_number": "ZW2553441",
+        "passport_mrz": [
+            "P<FINM\u00c4KINEN<<AURORA<ANNIINA<<<<<<<<<<<<<<<<<",
+            "ZW2553441FIN620904<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-12-21",
+        "passport_expiry_date": "2027-12-20"
+    },
+    "client_profile": {
+        "name": "Aurora Anniina M\u00e4kinen",
+        "address": {
+            "city": "Kotka",
+            "street name": "Ratapihantie",
+            "street number": 14,
+            "postal code": "73309"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1962-09-04",
+        "nationality": "Finnish",
+        "passport_number": "ZW2553441",
+        "passport_issue_date": "2017-12-21",
+        "passport_expiry_date": "2027-12-20",
+        "gender": "F",
+        "phone_number": "+358 041 520 79 94",
+        "email_address": "aurora.makinen@telia.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Eiran Apteekkarin Koulu",
+            "graduation_year": 1981
+        },
+        "higher_education": [
+            {
+                "university": "Aalto University School of Arts, Design and Architecture",
+                "graduation_year": 1986
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1986,
+                "end_year": 1989,
+                "company": "Iittala Group Oy",
+                "position": "Assistant Designer",
+                "salary": 43000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 2023,
+                "company": "Luhta Brand Factory Oy",
+                "position": "Senior Designer",
+                "salary": 352000
+            }
+        ],
+        "aum": {
+            "savings": 630000,
+            "inheritance": 0,
+            "real_estate_value": 1840000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 960000,
+                "property location": "Kotka"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 880000,
+                "property location": "Sein\u00e4joki"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Short",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Switzerland",
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Aurora Anniina M\u00e4kinen",
+        "first_name": "Aurora",
+        "middle_name": "Anniina",
+        "last_name": "M\u00e4kinen",
+        "passport_number": "ZW2553441",
+        "currency": "EUR",
+        "address": {
+            "city": "Kotka",
+            "street name": "Ratapihantie",
+            "street number": 14,
+            "postal code": "73309"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 041 520 79 94",
+        "email_address": "aurora.makinen@telia.fi"
+    },
+    "client_description": {
+        "Summary Note": "Aurora Anniina M\u00e4kinen and the RM were introduced at a charity run in Helsinki. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nAurora Anniina M\u00e4kinen is a 62 year old retired Senior Designer from Finland. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Aurora Anniina M\u00e4kinen is married to Miettinen. They do not have any children.",
+        "Education Background": "Aurora obtained her secondary school diploma from Eiran Apteekkarin Koulu in 1981.\nIn 1986, Aurora graduated from Aalto University School of Arts, Design and Architecture with a degree.\n",
+        "Occupation History": "With a career spanning nearly 39 years, Aurora Anniina M\u00e4kinen has established herself as a key player in the industry.\nAurora Anniina M\u00e4kinen launched her career as a Assistant Designer at Iittala Group Oy, where she gained valuable experience from 1986 to 1989.\nHer subsequent role was as a Senior Designer at Luhta Brand Factory Oy, where she continued to grow professionally from 1990 till retirement.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 630000 EUR.\nShe has invested in several rental properties across various locations, generating additional income. The properties are valued at 1840000 EUR.\n\nShe does not have any inheritances.",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting her in achieving her financial goals.\n"
+    }
+}

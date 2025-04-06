@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Jos\u00e9phine",
+        "middle_name": "",
+        "last_name": "Thiry",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1988-08-25",
+        "passport_number": "FF3531249",
+        "passport_mrz": [
+            "P<BELTHIRY<<JOS\u00c9PHINE<<<<<<<<<<<<<<<<<<<<<<<<",
+            "FF3531249BEL880825<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-07-20",
+        "passport_expiry_date": "2031-07-19"
+    },
+    "client_profile": {
+        "name": "Jos\u00e9phine Thiry",
+        "address": {
+            "city": "Kortrijk",
+            "street name": "",
+            "street number": 38,
+            "postal code": "7760"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1988-08-25",
+        "nationality": "Belgian",
+        "passport_number": "FF3531249",
+        "passport_issue_date": "2024-07-20",
+        "passport_expiry_date": "2031-07-19",
+        "gender": "F",
+        "phone_number": "++45 0498 731 346",
+        "email_address": "josephine.thiry@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Atheneum Antwerpen",
+            "graduation_year": 2007
+        },
+        "higher_education": [
+            {
+                "university": "Vesalius College",
+                "graduation_year": 2012
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2013,
+                "end_year": 2015,
+                "company": "Warehouses De Pauw SA",
+                "position": "Property Manager",
+                "salary": 39000
+            },
+            {
+                "start_year": 2016,
+                "end_year": null,
+                "company": "AG Real Estate SA",
+                "position": "Developer",
+                "salary": 57000
+            }
+        ],
+        "aum": {
+            "savings": 80000,
+            "inheritance": 410000,
+            "real_estate_value": 2250000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Investment Banker"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1240000,
+                "property location": "Kortrijk"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1010000,
+                "property location": "Ghent"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Jos\u00e9phine Thiry",
+        "first_name": "Jos\u00e9phine",
+        "middle_name": "",
+        "last_name": "Thiry",
+        "passport_number": "FF3531249",
+        "currency": "EUR",
+        "address": {
+            "city": "Kortrijk",
+            "street name": "Rue de la Convention",
+            "street number": 38,
+            "postal code": "7760"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0498 731 346",
+        "email_address": "josephine.thiry@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The Relationship Manager (RM) first met Jos\u00e9phine Thiry at a charity gala in Brussels. They had a long conversation about their mutual interest in philanthropy and decided to stay in touch.\nHaving worked for over 12 years, Jos\u00e9phine Thiry brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons she decided to join.\n",
+        "Family Background": "Jos\u00e9phine Thiry is currently single. She does not have any children.",
+        "Education Background": "Jos\u00e9phine completed her secondary education at Atheneum Antwerpen in 2007.\nJos\u00e9phine pursued higher education at Vesalius College, graduating in 2012.\n",
+        "Occupation History": "Jos\u00e9phine Thiry is a seasoned professional with over 12 years of experience.\nAt Warehouses De Pauw SA, Jos\u00e9phine Thiry held the position of Property Manager from 2013 to 2015, developing essential skills in the field.\nHer subsequent role was as a Developer at AG Real Estate SA, where she continued to grow professionally from 2016 till now.\n",
+        "Wealth Summary": "During her work, she focused on financial growth, making diverse investments and ultimately saving 80000 EUR.\nShe owns townhouse in Kortrijk, where she resides. It is worth 1240000 EUR.\n\nShe purchased townhouse in Ghent, where she spends her holidays. It is valued at 1010000 EUR.\nIn 2015, she received an inheritance of 410000 EUR from her late grandmother, who was a prominent Investment Banker, and has since invested it in various assets.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

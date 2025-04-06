@@ -1,0 +1,119 @@
+{
+    "passport": {
+        "first_name": "Ingrid",
+        "middle_name": "\u00c8ve",
+        "last_name": "Guillaume",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1960-12-31",
+        "passport_number": "AR5611049",
+        "passport_mrz": [
+            "P<FRAGUILLAUME<<INGRID<\u00c8VE<<<<<<<<<<<<<<<<<<<",
+            "AR5611049FRA601231<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-07-06",
+        "passport_expiry_date": "2029-07-05"
+    },
+    "client_profile": {
+        "name": "Ingrid \u00c8ve Guillaume",
+        "address": {
+            "city": "Paris",
+            "street name": "Rue Cujas",
+            "street number": 6,
+            "postal code": "17253"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1960-12-31",
+        "nationality": "French",
+        "passport_number": "AR5611049",
+        "passport_issue_date": "2019-07-06",
+        "passport_expiry_date": "2029-07-05",
+        "gender": "F",
+        "phone_number": "+33 09 12 70 99 78",
+        "email_address": "ingrid.guillaume@icloud.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Carnot",
+            "graduation_year": 1980
+        },
+        "higher_education": [
+            {
+                "university": "EMIC de Lyon",
+                "graduation_year": 1985
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1985,
+                "end_year": 1987,
+                "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A.",
+                "position": "Investment Banker",
+                "salary": 29000
+            },
+            {
+                "start_year": 1987,
+                "end_year": 1990,
+                "company": "Natixis S.A.",
+                "position": "Private Equity Investor",
+                "salary": 44000
+            },
+            {
+                "start_year": 1990,
+                "end_year": 1991,
+                "company": "Cr\u00e9dit Agricole S.A.",
+                "position": "Hedge Fund Manager",
+                "salary": 61000
+            },
+            {
+                "start_year": 1992,
+                "end_year": 2021,
+                "company": "BNP Paribas S.A.",
+                "position": "Venture Capitalist",
+                "salary": 1124000
+            }
+        ],
+        "aum": {
+            "savings": 2030000,
+            "inheritance": 0,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {},
+        "real_estate_details": [],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Austria",
+            "France"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ingrid \u00c8ve Guillaume",
+        "first_name": "Ingrid",
+        "middle_name": "\u00c8ve",
+        "last_name": "Guillaume",
+        "passport_number": "AR5611049",
+        "currency": "EUR",
+        "address": {
+            "city": "Paris",
+            "street name": "Rue Cujas",
+            "street number": 6,
+            "postal code": "17253"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "+33 09 12 70 99 78",
+        "email_address": "ingrid.guillaume@icloud.com"
+    },
+    "client_description": {
+        "Summary Note": "Ingrid \u00c8ve Guillaume and the RM were introduced at a charity run in Paris. They ran side by side and discussed their philanthropic goals, which led to a meaningful collaboration.\nHaving worked for over 40 years, Ingrid \u00c8ve Guillaume brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nLooking for a private bank with a deep understanding of wealth management, she joined Julius Baer for its expertise.\n",
+        "Family Background": "Ingrid \u00c8ve Guillaume is currently single. She does not have any children.",
+        "Education Background": "Ingrid graduated from Lyc\u00e9e Carnot in 1980.\nIngrid finished her studies at EMIC de Lyon in 1985.\n",
+        "Occupation History": "Ingrid \u00c8ve Guillaume is a 64 year old and comes from France.\nIngrid \u00c8ve Guillaume began her professional journey as a Investment Banker at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A. in 1985, laying the foundation for future success.\nHer subsequent role was as a Private Equity Investor at Natixis S.A., where she continued to grow professionally from 1987 to 1990.\nHer tenure as a Hedge Fund Manager at Cr\u00e9dit Agricole S.A. from 1990 to 1991 was marked by significant achievements and a deepening understanding of the field.\nIn 1992, she transitioned to BNP Paribas S.A. to take on the position of Venture Capitalist, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "She managed to save approximately 2030000 EUR from her earnings at all companies.\nClient does not have any properties.She does not have any inheritances.",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

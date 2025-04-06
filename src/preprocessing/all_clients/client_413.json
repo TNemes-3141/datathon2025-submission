@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Wagemakers",
+        "middle_name": "Teunissen",
+        "last_name": "Brinkman",
+        "gender": "M",
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "nationality": "Dutch",
+        "birth_date": "1980-03-02",
+        "passport_number": "XG0366283",
+        "passport_mrz": [
+            "P<NLDBRINKMAN<<WAGEMAKERS<TEUNISSEN<<<<<<<<<<",
+            "XG0366283NLD800302<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-11-24",
+        "passport_expiry_date": "2026-11-23"
+    },
+    "client_profile": {
+        "name": "Wagemakers Teunissen Brinkman",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue de la Croix-Rouge",
+            "street number": 54,
+            "postal code": "0337"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1980-03-02",
+        "nationality": "Dutch",
+        "passport_number": "XG0366283",
+        "passport_issue_date": "2016-11-24",
+        "passport_expiry_date": "2026-11-23",
+        "gender": "M",
+        "phone_number": "0459 896 376",
+        "email_address": "wagemakers.brinkman@outlook.com",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Hoeksch Lyceum Rotterdam",
+            "graduation_year": 1998
+        },
+        "higher_education": [
+            {
+                "university": "Wittenborg University of Applied Sciences",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2003,
+                "end_year": 2007,
+                "company": "Marriott International Belgium",
+                "position": "Hotel Manager",
+                "salary": 43000
+            },
+            {
+                "start_year": 2008,
+                "end_year": null,
+                "company": "Marriott International Belgium",
+                "position": "General Manager",
+                "salary": 222000
+            }
+        ],
+        "aum": {
+            "savings": 360000,
+            "inheritance": 820000,
+            "real_estate_value": 2250000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2009,
+            "profession": "Hedge Fund Manager"
+        },
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1120000,
+                "property location": "Herstal"
+            },
+            {
+                "property type": "flat",
+                "property value": 1130000,
+                "property location": "Roosendaal"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Wagemakers Teunissen Brinkman",
+        "first_name": "Wagemakers",
+        "middle_name": "Teunissen",
+        "last_name": "Brinkman",
+        "passport_number": "XG0366283",
+        "currency": "EUR",
+        "address": {
+            "city": "Herstal",
+            "street name": "Rue de la Croix-Rouge",
+            "street number": 54,
+            "postal code": "0337"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "0459 896 376",
+        "email_address": "wagemakers.brinkman@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "Wagemakers Teunissen Brinkman and the RM were introduced at a gourmet food festival in Brussels. They shared a love for culinary arts and decided to explore investment opportunities in the food industry together.\nWagemakers Teunissen Brinkman is a seasoned professional with over 22 years of experience.\nJulius Baer's personalized approach and dedication to client success were key factors in his decision to join.\n",
+        "Family Background": "Wagemakers Teunissen Brinkman is currently single. He does not have any children.",
+        "Education Background": "Wagemakers obtained his secondary school diploma from Hoeksch Lyceum Rotterdam in 1998.\nAfter that, he went on to study at Wittenborg University of Applied Sciences until 2004.\n",
+        "Occupation History": "With a career spanning nearly 22 years, Wagemakers Teunissen Brinkman has established himself as a key player in the industry.\nAt Marriott International Belgium, Wagemakers Teunissen Brinkman held the position of Hotel Manager from 2003 to 2007, developing essential skills in the field.\nAt Marriott International Belgium, he held the position of General Manager from 2008 till now, making significant contributions to the organization.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 360000 EUR.\nHe has townhouse located in Herstal, worth 1120000 EUR.\n\nHe purchased flat in Roosendaal, where he spends his holidays. It is valued at 1130000 EUR.\nHe inherited 820000 EUR from his grandfather, a well-known Hedge Fund Manager, in 2009, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "Based on the information provided, we are excited about the client's financial journey and look forward to supporting him in achieving his financial goals.\n"
+    }
+}

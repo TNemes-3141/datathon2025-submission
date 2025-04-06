@@ -1,0 +1,122 @@
+{
+    "passport": {
+        "first_name": "Santoro",
+        "middle_name": "Donati",
+        "last_name": "Silvestri",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "ITA",
+        "nationality": "Italian",
+        "birth_date": "1985-02-15",
+        "passport_number": "OD6282041",
+        "passport_mrz": [
+            "P<ITASANTORO<<SILVESTRI<DONATI<<<<<<<<<<<<<<<",
+            "OD6282041ITA850215<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-09-21",
+        "passport_expiry_date": "2027-09-20"
+    },
+    "client_profile": {
+        "name": "Santoro Donati Silvestri",
+        "address": {
+            "city": "Milan",
+            "street name": "Via Dora Riparia",
+            "street number": 33,
+            "postal code": "96214"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1985-02-15",
+        "nationality": "Italian",
+        "passport_number": "OD6282041",
+        "passport_issue_date": "2017-09-21",
+        "passport_expiry_date": "2027-09-20",
+        "gender": "M",
+        "phone_number": "323 4443234",
+        "email_address": "santoro.silvestri@libero.it",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Liceo Linguistico Internazionale Galileo Galilei Firenze",
+            "graduation_year": 2003
+        },
+        "higher_education": [
+            {
+                "university": "Polytechnic University of Bari",
+                "graduation_year": 2007
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2009,
+                "end_year": 2012,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Research Scientist",
+                "salary": 28000
+            },
+            {
+                "start_year": 2013,
+                "end_year": 2016,
+                "company": "Novartis Farma S.p.A.",
+                "position": "Biotech Startup Founder",
+                "salary": 36000
+            },
+            {
+                "start_year": 2018,
+                "end_year": null,
+                "company": "Menarini Industrie Farmaceutiche Riunite S.r.l.",
+                "position": "CEO",
+                "salary": 119000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 7180000,
+            "real_estate_value": 710000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2019,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "flat",
+                "property value": 710000,
+                "property location": "Milan"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Netherlands"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Santoro Donati Silvestri",
+        "first_name": "Santoro",
+        "middle_name": "Donati",
+        "last_name": "Silvestri",
+        "passport_number": "OD6282041",
+        "currency": "EUR",
+        "address": {
+            "city": "Milan",
+            "street name": "Via Dora Riparia",
+            "street number": 33,
+            "postal code": "96214"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "323 4443234",
+        "email_address": "santoro.silvestri@libero.it"
+    },
+    "client_description": {
+        "Summary Note": "Santoro Donati Silvestri and the RM met at a financial seminar in Rome. They attended several workshops together and exchanged ideas on market trends, which sparked a long-term professional relationship.\nSantoro Donati Silvestri is a seasoned professional with over 16 years of experience.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Santoro Donati Silvestri has been happily married to Sofia since 2016. They are proud parents of 2 children: Marini and Francesca.",
+        "Education Background": "Santoro completed his secondary education at Liceo Linguistico Internazionale Galileo Galilei Firenze in 2003.\nHe then attended Polytechnic University of Bari, which he graduated in 2007.\n",
+        "Occupation History": "Santoro Donati Silvestri is a 40 year old CEO from Italy. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Novartis Farma S.p.A., Santoro Donati Silvestri held the position of Research Scientist from 2009 to 2012, developing essential skills in the field.\nHe then transitioned to Novartis Farma S.p.A. as a Biotech Startup Founder, leveraging his expertise to drive results from 2013 to 2016.\nHe spent 7 years working as a CEO at Menarini Industrie Farmaceutiche Riunite S.r.l., refining his expertise and building a strong network.\n",
+        "Wealth Summary": "While working, he saved 140000 EUR, which he used to build a diversified investment portfolio.\nHe has flat located in Milan, worth 710000 EUR.\n\nIn 2019, he received an inheritance of 7180000 EUR from his late grandfather, who was a prominent Corporate Lawyer, and has since invested it in various assets.\n",
+        "Client Summary": "In conclusion, we are confident in the client's financial stability and future prospects.\n"
+    }
+}

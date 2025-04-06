@@ -1,0 +1,127 @@
+{
+    "passport": {
+        "first_name": "Lombardi",
+        "middle_name": "Livi",
+        "last_name": "Rossi",
+        "gender": "M",
+        "country": "Italy",
+        "country_code": "IT",
+        "nationality": "Italian",
+        "birth_date": "1983-04-07",
+        "passport_number": "VM5400129",
+        "passport_mrz": [
+            "P<ITAROSSI<<LOMBARDI<LIVI<<<<<<<<<<<<<<<<<<<<",
+            "VM5400129ITA830407<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-04-13",
+        "passport_expiry_date": "2034-04-12"
+    },
+    "client_profile": {
+        "name": "Lombardi Livi Rossi",
+        "address": {
+            "city": "Milan",
+            "street name": "Via Nazionale",
+            "street number": 77,
+            "postal code": "13010"
+        },
+        "country_of_domicile": "Italy",
+        "birth_date": "1983-04-07",
+        "nationality": "Italian",
+        "passport_number": "VM5400129",
+        "passport_issue_date": "2024-04-13",
+        "passport_expiry_date": "2034-04-12",
+        "gender": "M",
+        "phone_number": "319 6552022",
+        "email_address": "lombardi.rossi@alice.it",
+        "marital_status": "divorced",
+        "secondary_school": {
+            "name": "Liceo Scientifico Enrico Fermi Bologna",
+            "graduation_year": 2001
+        },
+        "higher_education": [
+            {
+                "university": "University of Naples Federico II",
+                "graduation_year": 2008
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1979,
+                "end_year": 2013,
+                "company": "Intesa Sanpaolo Private Banking",
+                "position": "Financial Advisor",
+                "salary": 28000
+            },
+            {
+                "start_year": 2015,
+                "end_year": 2016,
+                "company": "Allianz Bank Financial Advisors S.p.A.",
+                "position": "Portfolio Manager",
+                "salary": 38000
+            },
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "Intesa Sanpaolo Private Banking",
+                "position": "Wealth Manager",
+                "salary": 124000
+            }
+        ],
+        "aum": {
+            "savings": 140000,
+            "inheritance": 490000,
+            "real_estate_value": 3670000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2005,
+            "profession": "Stock Trader"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 2060000,
+                "property location": "Milan"
+            },
+            {
+                "property type": "house",
+                "property value": 1610000,
+                "property location": "Milan"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Short",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Italy",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lombardi Livi Rossi",
+        "first_name": "Lombardi",
+        "middle_name": "Livi",
+        "last_name": "Rossi",
+        "passport_number": "VM5400129",
+        "currency": "EUR",
+        "address": {
+            "city": "Milan",
+            "street name": "Via Nazionale",
+            "street number": 77,
+            "postal code": "13010"
+        },
+        "country_of_domicile": "Italy",
+        "phone_number": "319 6552022",
+        "email_address": "lombardi.rossi@alice.it"
+    },
+    "client_description": {
+        "Summary Note": "The RM is Lombardi Livi Rossi's brother-in-law, having married his's sister. This family connection has strengthened their professional collaboration, allowing for seamless communication and trust.\nLombardi Livi Rossi is a 41 year old Wealth Manager from Italy. He has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nHe was drawn to Julius Baer's holistic financial planning and investment strategies, prompting the decision to join.\n",
+        "Family Background": "Lombardi Livi Rossi is currently divorced. His children are named Bruno, Fantini and Conti.",
+        "Education Background": "Lombardi earned his degree from University of Naples Federico II in 2008.\n",
+        "Occupation History": "With a career spanning nearly 17 years, Lombardi Livi Rossi has established himself as a key player in the industry.\nLombardi Livi Rossi's first role was as a Financial Advisor at Intesa Sanpaolo Private Banking, where he worked diligently from 2008 to 2013 to establish a strong reputation.\nHe then transitioned to Allianz Bank Financial Advisors S.p.A. as a Portfolio Manager, leveraging his expertise to drive results from 2015 to 2016.\nHis tenure as a Wealth Manager at Intesa Sanpaolo Private Banking from 2017 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "Throughout his career, he saved 140000 EUR, investing in various assets to grow his wealth.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Milan, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\n\nIn addition to his career success, he also received an inheritance of 490000 EUR from his late father, a renowned Stock Trader, in 2005.\n",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

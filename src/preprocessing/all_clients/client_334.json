@@ -1,0 +1,121 @@
+{
+    "passport": {
+        "first_name": "Sepp\u00e4l\u00e4",
+        "middle_name": "Mattila",
+        "last_name": "Piirainen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1958-01-13",
+        "passport_number": "VM3057311",
+        "passport_mrz": [
+            "P<FINPIIRAINEN<<SEPP\u00c4L\u00c4<MATTILA<<<<<<<<<<<<<<",
+            "VM3057311FIN580113<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2016-12-23",
+        "passport_expiry_date": "2026-12-22"
+    },
+    "client_profile": {
+        "name": "Sepp\u00e4l\u00e4 Mattila Piirainen",
+        "address": {
+            "city": "Imatra",
+            "street name": "Unioninkatu",
+            "street number": 48,
+            "postal code": "60789"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1958-01-13",
+        "nationality": "Finnish",
+        "passport_number": "VM3057311",
+        "passport_issue_date": "2016-12-23",
+        "passport_expiry_date": "2026-12-22",
+        "gender": "M",
+        "phone_number": "043 921 95 08",
+        "email_address": "seppala.piirainen@dnainternet.fi",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Kirkkonummen lukio",
+            "graduation_year": 1977
+        },
+        "higher_education": [
+            {
+                "university": "University of Turku",
+                "graduation_year": 1982
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 1982,
+                "end_year": 1983,
+                "company": "Radisson Blu Hotels",
+                "position": "Hotel Manager",
+                "salary": 36000
+            },
+            {
+                "start_year": 1984,
+                "end_year": 2018,
+                "company": "Sokos Hotels",
+                "position": "General Manager",
+                "salary": 415000
+            }
+        ],
+        "aum": {
+            "savings": 810000,
+            "inheritance": 0,
+            "real_estate_value": 2702000
+        },
+        "inheritance_details": {},
+        "real_estate_details": [
+            {
+                "property type": "townhouse",
+                "property value": 1022000,
+                "property location": "Imatra"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 870000,
+                "property location": "Pori"
+            },
+            {
+                "property type": "condo",
+                "property value": 810000,
+                "property location": "Lappeenranta"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Finland",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Sepp\u00e4l\u00e4 Mattila Piirainen",
+        "first_name": "Sepp\u00e4l\u00e4",
+        "middle_name": "Mattila",
+        "last_name": "Piirainen",
+        "passport_number": "VM3057311",
+        "currency": "EUR",
+        "address": {
+            "city": "Imatra",
+            "street name": "Unioninkatu",
+            "street number": 48,
+            "postal code": "60789"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "043 921 95 08",
+        "email_address": "seppala.piirainen@dnainternet.fi"
+    },
+    "client_description": {
+        "Summary Note": "Sepp\u00e4l\u00e4 Mattila Piirainen and the RM crossed paths at a mutual friend's dinner party in Helsinki. They discovered they had many common acquaintances and decided to explore business opportunities together.\nSepp\u00e4l\u00e4 Mattila Piirainen is a 67 year old retired General Manager from Finland.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced he to join.\n",
+        "Family Background": "Sepp\u00e4l\u00e4 Mattila Piirainen and Aino tied the knot in 1988. They are proud parents of 3 children: Salo, Mustonen and Peltola.",
+        "Education Background": "Sepp\u00e4l\u00e4 finished secondary school at Kirkkonummen lukio in 1977.\nSepp\u00e4l\u00e4 graduated from University of Turku in 1982, completing his higher education.\n",
+        "Occupation History": "Having worked for over 43 years, Sepp\u00e4l\u00e4 Mattila Piirainen brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nIn 1982, Sepp\u00e4l\u00e4 Mattila Piirainen started working as a Hotel Manager at Radisson Blu Hotels, marking the beginning of his successful career.\nIn 1984, he moved to Sokos Hotels to work as a General Manager, applying his knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "While working, he saved 810000 EUR, which he used to build a diversified investment portfolio.\nHis remarkable portfolio comprises 3 stunning properties. Situated in prime locations across Pori, Imatra and Lappeenranta, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe does not have any inheritances.",
+        "Client Summary": "Given the client's impressive career history and financial discipline, we are confident in his ability to achieve financial success and security.\n"
+    }
+}

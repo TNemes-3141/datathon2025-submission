@@ -1,0 +1,129 @@
+{
+    "passport": {
+        "first_name": "Lucas",
+        "middle_name": "Juliette",
+        "last_name": "Lemaire",
+        "gender": "F",
+        "country": "Belgium",
+        "country_code": "BEL",
+        "nationality": "Belgian",
+        "birth_date": "1975-04-11",
+        "passport_number": "PJ1729203",
+        "passport_mrz": [
+            "P<BELLEMAIRE<<LUCAS<JULIETTE<<<<<<<<<<<<<<<<<",
+            "PJ1729203BEL750411<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-12-06",
+        "passport_expiry_date": "2025-12-05"
+    },
+    "client_profile": {
+        "name": "Lucas Juliette Lemaire",
+        "address": {
+            "city": "Lokeren",
+            "street name": "Rue de la R\u00e9volution Belge",
+            "street number": 5,
+            "postal code": "9313"
+        },
+        "country_of_domicile": "Belgium",
+        "birth_date": "1975-04-11",
+        "nationality": "Belgian",
+        "passport_number": "PJ1729203",
+        "passport_issue_date": "2018-12-06",
+        "passport_expiry_date": "2025-12-05",
+        "gender": "F",
+        "phone_number": "++43 0436 408 994",
+        "email_address": "lucas.lemaire@scarlet.be",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Xaverius College",
+            "graduation_year": 1994
+        },
+        "higher_education": [
+            {
+                "university": "Vrije Universiteit Brussel",
+                "graduation_year": 1999
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2000,
+                "end_year": 2004,
+                "company": "Umicore SA",
+                "position": "Plant Manager",
+                "salary": 35000
+            },
+            {
+                "start_year": 2005,
+                "end_year": 2010,
+                "company": "Nyrstar NV",
+                "position": "Operations Director",
+                "salary": 63000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2016,
+                "company": "ArcelorMittal Belgium NV",
+                "position": "CEO",
+                "salary": 131000
+            },
+            {
+                "start_year": 2018,
+                "end_year": 2023,
+                "company": "Bekaert SA",
+                "position": "Chairman",
+                "salary": 222000
+            }
+        ],
+        "aum": {
+            "savings": 320000,
+            "inheritance": 560000,
+            "real_estate_value": 1440000
+        },
+        "inheritance_details": {
+            "relationship": "father",
+            "inheritance year": 2005,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1440000,
+                "property location": "Lokeren"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Lucas Juliette Lemaire",
+        "first_name": "Lucas",
+        "middle_name": "Juliette",
+        "last_name": "Lemaire",
+        "passport_number": "PJ1729203",
+        "currency": "EUR",
+        "address": {
+            "city": "Lokeren",
+            "street name": "Rue de la R\u00e9volution Belge",
+            "street number": 5,
+            "postal code": "9313"
+        },
+        "country_of_domicile": "Belgium",
+        "phone_number": "+32 0436 408 994",
+        "email_address": "lucas.lemaire@scarlet.be"
+    },
+    "client_description": {
+        "Summary Note": "Lucas Juliette Lemaire and the RM are childhood friends, having attended the same schools and shared many life experiences. Their enduring friendship has laid a solid foundation for their business relationship.\nWith a career spanning nearly 25 years, Lucas Juliette Lemaire has established herself as a key player in the industry.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Lucas Juliette Lemaire is currently single. She does not have any children.",
+        "Education Background": "Lucas completed her secondary education at Xaverius College in 1994.\nLucas attended Vrije Universiteit Brussel and graduated in 1999.\n",
+        "Occupation History": "Lucas Juliette Lemaire is a 49 year old Chairman from Belgium. She has a diverse background, having worked in various capacities and gained extensive knowledge in the field.\nAt Umicore SA, Lucas Juliette Lemaire held the position of Plant Manager from 2000 to 2004, developing essential skills in the field.\nAt Nyrstar NV, she held the position of Operations Director from 2005 to 2010, making significant contributions to the organization.\nAt ArcelorMittal Belgium NV, she worked as a CEO from 2011 to 2016, focusing on strategic initiatives and team collaboration.\nIn 2018, she transitioned to Bekaert SA to take on the position of Chairman, capitalizing on her expertise to propel business growth.\n",
+        "Wealth Summary": "While working, she saved 320000 EUR, which she used to build a diversified investment portfolio.\nShe has house located in Lokeren, worth 1440000 EUR.\n\nIn 2005, she received an inheritance of 560000 EUR from her late father, who was a prominent Real Estate Developer, and has since invested it in various assets.\n",
+        "Client Summary": "In light of the above, we are optimistic about the client's financial future and career progression and are eager to welcome her as a new client.\n"
+    }
+}

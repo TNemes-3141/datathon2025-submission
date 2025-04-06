@@ -1,0 +1,124 @@
+{
+    "passport": {
+        "first_name": "Isabella",
+        "middle_name": "Josephine",
+        "last_name": "Hansen",
+        "gender": "F",
+        "country": "Denmark",
+        "country_code": "DNK",
+        "nationality": "Danish",
+        "birth_date": "1993-05-07",
+        "passport_number": "YH1377765",
+        "passport_mrz": [
+            "P<DNKHANSEN<<ISABELLA<JOSEPHINE<<<<<<<<<<<<<<",
+            "YH1377765DNK930507<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2019-03-19",
+        "passport_expiry_date": "2029-03-18"
+    },
+    "client_profile": {
+        "name": "Isabella Josephine Hansen",
+        "address": {
+            "city": "Esbjerg \u00d8",
+            "street name": "Gyldenl\u00f8vesgade",
+            "street number": 62,
+            "postal code": "1821"
+        },
+        "country_of_domicile": "Denmark",
+        "birth_date": "1993-05-07",
+        "nationality": "Danish",
+        "passport_number": "YH1377765",
+        "passport_issue_date": "2019-03-19",
+        "passport_expiry_date": "2029-03-18",
+        "gender": "F",
+        "phone_number": "+45 90 90 71 11",
+        "email_address": "isabella.hansen@wanadoo.dk",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "\u00c5lborg Katedralskole",
+            "graduation_year": 2011
+        },
+        "higher_education": [
+            {
+                "university": "University of Copenhagen",
+                "graduation_year": 2016
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2017,
+                "end_year": 2019,
+                "company": "Spectronic A/S",
+                "position": "Aerospace Engineer",
+                "salary": 286000
+            },
+            {
+                "start_year": 2020,
+                "end_year": 2025,
+                "company": "Weibel Scientific A/S",
+                "position": "Program Manager",
+                "salary": 467000
+            }
+        ],
+        "aum": {
+            "savings": 460000,
+            "inheritance": 5780000,
+            "real_estate_value": 4216000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2015,
+            "profession": "Real Estate Developer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "villa",
+                "property value": 1972000,
+                "property location": "Esbjerg \u00d8"
+            },
+            {
+                "property type": "condo",
+                "property value": 934000,
+                "property location": "Vejle"
+            },
+            {
+                "property type": "townhouse",
+                "property value": 1310000,
+                "property location": "Ikast"
+            }
+        ],
+        "investment_risk_profile": "Low",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Discretionary",
+        "preferred_markets": [
+            "Denmark"
+        ],
+        "currency": "DKK"
+    },
+    "account_form": {
+        "name": "Isabella Josephine Hansen",
+        "first_name": "Isabella",
+        "middle_name": "Josephine",
+        "last_name": "Hansen",
+        "passport_number": "YH1377765",
+        "currency": "DKK",
+        "address": {
+            "city": "Esbjerg \u00d8",
+            "street name": "Gyldenl\u00f8vesgade",
+            "street number": 62,
+            "postal code": "1821"
+        },
+        "country_of_domicile": "Denmark",
+        "phone_number": "+45 90 90 71 11",
+        "email_address": "isabella.hansen@wanadoo.dk"
+    },
+    "client_description": {
+        "Summary Note": "Isabella Josephine Hansen and the RM met at a networking event in Copenhagen. They quickly realized they had complementary skills and decided to collaborate on several projects.\nIsabella Josephine Hansen is a 31 year old Program Manager from Denmark.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Isabella Josephine Hansen has been happily married to Lykke since 2018. They do not have any children.",
+        "Education Background": "Isabella finished secondary school at \u00c5lborg Katedralskole in 2011.\nIsabella completed her university studies at University of Copenhagen in 2016.\n",
+        "Occupation History": "Isabella Josephine Hansen is a 31 year old Program Manager from Denmark.\nIsabella Josephine Hansen's first role was as a Aerospace Engineer at Spectronic A/S, where she worked diligently from 2017 to 2019 to establish a strong reputation.\nIn 2020, she moved to Weibel Scientific A/S to work as a Program Manager, applying her knowledge to achieve outstanding performance.\n",
+        "Wealth Summary": "Throughout her career, she saved 460000 DKK, investing in various assets to grow her wealth.\nShe owns 3 exceptional properties: villa located in Esbjerg \u00d8, valued at approximately 1,972,000.00 DKK, condo located in Vejle, valued at approximately 934,000.00 DKK, townhouse located in Ikast, valued at approximately 1,310,000.00 DKK. This impressive collection showcases her flair for luxury living and investment prowess, with a notable presence in Esbjerg \u00d8, Vejle and Ikast.\n\nFollowing the passing of her grandmother, a successful Real Estate Developer, she received an inheritance of 5780000 DKK in 2015, which she has used to secure her financial future.\n\n",
+        "Client Summary": "The RM is very happy to have Isabella as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "passport": {
+        "first_name": "Aurora",
+        "middle_name": "Hanna",
+        "last_name": "Tolvanen",
+        "gender": "F",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "1979-12-29",
+        "passport_number": "GP0752966",
+        "passport_mrz": [
+            "P<FINTOLVANEN<<AURORA<HANNA<<<<<<<<<<<<<<<<<<",
+            "GP0752966FIN791229<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2024-07-05",
+        "passport_expiry_date": "2034-07-04"
+    },
+    "client_profile": {
+        "name": "Aurora Hanna Tolvanen",
+        "address": {
+            "city": "Espoo",
+            "street name": "Lapinlahdenkatu",
+            "street number": 1,
+            "postal code": "81139"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "1979-12-29",
+        "nationality": "Finnish",
+        "passport_number": "GP0752966",
+        "passport_issue_date": "2024-07-05",
+        "passport_expiry_date": "2034-07-04",
+        "gender": "F",
+        "phone_number": "+358 047 125 16 90",
+        "email_address": "aurora.tolvanen@outlook.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Pieks\u00e4m\u00e4ki lukio",
+            "graduation_year": 1997
+        },
+        "higher_education": [
+            {
+                "university": "University of Helsinki",
+                "graduation_year": 2004
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2006,
+                "end_year": 2010,
+                "company": "Radisson Blu Hotels",
+                "position": "General Manager",
+                "salary": 62000
+            },
+            {
+                "start_year": 2012,
+                "end_year": null,
+                "company": "Scandic Hotels Oy",
+                "position": "Regional Vice President",
+                "salary": 243000
+            }
+        ],
+        "aum": {
+            "savings": 360000,
+            "inheritance": 2070000,
+            "real_estate_value": 3230000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2014,
+            "profession": "Venture Capitalist"
+        },
+        "real_estate_details": [
+            {
+                "property type": "house",
+                "property value": 1295000,
+                "property location": "Espoo"
+            },
+            {
+                "property type": "villa",
+                "property value": 1935000,
+                "property location": "Tuusula"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Experienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Denmark",
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Aurora Hanna Tolvanen",
+        "first_name": "Aurora",
+        "middle_name": "Hanna",
+        "last_name": "Tolvanen",
+        "passport_number": "GP0752966",
+        "currency": "EUR",
+        "address": {
+            "city": "Espoo",
+            "street name": "Lapinlahdenkatu",
+            "street number": 1,
+            "postal code": "81139"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 047 125 16 90",
+        "email_address": "aurora.tolvanen@outlook.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM met Aurora Hanna Tolvanen during a business conference in Helsinki. They attended several sessions together and realized they shared similar professional goals, leading to a fruitful partnership.\nHaving worked for over 22 years, Aurora Hanna Tolvanen brings a wealth of experience and expertise to her current role. She is known for her strategic thinking and ability to drive results.\nSeeking a trusted partner for wealth management, she joined Julius Baer for its comprehensive and tailored services.\n",
+        "Family Background": "Aurora Hanna Tolvanen is married to Niemi. They do not have any children.",
+        "Education Background": "Aurora obtained her secondary school diploma from Pieks\u00e4m\u00e4ki lukio in 1997.\nAurora finished her studies at University of Helsinki in 2004.\n",
+        "Occupation History": "Aurora Hanna Tolvanen is a seasoned professional with over 22 years of experience.\nAurora Hanna Tolvanen's first role was as a Hotel Manager at Sokos Hotels, where she worked diligently from 2003 to 2006 to establish a strong reputation.\nAt Radisson Blu Hotels, she held the position of General Manager from 2006 to 2010, making significant contributions to the organization.\nHer tenure as a Regional Vice President at Scandic Hotels Oy from 2012 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "While working, she saved 360000 EUR, which she used to build a diversified investment portfolio.\nShe owns house in Espoo, where she resides. It is worth 1295000 EUR.\n\nIn addition to her primary residence, she owns villa in Tuusula worth 1935000 EUR.\n\nIn 2014, she received an inheritance of 2070000 EUR from her late grandmother, who was a prominent Venture Capitalist, and has since invested it in various assets.\n",
+        "Client Summary": "The RM knows the client very well and is a good friend of the entire family.\n"
+    }
+}

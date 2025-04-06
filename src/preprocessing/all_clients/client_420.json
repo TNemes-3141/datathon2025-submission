@@ -1,0 +1,115 @@
+{
+    "passport": {
+        "first_name": "Margaux",
+        "middle_name": "Flore",
+        "last_name": "Renault",
+        "gender": "F",
+        "country": "France",
+        "country_code": "FRA",
+        "nationality": "French",
+        "birth_date": "1995-03-01",
+        "passport_number": "ZD5028692",
+        "passport_mrz": [
+            "P<FRARENAULT<<MARGAUX<FLORE<<<<<<<<<<<<<<<<<<",
+            "ZD5028692FRA950301<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2018-03-01",
+        "passport_expiry_date": "2028-02-29"
+    },
+    "client_profile": {
+        "name": "Margaux Flore Renault",
+        "address": {
+            "city": "Nantes",
+            "street name": "Avenue d'Italie",
+            "street number": 47,
+            "postal code": "12270"
+        },
+        "country_of_domicile": "France",
+        "birth_date": "1995-03-01",
+        "nationality": "French",
+        "passport_number": "ZD5028692",
+        "passport_issue_date": "2018-03-01",
+        "passport_expiry_date": "2028-02-29",
+        "gender": "F",
+        "phone_number": "02 29 54 77 10",
+        "email_address": "margaux.renault@aliceadsl.fr",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Lyc\u00e9e Ren\u00e9 Descartes",
+            "graduation_year": 2013
+        },
+        "higher_education": [
+            {
+                "university": "\u00c9cole Normale Sup\u00e9rieure (ENS) Paris",
+                "graduation_year": 2018
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2018,
+                "end_year": 2021,
+                "company": "Sanofi S.A.",
+                "position": "Research Scientist",
+                "salary": 32000
+            },
+            {
+                "start_year": 2022,
+                "end_year": null,
+                "company": "Ipsen S.A.",
+                "position": "Clinical Trials Manager",
+                "salary": 45000
+            }
+        ],
+        "aum": {
+            "savings": 30000,
+            "inheritance": 940000,
+            "real_estate_value": 1660000
+        },
+        "inheritance_details": {
+            "relationship": "grandmother",
+            "inheritance year": 2017,
+            "profession": "Corporate Lawyer"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 1660000,
+                "property location": "Nantes"
+            }
+        ],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Medium",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "France",
+            "Belgium"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Margaux Flore Renault",
+        "first_name": "Margaux",
+        "middle_name": "Flore",
+        "last_name": "Renault",
+        "passport_number": "ZD5028692",
+        "currency": "EUR",
+        "address": {
+            "city": "Nantes",
+            "street name": "Avenue d'Italie",
+            "street number": 47,
+            "postal code": "12270"
+        },
+        "country_of_domicile": "France",
+        "phone_number": "02 29 54 77 10",
+        "email_address": "margaux.renault@aliceadsl.fr"
+    },
+    "client_description": {
+        "Summary Note": "The RM first met Margaux Flore Renault at a luxury car show in Paris. They both admired the latest models and discussed their interest in high-end investments, leading to a productive business relationship.\nMargaux Flore Renault is a 30 year old Clinical Trials Manager from France.\nJulius Baer's commitment to client satisfaction and innovative financial strategies convinced she to join.\n",
+        "Family Background": "Margaux Flore Renault has been happily married to Nicolas since 2019. They do not have any children.",
+        "Education Background": "In 2013, Margaux graduated from Lyc\u00e9e Ren\u00e9 Descartes with a secondary school diploma.\nMargaux completed her university education at \u00c9cole Normale Sup\u00e9rieure (ENS) Paris in 2018.\n",
+        "Occupation History": "Margaux Flore Renault is a 30 year old and comes from France.\nMargaux Flore Renault launched her career as a Research Scientist at Sanofi S.A., where she gained valuable experience from 2018 to 2021.\nHer subsequent role was as a Clinical Trials Manager at Ipsen S.A., where she continued to grow professionally from 2022 till now.\n",
+        "Wealth Summary": "She managed to save approximately 30000 EUR from her earnings at all companies.\nShe has condo located in Nantes, worth 1660000 EUR.\n\n\nIn addition to her career success, she also received an inheritance of 940000 EUR from her late grandmother, a renowned Corporate Lawyer, in 2017.\n",
+        "Client Summary": "In summary, Margaux has demonstrated a strong work ethic and financial acumen, positioning them well for the future.\n"
+    }
+}

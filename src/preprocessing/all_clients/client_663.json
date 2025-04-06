@@ -1,0 +1,93 @@
+{
+    "passport": {
+        "first_name": "Ahonen",
+        "middle_name": "Rissanen",
+        "last_name": "Lehtinen",
+        "gender": "M",
+        "country": "Finland",
+        "country_code": "FIN",
+        "nationality": "Finnish",
+        "birth_date": "2000-09-21",
+        "passport_number": "HT8289489",
+        "passport_mrz": [
+            "P<FINLEHTINEN<<AHONEN<RISSANEN<<<<<<<<<<<<<<<",
+            "HT8289489FIN000921<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2017-09-17",
+        "passport_expiry_date": "2027-09-16"
+    },
+    "client_profile": {
+        "name": "Ahonen Rissanen Lehtinen",
+        "address": {
+            "city": "Lappeenranta",
+            "street name": "Kalliolanpuisto",
+            "street number": 38,
+            "postal code": "05284"
+        },
+        "country_of_domicile": "Finland",
+        "birth_date": "2000-09-21",
+        "nationality": "Finnish",
+        "passport_number": "HT8289489",
+        "passport_issue_date": "2017-09-17",
+        "passport_expiry_date": "2027-09-16",
+        "gender": "M",
+        "phone_number": "+358 041 781 64 04",
+        "email_address": "ahonen.lehtinen@telia.fi",
+        "marital_status": "single",
+        "secondary_school": {
+            "name": "Salpaussel\u00e4n lukio",
+            "graduation_year": 2020
+        },
+        "higher_education": [
+            {
+                "university": "Diaconia University of Applied Sciences",
+                "graduation_year": 2025
+            }
+        ],
+        "employment_history": [],
+        "aum": {
+            "savings": 0,
+            "inheritance": 1000000,
+            "real_estate_value": 0
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2017,
+            "profession": "Private Equity Manager"
+        },
+        "real_estate_details": [],
+        "investment_risk_profile": "Moderate",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Inexperienced",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Finland"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ahonen Rissanen Lehtinen",
+        "first_name": "Ahonen",
+        "middle_name": "Rissanen",
+        "last_name": "Lehtinen",
+        "passport_number": "HT8289489",
+        "currency": "EUR",
+        "address": {
+            "city": "Lappeenranta",
+            "street name": "Kalliolanpuisto",
+            "street number": 38,
+            "postal code": "05284"
+        },
+        "country_of_domicile": "Finland",
+        "phone_number": "+358 041 781 64 04",
+        "email_address": "ahonen.lehtinen@telia.fi"
+    },
+    "client_description": {
+        "Summary Note": "Ahonen Rissanen Lehtinen and the RM are cousins, having grown up together in Helsinki. Their familial bond has naturally extended into a professional partnership built on mutual respect and shared values.\nAhonen Rissanen Lehtinen is a 24 year old and comes from Finland.\nAttracted by Julius Baer's reputation for excellence, he chose to join for the bespoke financial solutions offered.\n",
+        "Family Background": "Ahonen Rissanen Lehtinen is currently single. He does not have any children.",
+        "Education Background": "Ahonen completed his secondary education at Salpaussel\u00e4n lukio in 2020.\nAhonen received his degree from Diaconia University of Applied Sciences in 2025.\n",
+        "Occupation History": "Ahonen Rissanen Lehtinen is a 24 year old and comes from Finland.\nAhonen Rissanen Lehtinen did not start his professional career yet.",
+        "Wealth Summary": "He did not save any money from his earnings.\nClient does not have any properties.He inherited 1000000 EUR from his grandfather, a well-known Private Equity Manager, in 2017, allowing him to expand his investment portfolio.\n",
+        "Client Summary": "The RM is excited to help Ahonen navigate the challenges of starting a career and building a strong financial foundation.\n"
+    }
+}

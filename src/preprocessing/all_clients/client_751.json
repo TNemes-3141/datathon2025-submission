@@ -1,0 +1,126 @@
+{
+    "passport": {
+        "first_name": "Ortega",
+        "middle_name": "Su\u00e1rez",
+        "last_name": "Herrera",
+        "gender": "M",
+        "country": "Spain",
+        "country_code": "ESP",
+        "nationality": "Spanish",
+        "birth_date": "1981-08-13",
+        "passport_number": "MX1539803",
+        "passport_mrz": [
+            "P<ESPHERRERA<<ORTEGA<SU\u00c1REZ<<<<<<<<<<<<<<<<<<",
+            "MX1539803ESP810813<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+        ],
+        "passport_issue_date": "2021-12-14",
+        "passport_expiry_date": "2031-12-13"
+    },
+    "client_profile": {
+        "name": "Ortega Su\u00e1rez Herrera",
+        "address": {
+            "city": "Santa Cruz de Tenerife",
+            "street name": "Calle de San Bernardo",
+            "street number": 59,
+            "postal code": "83041"
+        },
+        "country_of_domicile": "Spain",
+        "birth_date": "1981-08-13",
+        "nationality": "Spanish",
+        "passport_number": "MX1539803",
+        "passport_issue_date": "2021-12-14",
+        "passport_expiry_date": "2031-12-13",
+        "gender": "M",
+        "phone_number": "+34 699 299 774",
+        "email_address": "ortega.herrera@yahoo.com",
+        "marital_status": "married",
+        "secondary_school": {
+            "name": "Instituto de Bachillerato Art\u00edstico IES Reina Sofia Tenerife",
+            "graduation_year": 2001
+        },
+        "higher_education": [
+            {
+                "university": "Ram\u00f3n Llull University",
+                "graduation_year": 2006
+            }
+        ],
+        "employment_history": [
+            {
+                "start_year": 2005,
+                "end_year": 2010,
+                "company": "Merlin Properties SOCIMI S.A.",
+                "position": "Property Manager",
+                "salary": 36000
+            },
+            {
+                "start_year": 2011,
+                "end_year": 2016,
+                "company": "Realia Business S.A.",
+                "position": "Developer",
+                "salary": 44000
+            },
+            {
+                "start_year": 2017,
+                "end_year": null,
+                "company": "Realia Business S.A.",
+                "position": "Construction Company Owner",
+                "salary": 108000
+            }
+        ],
+        "aum": {
+            "savings": 170000,
+            "inheritance": 440000,
+            "real_estate_value": 1669000
+        },
+        "inheritance_details": {
+            "relationship": "grandfather",
+            "inheritance year": 2006,
+            "profession": "Tech Entrepreneur"
+        },
+        "real_estate_details": [
+            {
+                "property type": "condo",
+                "property value": 889000,
+                "property location": "Santa Cruz de Tenerife"
+            },
+            {
+                "property type": "condo",
+                "property value": 780000,
+                "property location": "Madrid"
+            }
+        ],
+        "investment_risk_profile": "Considerable",
+        "investment_horizon": "Long-Term",
+        "investment_experience": "Expert",
+        "type_of_mandate": "Advisory",
+        "preferred_markets": [
+            "Spain"
+        ],
+        "currency": "EUR"
+    },
+    "account_form": {
+        "name": "Ortega Su\u00e1rez Herrera",
+        "first_name": "Ortega",
+        "middle_name": "Su\u00e1rez",
+        "last_name": "Herrera",
+        "passport_number": "MX1539803",
+        "currency": "EUR",
+        "address": {
+            "city": "Santa Cruz de Tenerife",
+            "street name": "Calle de San Bernardo",
+            "street number": 59,
+            "postal code": "83041"
+        },
+        "country_of_domicile": "Spain",
+        "phone_number": "+34 699 299 774",
+        "email_address": "ortega.herrera@yahoo.com"
+    },
+    "client_description": {
+        "Summary Note": "The RM was introduced to Ortega Su\u00e1rez Herrera at a corporate retreat in Madrid. They participated in team-building activities and developed a strong rapport, which eventually led to a successful business partnership.\nHaving worked for over 20 years, Ortega Su\u00e1rez Herrera brings a wealth of experience and expertise to his current role. He is known for his strategic thinking and ability to drive results.\nJulius Baer's exceptional client service and bespoke financial solutions were the main reasons he decided to join.\n",
+        "Family Background": "Ortega Su\u00e1rez Herrera has been happily married to Valeria since 2015. Their child is  named D\u00e1cil.",
+        "Education Background": "Ortega completed his secondary education at Instituto de Bachillerato Art\u00edstico IES Reina Sofia Tenerife in 2001.\nOrtega finished his studies at Ram\u00f3n Llull University in 2006.\n",
+        "Occupation History": "Ortega Su\u00e1rez Herrera is a 43 year old Construction Company Owner from Spain.\nOrtega Su\u00e1rez Herrera launched his career as a Property Manager at Merlin Properties SOCIMI S.A., where he gained valuable experience from 2005 to 2010.\nIn 2011, he moved to Realia Business S.A. to work as a Developer, applying his knowledge to achieve outstanding performance.\nHis tenure as a Construction Company Owner at Realia Business S.A. from 2017 till now was marked by significant achievements and a deepening understanding of the field.\n",
+        "Wealth Summary": "During his work, he focused on financial growth, making diverse investments and ultimately saving 170000 EUR.\nHis remarkable portfolio comprises 2 stunning properties. Situated in prime locations across Santa Cruz de Tenerife and Madrid, these assets demonstrate their sophisticated understanding of real estate investments and high-end lifestyle preferences.\nHe inherited a significant sum of 440000 EUR from his grandfather, a respected Tech Entrepreneur, in 2006, which he has wisely invested.\n",
+        "Client Summary": "The RM is very happy to have Ortega as a customer and is looking forward to a long and successful cooperation.\n"
+    }
+}
